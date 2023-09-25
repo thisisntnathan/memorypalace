@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Paper Library
 nav_key: Papers
 aside:
