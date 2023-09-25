@@ -204,7 +204,7 @@ exclude:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: article
     values:
       layout: article
       sharing: true
