@@ -56,11 +56,11 @@ The almighty [LeetCode](https://leetcode.com/)
 
 If its been a while since your last math course best brush up on the [Math Basics](#math-basics) before going any further.  
 [Andrew Ng's Machine Learning Series](https://www.deeplearning.ai/courses/machine-learning-specialization/) + [Coursera](https://www.coursera.org/learn/machine-learning)  
-[Cornell CS 4/5780: Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2021fa/#) with Anil Damle and Kilian Weinberger + [Online lecture videos](https://youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&si=US0aTfT0RrEynXv5)  
+[Cornell's CS 4/5780: Intro to Machine Learning](https://www.cs.cornell.edu/courses/cs4780/2021fa/#) with Anil Damle and Kilian Weinberger + [Online lecture videos](https://youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS&si=US0aTfT0RrEynXv5)  
 
 #### Software Tutorials
 
-Github repo for [Cornell ChemE 6880: Industrial Big Data Analytics & Machine Learning](https://github.com/PEESEgroup/SysEn6880) with Fengqi You  
+Github repo for [Cornell's ChemE 6880: Industrial Big Data Analytics & Machine Learning](https://github.com/PEESEgroup/SysEn6880) with Fengqi You  
 
 
 ### Deep Learning Courses
@@ -68,20 +68,20 @@ Github repo for [Cornell ChemE 6880: Industrial Big Data Analytics & Machine Lea
 [FastAI's Practical Deep Learning for Coders](https://course.fast.ai/) + [textbook and resources](https://course.fast.ai/Resources/book.html)  
 [MIT's Introduction to Deep Learning](http://introtodeeplearning.com/)  
 [Yann LeCun’s Deep Learning Course at NYU CDS (PyTorch)](https://cds.nyu.edu/deep-learning/)  
-[Cornell CS 4787/5777: Principles of Large Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2022fa/) with Christopher De Sa  
-[Stanford CS 230: Deep Learning](https://cs230.stanford.edu/)  
+[Cornell's CS 4787/5777: Principles of Large Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2022fa/) with Christopher De Sa  
+[Stanford's CS 230: Deep Learning](https://cs230.stanford.edu/)  
 
 #### Software Tutorials
 
 [Google's ML Crash Course (TensorFlow)](https://developers.google.com/machine-learning/crash-course/) + [TensorFlow Tutorials](https://www.tensorflow.org/tutorials/)  
 [PyTorch Beginner Series](https://pytorch.org/tutorials/beginner/introyt.html) + [YouTube Series](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)  
-GitHub for [Cornell ChemE 6888: Deep Learning](https://github.com/PEESEgroup/SysEn5888) with Fengqi You  
+GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/SysEn5888) with Fengqi You  
 
 #### Courses in Deep Learning Applications
 
-[Stanford CS 231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html)  
-[Stanford's CS 236: Deep Generative Models](https://deepgenerativemodels.github.io/) with Stefano Ermon
-[CMU CS 11-747: Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2017/index.html)  
+[Stanford's CS 231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/index.html)  
+[Stanford's CS 236: Deep Generative Models](https://deepgenerativemodels.github.io/) with Stefano Ermon  
+[CMU's CS 11-747: Neural Networks for NLP](http://www.phontron.com/class/nn4nlp2017/index.html)  
 
 ### Reinforcement Learning Courses
 
@@ -129,9 +129,9 @@ GitHub for [Cornell ChemE 6888: Deep Learning](https://github.com/PEESEgroup/Sys
 
 ### Programming Basics
 
-[MIT 18.S191/6.S083/22.S092: Introduction to Computational Thinking (Julia)](https://computationalthinking.mit.edu/Fall20/)  
-[Java Hypertext](https://www.cs.cornell.edu/courses/JavaAndDS/definitions.html) from Cornell CS 2110: OOP and Data Structures with David Gries  
-[Cornell ORIE 6125: Computational Methods in Opeations Research](https://people.orie.cornell.edu/vc333/orie5270/) with Vasileios Charisopoulos  
+[MIT's 18.S191/6.S083/22.S092: Introduction to Computational Thinking (Julia)](https://computationalthinking.mit.edu/Fall20/)  
+[Java Hypertext](https://www.cs.cornell.edu/courses/JavaAndDS/definitions.html) from Cornell's CS 2110: OOP and Data Structures with David Gries  
+[Cornell's ORIE 6125: Computational Methods in Opeations Research](https://people.orie.cornell.edu/vc333/orie5270/) with Vasileios Charisopoulos  
 
 ### Math Basics
 
