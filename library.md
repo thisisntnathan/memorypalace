@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: article
 title: Paper Library
 nav_key: Papers
 aside:
   toc: true
-sidebar:
-  nav: Papers
+# sidebar:
+#   nav: Papers
+key: page-library
 ---
 
 ## ML papers
