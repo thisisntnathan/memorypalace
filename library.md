@@ -9,6 +9,8 @@ aside:
 key: page-library
 ---
 
+
+
 ## ML papers
 
 
@@ -19,7 +21,12 @@ key: page-library
 
 ## My papers
 
-- [Sodiated Oppolzer enolates: solution structures, mechanism of alkylation, and origin of stereoselectivity.](https://doi.org/10.1039/D3QO01021J) *Organic Chemistry Frontiers* **2023**, *Advance article*.  
-- [Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity.](https://doi.org/10.1021/jacs.2c09341) *Journal of the American Chemical Society* **2022**, *144* (51), 23379.  
-- [Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic](https://pubs.acs.org/doi/10.1021/acs.joc.2c01745) *The Journal of Organic Chemistry* **2022**, *87* (21), 14223.  
-
+- [Sodiated Oppolzer enolates: solution structures, mechanism of alkylation, and origin of stereoselectivity.](https://doi.org/10.1039/D3QO01021J) **NM Lui** & DB Collum, *Organic Chemistry Frontiers* **2023**, *10* (19), 4750.  
+- [MoFlowGAN: Combining adversarial and likelihood learning for targeted molecular generation.](https://doi.org/10.26434/chemrxiv-2023-kwwv3) **NM Lui**, MD Li, & M Ford, *ChemRxiv Preprint* **2023**. [Code](https://github.com/thisisntnathan/MoFlowGAN)  
+- [Lithiated Oppolzer Enolates: Solution Structures, Mechanism of Alkylation, and the Origin of Stereoselectivity.](https://doi.org/10.1021/jacs.2c09341) **NM Lui**, SN MacMillan & DB Collum, *Journal of the American Chemical Society* **2022**, *144* (51), 23379.  
+- [Sodium Isopropyl(trimethylsilyl)amide (NaPTA): A Stable and Highly Soluble Lithium Diisopropylamide Mimic.](https://pubs.acs.org/doi/10.1021/acs.joc.2c01745) Y Ma, **NM Lui**, I Keresztes, RA Woltornist & DB Collum, *The Journal of Organic Chemistry* **2022**, *87* (21), 14223.  
+- [Spectrochemistry of firefly bioluminescence.](https://doi.org/10.1021/acs.chemrev.1c01047) MB Al-Handawi, S Polavaram, A Kurlevskaya, P Commins, S Schramm, C Carrasco-López, **NM Lui**, KM Solntsev, SP Laptenok, I Navizet & P Naumov, *Chemical Reviews* **2022**, *122* (16), 13207.  
+- [The elusive relationship between structure and colour emission in beetle luciferases.](https://www.nature.com/articles/s41570-020-00238-1) C Carrasco-Lopez, **NM Lui**, S Schramm & P Naumov, *Nature Reviews Chemistry* **2021**, *5* (1), 4.  
+- [Thermochemiluminescent peroxide crystals.](https://www.nature.com/articles/s41467-019-08816-8) S Schramm, DP Karothu, **NM Lui**, P Commins, E Ahmed, L Catalano, L Li, J Weston, T Moriwaki, KM Solntsev & P Naumov, *Nature Communications* **2019**, *10* (1), 997.  
+- [pH-Dependent fluorescence from firefly oxyluciferin in agarose thin films.](https://doi.org/10.1039/C8NJ05469J) **NM Lui**, S Schramm & P Naumov, *New Journal of Chemistry* **2019**, *43* (3), 1122.  
+- [Beetle luciferases with naturally red-and blue-shifted emission.](https://www.life-science-alliance.org/content/1/4/e201800072) C Carrasco-López, JC Ferreira, NM Lui, S Schramm, R Berraud-Pache, I Navizet, S Panjikar, P Naumov, WM Rabeh, *Life Science Alliance* **2018**, *1* (4), e201800072.  

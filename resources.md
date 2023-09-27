@@ -46,9 +46,9 @@ The almighty [LeetCode](https://leetcode.com/)
 
 ### Non-python resources
 
-[MIT's 18.S191/6.S083/22.S092: Introduction to Computational Thinking (Julia)](https://computationalthinking.mit.edu/Fall20/)  
 [Java Hypertext](https://www.cs.cornell.edu/courses/JavaAndDS/definitions.html) from Cornell's CS 2110: OOP and Data Structures with David Gries  
-[Cornell's ORIE 6125: Computational Methods in Opeations Research](https://people.orie.cornell.edu/vc333/orie5270/) with Vasileios Charisopoulos  
+[MIT's 18.S191/6.S083/22.S092: Introduction to Computational Thinking (Julia)](https://computationalthinking.mit.edu/Fall20/)  
+[Cornell's ORIE 6125: Computational Methods in Opeations Research (Shell+Julia)](https://people.orie.cornell.edu/vc333/orie5270/) with Vasileios Charisopoulos  
 
 
 ## AI and Machine Learning (AI/ML)
@@ -145,7 +145,7 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 ### Quick References
 
 [No Bullshit Guide to Linear Algebra in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)  
-[Linear Algebra Review from Stanford's CS 229]([Review of Probability and Statistics from Stanford's CS 229](https://cs229.stanford.edu/section/cs229-prob.pdf)  )
+[Linear Algebra Review from Stanford's CS 229]([Review of Probability and Statistics from Stanford's CS 229](https://cs229.stanford.edu/section/cs229-prob.pdf))  
 [Probability and Statistics Review from Stanford's CS 229](https://cs229.stanford.edu/section/cs229-prob.pdf)  
 [Calc III Study Guide](https://sites.tufts.edu/andrewrosen/files/2012/02/Calc-III-Review.pdf)  
 
