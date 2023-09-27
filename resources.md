@@ -19,7 +19,7 @@ These are mostly python (or language-agnostic) resources. Resources specific to 
 
 ### Resources
 
-[PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
+[PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)  
 [The Zen of Python](https://peps.python.org/pep-0020/)  
 [RealPython Tutorials](https://realpython.com/)  
 [Calmcode.io](https://calmcode.io/) - tools for python  
@@ -138,7 +138,7 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 
 ### Online References
 
-[Deep Learning for Moleucles & Materials](https://dmol.pub/index.html)
+[Deep Learning for Moleucles & Materials](https://dmol.pub/index.html) by Andrew White  
 
 
 ## Math Basics
