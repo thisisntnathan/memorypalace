@@ -126,19 +126,43 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 [Grokking Deep Learning](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf) by Andrew W. Trask  
 
 
-## Computational Chemistry and Cheminformatics
+## Cheminformatics
+
+### Quick Resources
+
+[Daylight Theory Manual](https://www.daylight.com/dayhtml/doc/theory/index.html) [(pdf)](https://www.daylight.com/dayhtml/doc/theory/index.pdf)  
 
 ### Tools
 
-[Common Gaussian error messanges and how to fix them](https://docs.alliancecan.ca/wiki/Gaussian_error_messages)  
+[RDKit](https://www.rdkit.org/)  
+[Open Babel](https://openbabel.org/wiki/Main_Page) - Chemical Format Conversion  
+[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - easy GNNs for PyTorch
 
-### Blog Posts
+Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://github.com/chainer/chainer-chemistry) - A deep learning framework for Biology and Chemistry + [Docs](https://chainer-chemistry.readthedocs.io/en/latest/index.html)~~  
 
-[Joaquin Barroso's "The 'Art' of Finding Transition States"](https://joaquinbarroso.com/2016/05/26/the-art-of-finding-transition-states-part-1/)+ [Part 2](https://joaquinbarroso.com/2016/05/31/the-art-of-finding-transition-states-part-2/)  
+### Blogs
+
+[Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/) by Pat Walters  
+[Cheminfomania](https://www.cheminformania.com/) by Esben Jannik Bjerrum  
 
 ### Online References
 
 [Deep Learning for Moleucles & Materials](https://dmol.pub/index.html) by Andrew White  
+
+
+## Computational Chemistry
+
+### Quick Resources
+
+[Common Gaussian error messanges and how to fix them](https://docs.alliancecan.ca/wiki/Gaussian_error_messages)  
+
+### Tools
+
+[Psi4](https://psicode.org/) - Open-source quantum chemistry  
+
+### Blog Posts
+
+[Joaquin Barroso's "The 'Art' of Finding Transition States"](https://joaquinbarroso.com/2016/05/26/the-art-of-finding-transition-states-part-1/)+ [Part 2](https://joaquinbarroso.com/2016/05/31/the-art-of-finding-transition-states-part-2/)  
 
 
 ## Math Basics
