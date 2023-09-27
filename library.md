@@ -13,6 +13,14 @@ key: page-library
 
 ## ML papers
 
+### Reaction Product Prediction
+
+- [A Machine Learning Approach to Predict Chemical Reactions.](https://papers.nips.cc/paper_files/paper/2011/hash/b337e84de8752b27eda3a12363109e80-Abstract.html)  
+Matthew Kayala, Pierre Baldi *in NeurIPS* **2011**.  
+- [Learning to Predict Chemical Reactions.](https://doi.org/10.1021/ci200207y)  
+Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi, *J. Chem. Inf. Model.* **2011**, *51*, 9, 2209–2222.  
+- [Deep learning for chemical reaction prediction.](https://doi.org/10.1039/C7ME00107J)  
+David Fooshee, Aaron Mood, Eugene Gutman, Mohammadamin Tavakoli, Gregor Urban, Frances Liu, Nancy Huynh, David Van Vrankenb and Pierre Baldi, *Mol. Syst. Des. Eng.* **2018**,*3*, 442-452.  
 
 
 ## Chemistry papers
