@@ -156,3 +156,8 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 [Denis Auroux's Multivariate Calculus - OCW](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)  
 [Tom Leighton's Discrete Mathematics for Computer Science - OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)  
 
+
+## Other Completely Irrelevant, but Useful Resources
+
+[Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)  
+
