@@ -6,7 +6,9 @@ aside:
   toc: true
 ---
 
-So you want to be a data scientist...
+So you want to be a data scientist... If this is your first time here and you've come to learn a new skill sit down and buckle up, *this should be a long journey.* Watch these talks
+
+<!-- If you managed to find your way here on your own, good job, I have no idea how. This is a long journey -->
 
 ## General Coding
 
