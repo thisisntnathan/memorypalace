@@ -56,14 +56,14 @@ The almighty [LeetCode](https://leetcode.com/)
 ### Tools
 
 [Data Version Control (DVC)](https://dvc.org/)  
-[AI Summer](https://theaisummer.com)  
 [Debugging PyTorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide3/Debugging_PyTorch.html)  
 [Google Colab](https://colab.research.google.com/)  
 [Paperspace Gradient](https://www.paperspace.com/)  
 
 ### Online References
 
-[ML Interview Bible by Chip Huyen](https://huyenchip.com/ml-interviews-book/)
+[ML Interview Bible by Chip Huyen](https://huyenchip.com/ml-interviews-book/)  
+[AI Summer](https://theaisummer.com)  
 
 ### AI/ML Courses
 
