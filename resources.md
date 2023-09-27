@@ -160,4 +160,4 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 ## Other Completely Irrelevant, but Useful Resources
 
 [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)  
-
+[Tim Minchin's 9 Life Lessons](https://www.youtube.com/watch?v=yoEezZD71sc)  
