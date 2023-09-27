@@ -15,12 +15,27 @@ key: page-library
 
 ### Reaction Product Prediction
 
-- [A Machine Learning Approach to Predict Chemical Reactions.](https://papers.nips.cc/paper_files/paper/2011/hash/b337e84de8752b27eda3a12363109e80-Abstract.html)  
-Matthew Kayala, Pierre Baldi *in NeurIPS* **2011**.  
-- [Learning to Predict Chemical Reactions.](https://doi.org/10.1021/ci200207y)  
-Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi, *J. Chem. Inf. Model.* **2011**, *51*, 9, 2209–2222.  
+- [Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction](https://arxiv.org/abs/2106.07801)  
+Hangrui Bi, Hengyi Wang, Chence Shi, Connor Coley, Jian Tang, and Hongyu Guo  
+*in Proceedings of the 38th International Conference on Machine Learning*, PMLR 139, **2021**
+- [Molecule Edit Graph Attention Network: Modeling Chemical Reactions as Sequences of Graph Edits.](https://doi.org/10.1021/acs.jcim.1c00537)  
+Mikołaj Sacha, Mikołaj Błaż, Piotr Byrski, Paweł Dąbrowski-Tumański, Mikołaj Chromiński, Rafał Loska, Paweł Włodarczyk-Pruszyński, and Stanisław Jastrzębski  
+*J. Chem. Inf. Model.* **2021**, *61*, (7), 3273–3284.  
+- [A Generative Model For Electron Paths.](https://openreview.net/forum?id=r1x4BnCqKX)  
+John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, and José Miguel Hernández-Lobato  
+*in ICLR* **2019**  
 - [Deep learning for chemical reaction prediction.](https://doi.org/10.1039/C7ME00107J)  
-David Fooshee, Aaron Mood, Eugene Gutman, Mohammadamin Tavakoli, Gregor Urban, Frances Liu, Nancy Huynh, David Van Vrankenb and Pierre Baldi, *Mol. Syst. Des. Eng.* **2018**,*3*, 442-452.  
+David Fooshee, Aaron Mood, Eugene Gutman, Mohammadamin Tavakoli, Gregor Urban, Frances Liu, Nancy Huynh, David Van Vrankenb, and Pierre Baldi  
+*Mol. Syst. Des. Eng.* **2018**, *3*, 442-452  
+- [Efficient prediction of reaction paths through molecular graph and reaction network analysis.](https://doi.org/10.1039/C7SC03628K)  
+Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim  
+*Chem. Sci.* **2018**, *9*, 825-835  
+- [A Machine Learning Approach to Predict Chemical Reactions.](https://papers.nips.cc/paper_files/paper/2011/hash/b337e84de8752b27eda3a12363109e80-Abstract.html)  
+Matthew Kayala and Pierre Baldi  
+*in NeurIPS* **2011**  
+- [Learning to Predict Chemical Reactions.](https://doi.org/10.1021/ci200207y)  
+Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi  
+*J. Chem. Inf. Model.* **2011**, *51*, 9, 2209–2222  
 
 
 ## Chemistry papers
