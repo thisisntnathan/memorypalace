@@ -29,9 +29,9 @@ Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, and Jure Leskovec
 *ICML* **2023**  
 &ensp; Stable (latent) diffusion model for 3D point clouds and 2D graphs. Capable of free and property conditioned generation (split-train-condition).  
 
-- [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a.html) +[GitHub Repo](https://github.com/ehoogeboom/e3_diffusion_for_molecules)  
+- [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a.html) + [GitHub Repo](https://github.com/ehoogeboom/e3_diffusion_for_molecules)  
 Emiel Hoogeboom, Vı́ctor Garcia Satorras, Clément Vignac, and Max Welling  
-*in Proceedings of the 39th International Conference on Machine Learning*, PMLR 162:8867-8887, **2022**
+*in Proceedings of the 39th International Conference on Machine Learning*, PMLR 162:8867-8887, **2022**  
 &ensp; Non-autoregressive diffusion model (rotation invariant). Reps: $$x = (x_1 ... x_M) \in \mathbb{R}^{M \times 3}$$ (atom position matrix) with corresponding feature vectors $$h = (h_1 ... h_M) \in \mathbb{R}^{M \times num feat}$$.  
 
 - [Structure-based Drug Design with Equivariant Diffusion Models](https://arxiv.org/abs/2210.13695) + [GitHub Repo](https://github.com/arneschneuing/diffsbdd)  
@@ -60,17 +60,25 @@ Chengxi Zang and Fei Wang
 - [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr) + [GitHub repo](https://github.com/DeepGraphLearning/GraphAF)  
 Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, and Jian Tang  
 *ICLR* **2020**  
-&ensp; How to explain this better than reviewer #1...  
+&ensp; How to explain this better than reviewer #1...
 <blockquote>
-"This paper proposes a generative model architecture for molecular graph generation based on autoregressive flows. The main contribution of this paper is to combine existing techniques (auto-regressive BFS-ordered generation of graphs, normalizing flows, dequantization by Gaussian noise, fine-tuning based on reinforcement learning for molecular property optimization, and validity constrained sampling). Most of these techniques are well-established either for data generation with normalizing flows or for molecular graph generation and the novelty lies in the combination of these building blocks into a framework"
+"This paper proposes a generative model architecture for molecular graph generation based on autoregressive flows. The main contribution of this paper is to combine existing techniques (auto-regressive BFS-ordered generation of graphs, normalizing flows, dequantization by Gaussian noise, fine-tuning based on reinforcement learning for molecular property optimization, and validity constrained sampling). Most of these techniques are well-established either for data generation with normalizing flows or for molecular graph generation and the novelty lies in the combination of these building blocks into a framework."
 </blockquote>
 
 #### GANs
 
+- [druGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico](https://doi.org/10.1021/acs.molpharmaceut.7b00346) - No official implementation available  
+Artur Kadurin, Sergey Nikolenko, Kuzma Khrabrov, Alex Aliper, and Alex Zhavoronkov  
+*Mol. Pharmaceutics* **2017**, *14* (9), 3098–3104  
+
+- [The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355231/) + [GitHub Repo](https://github.com/spoilt333/onco-aae)  
+Artur Kadurin, Alexander Aliper, Andrey Kazennov, Polina Mamoshina, Quentin Vanhaelen, Kuzma Khrabrov, and Alex Zhavoronkov  
+*Oncotarget.* **2017**, *8*, 10883-10890  
+
 - [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973) + [GitHub Repo](https://github.com/nicola-decao/MolGAN)  
 Nicola De Cao and Thomas Kipf  
-*ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models*
-&ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.
+*ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models*  
+&ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.  
 
 
 ## Electron Flow Generation
@@ -124,7 +132,10 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 
 # General ML
 
-- 
+- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) - No official implementation available  
+Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, and Brendan Frey  
+*ArXiv Preprint* **2016**  
+
 
 # Chemistry
 
