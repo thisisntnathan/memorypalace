@@ -7,42 +7,87 @@ aside:
 # sidebar:
 #   nav: Papers
 key: page-library
+mathjax: true
+mathjax_autoNumber: false
 ---
 
+# ML Driven Chemistry
+
+## 
+
+### Molecular Generation
+
+Generative models for molecules. Most typically text-based inputs (SMILES/SELFIES) or graph reps (parallel models on atom and bond matrices). Usually have some property optimization ability (latent space search/interpolation, reinformcement learning, guided genetic exploration). Most commonly these methods are autoregressive, but more recently non-autoregressive molecular generation methods have started to arise.  
+
+#### Diffusion Models
+
+- [GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140)  
+Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec  
+*ICML* **2023**  
+&ensp; Stable (latent) diffusion model for 3D point clouds and 2D graphs. Capable of free and property conditioned generation (split-train-condition).  
+
+- [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a.html) +[GitHub Repo](https://github.com/ehoogeboom/e3_diffusion_for_molecules)  
+Emiel Hoogeboom, Vı́ctor Garcia Satorras, Clément Vignac, and Max Welling  
+*in Proceedings of the 39th International Conference on Machine Learning*, PMLR 162:8867-8887, **2022**
+&ensp; Non-autoregressive diffusion model (rotation invariant). Reps $$x = (x_1 ... x_M) \in \mathbb{R}^{M \times 3}$$ (atom position matrix) with corresponding feature vectors $$h = (h_1 ... h_M) \in \mathbb{R}^{M \times num_feat}$$.  
+
+- [Structure-based Drug Design with Equivariant Diffusion Models](https://arxiv.org/abs/2210.13695) + [GitHub Repo](https://github.com/arneschneuing/diffsbdd)  
+Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia  
+*ArXiv preprint* **2023**  
+&ensp; Takes EDM from previous paper and conditions it on target structure for application to SBDD.  
+
+#### Normalizing Flows
+
+- [FastFlows: Flow-Based Models for Molecular Graph Generation](https://arxiv.org/abs/2201.12419)  
+Nathan C. Frey, Vijay Gadepally, and Bharath Ramsundar  
+*ELLIS Machine Learning for Molecule Discovery Workshop* **2021**  
+&ensp; Framework for normalizing flows from SELFIES. Uses substructure filtering to speed up training and work from small training sets. Built in MPO functionality.  
+[TDS article](https://towardsdatascience.com/fastflows-flow-based-models-for-molecular-graph-generation-a8327bb9bee1)  
+
+- [MoFlow: An Invertible Flow Model for Generating Molecular Graphs](https://arxiv.org/abs/2006.10137) + [GitHub Repo](https://github.com/calvin-zcx/moflow)  
+Chengxi Zang and Fei Wang  
+*in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining* **2020**  
+&ensp; Normalizing Flow for molecular graphs; two parallel flows (bonds > conditional flow for atoms). Trained (NLL) on QM9 and ZINC250k. Developed new architecture. Excellent results.
+
+#### GANs
+
+- [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973) + [GitHub Repo](https://github.com/nicola-decao/MolGAN)  
+Nicola De Cao and Thomas Kipf  
+*ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models*
+&ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.
 
 
-## ML papers
+### Electron Flow Generation
 
-### Generating electron flows (arrow pushing)
+These models predict mechanisms for chemical reactions, ideally similar to how we teach 2nd years to push arrows. There are reltatively few of expamples of this task but they fall into 3 major categories electron flows, graph edits, reaction netowrks. At inference these models are used for forward synthesis prediction, potntially for prediction of chemo/regio-selectivity. Largely trained on pattern recognition from atom-mapped inputs (USPTO) though there are exceptions (e.g., Baldi papers below).  
 
-- [Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction (NERF)](https://arxiv.org/abs/2106.07801) [GitHub Repo](https://github.com/20171130/NERF)  
+- [Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction (NERF)](https://arxiv.org/abs/2106.07801) + [GitHub Repo](https://github.com/20171130/NERF)  
 Hangrui Bi, Hengyi Wang, Chence Shi, Connor Coley, Jian Tang, and Hongyu Guo  
 *in Proceedings of the 38th International Conference on Machine Learning*, PMLR 139, **2021**  
-&ensp; Models reactions as electron flow. Predicts flow non-autoregressively. Trained on USPTO-MIT; SOTA results. Graph rep from SMILES input.  
+&ensp; Models reactions as electron flow. Predicts flow non-autoregressively. Trained on USPTO-MIT; SOTA results. Graph rep from SMILES input. Fast (27x).  
 
-- [Molecule Edit Graph Attention Network (MEGAN): Modeling Chemical Reactions as Sequences of Graph Edits](https://doi.org/10.1021/acs.jcim.1c00537) [GitHub Repo](https://github.com/molecule-one/megan)  
-Mikołaj Sacha, Mikołaj Błaż, Piotr Byrski, Paweł Dąbrowski-Tumański, Mikołaj Chromiński, Rafał Loska, Paweł Włodarczyk-Pruszyński, and Stanisław Jastrzębski  
-*J. Chem. Inf. Model.* **2021**, *61*, (7), 3273–3284.  
-&ensp; Models chemical reations as series of graph edits, most similar to existing environment. Learns to predict sequences autoregressively.  
-
-- [A Generative Model For Electron Paths (ELECTRO)](https://openreview.net/forum?id=r1x4BnCqKX) [GitHub Repo](https://github.com/john-bradshaw/electro)  
+- [A Generative Model For Electron Paths (ELECTRO)](https://openreview.net/forum?id=r1x4BnCqKX) + [GitHub Repo](https://github.com/john-bradshaw/electro)  
 John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, and José Miguel Hernández-Lobato  
-*in ICLR* **2019**  
+*ICLR* **2019**  
 &ensp; Learns to generates probabilbty distribution of electron paths. Trained on USPTO (w/ and w/o reaction condition data), 2e- chemistry only. Graph rep from SMILES input.  
 
-The Baldi papers don't have available source code but programs are available on [ChemDB](https://cdb.ics.uci.edu/).  
+- [Molecule Edit Graph Attention Network (MEGAN): Modeling Chemical Reactions as Sequences of Graph Edits](https://doi.org/10.1021/acs.jcim.1c00537) + [GitHub Repo](https://github.com/molecule-one/megan)  
+Mikołaj Sacha, Mikołaj Błaż, Piotr Byrski, Paweł Dąbrowski-Tumański, Mikołaj Chromiński, Rafał Loska, Paweł Włodarczyk-Pruszyński, and Stanisław Jastrzębski  
+*J. Chem. Inf. Model.* **2021**, *61*, (7), 3273–3284.  
+&ensp; Not technically an electron flow model. Models chemical reations as series of graph edits, most similar to existing environment. Learns to predict sequences autoregressively.  
+
+The Baldi papers map e- sources and sinks, combinatorially generates probability distribution of electron flows. Described classifiers are used to filter source-sink pairs before eval. Trained on in-house (unavailable) data. Papers don't have available source code but ready-to-use programs are available on [ChemDB](https://cdb.ics.uci.edu/).  
 - [Deep learning for chemical reaction prediction](https://doi.org/10.1039/C7ME00107J)  
 David Fooshee, Aaron Mood, Eugene Gutman, Mohammadamin Tavakoli, Gregor Urban, Frances Liu, Nancy Huynh, David Van Vrankenb, and Pierre Baldi  
 *Mol. Syst. Des. Eng.* **2018**, *3*, 442-452  
 
 - [A Machine Learning Approach to Predict Chemical Reactions](https://papers.nips.cc/paper_files/paper/2011/hash/b337e84de8752b27eda3a12363109e80-Abstract.html)  
 Matthew Kayala and Pierre Baldi  
-*in NeurIPS* **2011**  
+*NeurIPS* **2011**  
 
 - [Learning to Predict Chemical Reactions](https://doi.org/10.1021/ci200207y)  
 Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi  
-*J. Chem. Inf. Model.* **2011**, *51*, 9, 2209–2222
-&ensp; Maps e- sources and sinks, combinatorially generates probability distribution of electron flows. Described classifiers are used to filter source-sink pairs before eval. Trained on in-house data.   
+*J. Chem. Inf. Model.* **2011**, *51*, 9, 2209–2222     
 
 
 ### Reaction network graphs
@@ -50,10 +95,18 @@ Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi
 - [Efficient prediction of reaction paths through molecular graph and reaction network analysis](https://doi.org/10.1039/C7SC03628K)  
 Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim  
 *Chem. Sci.* **2018**, *9*, 825-835  
-&ensp; Search method for reaction intermediate networks. Uses DFT energies as heuristic.
+&ensp; Search method for reaction intermediate networks. Uses DFT energies as heuristic.  
 
 
-## Chemistry papers
+### Computer-Aided Retrosynthesis Planning (CASP)
+
+
+# ML Driven Drug Design
+
+- DiffDock
+
+
+# Chemistry
 
 
 
