@@ -13,9 +13,12 @@ mathjax_autoNumber: false
 
 # ML Driven Chemistry
 
-## 
+## Property Prediction
 
-### Molecular Generation
+- NNPs (e.g., ANI)
+
+
+## Molecular Generation
 
 Generative models for molecules. Most typically text-based inputs (SMILES/SELFIES) or graph reps (parallel models on atom and bond matrices). Usually have some property optimization ability (latent space search/interpolation, reinformcement learning, guided genetic exploration). Most commonly these methods are autoregressive, but more recently non-autoregressive molecular generation methods have started to arise.  
 
@@ -57,7 +60,7 @@ Nicola De Cao and Thomas Kipf
 &ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.
 
 
-### Electron Flow Generation
+## Electron Flow Generation
 
 These models predict mechanisms for chemical reactions, ideally similar to how we teach 2nd years to push arrows. There are reltatively few of expamples of this task but they fall into 3 major categories electron flows, graph edits, reaction netowrks. At inference these models are used for forward synthesis prediction, potntially for prediction of chemo/regio-selectivity. Largely trained on pattern recognition from atom-mapped inputs (USPTO) though there are exceptions (e.g., Baldi papers below).  
 
@@ -98,7 +101,7 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 &ensp; Search method for reaction intermediate networks. Uses DFT energies as heuristic.  
 
 
-### Computer-Aided Retrosynthesis Planning (CASP)
+## Computer-Aided Retrosynthesis Planning (CASP)
 
 
 # ML Driven Drug Design
