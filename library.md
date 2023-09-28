@@ -24,22 +24,27 @@ Generative models for molecules. Most typically text-based inputs (SMILES/SELFIE
 
 #### Diffusion Models
 
-- [GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140)  
-Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, Jure Leskovec  
+- [GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140) + [GitHub Repo](https://github.com/MinkaiXu/GeoLDM)  
+Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, and Jure Leskovec  
 *ICML* **2023**  
 &ensp; Stable (latent) diffusion model for 3D point clouds and 2D graphs. Capable of free and property conditioned generation (split-train-condition).  
 
 - [Equivariant Diffusion for Molecule Generation in 3D](https://proceedings.mlr.press/v162/hoogeboom22a.html) +[GitHub Repo](https://github.com/ehoogeboom/e3_diffusion_for_molecules)  
 Emiel Hoogeboom, Vı́ctor Garcia Satorras, Clément Vignac, and Max Welling  
 *in Proceedings of the 39th International Conference on Machine Learning*, PMLR 162:8867-8887, **2022**
-&ensp; Non-autoregressive diffusion model (rotation invariant). Reps $$x = (x_1 ... x_M) \in \mathbb{R}^{M \times 3}$$ (atom position matrix) with corresponding feature vectors $$h = (h_1 ... h_M) \in \mathbb{R}^{M \times num_feat}$$.  
+&ensp; Non-autoregressive diffusion model (rotation invariant). Reps: $$x = (x_1 ... x_M) \in \mathbb{R}^{M \times 3}$$ (atom position matrix) with corresponding feature vectors $$h = (h_1 ... h_M) \in \mathbb{R}^{M \times num feat}$$.  
 
 - [Structure-based Drug Design with Equivariant Diffusion Models](https://arxiv.org/abs/2210.13695) + [GitHub Repo](https://github.com/arneschneuing/diffsbdd)  
-Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia  
+Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, and Bruno Correia  
 *ArXiv preprint* **2023**  
 &ensp; Takes EDM from previous paper and conditions it on target structure for application to SBDD.  
 
 #### Normalizing Flows
+
+- [MolGrow: A Graph Normalizing Flow for Hierarchical Molecular Generation](https://arxiv.org/abs/2106.05856) (No implementation available)  
+Maksim Kuznetsov and Daniil Polykovskiy  
+*Proceedings of the AAAI Conference on Artificial Intelligence* **2021**, 35 (9), 8226-8234  
+&ensp; Heirarchical normalizing flow for molecular graphs, autoregressive. Builds either BFS or fragment based (better). Model is composed of "plug-and-play" modules. Trained on MOSES, QM9, Zinc250k. Property-constrained optimization is based on genetic algorithm.    
 
 - [FastFlows: Flow-Based Models for Molecular Graph Generation](https://arxiv.org/abs/2201.12419)  
 Nathan C. Frey, Vijay Gadepally, and Bharath Ramsundar  
@@ -50,7 +55,15 @@ Nathan C. Frey, Vijay Gadepally, and Bharath Ramsundar
 - [MoFlow: An Invertible Flow Model for Generating Molecular Graphs](https://arxiv.org/abs/2006.10137) + [GitHub Repo](https://github.com/calvin-zcx/moflow)  
 Chengxi Zang and Fei Wang  
 *in Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining* **2020**  
-&ensp; Normalizing Flow for molecular graphs; two parallel flows (bonds > conditional flow for atoms). Trained (NLL) on QM9 and ZINC250k. Developed new architecture. Excellent results.
+&ensp; Non-autoregressive normalizing Flow for molecular graphs; two-stage flow (bonds (based on GLOW network from Nvidia) > bond-conditioned flow for atoms). Similar to GraphNVP. Trained (NLL) on QM9 and ZINC250k. Developed new architecture. Excellent results.
+
+- [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://openreview.net/forum?id=S1esMkHYPr) + [GitHub repo](https://github.com/DeepGraphLearning/GraphAF)  
+Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, and Jian Tang  
+*ICLR* **2020**  
+&ensp; How to explain this better than reviewer #1...  
+<blockquote>
+"This paper proposes a generative model architecture for molecular graph generation based on autoregressive flows. The main contribution of this paper is to combine existing techniques (auto-regressive BFS-ordered generation of graphs, normalizing flows, dequantization by Gaussian noise, fine-tuning based on reinforcement learning for molecular property optimization, and validity constrained sampling). Most of these techniques are well-established either for data generation with normalizing flows or for molecular graph generation and the novelty lies in the combination of these building blocks into a framework"
+</blockquote>
 
 #### GANs
 
@@ -109,11 +122,15 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 - DiffDock
 
 
+# General ML
+
+- 
+
 # Chemistry
 
 
 
-## My papers
+# My papers
 
 - [Sodiated Oppolzer enolates: solution structures, mechanism of alkylation, and origin of stereoselectivity.](https://doi.org/10.1039/D3QO01021J) **NM Lui** & DB Collum, *Organic Chemistry Frontiers* **2023**, *10* (19), 4750.  
 - [MoFlowGAN: Combining adversarial and likelihood learning for targeted molecular generation.](https://doi.org/10.26434/chemrxiv-2023-kwwv3) **NM Lui**, MD Li, & M Ford, *ChemRxiv Preprint* **2023**. [Code](https://github.com/thisisntnathan/MoFlowGAN)  
