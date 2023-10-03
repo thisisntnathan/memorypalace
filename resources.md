@@ -19,8 +19,8 @@ These are mostly python (or language-agnostic) resources. Resources specific to 
 
 ### Resources
 
+[The Zen of Python](https://peps.python.org/pep-0020/) and [The Rules of Extreme Programming](http://www.extremeprogramming.org/rules.html)  
 [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)  
-[The Zen of Python](https://peps.python.org/pep-0020/)  
 [RealPython Tutorials](https://realpython.com/)  
 [Calmcode.io](https://calmcode.io/) - tools for python  
 [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A **long** course on programming basics (data structures, sorting algorithms, graphs, recursion & dynamic programming, sets, etc...)  
@@ -136,8 +136,7 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 
 [RDKit](https://www.rdkit.org/)  
 [Open Babel](https://openbabel.org/wiki/Main_Page) - Chemical Format Conversion  
-[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - easy GNNs for PyTorch
-
+[PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - easy GNNs for PyTorch  
 Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://github.com/chainer/chainer-chemistry) - A deep learning framework for Biology and Chemistry + [Docs](https://chainer-chemistry.readthedocs.io/en/latest/index.html)~~  
 
 ### Blogs
