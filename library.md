@@ -137,7 +137,10 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 
 # ML Driven Drug Design
 
-- DiffDock
+- [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://openreview.net/forum?id=kKF8_K-mBbS) + [GitHub Repo](https://github.com/gcorso/DiffDock)  
+Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, and Tommi Jaakkola  
+*ICLR* **2023**  
+&ensp; Cool paper that treats docking as a generative task instead of a search/regression task. DiffDock is a diffusion model over the non-Euclidean manifold of ligand poses. Really interesting way of thinking of things.  
 
 
 # General ML
