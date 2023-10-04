@@ -80,6 +80,16 @@ Nicola De Cao and Thomas Kipf
 *ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models*  
 &ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.  
 
+#### Other
+
+- [Masked graph modeling for molecule generation](https://www.nature.com/articles/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
+Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho  
+*Nature Communications* **2021**, 12, 3156  
+&ensp; MPNN for moleular graphs. Generation by iterative sampling of subsets of graphs components, furuter generation steps are conditionalized on the rest of the graph. Trained on QM9 and ChEMBL. Paper provides analysis of GuacaMol benchmark metrics particularly their independence. Conclusions:  
+1. Validity, KL-divergence and Fréchet Distance scores correlate highly with each other  
+2. These three metrics correlate negatively with the novelty score  
+3. Uniqueness does not correlate strongly with any other metric  
+
 
 ## Electron Flow Generation
 
