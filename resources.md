@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Computational Resources
-nav_key: CompResources
+title: Resources
+nav_key: Resources
 aside:
   toc: true
 ---
@@ -148,6 +148,7 @@ Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://git
 
 ### Online References
 
+[Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html) by Charles J. Weiss  
 [Deep Learning for Moleucles & Materials](https://dmol.pub/index.html) by Andrew White  
 
 
@@ -169,6 +170,8 @@ Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://git
 
 
 ## Chemistry
+
+Practical tips & tricks for organic chemistry from grad school
 
 ### Quick Resources
 
@@ -214,8 +217,8 @@ Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://git
 ### Quick References
 
 [No Bullshit Guide to Linear Algebra in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)  
-[Linear Algebra Review from Stanford's CS 229]([Review of Probability and Statistics from Stanford's CS 229](https://cs229.stanford.edu/section/cs229-prob.pdf))  
-[Probability and Statistics Review from Stanford's CS 229](https://cs229.stanford.edu/section/cs229-prob.pdf)  
+[Linear Algebra Review from Stanford's CS 229](https://cs229.stanford.edu/notes2022fall/cs229-linear_algebra_review.pdf)  
+[Probability and Statistics Review from Stanford's CS 229](https://cs229.stanford.edu/notes2022fall/cs229-probability_review.pdf) + [short version](https://cs229.stanford.edu/section/cs229-prob.pdf)  
 [Calc III Study Guide](https://sites.tufts.edu/andrewrosen/files/2012/02/Calc-III-Review.pdf)  
 
 ### Online Math Courses
@@ -225,7 +228,7 @@ Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://git
 [Tom Leighton's Discrete Mathematics for Computer Science - OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)  
 
 
-## Other Completely Irrelevant, but Useful Resources
+## Completely Irrelevant, but Useful Resources
 
 [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)  
 [Tim Minchin's 9 Life Lessons](https://www.youtube.com/watch?v=yoEezZD71sc)  
