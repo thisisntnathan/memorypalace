@@ -15,7 +15,8 @@ mathjax_autoNumber: false
 
 ## Property Prediction
 
-- NNPs (e.g., ANI)
+- NNPs (e.g., ANI)  
+- NFFs  
 
 
 ## Molecular Generation
@@ -134,6 +135,9 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 
 ## Computer-Aided Retrosynthesis Planning (CASP)
 
+- [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://www.nature.com/articles/s41467-023-38851-5) + [GitHub Repo](https://github.com/Jamson-Zhong/Graph2Edits)  
+Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen  
+*Nat. Commun.* **2023**, *14*, 3009  
 
 # ML Driven Drug Design
 
