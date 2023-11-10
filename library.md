@@ -15,13 +15,31 @@ mathjax_autoNumber: false
 
 ## Property Prediction
 
-- NNPs (e.g., ANI)  
-- NFFs  
+- [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
+Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
+*J. Cheminformatics* **2023**, *15*, 101  
+&ensp; Uses matched molecular pairs to predict property diverences. D-MPNN architecture is based on ChemProp, modified to take in 2 molecules.
+
+- [Pareto Optimization to Accelerate Multi-Objective Virtual Screening](https://arxiv.org/abs/2310.10598) + [GitHub Repo](https://github.com/coleygroup/molpal/tree/multiobj)  
+Jenna C. Fromer, David E. Graff, and Connor W. Coley  
+*arXiv preprint* **2023**  
+&ensp; Application of MolPAL (Molecular Pool-based Active Learning) to multi-objective virtual screening. Implements multiobjective Bayesian optimization to reduce the computational cost and apply it to the identification of ligands predicted to be selective based on docking scores to on- and off-targets. Identifies all pareto front molecules after 8\% library exploration. Demonstrates superority of pareto optimization over scalarization.  
+
+- [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
+David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
+*Chem. Sci.*, **2021**, *12*, 7866-7881
+&ensp; Active learning tool for acceleration of virtual screening campaigns.
 
 
 ## Molecular Generation
 
 Generative models for molecules. Most typically text-based inputs (SMILES/SELFIES) or graph reps (parallel models on atom and bond matrices). Usually have some property optimization ability (latent space search/interpolation, reinformcement learning, guided genetic exploration). Most commonly these methods are autoregressive, but more recently non-autoregressive molecular generation methods have started to arise.  
+
+#### Reviews
+
+- [Deep Generative Models in *De Novo* Drug Molecule Generation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01496)  
+Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei  
+*J. Chem. Inf. Model.* **2023**, *ASAP*  
 
 #### Diffusion Models
 
@@ -108,7 +126,7 @@ John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, and José Migu
 
 - [Molecule Edit Graph Attention Network (MEGAN): Modeling Chemical Reactions as Sequences of Graph Edits](https://doi.org/10.1021/acs.jcim.1c00537) + [GitHub Repo](https://github.com/molecule-one/megan)  
 Mikołaj Sacha, Mikołaj Błaż, Piotr Byrski, Paweł Dąbrowski-Tumański, Mikołaj Chromiński, Rafał Loska, Paweł Włodarczyk-Pruszyński, and Stanisław Jastrzębski  
-*J. Chem. Inf. Model.* **2021**, *61*, (7), 3273–3284.  
+*J. Chem. Inf. Model.* **2021**, *61*, (7), 3273–3284  
 &ensp; Not technically an electron flow model. Models chemical reations as series of graph edits, most similar to existing environment. Learns to predict sequences autoregressively.  
 
 The Baldi papers map e- sources and sinks, combinatorially generates probability distribution of electron flows. Described classifiers are used to filter source-sink pairs before eval. Trained on in-house (unavailable) data. Papers don't have available source code but ready-to-use programs are available on [ChemDB](https://cdb.ics.uci.edu/).  
