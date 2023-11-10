@@ -27,7 +27,7 @@ Jenna C. Fromer, David E. Graff, and Connor W. Coley
 
 - [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
 David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
-*Chem. Sci.*, **2021**, *12*, 7866-7881
+*Chem. Sci.*, **2021**, *12*, 7866-7881  
 &ensp; Active learning tool for acceleration of virtual screening campaigns.
 
 
