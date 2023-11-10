@@ -23,7 +23,7 @@ Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker
 - [Pareto Optimization to Accelerate Multi-Objective Virtual Screening](https://arxiv.org/abs/2310.10598) + [GitHub Repo](https://github.com/coleygroup/molpal/tree/multiobj)  
 Jenna C. Fromer, David E. Graff, and Connor W. Coley  
 *arXiv preprint* **2023**  
-&ensp; Application of MolPAL (Molecular Pool-based Active Learning) to multi-objective virtual screening. Implements multiobjective Bayesian optimization to reduce the computational cost and apply it to the identification of ligands predicted to be selective based on docking scores to on- and off-targets. Identifies all pareto front molecules after 8\% library exploration. Demonstrates superority of pareto optimization over scalarization.  
+&ensp; Application of MolPAL (Molecular Pool-based Active Learning) to multi-objective virtual screening. Implements multiobjective Bayesian optimization to reduce the computational cost and apply it to the identification of ligands predicted to be selective based on docking scores to on- and off-targets. Identifies all pareto front molecules after 8% library exploration. Demonstrates superority of pareto optimization over scalarization.  
 
 - [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
 David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
