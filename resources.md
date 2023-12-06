@@ -47,6 +47,7 @@ The almighty [LeetCode](https://leetcode.com/)
 
 ### Non-python resources
 
+[Git Documentation](https://git-scm.com/doc)  
 [Java Hypertext](https://www.cs.cornell.edu/courses/JavaAndDS/definitions.html) from Cornell's CS 2110: OOP and Data Structures with David Gries  
 [MIT's 18.S191/6.S083/22.S092: Introduction to Computational Thinking (Julia)](https://computationalthinking.mit.edu/Fall20/)  
 [Cornell's ORIE 6125: Computational Methods in Opeations Research (Shell+Julia)](https://people.orie.cornell.edu/vc333/orie5270/) with Vasileios Charisopoulos  
@@ -139,6 +140,7 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 [RDKit](https://www.rdkit.org/)  
 [Open Babel](https://openbabel.org/wiki/Main_Page) - Chemical Format Conversion  
 [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - easy GNNs for PyTorch  
+[Generative Toolkit for Scientific Discovery (GT4SD)](https://github.com/GT4SD) - IBM Zurich porject, lots of built in training workflows  
 Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://github.com/chainer/chainer-chemistry) - A deep learning framework for Biology and Chemistry + [Docs](https://chainer-chemistry.readthedocs.io/en/latest/index.html)~~  
 
 ### Blogs
