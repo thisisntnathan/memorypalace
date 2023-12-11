@@ -11,9 +11,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-# ML Driven Chemistry
-
-## Property Prediction
+# Property Prediction
 
 - [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
 Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
@@ -31,17 +29,17 @@ David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley
 &ensp; Active learning tool for acceleration of virtual screening campaigns.
 
 
-## Molecular Generation
+# Molecular Generation
 
 Generative models for molecules. Most typically text-based inputs (SMILES/SELFIES) or graph reps (parallel models on atom and bond matrices). Usually have some property optimization ability (latent space search/interpolation, reinformcement learning, guided genetic exploration). Most commonly these methods are autoregressive, but more recently non-autoregressive molecular generation methods have started to arise.  
 
-#### Reviews
+## Reviews
 
 - [Deep Generative Models in *De Novo* Drug Molecule Generation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01496)  
 Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei  
 *J. Chem. Inf. Model.* **2023**, *ASAP*  
 
-#### Diffusion Models
+## Diffusion Models
 
 - [GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140) + [GitHub Repo](https://github.com/MinkaiXu/GeoLDM)  
 Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, and Jure Leskovec  
@@ -58,7 +56,7 @@ Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du
 *ArXiv preprint* **2023**  
 &ensp; Takes EDM from previous paper and conditions it on target structure for application to SBDD.  
 
-#### Normalizing Flows
+## Normalizing Flows
 
 - [MolGrow: A Graph Normalizing Flow for Hierarchical Molecular Generation](https://arxiv.org/abs/2106.05856) (No implementation available)  
 Maksim Kuznetsov and Daniil Polykovskiy  
@@ -84,7 +82,7 @@ Chence Shi, Minkai Xu, Zhaocheng Zhu, Weinan Zhang, Ming Zhang, and Jian Tang
 "This paper proposes a generative model architecture for molecular graph generation based on autoregressive flows. The main contribution of this paper is to combine existing techniques (auto-regressive BFS-ordered generation of graphs, normalizing flows, dequantization by Gaussian noise, fine-tuning based on reinforcement learning for molecular property optimization, and validity constrained sampling). Most of these techniques are well-established either for data generation with normalizing flows or for molecular graph generation and the novelty lies in the combination of these building blocks into a framework."
 </blockquote>
 
-#### GANs
+## GANs
 
 - [druGAN: An Advanced Generative Adversarial Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico](https://doi.org/10.1021/acs.molpharmaceut.7b00346) - No official implementation available  
 Artur Kadurin, Sergey Nikolenko, Kuzma Khrabrov, Alex Aliper, and Alex Zhavoronkov  
@@ -99,7 +97,7 @@ Nicola De Cao and Thomas Kipf
 *ICML 2018 Workshop on Theoretical Foundations and Applications of Deep Generative Models*  
 &ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.  
 
-#### Other
+## Other
 
 - [Masked graph modeling for molecule generation](https://www.nature.com/articles/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
 Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho  
@@ -110,9 +108,11 @@ Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho
 3. Uniqueness does not correlate strongly with any other metric  
 
 
-## Electron Flow and Forward Reaction Prediction
+# Reaction Informatics (RIX)
 
 These models predict mechanisms for chemical reactions, ideally similar to how we teach 2nd years to push arrows. There are reltatively few of expamples of this task but they fall into 3 major categories electron flows, graph edits, reaction netowrks. At inference these models are used for forward synthesis prediction, potntially for prediction of chemo/regio-selectivity. Largely trained on pattern recognition from atom-mapped inputs (USPTO) though there are exceptions (e.g., Baldi papers below).  
+
+## Electron Flow Prediction
 
 - [Non-Autoregressive Electron Redistribution Modeling for Reaction Prediction (NERF)](https://arxiv.org/abs/2106.07801) + [GitHub Repo](https://github.com/20171130/NERF)  
 Hangrui Bi, Hengyi Wang, Chence Shi, Connor Coley, Jian Tang, and Hongyu Guo  
@@ -129,10 +129,8 @@ Mikołaj Sacha, Mikołaj Błaż, Piotr Byrski, Paweł Dąbrowski-Tumański, Miko
 *J. Chem. Inf. Model.* **2021**, *61*, (7), 3273–3284  
 &ensp; Not technically an electron flow model. Models chemical reations as series of graph edits, most similar to existing environment. Learns to predict sequences autoregressively.
 
-- [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://www.nature.com/articles/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
-Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond  
-*Nat. Commun.* **2020**, *11*, 4874  
-&ensp; [Blog post](https://communities.springernature.com/posts/transfer-learning-enables-the-molecular-transformer-to-predict-regio-and-stereoselective-reactions-on-carbohydrates)  
+
+## Sources and Sinks
 
 The Baldi papers map e- sources and sinks, combinatorially generates probability distribution of electron flows. Described classifiers are used to filter source-sink pairs before eval. Trained on in-house (unavailable) data. Papers don't have available source code but ready-to-use programs are available on [ChemDB](https://cdb.ics.uci.edu/).  
 - [Deep learning for chemical reaction prediction](https://doi.org/10.1039/C7ME00107J)  
@@ -148,7 +146,7 @@ Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi
 *J. Chem. Inf. Model.* **2011**, *51* (9), 2209–2222     
 
 
-### Reaction network graphs
+## Reaction network graphs
 
 - [Discovery of novel chemical reactions by deep generative recurrent neural network](https://www.nature.com/articles/s41598-021-81889-y)  
 William Bort, Igor I. Baskin, Timur Gimadiev, Artem Mukanov, Ramil Nugmanov, Pavel Sidorov, Gilles Marcou, Dragos Horvath, Olga Klimchuk, Timur Madzhidov, and Alexandre Varnek  
@@ -160,7 +158,15 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 &ensp; Search method for reaction intermediate networks. Uses DFT energies as heuristic.  
 
 
-### RIX Tools
+## Other
+
+- [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://www.nature.com/articles/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
+Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond  
+*Nat. Commun.* **2020**, *11*, 4874  
+&ensp; Seq2Seq model for SMILES strings. Transfer learning allows for success on few-instance reactions. [Blog post](https://communities.springernature.com/posts/transfer-learning-enables-the-molecular-transformer-to-predict-regio-and-stereoselective-reactions-on-carbohydrates)
+
+
+## RIX Tools
 
 - [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138) + [GitHub Repo](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)  
 Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Verhoeven, Timur R. Gimadiev, Valentina A. Afonina, Zarina Ibragimova, Assima Rakhimbekova, Pavel Sidorov, Andrei Gedich, Rail Suleymanov, Ravil Mukhametgaleev, Joerg Wegner, Hugo Ceulemans, and Alexandre Varnek  
@@ -171,7 +177,7 @@ Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. 
 *Mol. Inf.* **2021**, *40*, 2100119  
 
 
-## Computer-Aided Retrosynthesis Planning (CASP)
+# Computer-Aided Retrosynthesis Planning (CASP)
 
 - [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://www.nature.com/articles/s41467-023-38851-5) + [GitHub Repo](https://github.com/Jamson-Zhong/Graph2Edits)  
 Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen  
