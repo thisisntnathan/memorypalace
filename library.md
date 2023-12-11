@@ -96,21 +96,21 @@ Artur Kadurin, Alexander Aliper, Andrey Kazennov, Polina Mamoshina, Quentin Vanh
 
 - [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973) + [GitHub Repo](https://github.com/nicola-decao/MolGAN)  
 Nicola De Cao and Thomas Kipf  
-*ICML 2018 workshop on Theoretical Foundations and Applications of Deep Generative Models*  
+*ICML 2018 Workshop on Theoretical Foundations and Applications of Deep Generative Models*  
 &ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.  
 
 #### Other
 
 - [Masked graph modeling for molecule generation](https://www.nature.com/articles/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
 Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho  
-*Nature Communications* **2021**, 12, 3156  
+*Nature Communications* **2021**, *12*, 3156  
 &ensp; MPNN for moleular graphs. Generation by iterative sampling of subsets of graphs components, furuter generation steps are conditionalized on the rest of the graph. Trained on QM9 and ChEMBL. Paper provides analysis of GuacaMol benchmark metrics particularly their independence. Conclusions:  
 1. Validity, KL-divergence and Fréchet Distance scores correlate highly with each other  
 2. These three metrics correlate negatively with the novelty score  
 3. Uniqueness does not correlate strongly with any other metric  
 
 
-## Electron Flow Generation and Forward Reaction Prediction
+## Electron Flow and Forward Reaction Prediction
 
 These models predict mechanisms for chemical reactions, ideally similar to how we teach 2nd years to push arrows. There are reltatively few of expamples of this task but they fall into 3 major categories electron flows, graph edits, reaction netowrks. At inference these models are used for forward synthesis prediction, potntially for prediction of chemo/regio-selectivity. Largely trained on pattern recognition from atom-mapped inputs (USPTO) though there are exceptions (e.g., Baldi papers below).  
 
@@ -131,7 +131,7 @@ Mikołaj Sacha, Mikołaj Błaż, Piotr Byrski, Paweł Dąbrowski-Tumański, Miko
 
 - [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://www.nature.com/articles/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
 Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond  
-*Nat. Commun.* **2020**, *11* 4874  
+*Nat. Commun.* **2020**, *11*, 4874  
 &ensp; [Blog post](https://communities.springernature.com/posts/transfer-learning-enables-the-molecular-transformer-to-predict-regio-and-stereoselective-reactions-on-carbohydrates)  
 
 The Baldi papers map e- sources and sinks, combinatorially generates probability distribution of electron flows. Described classifiers are used to filter source-sink pairs before eval. Trained on in-house (unavailable) data. Papers don't have available source code but ready-to-use programs are available on [ChemDB](https://cdb.ics.uci.edu/).  
@@ -145,15 +145,30 @@ Matthew Kayala and Pierre Baldi
 
 - [Learning to Predict Chemical Reactions](https://doi.org/10.1021/ci200207y)  
 Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi  
-*J. Chem. Inf. Model.* **2011**, *51*, 9, 2209–2222     
+*J. Chem. Inf. Model.* **2011**, *51* (9), 2209–2222     
 
 
 ### Reaction network graphs
+
+- [Discovery of novel chemical reactions by deep generative recurrent neural network](https://www.nature.com/articles/s41598-021-81889-y)  
+William Bort, Igor I. Baskin, Timur Gimadiev, Artem Mukanov, Ramil Nugmanov, Pavel Sidorov, Gilles Marcou, Dragos Horvath, Olga Klimchuk, Timur Madzhidov, and Alexandre Varnek  
+*Sci. Rep.* **2021**, *11*, 3178  
 
 - [Efficient prediction of reaction paths through molecular graph and reaction network analysis](https://doi.org/10.1039/C7SC03628K)  
 Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim  
 *Chem. Sci.* **2018**, *9*, 825-835  
 &ensp; Search method for reaction intermediate networks. Uses DFT energies as heuristic.  
+
+
+### RIX Tools
+
+- [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138) + [GitHub Repo](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)  
+Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Verhoeven, Timur R. Gimadiev, Valentina A. Afonina, Zarina Ibragimova, Assima Rakhimbekova, Pavel Sidorov, Andrei Gedich, Rail Suleymanov, Ravil Mukhametgaleev, Joerg Wegner, Hugo Ceulemans, and Alexandre Varnek  
+*Mol. Inf.* **2022**, *41*, 2100138  
+
+- Reaction Data Curation I: Chemical Structures and Transformations Standardization](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100119)  
+Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. Nugmanov, Tagir Akhmetshin, Pavel Sidorov, Natalia Duybankova, Jonas Verhoeven, Joerg Wegner, Hugo Ceulemans, Andrey Gedich, Timur I. Madzhidov, and Alexandre Varnek  
+*Mol. Inf.* **2021**, *40*, 2100119  
 
 
 ## Computer-Aided Retrosynthesis Planning (CASP)
@@ -201,7 +216,7 @@ Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly
 
 - [Exposing the Limitations of Molecular Machine Learning with Activity Cliffs](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01073)  
 Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni  
-*J. Chem. Inf. Model.* **2022**, *62*, 23, 5938–5951  
+*J. Chem. Inf. Model.* **2022**, *62* (23), 5938–5951  
 &ensp; Overview of SAR cliffs and challenges for ML  
 
 
@@ -248,5 +263,5 @@ Stefan Schramm, Durga Prasad Karothu, **Nathan M. Lui**, Patrick Commins, Ejaz A
 *New Journal of Chemistry* **2019**, *43* (3), 1122  
 
 - [Beetle luciferases with naturally red-and blue-shifted emission](https://www.life-science-alliance.org/content/1/4/e201800072)  
-C Carrasco-López, JC Ferreira, **Nathan M. Lui**, S Schramm, R Berraud-Pache, I Navizet, S Panjikar, P Naumov, WM Rabeh  
+César Carrasco-López, Juliana C Ferreira, **Nathan M. Lui**, Stefan Schramm, Romain Berraud-Pache, Isabelle Navizet, Santosh Panjikar, Panče Naumov, Wael M. Rabeh  
 *Life Science Alliance* **2018**, *1* (4), e201800072  
