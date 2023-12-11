@@ -11,24 +11,6 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-# Property Prediction
-
-- [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
-Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
-*J. Cheminformatics* **2023**, *15*, 101  
-&ensp; Uses matched molecular pairs to predict property diverences. D-MPNN architecture is based on ChemProp, modified to take in 2 molecules.
-
-- [Pareto Optimization to Accelerate Multi-Objective Virtual Screening](https://arxiv.org/abs/2310.10598) + [GitHub Repo](https://github.com/coleygroup/molpal/tree/multiobj)  
-Jenna C. Fromer, David E. Graff, and Connor W. Coley  
-*arXiv preprint* **2023**  
-&ensp; Application of MolPAL (Molecular Pool-based Active Learning) to multi-objective virtual screening. Implements multiobjective Bayesian optimization to reduce the computational cost and apply it to the identification of ligands predicted to be selective based on docking scores to on- and off-targets. Identifies all pareto front molecules after 8% library exploration. Demonstrates superority of pareto optimization over scalarization.  
-
-- [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
-David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
-*Chem. Sci.*, **2021**, *12*, 7866-7881  
-&ensp; Active learning tool for acceleration of virtual screening campaigns.
-
-
 # Molecular Generation
 
 Generative models for molecules. Most typically text-based inputs (SMILES/SELFIES) or graph reps (parallel models on atom and bond matrices). Usually have some property optimization ability (latent space search/interpolation, reinformcement learning, guided genetic exploration). Most commonly these methods are autoregressive, but more recently non-autoregressive molecular generation methods have started to arise.  
@@ -51,10 +33,6 @@ Emiel Hoogeboom, Vı́ctor Garcia Satorras, Clément Vignac, and Max Welling
 *in Proceedings of the 39th International Conference on Machine Learning*, PMLR 162:8867-8887, **2022**  
 &ensp; Non-autoregressive diffusion model (rotation invariant). Reps: $$x = (x_1 ... x_M) \in \mathbb{R}^{M \times 3}$$ (atom position matrix) with corresponding feature vectors $$h = (h_1 ... h_M) \in \mathbb{R}^{M \times num feat}$$.  
 
-- [Structure-based Drug Design with Equivariant Diffusion Models](https://arxiv.org/abs/2210.13695) + [GitHub Repo](https://github.com/arneschneuing/diffsbdd)  
-Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, and Bruno Correia  
-*ArXiv preprint* **2023**  
-&ensp; Takes EDM from previous paper and conditions it on target structure for application to SBDD.  
 
 ## Normalizing Flows
 
@@ -108,7 +86,7 @@ Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho
 3. Uniqueness does not correlate strongly with any other metric  
 
 
-# Reaction Informatics (RIX)
+# Reaction Informatics
 
 These models predict mechanisms for chemical reactions, ideally similar to how we teach 2nd years to push arrows. There are reltatively few of expamples of this task but they fall into 3 major categories electron flows, graph edits, reaction netowrks. At inference these models are used for forward synthesis prediction, potntially for prediction of chemo/regio-selectivity. Largely trained on pattern recognition from atom-mapped inputs (USPTO) though there are exceptions (e.g., Baldi papers below).  
 
@@ -130,7 +108,7 @@ Mikołaj Sacha, Mikołaj Błaż, Piotr Byrski, Paweł Dąbrowski-Tumański, Miko
 &ensp; Not technically an electron flow model. Models chemical reations as series of graph edits, most similar to existing environment. Learns to predict sequences autoregressively.
 
 
-## Sources and Sinks
+### Sources and Sinks
 
 The Baldi papers map e- sources and sinks, combinatorially generates probability distribution of electron flows. Described classifiers are used to filter source-sink pairs before eval. Trained on in-house (unavailable) data. Papers don't have available source code but ready-to-use programs are available on [ChemDB](https://cdb.ics.uci.edu/).  
 - [Deep learning for chemical reaction prediction](https://doi.org/10.1039/C7ME00107J)  
@@ -200,6 +178,21 @@ Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du
 Ian Dunn and David Ryan Koes  
 *NeurIPS* **2023**  
 &ensp; GNN-based architecture for learning latent representations of molecular structure. Encodes protein represntation into reduced set of key points. When trained end-to-end with a diffusion model (DiffSBDD) for *de novo* ligand design, achieves comparable performance to one with an all-atom protein representation while exhibiting a 3-fold reduction in inference time. Unclear whether or not the original issues with DiffSBDD were address in this implementation...  
+
+- [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
+Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
+*J. Cheminformatics* **2023**, *15*, 101  
+&ensp; Uses matched molecular pairs to predict property diverences. D-MPNN architecture is based on ChemProp, modified to take in 2 molecules.
+
+- [Pareto Optimization to Accelerate Multi-Objective Virtual Screening](https://arxiv.org/abs/2310.10598) + [GitHub Repo](https://github.com/coleygroup/molpal/tree/multiobj)  
+Jenna C. Fromer, David E. Graff, and Connor W. Coley  
+*arXiv preprint* **2023**  
+&ensp; Application of MolPAL (Molecular Pool-based Active Learning) to multi-objective virtual screening. Implements multiobjective Bayesian optimization to reduce the computational cost and apply it to the identification of ligands predicted to be selective based on docking scores to on- and off-targets. Identifies all pareto front molecules after 8% library exploration. Demonstrates superority of pareto optimization over scalarization.  
+
+- [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
+David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
+*Chem. Sci.*, **2021**, *12*, 7866-7881  
+&ensp; Active learning tool for acceleration of virtual screening campaigns.  
 
 
 # General ML
