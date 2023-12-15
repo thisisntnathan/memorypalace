@@ -146,11 +146,11 @@ Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond
 
 ## RIX Tools
 
-- [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138) + [GitHub Repo](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)  
+- [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138)  
 Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Verhoeven, Timur R. Gimadiev, Valentina A. Afonina, Zarina Ibragimova, Assima Rakhimbekova, Pavel Sidorov, Andrei Gedich, Rail Suleymanov, Ravil Mukhametgaleev, Joerg Wegner, Hugo Ceulemans, and Alexandre Varnek  
 *Mol. Inf.* **2022**, *41*, 2100138  
 
-- Reaction Data Curation I: Chemical Structures and Transformations Standardization](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100119)  
+- [Reaction Data Curation I: Chemical Structures and Transformations Standardization](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100119) + [GitHub Repo](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)  
 Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. Nugmanov, Tagir Akhmetshin, Pavel Sidorov, Natalia Duybankova, Jonas Verhoeven, Joerg Wegner, Hugo Ceulemans, Andrey Gedich, Timur I. Madzhidov, and Alexandre Varnek  
 *Mol. Inf.* **2021**, *40*, 2100119  
 
