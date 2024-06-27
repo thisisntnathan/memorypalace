@@ -17,9 +17,14 @@ Generative models for molecules. Most typically text-based inputs (SMILES/SELFIE
 
 ## Reviews
 
+
+- [Machine learning-aided generative molecular design](https://www.nature.com/articles/s42256-024-00843-5)  
+Yuanqi Du, Arian R. Jamasb, Jeff Guo, Tianfan Fu, Charles Harris, Yingheng Wang, Chenru Duan, Pietro Liò, Philippe Schwaller, and Tom L. Blundell  
+*Nat. Machine Intelligence*, **2024**  
+
 - [Deep Generative Models in *De Novo* Drug Molecule Generation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01496)  
 Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei  
-*J. Chem. Inf. Model.* **2023**, *ASAP*  
+*J. Chem. Inf. Model.* **2024**, 64 (7), 2174–2194  
 
 ## Diffusion Models
 
@@ -77,6 +82,11 @@ Nicola De Cao and Thomas Kipf
 
 ## Other
 
+- [Llamol: a dynamic multi-conditional generative transformer for de novo molecular design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00863-8)  
+Niklas Dobberstein, Astrid Maass & Jan Hamaekers  
+*Journal of Cheminformatics*, **2024**, 16, 73  
+&ensp; Transformer based on Llama2, tweaked for molgen. Not the most impressive paper, but some interesting tidbits scatted throughout (e.g., SCL, etc...)  
+
 - [Masked graph modeling for molecule generation](https://www.nature.com/articles/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
 Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho  
 *Nature Communications* **2021**, *12*, 3156  
@@ -96,6 +106,11 @@ These models predict mechanisms for chemical reactions, ideally similar to how w
 Hangrui Bi, Hengyi Wang, Chence Shi, Connor Coley, Jian Tang, and Hongyu Guo  
 *in Proceedings of the 38th International Conference on Machine Learning*, PMLR 139, **2021**  
 &ensp; Models reactions as electron flow. Predicts flow non-autoregressively. Trained on USPTO-MIT; SOTA results. Graph rep from SMILES input. Fast (27x).  
+
+- [Data-Efficient, Chemistry-Aware Machine Learning Predictions of Diels–Alder Reaction Outcomes](https://pubs.acs.org/doi/10.1021/jacs.4c03131) + [GitHub Repo](https://github.com/angusketo/DA_DataExtraction)  
+Angus Keto, Taicheng Guo, Morgan Underdue, Thijs Stuyver, Connor W. Coley, Xiangliang Zhang, Elizabeth H. Krenske, and Olaf Wiest*  
+*J. Am. Chem. Soc.*, **2024**, *146*, 23, 16052–16061  
+&ensp; NERF applied to Diels-Alder cycloadditions. Typical training set reaches 90% accuracy (in line with general predictive accuracy...). No special improvements to NERF code released.  
 
 - [A Generative Model For Electron Paths (ELECTRO)](https://openreview.net/forum?id=r1x4BnCqKX) + [GitHub Repo](https://github.com/john-bradshaw/electro)  
 John Bradshaw, Matt J. Kusner, Brooks Paige, Marwin H. S. Segler, and José Miguel Hernández-Lobato  
@@ -138,13 +153,18 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 
 ## Other
 
+- [Projecting Molecules into Synthesizable Chemical Spaces](https://arxiv.org/abs/2406.04628)  
+Shitong Luo, Wenhao Gao, Zuofan Wu, Jian Peng, Connor W. Coley, and Jianzhu Ma  
+*ArXiv Preprint*, **2024**  
+&ensp; Interesting new approach to making molecules more synthesizable from genenerated virtual hits. Cleaning the chaff energy. Describes a new postfix notation (A B +) for synthetic transformations. Transformer-based model that translates graphs to postfix notation. Model capable of synthesis planning, generating similar and more synthesizable analogues, exploring chemical space in the syntesizablilty dimension.  
+
 - [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://www.nature.com/articles/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
 Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond  
 *Nat. Commun.* **2020**, *11*, 4874  
 &ensp; Seq2Seq model for SMILES strings. Transfer learning allows for success on few-instance reactions. [Blog post](https://communities.springernature.com/posts/transfer-learning-enables-the-molecular-transformer-to-predict-regio-and-stereoselective-reactions-on-carbohydrates)
 
 
-## RIX Tools
+## Tools
 
 - [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138)  
 Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Verhoeven, Timur R. Gimadiev, Valentina A. Afonina, Zarina Ibragimova, Assima Rakhimbekova, Pavel Sidorov, Andrei Gedich, Rail Suleymanov, Ravil Mukhametgaleev, Joerg Wegner, Hugo Ceulemans, and Alexandre Varnek  
