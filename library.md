@@ -17,10 +17,9 @@ Generative models for molecules. Most typically text-based inputs (SMILES/SELFIE
 
 ## Reviews
 
-
 - [Machine learning-aided generative molecular design](https://www.nature.com/articles/s42256-024-00843-5)  
 Yuanqi Du, Arian R. Jamasb, Jeff Guo, Tianfan Fu, Charles Harris, Yingheng Wang, Chenru Duan, Pietro Liò, Philippe Schwaller, and Tom L. Blundell  
-*Nat. Machine Intelligence*, **2024**  
+*Nat. Mach. Intell.*, **2024**  
 
 - [Deep Generative Models in *De Novo* Drug Molecule Generation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01496)  
 Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei  
@@ -84,12 +83,17 @@ Nicola De Cao and Thomas Kipf
 
 - [Llamol: a dynamic multi-conditional generative transformer for de novo molecular design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00863-8)  
 Niklas Dobberstein, Astrid Maass & Jan Hamaekers  
-*Journal of Cheminformatics*, **2024**, 16, 73  
+*J. of Cheminf.*, **2024**, 16, 73  
 &ensp; Transformer based on Llama2, tweaked for molgen. Not the most impressive paper, but some interesting tidbits scatted throughout (e.g., SCL, etc...)  
+
+- [REINVENT4: Modern AI–driven generative molecule design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) + [GitHub Repo](https://github.com/MolecularAI/REINVENT4)  
+Hannes H. Loeffler, Jiazhen He, Alessandro Tibo, Jon Paul Janet, Alexey Voronov, Lewis H. Mervin & Ola Engkvist  
+*J. of Cheminf.*, **2024**, 16, 20  
+&ensp; AstraZeneca's molecular design tool for *de novo* design, scaffold hopping, R-group replacement, linker design and molecule optimization.  
 
 - [Masked graph modeling for molecule generation](https://www.nature.com/articles/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
 Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho  
-*Nature Communications* **2021**, *12*, 3156  
+*Nat. Commun.* **2021**, *12*, 3156  
 &ensp; MPNN for moleular graphs. Generation by iterative sampling of subsets of graphs components, furuter generation steps are conditionalized on the rest of the graph. Trained on QM9 and ChEMBL. Paper provides analysis of GuacaMol benchmark metrics particularly their independence. Conclusions:  
 1. Validity, KL-divergence and Fréchet Distance scores correlate highly with each other  
 2. These three metrics correlate negatively with the novelty score  
@@ -138,8 +142,13 @@ Matthew Kayala and Pierre Baldi
 Matthew A. Kayala, Chloé-Agathe Azencott, Jonathan H. Chen, and Pierre Baldi  
 *J. Chem. Inf. Model.* **2011**, *51* (9), 2209–2222     
 
+- [PMechDB: A Public Database of Elementary Polar Reaction Step](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01810)  
+Mohammadamin Tavakoli, Ryan J. Miller, Mirana Claire Angel, Michael A. Pfeiffer, Eugene S. Gutman, Aaron D. Mood, David Van Vranken, and Pierre Baldi  
+*J. Chem. Inf. Model.* **2024**, 64, 6, 1975–1983  
+&ensp; Dataset paper for the Baldi papers. 100k polar elementary steps. [PMechDB platform](https://deeprxn.ics.uci.edu/pmechdb)  
 
-## Reaction network graphs
+
+## Reaction Network Graphs
 
 - [Discovery of novel chemical reactions by deep generative recurrent neural network](https://www.nature.com/articles/s41598-021-81889-y)  
 William Bort, Igor I. Baskin, Timur Gimadiev, Artem Mukanov, Ramil Nugmanov, Pavel Sidorov, Gilles Marcou, Dragos Horvath, Olga Klimchuk, Timur Madzhidov, and Alexandre Varnek  
@@ -153,11 +162,6 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 
 ## Other
 
-- [Projecting Molecules into Synthesizable Chemical Spaces](https://arxiv.org/abs/2406.04628)  
-Shitong Luo, Wenhao Gao, Zuofan Wu, Jian Peng, Connor W. Coley, and Jianzhu Ma  
-*ArXiv Preprint*, **2024**  
-&ensp; Interesting new approach to making molecules more synthesizable from genenerated virtual hits. Cleaning the chaff energy. Describes a new postfix notation (A B +) for synthetic transformations. Transformer-based model that translates graphs to postfix notation. Model capable of synthesis planning, generating similar and more synthesizable analogues, exploring chemical space in the syntesizablilty dimension.  
-
 - [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://www.nature.com/articles/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
 Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond  
 *Nat. Commun.* **2020**, *11*, 4874  
@@ -165,6 +169,11 @@ Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond
 
 
 ## Tools
+
+- [Bidirectional Graphormer for Reactivity Understanding: Neural Network Trained to Reaction Atom-to-Atom Mapping Task](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00344) + [GitHub Repo](https://github.com/chython/chytorch-rxnmap)  
+Ramil Nugmanov, Natalia Dyubankova, Andrey Gedich, and Joerg Kurt Wegner  
+*J. Chem. Inf. Model.* **2022**, *62*, 14, 3307–3315  
+&ensp; Chython RxnMapper/Graphormer Mapper that's heavily based on RXNMapper and CGR Tools. Semisupervised graph attention based model trained on USPTO and Pistachio datasets.  
 
 - [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138)  
 Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Verhoeven, Timur R. Gimadiev, Valentina A. Afonina, Zarina Ibragimova, Assima Rakhimbekova, Pavel Sidorov, Andrei Gedich, Rail Suleymanov, Ravil Mukhametgaleev, Joerg Wegner, Hugo Ceulemans, and Alexandre Varnek  
@@ -175,7 +184,14 @@ Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. 
 *Mol. Inf.* **2021**, *40*, 2100119  
 
 
-# Computer-Aided Retrosynthesis Planning (CASP)
+# Computer-Aided Retrosynthesis Planning
+
+- [Constrained synthesis planning with disconnection-aware transformer and multi-objective search](https://doi.org/10.26434/chemrxiv-2024-c77p4)  
+Annie M. Westerlund, Lakshidaa Saigiridharan, Samuel Genheden  
+*ChemRxiv preprint* **2024**  
+&ensp; Retrosynthesis planning with the ability to constrain bonds, i.e., built in divergent synthesis constraints leading to shorter routes.  
+&ensp; AiZynthFinder with MO-MCTS and broken bonds score was used to run multistep experiments and can be found at: [https://github.com/MolecularAI/aizynthfinder](https://github.com/MolecularAI/aizynthfinder). Chemformer can be found at: [https://github.com/MolecularAI/Chemformer](https://github.com/MolecularAI/Chemformer). AiZynthTrain was used to tag
+disconnection-sites in the Chemformer training data and can be found at: [https://github.com/MolecularAI/aizynthtrain](https://github.com/MolecularAI/aizynthtrain). 
 
 - [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://www.nature.com/articles/s41467-023-38851-5) + [GitHub Repo](https://github.com/Jamson-Zhong/Graph2Edits)  
 Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen  
@@ -183,6 +199,50 @@ Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen
 
 
 # ML Driven Drug Design
+
+## Property Prediction
+
+- [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
+Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
+*J. Cheminformatics* **2023**, *15*, 101  
+&ensp; Uses matched molecular pairs to predict property diverences. D-MPNN architecture is based on ChemProp, modified to take in 2 molecules.
+
+## Molecular Optimization
+
+- [Projecting Molecules into Synthesizable Chemical Spaces](https://arxiv.org/abs/2406.04628)  
+Shitong Luo, Wenhao Gao, Zuofan Wu, Jian Peng, Connor W. Coley, and Jianzhu Ma  
+*ArXiv Preprint*, **2024**  
+&ensp; Interesting new approach to making molecules more synthesizable from genenerated virtual hits. Cleaning the chaff energy. Describes a new postfix notation (A B +) for synthetic transformations. Transformer-based model that translates graphs to postfix notation. Model capable of synthesis planning, generating similar and more synthesizable analogues, exploring chemical space in the syntesizablilty dimension.  
+
+- [Evolutionary Multiobjective Molecule Optimization in an Implicit Chemical Space](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00031) + [GitHub Repo](https://github.com/ahu-bioinf-lab/MOMO-master)  
+Xin Xia, Yiping Liu, Chunhou Zheng, Xingyi Zhang, Qingwen Wu, Xin Gao, Xiangxiang Zeng, and Yansen Su  
+*J. Chem. Inf. Model.* **2024**, *ASAP*  
+&ensp; Multiobjective molecule optimization framework (MOMO) is a pareto-based MPO tool that evolves moelcules into better molecules. Genetic/ecolutionary algorithm in the latent (implicit) space ended by a VAE.  
+
+## Virtual Screening
+
+- [Pareto Optimization to Accelerate Multi-Objective Virtual Screening](https://arxiv.org/abs/2310.10598) + [GitHub Repo](https://github.com/coleygroup/molpal/tree/multiobj)  
+Jenna C. Fromer, David E. Graff, and Connor W. Coley  
+*arXiv preprint* **2023**  
+&ensp; Application of MolPAL (Molecular Pool-based Active Learning) to multi-objective virtual screening. Implements multiobjective Bayesian optimization to reduce the computational cost and apply it to the identification of ligands predicted to be selective based on docking scores to on- and off-targets. Identifies all pareto front molecules after 8% library exploration. Demonstrates superority of pareto optimization over scalarization.  
+
+- [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
+David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
+*Chem. Sci.*, **2021**, *12*, 7866-7881  
+&ensp; Active learning tool for acceleration of virtual screening campaigns.  
+
+
+# Protein Structure Prediction
+
+- [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w) - No code released  
+Josh Abramson, Jonas Adler, Jack Dunger, ... & John M. Jumper  
+*Nat.* **2024** *630*, 493–500  
+&ensp; AlphaFold 3, a diffusion-based architecture that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. [Blog at Isomorphic](https://www.isomorphiclabs.com/articles/rational-drug-design-with-alphafold-3)  
+
+- [State-specific protein–ligand complex structure prediction with a multiscale deep generative model](https://www.nature.com/articles/s42256-024-00792-z) + [GitHub Repo](https://github.com/zrqiao/NeuralPLexer)  
+Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller III & Animashree Anandkumar  
+*Nat. Mach. Intell.* **2024** *6*, 195–208  
+&ensp; NeuralPLexer, a computational approach that can directly predict protein–ligand complex structures solely using protein sequence and ligand molecular graph inputs. Owing to its specificity in sampling both ligand-free-state and ligand-bound-state ensembles, NeuralPLexer consistently outperforms AlphaFold2 in terms of global protein structure accuracy on both representative structure pairs with large conformational changes and recently determined ligand-binding proteins.  
 
 - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://openreview.net/forum?id=kKF8_K-mBbS) + [GitHub Repo](https://github.com/gcorso/DiffDock)  
 Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, and Tommi Jaakkola  
@@ -198,21 +258,6 @@ Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du
 Ian Dunn and David Ryan Koes  
 *NeurIPS* **2023**  
 &ensp; GNN-based architecture for learning latent representations of molecular structure. Encodes protein represntation into reduced set of key points. When trained end-to-end with a diffusion model (DiffSBDD) for *de novo* ligand design, achieves comparable performance to one with an all-atom protein representation while exhibiting a 3-fold reduction in inference time. Unclear whether or not the original issues with DiffSBDD were address in this implementation...  
-
-- [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
-Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
-*J. Cheminformatics* **2023**, *15*, 101  
-&ensp; Uses matched molecular pairs to predict property diverences. D-MPNN architecture is based on ChemProp, modified to take in 2 molecules.
-
-- [Pareto Optimization to Accelerate Multi-Objective Virtual Screening](https://arxiv.org/abs/2310.10598) + [GitHub Repo](https://github.com/coleygroup/molpal/tree/multiobj)  
-Jenna C. Fromer, David E. Graff, and Connor W. Coley  
-*arXiv preprint* **2023**  
-&ensp; Application of MolPAL (Molecular Pool-based Active Learning) to multi-objective virtual screening. Implements multiobjective Bayesian optimization to reduce the computational cost and apply it to the identification of ligands predicted to be selective based on docking scores to on- and off-targets. Identifies all pareto front molecules after 8% library exploration. Demonstrates superority of pareto optimization over scalarization.  
-
-- [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
-David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
-*Chem. Sci.*, **2021**, *12*, 7866-7881  
-&ensp; Active learning tool for acceleration of virtual screening campaigns.  
 
 
 # General ML
