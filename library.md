@@ -27,6 +27,11 @@ Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei
 
 ## Diffusion Models
 
+- [Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation](https://arxiv.org/abs/2404.19739) + [GitHub Repo](https://github.com/dunni3/FlowMol)  
+Ian Dunn and David Ryan Koes  
+*ArXiv* **2024**  
+&ensp; Extends the flow matching framework to categorical data by constructing flows that are constrained to exist on a continuous representation of categorical data known as the probability simplex. Finds that, in practice, a simpler approach that makes no accommodations for the categorical nature of the data yields equivalent or superior performance. Presents FlowMol, a flow matching model for 3D *de novo* generative model that achieves improved performance over prior flow matching methods.
+
 - [GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation](https://arxiv.org/abs/2305.01140) + [GitHub Repo](https://github.com/MinkaiXu/GeoLDM)  
 Minkai Xu, Alexander Powers, Ron Dror, Stefano Ermon, and Jure Leskovec  
 *ICML* **2023**  
@@ -198,9 +203,41 @@ Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen
 *Nat. Commun.* **2023**, *14*, 3009  
 
 
+# Publication Parsing
+
+- [OpenChemIE: An Information Extraction Toolkit for Chemistry Literature](https://doi.org/10.1021/acs.jcim.4c00572) + [Web App](https://mit.openchemie.info/)  
+Vincent Fan, Yujie Qian, Alex Wang, Amber Wang, Connor W. Coley, and Regina Barzilay  
+*J. Chem. Inf. Model.* **2024**, *ASAP*  
+
+- [Advancements in hand-drawn chemical structure recognition through an enhanced DECIMER architecture](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00872-7)  
+Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck  
+*J. Cheminf.* **2024**, *16*, 76
+
+
+
 # ML Driven Drug Design
 
+## General
+
+- [Exposing the Limitations of Molecular Machine Learning with Activity Cliffs](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01073)  
+Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni  
+*J. Chem. Inf. Model.* **2022**, *62* (23), 5938–5951  
+&ensp; Overview of SAR cliffs and challenges for ML  
+
 ## Property Prediction
+
+- [Ligand-Based Compound Activity Prediction via Few-Shot Learning](https://doi.org/10.1021/acs.jcim.4c00485) + [GitHub Repo](https://github.com/Rose-STL-Lab/FS-CAP)  
+Peter Eckmann*, Jake Anderson*, Rose Yu*, and Michael K. Gilson  
+*J. Chem. Inf. Model.* **2024**, *ASAP*  
+
+-[QSARtuna: An Automated QSAR Modeling Platform for Molecular Property Prediction in Drug Design](https://doi.org/10.1021/acs.jcim.4c00457) + [GitHub Repo](https://github.com/MolecularAI/QSARtuna/tree/master) + [Docs](https://molecularai.github.io/QSARtuna/)  
+Lewis Mervin, Alexey Voronov, Mikhail Kabeshov, and Ola Engkvist  
+*J. Chem. Inf. Model.* **2024**, *ASAP*  
+
+- [Quantum-Informed Molecular Representation Learning Enhancing ADMET Property Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00772)  
+Jungwoo Kim, Woojae Chang, Hyunjun Ji, and InSuk Joung  
+*J. Chem. Inf. Model.* **2024**, *64*, 13, 5028  
+&ensp; Supplementing a Graph Transformer with pretraing on DFT features. SoTA performance on 7 of 22 ADME-Tox tasks in TDC. Of particular interest is the data methods and architecture.  
 
 - [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
 Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
@@ -260,7 +297,11 @@ Ian Dunn and David Ryan Koes
 &ensp; GNN-based architecture for learning latent representations of molecular structure. Encodes protein represntation into reduced set of key points. When trained end-to-end with a diffusion model (DiffSBDD) for *de novo* ligand design, achieves comparable performance to one with an all-atom protein representation while exhibiting a 3-fold reduction in inference time. Unclear whether or not the original issues with DiffSBDD were address in this implementation...  
 
 
-# General ML
+# Deep Learning
+
+- [Graph Neural Networks with Learnable Structural and Positional Representations](https://arxiv.org/abs/2110.07875) + [GitHub Repo](https://github.com/vijaydwivedi75/gnn-lspe)  
+Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson  
+*ICLR* **2022**  
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) + [GitHub Repo (archived)](https://github.com/tensorflow/tensor2tensor)  
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin  
@@ -274,14 +315,6 @@ Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, and Brendan F
 - [PointerNets](https://papers.nips.cc/paper_files/paper/2015/hash/29921001f2f04bd3baee84a12e98098f-Abstract.html)  
 Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly  
 *NeurIPS* **2015**  
-
-
-# Med Chem Basics
-
-- [Exposing the Limitations of Molecular Machine Learning with Activity Cliffs](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01073)  
-Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni  
-*J. Chem. Inf. Model.* **2022**, *62* (23), 5938–5951  
-&ensp; Overview of SAR cliffs and challenges for ML  
 
 
 # Chemistry
