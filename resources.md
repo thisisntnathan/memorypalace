@@ -123,6 +123,7 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 
 ### Textbooks
 
+[Alice's Adventures in a Differentiable Wonderland](https://www.sscardapane.it/alice-book) by Simone Scardapane  
 [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville  
 [Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/book2.html) by Kevin Patrick Murphy  
 [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) by Trevor Hastie and Robert Tibshirani and Jerome Friedman  
@@ -182,6 +183,8 @@ Practical tips & tricks for organic chemistry from grad school
 [TLC stains](https://depts.washington.edu/eooptic/linkfiles/TLCStains.pdf)  
 [pKa tables](https://organicchemistrydata.org/hansreich/resources/pka/#pka_general)  
 [Mayr nucleophilicity tables](https://www.cup.uni-muenchen.de/oc/mayr/DBintro.html) - ([pdf](https://www.cup.lmu.de/oc/mayr/2021_MayrPoster.pdf))  
+[NMR Impurity Chart(Organometallics)](https://pubs.acs.org/doi/full/10.1021/om100106e)  
+[The Big NMR Impurity Chart (OPR&D)](https://pubs.acs.org/doi/full/10.1021/acs.oprd.5b00417)  
 
 
 ### Online References
