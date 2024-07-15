@@ -1,8 +1,10 @@
 header:
   - title: Library
     url: /library.html
-  - title: Resources
-    url: /resources.html
+  - title: AI/ML
+    url: /comp.html
+  - title: Chemistry
+    url: /chemistry.html
   - title: Archive
     url: /archive.html
   - title: About
