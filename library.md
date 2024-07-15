@@ -173,7 +173,7 @@ Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond
 &ensp; Seq2Seq model for SMILES strings. Transfer learning allows for success on few-instance reactions. [Blog post](https://communities.springernature.com/posts/transfer-learning-enables-the-molecular-transformer-to-predict-regio-and-stereoselective-reactions-on-carbohydrates)
 
 
-## Tools
+## Atom Mapping
 
 - [Bidirectional Graphormer for Reactivity Understanding: Neural Network Trained to Reaction Atom-to-Atom Mapping Task](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00344) + [GitHub Repo](https://github.com/chython/chytorch-rxnmap)  
 Ramil Nugmanov, Natalia Dyubankova, Andrey Gedich, and Joerg Kurt Wegner  
@@ -183,6 +183,10 @@ Ramil Nugmanov, Natalia Dyubankova, Andrey Gedich, and Joerg Kurt Wegner
 - [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138)  
 Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Verhoeven, Timur R. Gimadiev, Valentina A. Afonina, Zarina Ibragimova, Assima Rakhimbekova, Pavel Sidorov, Andrei Gedich, Rail Suleymanov, Ravil Mukhametgaleev, Joerg Wegner, Hugo Ceulemans, and Alexandre Varnek  
 *Mol. Inf.* **2022**, *41*, 2100138  
+
+- [Extraction of organic chemistry grammar from unsupervised learning of chemical reactions](https://www.science.org/doi/10.1126/sciadv.abe4166) + [GitHub Repo](https://github.com/rxn4chemistry/rxnmapper) + ~~[RxnMapper app](http://rxnmapper.ai/)~~ Webpage looks like it's down  
+Philippe Schwaller, Benjamin Hoover, Jean-Louis Reymond, Hendrik Strobelt, and Teodoro Laino  
+*Sci. Adv.* **2021**, *7* (15), eabe4166  
 
 - [Reaction Data Curation I: Chemical Structures and Transformations Standardization](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100119) + [GitHub Repo](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)  
 Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. Nugmanov, Tagir Akhmetshin, Pavel Sidorov, Natalia Duybankova, Jonas Verhoeven, Joerg Wegner, Hugo Ceulemans, Andrey Gedich, Timur I. Madzhidov, and Alexandre Varnek  
@@ -230,7 +234,7 @@ Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni
 Peter Eckmann*, Jake Anderson*, Rose Yu*, and Michael K. Gilson  
 *J. Chem. Inf. Model.* **2024**, *ASAP*  
 
--[QSARtuna: An Automated QSAR Modeling Platform for Molecular Property Prediction in Drug Design](https://doi.org/10.1021/acs.jcim.4c00457) + [GitHub Repo](https://github.com/MolecularAI/QSARtuna/tree/master) + [Docs](https://molecularai.github.io/QSARtuna/)  
+- [QSARtuna: An Automated QSAR Modeling Platform for Molecular Property Prediction in Drug Design](https://doi.org/10.1021/acs.jcim.4c00457) + [GitHub Repo](https://github.com/MolecularAI/QSARtuna/tree/master) + [Docs](https://molecularai.github.io/QSARtuna/)  
 Lewis Mervin, Alexey Voronov, Mikhail Kabeshov, and Ola Engkvist  
 *J. Chem. Inf. Model.* **2024**, *ASAP*  
 
