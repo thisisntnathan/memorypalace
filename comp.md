@@ -143,6 +143,8 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 [Open Babel](https://openbabel.org/wiki/Main_Page) - Chemical Format Conversion  
 [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - easy GNNs for PyTorch  
 [Generative Toolkit for Scientific Discovery (GT4SD)](https://github.com/GT4SD) - IBM Zurich porject, lots of built in training workflows  
+[MolFlux](https://exscientia.github.io/molflux/) - Molecular modeling toolkit from Exs  
+[PhysicsML](https://exscientia.github.io/physicsml/) - Toolkit for physics-based modelling from Exs  
 Chainer is out of support as of Dec-2019~~[Chainer Chemistry GitHub](https://github.com/chainer/chainer-chemistry) - A deep learning framework for Biology and Chemistry + [Docs](https://chainer-chemistry.readthedocs.io/en/latest/index.html)~~  
 
 ### Blogs
