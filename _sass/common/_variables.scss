@@ -114,8 +114,10 @@ $button-height-sm:        1.5rem;
 $button-height-xs:        1.2rem;
 
 $button: (
-  padding-y-xl:           calc(($button-height-xl - map-get($base, font-size-xl)) / 2),
-  padding-x-xl:           calc($button-height-xl / 3),
+  // padding-y-xl:           calc(($button-height-xl - map-get($base, font-size-xl)) / 2),
+  // padding-x-xl:           calc($button-height-xl / 3),
+  padding-y-xl:           0.65rem,
+  padding-x-xl:           0.933333rem,
   padding-y-lg:           calc(($button-height-lg - map-get($base, font-size-lg)) / 2),
   padding-x-lg:           calc($button-height-lg / 3),
   padding-y:              calc(($button-height - map-get($base, font-size)) / 2),
