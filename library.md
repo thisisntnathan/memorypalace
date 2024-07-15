@@ -319,13 +319,26 @@ Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly
 
 # Chemistry
 
-## Quick References
+## Med Chem
 
-[NMR Impurity Chart(Organometallics)](https://pubs.acs.org/doi/full/10.1021/om100106e)  
-[The Big NMR Impurity Chart (OPR&D)](https://pubs.acs.org/doi/full/10.1021/acs.oprd.5b00417)  
+- [Escape from Flatland: Increasing Saturation as an Approach to Improving Clinical Success](https://doi.org/10.1021/jm901241e)  
+Frank Lovering, Jack Bikker, and Christine Humblet  
+*J. Med. Chem.* **2009**, *52* (21), 6752-6756  
+
+- [Escape from Flatland 2: complexity and promiscuity](https://pubs.rsc.org/en/content/articlelanding/2013/md/c2md20347b)  
+Frank Lovering  
+*Med. Chem. Commun.* **2013**, *4*, 515-519  
 
 
 # My papers
+
+- [Natural Product Isolation of the Extract of Cleome rupicola Fruits Exhibiting Antioxidant Activity](https://onlinelibrary.wiley.com/doi/full/10.1002/cbdv.202301382)  
+Yumi Gambrill, Patrick Commins, Stefan Schramm, **Nathan M. Lui**, Shaikha S. AlNeyadi, Panče Naumov  
+*Chemistry & Biodiversity* **2024**, *21* (4), e20230138  
+
+- [Structure-Selectivity Principles Underlying Alkylations of Oppolzer’s Camphorsultam Enolates](https://www.proquest.com/openview/c20f7b7aa67c2b55b8917c4cf91f27ff)  
+**Nathan M. Lui**  
+*Cornell University ProQuest Dissertations & Theses* **2023**, 30570998
 
 - [Sodiated Oppolzer enolates: solution structures, mechanism of alkylation, and origin of stereoselectivity](https://doi.org/10.1039/D3QO01021J)  
 **Nathan M. Lui** and David B. Collum  
