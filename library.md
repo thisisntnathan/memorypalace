@@ -167,6 +167,10 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 
 ## Other
 
+- [Reaction rebalancing: a novel approach to curating reaction databases](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00875-4) + [GitHub Repo](https://github.com/TieuLongPhan/SynRBL)  
+Tieu-Long Phan, Klaus Weinbauer, Thomas Gärtner, Daniel Merkle, Jakob L. Andersen, Rolf Fagerberg, and Peter F. Stadler  
+*J. Cheminf.* **2024**, *16*, 82  
+
 - [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://www.nature.com/articles/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
 Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond  
 *Nat. Commun.* **2020**, *11*, 4874  
@@ -174,6 +178,10 @@ Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond
 
 
 ## Atom Mapping
+
+- [Precise atom-to-atom mapping for organic reactions via human-in-the-loop machine learning](https://www.nature.com/articles/s41467-024-46364-y) + [GitHub Repo](https://github.com/snu-micc/LocalMapper)  
+Shuan Chen, Sunggi An, Ramil Babazade, and Yousung Jung  
+*Nat. Commun.* **2024**, *15*, 2250  
 
 - [Bidirectional Graphormer for Reactivity Understanding: Neural Network Trained to Reaction Atom-to-Atom Mapping Task](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00344) + [GitHub Repo](https://github.com/chython/chytorch-rxnmap)  
 Ramil Nugmanov, Natalia Dyubankova, Andrey Gedich, and Joerg Kurt Wegner  
@@ -223,6 +231,10 @@ Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck
 
 ## General
 
+- [HydraScreen: A Generalizable Structure-Based Deep Learning Approach to Drug Discovery](https://doi.org/10.1021/acs.jcim.4c00481) + [GitHub Repo](https://github.com/Ro5-ai/hydrascreen)  
+Alvaro Prat, Hisham Abdel Aty, Orestis Bastas, Gintautas Kamuntavičius, Tanya Paquet, Povilas Norvaišas, Piero Gasparotto, and Roy Tal  
+*J. Chem. Inf. Model.* *ASAP*  
+
 - [Exposing the Limitations of Molecular Machine Learning with Activity Cliffs](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01073)  
 Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni  
 *J. Chem. Inf. Model.* **2022**, *62* (23), 5938–5951  
@@ -248,6 +260,12 @@ Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker
 *J. Cheminformatics* **2023**, *15*, 101  
 &ensp; Uses matched molecular pairs to predict property diverences. D-MPNN architecture is based on ChemProp, modified to take in 2 molecules.
 
+### Synthetic Accessibility
+
+- [Estimating the synthetic accessibility of molecules with building block and reaction-aware SAScore](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00879-0) + [GitHub Repo](https://github.com/snu-micc/BR-SAScore)  
+Shuan Chen and Yousung Jung  
+*J. Cheminf.* **2024**, *16*, 83  
+
 ## Molecular Optimization
 
 - [Projecting Molecules into Synthesizable Chemical Spaces](https://arxiv.org/abs/2406.04628)  
@@ -261,6 +279,10 @@ Xin Xia, Yiping Liu, Chunhou Zheng, Xingyi Zhang, Qingwen Wu, Xin Gao, Xiangxian
 &ensp; Multiobjective molecule optimization framework (MOMO) is a pareto-based MPO tool that evolves moelcules into better molecules. Genetic/ecolutionary algorithm in the latent (implicit) space ended by a VAE.  
 
 ## Virtual Screening
+
+- [ROSHAMBO: Open-Source Molecular Alignment and 3D Similarity Scoring](https://doi.org/10.26434/chemrxiv-2024-6wk09)  
+Rasha Atwi, Ye Wang, Simone Sciabola, and Adam Antoszewskim  
+*ChemRxiv Preprint* **2024**  
 
 - [Pareto Optimization to Accelerate Multi-Objective Virtual Screening](https://arxiv.org/abs/2310.10598) + [GitHub Repo](https://github.com/coleygroup/molpal/tree/multiobj)  
 Jenna C. Fromer, David E. Graff, and Connor W. Coley  
@@ -302,6 +324,10 @@ Ian Dunn and David Ryan Koes
 
 
 # Deep Learning
+
+- [Mixture of A Million Experts](https://doi.org/10.48550/arXiv.2407.04153)  
+Xu Owen He  
+*ArXiv Preprint* **2024**  
 
 - [Graph Neural Networks with Learnable Structural and Positional Representations](https://arxiv.org/abs/2110.07875) + [GitHub Repo](https://github.com/vijaydwivedi75/gnn-lspe)  
 Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson  
