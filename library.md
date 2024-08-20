@@ -231,6 +231,10 @@ Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck
 
 ## General
 
+- [MolCompass: multi-tool for the navigation in chemical space and visual validation of QSAR/QSPR models](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00888-z) + [GitHub Repo](https://github.com/sergsb/molcomplib)  
+Sergey Sosnin  
+*J. Cheminf.* **2024**, *16*, 98  
+
 - [HydraScreen: A Generalizable Structure-Based Deep Learning Approach to Drug Discovery](https://doi.org/10.1021/acs.jcim.4c00481) + [GitHub Repo](https://github.com/Ro5-ai/hydrascreen)  
 Alvaro Prat, Hisham Abdel Aty, Orestis Bastas, Gintautas Kamuntavičius, Tanya Paquet, Povilas Norvaišas, Piero Gasparotto, and Roy Tal  
 *J. Chem. Inf. Model.* *ASAP*  
@@ -240,7 +244,11 @@ Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni
 *J. Chem. Inf. Model.* **2022**, *62* (23), 5938–5951  
 &ensp; Overview of SAR cliffs and challenges for ML  
 
-## Property Prediction
+## Property/Activity Prediction
+
+- [A bioactivity foundation model using pairwise meta-learning](https://www.nature.com/articles/s42256-024-00876-w) + [GitHub Repo](https://github.com/BFeng14/ActFound)  
+Bin Feng, Zequn Liu, Nanlan Huang, Zhiping Xiao, Haomiao Zhang, Srbuhi Mirzoyan, Hanwen Xu, Jiaran Hao, Yinghui Xu, Ming Zhang & Sheng Wang  
+*Nat. Mach. Intell.* **2024**, *ASAP*  
 
 - [Ligand-Based Compound Activity Prediction via Few-Shot Learning](https://doi.org/10.1021/acs.jcim.4c00485) + [GitHub Repo](https://github.com/Rose-STL-Lab/FS-CAP)  
 Peter Eckmann*, Jake Anderson*, Rose Yu*, and Michael K. Gilson  
@@ -280,6 +288,10 @@ Xin Xia, Yiping Liu, Chunhou Zheng, Xingyi Zhang, Qingwen Wu, Xin Gao, Xiangxian
 
 ## Virtual Screening
 
+- [PheSA: An Open-Source Tool for Pharmacophore-Enhanced Shape Alignment](https://doi.org/10.1021/acs.jcim.4c00516) = [GitHub Repo](https://github.com/joewah/PheSAExamples)  
+Joel Wahl  
+*J. Chem. Inf. Model.* **2024**, *64* (15), 5944-5953    
+
 - [ROSHAMBO: Open-Source Molecular Alignment and 3D Similarity Scoring](https://doi.org/10.26434/chemrxiv-2024-6wk09)  
 Rasha Atwi, Ye Wang, Simone Sciabola, and Adam Antoszewskim  
 *ChemRxiv Preprint* **2024**  
@@ -294,6 +306,16 @@ David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley
 *Chem. Sci.*, **2021**, *12*, 7866-7881  
 &ensp; Active learning tool for acceleration of virtual screening campaigns.  
 
+
+# General Cheminformatics
+
+- [When Do Quantum Mechanical Descriptors Help Graph Neural Networks to Predict Chemical Properties?](https://doi.org/10.1021/jacs.4c04670)  
+Shih-Cheng Li, Haoyang Wu, Angiras Menon, Kevin A. Spiekermann, Yi-Pei Li & William H. Green  
+*J. Am. Chem. Soc.* **2024**, *ASAP*  
+
+- [Hilbert-curve assisted structure embedding method](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00850-z) + [GitHub Repo](https://github.com/ncats/hcase)  
+Gergely Zahoránszky-Kőhalmi, Kanny K. Wan & Alexander G. Godfrey  
+*J. Cheminf.* **2024**, *16*, 87
 
 # Protein Structure Prediction
 
