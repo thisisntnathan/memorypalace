@@ -203,12 +203,15 @@ Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. 
 
 # Computer-Aided Retrosynthesis Planning
 
+- [RLSynC: Offline–Online Reinforcement Learning for Synthon Completion](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00554)  
+Frazier N. Baker, Ziqi Chen, Daniel Adu-Ampratwum, and Xia Ning*  
+*J. Chim. Inf. Model.* **2024**, *ASAP*  
+
 - [Constrained synthesis planning with disconnection-aware transformer and multi-objective search](https://doi.org/10.26434/chemrxiv-2024-c77p4)  
 Annie M. Westerlund, Lakshidaa Saigiridharan, Samuel Genheden  
 *ChemRxiv preprint* **2024**  
 &ensp; Retrosynthesis planning with the ability to constrain bonds, i.e., built in divergent synthesis constraints leading to shorter routes.  
-&ensp; AiZynthFinder with MO-MCTS and broken bonds score was used to run multistep experiments and can be found at: [https://github.com/MolecularAI/aizynthfinder](https://github.com/MolecularAI/aizynthfinder). Chemformer can be found at: [https://github.com/MolecularAI/Chemformer](https://github.com/MolecularAI/Chemformer). AiZynthTrain was used to tag
-disconnection-sites in the Chemformer training data and can be found at: [https://github.com/MolecularAI/aizynthtrain](https://github.com/MolecularAI/aizynthtrain). 
+&ensp; AiZynthFinder with MO-MCTS and broken bonds score was used to run multistep experiments and can be found at: [https://github.com/MolecularAI/aizynthfinder](https://github.com/MolecularAI/aizynthfinder). Chemformer can be found at: [https://github.com/MolecularAI/Chemformer](https://github.com/MolecularAI/Chemformer). AiZynthTrain was used to tag disconnection-sites in the Chemformer training data and can be found at: [https://github.com/MolecularAI/aizynthtrain](https://github.com/MolecularAI/aizynthtrain). 
 
 - [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://www.nature.com/articles/s41467-023-38851-5) + [GitHub Repo](https://github.com/Jamson-Zhong/Graph2Edits)  
 Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen  
