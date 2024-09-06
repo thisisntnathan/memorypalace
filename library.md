@@ -17,7 +17,7 @@ Generative models for molecules. Most typically text-based inputs (SMILES/SELFIE
 
 ## Reviews
 
-- [Machine learning-aided generative molecular design](https://www.nature.com/articles/s42256-024-00843-5)  
+- [Machine learning-aided generative molecular design](https://doi.org/10.1038/s42256-024-00843-5)  
 Yuanqi Du, Arian R. Jamasb, Jeff Guo, Tianfan Fu, Charles Harris, Yingheng Wang, Chenru Duan, Pietro Liò, Philippe Schwaller, and Tom L. Blundell  
 *Nat. Mach. Intell.*, **2024**  
 
@@ -86,17 +86,17 @@ Nicola De Cao and Thomas Kipf
 
 ## Other
 
-- [Llamol: a dynamic multi-conditional generative transformer for de novo molecular design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00863-8)  
+- [Llamol: a dynamic multi-conditional generative transformer for de novo molecular design](https://doi.org/10.1186/s13321-024-00863-8)  
 Niklas Dobberstein, Astrid Maass & Jan Hamaekers  
 *J. of Cheminf.*, **2024**, 16, 73  
 &ensp; Transformer based on Llama2, tweaked for molgen. Not the most impressive paper, but some interesting tidbits scatted throughout (e.g., SCL, etc...)  
 
-- [REINVENT4: Modern AI–driven generative molecule design](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00812-5) + [GitHub Repo](https://github.com/MolecularAI/REINVENT4)  
+- [REINVENT4: Modern AI–driven generative molecule design](https://doi.org/10.1186/s13321-024-00812-5) + [GitHub Repo](https://github.com/MolecularAI/REINVENT4)  
 Hannes H. Loeffler, Jiazhen He, Alessandro Tibo, Jon Paul Janet, Alexey Voronov, Lewis H. Mervin & Ola Engkvist  
 *J. of Cheminf.*, **2024**, 16, 20  
 &ensp; AstraZeneca's molecular design tool for *de novo* design, scaffold hopping, R-group replacement, linker design and molecule optimization.  
 
-- [Masked graph modeling for molecule generation](https://www.nature.com/articles/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
+- [Masked graph modeling for molecule generation](hhttps://doi.org/10.1038/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
 Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho  
 *Nat. Commun.* **2021**, *12*, 3156  
 &ensp; MPNN for moleular graphs. Generation by iterative sampling of subsets of graphs components, furuter generation steps are conditionalized on the rest of the graph. Trained on QM9 and ChEMBL. Paper provides analysis of GuacaMol benchmark metrics particularly their independence. Conclusions:  
@@ -155,7 +155,7 @@ Mohammadamin Tavakoli, Ryan J. Miller, Mirana Claire Angel, Michael A. Pfeiffer,
 
 ## Reaction Network Graphs
 
-- [Discovery of novel chemical reactions by deep generative recurrent neural network](https://www.nature.com/articles/s41598-021-81889-y)  
+- [Discovery of novel chemical reactions by deep generative recurrent neural network](https://doi.org/10.1038/s41598-021-81889-y)  
 William Bort, Igor I. Baskin, Timur Gimadiev, Artem Mukanov, Ramil Nugmanov, Pavel Sidorov, Gilles Marcou, Dragos Horvath, Olga Klimchuk, Timur Madzhidov, and Alexandre Varnek  
 *Sci. Rep.* **2021**, *11*, 3178  
 
@@ -167,11 +167,11 @@ Yeonjoon Kim, Jin Woo Kim, Zeehyo Kim, and Woo Youn Kim
 
 ## Other
 
-- [Reaction rebalancing: a novel approach to curating reaction databases](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00875-4) + [GitHub Repo](https://github.com/TieuLongPhan/SynRBL)  
+- [Reaction rebalancing: a novel approach to curating reaction databases](https://doi.org/10.1186/s13321-024-00875-4) + [GitHub Repo](https://github.com/TieuLongPhan/SynRBL)  
 Tieu-Long Phan, Klaus Weinbauer, Thomas Gärtner, Daniel Merkle, Jakob L. Andersen, Rolf Fagerberg, and Peter F. Stadler  
 *J. Cheminf.* **2024**, *16*, 82  
 
-- [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://www.nature.com/articles/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
+- [Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates](https://doi.org/10.1038/s41467-020-18671-7) + [GitHub Repo](https://github.com/rxn4chemistry/OpenNMT-py/tree/carbohydrate_transformer)  
 Giorgio Pesciullesi, Philippe Schwaller, Teodoro Laino, and Jean-Louis Reymond  
 *Nat. Commun.* **2020**, *11*, 4874  
 &ensp; Seq2Seq model for SMILES strings. Transfer learning allows for success on few-instance reactions. [Blog post](https://communities.springernature.com/posts/transfer-learning-enables-the-molecular-transformer-to-predict-regio-and-stereoselective-reactions-on-carbohydrates)
@@ -188,7 +188,7 @@ Ramil Nugmanov, Natalia Dyubankova, Andrey Gedich, and Joerg Kurt Wegner
 *J. Chem. Inf. Model.* **2022**, *62*, 14, 3307–3315  
 &ensp; Chython RxnMapper/Graphormer Mapper that's heavily based on RXNMapper and CGR Tools. Semisupervised graph attention based model trained on USPTO and Pistachio datasets.  
 
-- [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100138)  
+- [Atom-to-atom Mapping: A Benchmarking Study of Popular Mapping Algorithms and Consensus Strategies](https://doi.org/10.1002/minf.202100138)  
 Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Verhoeven, Timur R. Gimadiev, Valentina A. Afonina, Zarina Ibragimova, Assima Rakhimbekova, Pavel Sidorov, Andrei Gedich, Rail Suleymanov, Ravil Mukhametgaleev, Joerg Wegner, Hugo Ceulemans, and Alexandre Varnek  
 *Mol. Inf.* **2022**, *41*, 2100138  
 
@@ -196,7 +196,7 @@ Arkadii Lin, Natalia Dyubankova, Timur I. Madzhidov, Ramil I. Nugmanov, Jonas Ve
 Philippe Schwaller, Benjamin Hoover, Jean-Louis Reymond, Hendrik Strobelt, and Teodoro Laino  
 *Sci. Adv.* **2021**, *7* (15), eabe4166  
 
-- [Reaction Data Curation I: Chemical Structures and Transformations Standardization](https://onlinelibrary.wiley.com/doi/10.1002/minf.202100119) + [GitHub Repo](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)  
+- [Reaction Data Curation I: Chemical Structures and Transformations Standardization](https://doi.org/10.1002/minf.202100119) + [GitHub Repo](https://github.com/Laboratoire-de-Chemoinformatique/Reaction_Data_Cleaning)  
 Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. Nugmanov, Tagir Akhmetshin, Pavel Sidorov, Natalia Duybankova, Jonas Verhoeven, Joerg Wegner, Hugo Ceulemans, Andrey Gedich, Timur I. Madzhidov, and Alexandre Varnek  
 *Mol. Inf.* **2021**, *40*, 2100119  
 
@@ -213,7 +213,7 @@ Annie M. Westerlund, Lakshidaa Saigiridharan, Samuel Genheden
 &ensp; Retrosynthesis planning with the ability to constrain bonds, i.e., built in divergent synthesis constraints leading to shorter routes.  
 &ensp; AiZynthFinder with MO-MCTS and broken bonds score was used to run multistep experiments and can be found at: [https://github.com/MolecularAI/aizynthfinder](https://github.com/MolecularAI/aizynthfinder). Chemformer can be found at: [https://github.com/MolecularAI/Chemformer](https://github.com/MolecularAI/Chemformer). AiZynthTrain was used to tag disconnection-sites in the Chemformer training data and can be found at: [https://github.com/MolecularAI/aizynthtrain](https://github.com/MolecularAI/aizynthtrain). 
 
-- [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://www.nature.com/articles/s41467-023-38851-5) + [GitHub Repo](https://github.com/Jamson-Zhong/Graph2Edits)  
+- [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://doi.org/10.1038/s41467-023-38851-5) + [GitHub Repo](https://github.com/Jamson-Zhong/Graph2Edits)  
 Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen  
 *Nat. Commun.* **2023**, *14*, 3009  
 
@@ -224,7 +224,7 @@ Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen
 Vincent Fan, Yujie Qian, Alex Wang, Amber Wang, Connor W. Coley, and Regina Barzilay  
 *J. Chem. Inf. Model.* **2024**, *ASAP*  
 
-- [Advancements in hand-drawn chemical structure recognition through an enhanced DECIMER architecture](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00872-7)  
+- [Advancements in hand-drawn chemical structure recognition through an enhanced DECIMER architecture](https://doi.org/10.1186/s13321-024-00872-7)  
 Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck  
 *J. Cheminf.* **2024**, *16*, 76
 
@@ -234,7 +234,7 @@ Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck
 
 ## General
 
-- [MolCompass: multi-tool for the navigation in chemical space and visual validation of QSAR/QSPR models](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00888-z) + [GitHub Repo](https://github.com/sergsb/molcomplib)  
+- [MolCompass: multi-tool for the navigation in chemical space and visual validation of QSAR/QSPR models](https://doi.org/10.1186/s13321-024-00888-z) + [GitHub Repo](https://github.com/sergsb/molcomplib)  
 Sergey Sosnin  
 *J. Cheminf.* **2024**, *16*, 98  
 
@@ -249,7 +249,7 @@ Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni
 
 ## Property/Activity Prediction
 
-- [A bioactivity foundation model using pairwise meta-learning](https://www.nature.com/articles/s42256-024-00876-w) + [GitHub Repo](https://github.com/BFeng14/ActFound)  
+- [A bioactivity foundation model using pairwise meta-learning](https://doi.org/10.1038/s42256-024-00876-w) + [GitHub Repo](https://github.com/BFeng14/ActFound)  
 Bin Feng, Zequn Liu, Nanlan Huang, Zhiping Xiao, Haomiao Zhang, Srbuhi Mirzoyan, Hanwen Xu, Jiaran Hao, Yinghui Xu, Ming Zhang & Sheng Wang  
 *Nat. Mach. Intell.* **2024**, *ASAP*  
 
@@ -266,14 +266,21 @@ Jungwoo Kim, Woojae Chang, Hyunjun Ji, and InSuk Joung
 *J. Chem. Inf. Model.* **2024**, *64*, 13, 5028  
 &ensp; Supplementing a Graph Transformer with pretraing on DFT features. SoTA performance on 7 of 22 ADME-Tox tasks in TDC. Of particular interest is the data methods and architecture.  
 
-- [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
+### Active Learning Methods
+
+- [Finding the most potent compounds using active learning on molecular pairs](hhttps://doi.org/10.3762/bjoc.20.185) + [GitHub Repo](https://github.com/RekerLab/ActiveDelta)  
+Zachary Fralish, and Daniel Reker  
+*Beilstein J. Org. Chem.* *2024*, *20*, 2152  
+&ensp; Extension of the matched pair methodology from the Reker group. Applied to Chemprop and XGB.  
+
+- [DeepDelta: predicting ADMET improvements of molecular derivatives with deep learning](https://doi.org/10.1186/s13321-023-00769-x) + [GitHub Repo](https://github.com/RekerLab/DeepDelta)  
 Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker  
 *J. Cheminformatics* **2023**, *15*, 101  
 &ensp; Uses matched molecular pairs to predict property diverences. D-MPNN architecture is based on ChemProp, modified to take in 2 molecules.
 
 ### Synthetic Accessibility
 
-- [Estimating the synthetic accessibility of molecules with building block and reaction-aware SAScore](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00879-0) + [GitHub Repo](https://github.com/snu-micc/BR-SAScore)  
+- [Estimating the synthetic accessibility of molecules with building block and reaction-aware SAScore](https://doi.org/10.1186/s13321-024-00879-0) + [GitHub Repo](https://github.com/snu-micc/BR-SAScore)  
 Shuan Chen and Yousung Jung  
 *J. Cheminf.* **2024**, *16*, 83  
 
@@ -310,24 +317,28 @@ David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley
 &ensp; Active learning tool for acceleration of virtual screening campaigns.  
 
 
-# General Cheminformatics
+# Cheminformatics
+
+- [Open-Source Approach to GPU-Accelerated Substructure Search](https://doi.org/10.1021/acs.jcim.4c00679) + [GitHub Repo](https://github.com/ZIFODS/Open_ChemSearch)  
+Andrew J. Whitehouse, Melchor Sanchez-Martinez, Seyedeh Maryam Salehi, Natalja Kurbatova, and Euan Dean  
+*J. Chem. Inf. Model.* **2024**, *ASAP*  
 
 - [When Do Quantum Mechanical Descriptors Help Graph Neural Networks to Predict Chemical Properties?](https://doi.org/10.1021/jacs.4c04670)  
 Shih-Cheng Li, Haoyang Wu, Angiras Menon, Kevin A. Spiekermann, Yi-Pei Li & William H. Green  
 *J. Am. Chem. Soc.* **2024**, *ASAP*  
 
-- [Hilbert-curve assisted structure embedding method](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00850-z) + [GitHub Repo](https://github.com/ncats/hcase)  
+- [Hilbert-curve assisted structure embedding method](https://doi.org/10.1186/s13321-024-00850-z) + [GitHub Repo](https://github.com/ncats/hcase)  
 Gergely Zahoránszky-Kőhalmi, Kanny K. Wan & Alexander G. Godfrey  
 *J. Cheminf.* **2024**, *16*, 87
 
 # Protein Structure Prediction
 
-- [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w) - No code released  
+- [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w) - No code released  
 Josh Abramson, Jonas Adler, Jack Dunger, ... & John M. Jumper  
 *Nat.* **2024** *630*, 493–500  
 &ensp; AlphaFold 3, a diffusion-based architecture that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. [Blog at Isomorphic](https://www.isomorphiclabs.com/articles/rational-drug-design-with-alphafold-3)  
 
-- [State-specific protein–ligand complex structure prediction with a multiscale deep generative model](https://www.nature.com/articles/s42256-024-00792-z) + [GitHub Repo](https://github.com/zrqiao/NeuralPLexer)  
+- [State-specific protein–ligand complex structure prediction with a multiscale deep generative model](https://doi.org/10.1038/s42256-024-00792-z) + [GitHub Repo](https://github.com/zrqiao/NeuralPLexer)  
 Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller III & Animashree Anandkumar  
 *Nat. Mach. Intell.* **2024** *6*, 195–208  
 &ensp; NeuralPLexer, a computational approach that can directly predict protein–ligand complex structures solely using protein sequence and ligand molecular graph inputs. Owing to its specificity in sampling both ligand-free-state and ligand-bound-state ensembles, NeuralPLexer consistently outperforms AlphaFold2 in terms of global protein structure accuracy on both representative structure pairs with large conformational changes and recently determined ligand-binding proteins.  
@@ -380,14 +391,14 @@ Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly
 Frank Lovering, Jack Bikker, and Christine Humblet  
 *J. Med. Chem.* **2009**, *52* (21), 6752-6756  
 
-- [Escape from Flatland 2: complexity and promiscuity](https://pubs.rsc.org/en/content/articlelanding/2013/md/c2md20347b)  
+- [Escape from Flatland 2: complexity and promiscuity](hhttps://doi.org/10.1039/C2MD20347B)  
 Frank Lovering  
 *Med. Chem. Commun.* **2013**, *4*, 515-519  
 
 
 # My papers
 
-- [Natural Product Isolation of the Extract of Cleome rupicola Fruits Exhibiting Antioxidant Activity](https://onlinelibrary.wiley.com/doi/full/10.1002/cbdv.202301382)  
+- [Natural Product Isolation of the Extract of Cleome rupicola Fruits Exhibiting Antioxidant Activity](https://doi.org/10.1002/cbdv.202301382)  
 Yumi Gambrill, Patrick Commins, Stefan Schramm, **Nathan M. Lui**, Shaikha S. AlNeyadi, Panče Naumov  
 *Chemistry & Biodiversity* **2024**, *21* (4), e20230138  
 
@@ -415,11 +426,11 @@ Yun Ma, **Nathan M. Lui**, Ivan Keresztes, Ryan A. Woltornist, and David B. Coll
 Marieh B. Al-Handawi, Srujana Polavaram, Anastasiya Kurlevskaya, Patrick Commins, Stefan Schramm, César Carrasco-López, **Nathan M. Lui**, Kyril M. Solntsev, Sergey P. Laptenok, Isabelle Navizet, and Panče Naumov  
 *Chemical Reviews* **2022**, *122* (16), 13207  
 
-- [The elusive relationship between structure and colour emission in beetle luciferases](https://www.nature.com/articles/s41570-020-00238-1)  
+- [The elusive relationship between structure and colour emission in beetle luciferases](https://doi.org/10.1038/s41570-020-00238-1)  
 César Carrasco-López, **Nathan M. Lui**, Stefan Schramm, and Panče Naumov  
 *Nature Reviews Chemistry* **2021**, *5* (1), 4  
 
-- [Thermochemiluminescent peroxide crystals](https://www.nature.com/articles/s41467-019-08816-8)  
+- [Thermochemiluminescent peroxide crystals](https://doi.org/10.1038/s41467-019-08816-8)  
 Stefan Schramm, Durga Prasad Karothu, **Nathan M. Lui**, Patrick Commins, Ejaz Ahmed, Luca Catalano, Liang Li, James Weston, Taro Moriwaki, Kyril M. Solntsev, and Panče Naumov  
 *Nature Communications* **2019**, *10* (1), 997  
 
@@ -427,6 +438,6 @@ Stefan Schramm, Durga Prasad Karothu, **Nathan M. Lui**, Patrick Commins, Ejaz A
 **Nathan M. Lui**, Stefan Schramm, and Panče Naumov  
 *New Journal of Chemistry* **2019**, *43* (3), 1122  
 
-- [Beetle luciferases with naturally red-and blue-shifted emission](https://www.life-science-alliance.org/content/1/4/e201800072)  
+- [Beetle luciferases with naturally red-and blue-shifted emission](https://doi.org/10.26508/lsa.201800072)  
 César Carrasco-López, Juliana C Ferreira, **Nathan M. Lui**, Stefan Schramm, Romain Berraud-Pache, Isabelle Navizet, Santosh Panjikar, Panče Naumov, Wael M. Rabeh  
 *Life Science Alliance* **2018**, *1* (4), e201800072  
