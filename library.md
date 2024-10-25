@@ -19,13 +19,17 @@ Generative models for molecules. Most typically text-based inputs (SMILES/SELFIE
 
 - [Machine learning-aided generative molecular design](https://doi.org/10.1038/s42256-024-00843-5)  
 Yuanqi Du, Arian R. Jamasb, Jeff Guo, Tianfan Fu, Charles Harris, Yingheng Wang, Chenru Duan, Pietro Liò, Philippe Schwaller, and Tom L. Blundell  
-*Nat. Mach. Intell.*, **2024**  
+*Nat. Mach. Intell.* **2024**, 6, 589  
 
 - [Deep Generative Models in *De Novo* Drug Molecule Generation](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01496)  
 Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei  
-*J. Chem. Inf. Model.* **2024**, 64 (7), 2174–2194  
+*J. Chem. Inf. Model.* **2024**, 64 (7), 2174  
 
 ## Diffusion Models
+
+- [A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets](https://doi.org/10.1038/s41467-024-46569-1) + [GitHub Repo](https://github.com/Layne-Huang/PMDM/tree/main)  
+Lei Huang, Tingyang Xu, Yang Yu, Peilin Zhao, Xingjian Chen, Jing Han, Zhi Xie, Hailong Li, Wenge Zhong, Ka-Chun Wong & Hengtong Zhang  
+*Nat. Commun.* **2024**, *15*, 2657  
 
 - [Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation](https://arxiv.org/abs/2404.19739) + [GitHub Repo](https://github.com/dunni3/FlowMol)  
 Ian Dunn and David Ryan Koes  
@@ -85,6 +89,14 @@ Nicola De Cao and Thomas Kipf
 &ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.  
 
 ## Other
+
+- [DrugSynthMC: An Atom-Based Generation of Drug-like Molecules with Monte Carlo Search](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01451)  
+Milo Roucairol, Alexios Georgiou, Tristan Cazenave, Filippo Prischi & Olivier E. Pardo  
+*J. Chem. Inf. Model.* **2024**, *64*, 18, 7097  
+
+- [Enabling target-aware molecule generation to follow multi objectives with Pareto MCTS](https://www.nature.com/articles/s42003-024-06746-w?fromPaywallRec=false) + [GitHub Repo](https://github.com/CNDOTA/ParetoDrug)  
+Yaodong Yang, Guangyong Chen, Jinpeng Li, Junyou Li, Odin Zhang, Xujun Zhang, Lanqing Li, Jianye Hao, Ercheng Wang & Pheng-Ann Heng  
+*Commun. Biol.* **2024**, *7*, 1074  
 
 - [Llamol: a dynamic multi-conditional generative transformer for de novo molecular design](https://doi.org/10.1186/s13321-024-00863-8)  
 Niklas Dobberstein, Astrid Maass & Jan Hamaekers  
@@ -229,7 +241,6 @@ Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck
 *J. Cheminf.* **2024**, *16*, 76
 
 
-
 # ML Driven Drug Design
 
 ## General
@@ -244,26 +255,26 @@ Alvaro Prat, Hisham Abdel Aty, Orestis Bastas, Gintautas Kamuntavičius, Tanya P
 
 - [Exposing the Limitations of Molecular Machine Learning with Activity Cliffs](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01073)  
 Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni  
-*J. Chem. Inf. Model.* **2022**, *62* (23), 5938–5951  
+*J. Chem. Inf. Model.* **2022**, *62* (23), 5938  
 &ensp; Overview of SAR cliffs and challenges for ML  
 
 ## Property/Activity Prediction
 
 - [A bioactivity foundation model using pairwise meta-learning](https://doi.org/10.1038/s42256-024-00876-w) + [GitHub Repo](https://github.com/BFeng14/ActFound)  
 Bin Feng, Zequn Liu, Nanlan Huang, Zhiping Xiao, Haomiao Zhang, Srbuhi Mirzoyan, Hanwen Xu, Jiaran Hao, Yinghui Xu, Ming Zhang & Sheng Wang  
-*Nat. Mach. Intell.* **2024**, *ASAP*  
+*Nat. Mach. Intell.* **2024**, *6*, 962  
 
 - [Ligand-Based Compound Activity Prediction via Few-Shot Learning](https://doi.org/10.1021/acs.jcim.4c00485) + [GitHub Repo](https://github.com/Rose-STL-Lab/FS-CAP)  
-Peter Eckmann*, Jake Anderson*, Rose Yu*, and Michael K. Gilson  
-*J. Chem. Inf. Model.* **2024**, *ASAP*  
+Peter Eckmann*, Jake Anderson*, Rose Yu, and Michael K. Gilson  
+*J. Chem. Inf. Model.* **2024**, *64*, (14), 5492  
 
 - [QSARtuna: An Automated QSAR Modeling Platform for Molecular Property Prediction in Drug Design](https://doi.org/10.1021/acs.jcim.4c00457) + [GitHub Repo](https://github.com/MolecularAI/QSARtuna/tree/master) + [Docs](https://molecularai.github.io/QSARtuna/)  
 Lewis Mervin, Alexey Voronov, Mikhail Kabeshov, and Ola Engkvist  
-*J. Chem. Inf. Model.* **2024**, *ASAP*  
+*J. Chem. Inf. Model.* **2024**, *64*, (14), 5365 
 
 - [Quantum-Informed Molecular Representation Learning Enhancing ADMET Property Prediction](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00772)  
 Jungwoo Kim, Woojae Chang, Hyunjun Ji, and InSuk Joung  
-*J. Chem. Inf. Model.* **2024**, *64*, 13, 5028  
+*J. Chem. Inf. Model.* **2024**, *64*, (13), 5028  
 &ensp; Supplementing a Graph Transformer with pretraing on DFT features. SoTA performance on 7 of 22 ADME-Tox tasks in TDC. Of particular interest is the data methods and architecture.  
 
 ### Active Learning Methods
@@ -293,10 +304,14 @@ Shitong Luo, Wenhao Gao, Zuofan Wu, Jian Peng, Connor W. Coley, and Jianzhu Ma
 
 - [Evolutionary Multiobjective Molecule Optimization in an Implicit Chemical Space](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00031) + [GitHub Repo](https://github.com/ahu-bioinf-lab/MOMO-master)  
 Xin Xia, Yiping Liu, Chunhou Zheng, Xingyi Zhang, Qingwen Wu, Xin Gao, Xiangxiang Zeng, and Yansen Su  
-*J. Chem. Inf. Model.* **2024**, *ASAP*  
+*J. Chem. Inf. Model.* **2024**, *64*, (13), 5161  
 &ensp; Multiobjective molecule optimization framework (MOMO) is a pareto-based MPO tool that evolves moelcules into better molecules. Genetic/ecolutionary algorithm in the latent (implicit) space ended by a VAE.  
 
 ## Virtual Screening
+
+- [molli: A General Purpose Python Toolkit for Combinatorial Small Molecule Library Generation, Manipulation, and Feature Extraction](https://doi.org/10.1021/acs.jcim.4c00424) + [GitHub Repo](https://github.com/SEDenmarkLab/molli)  
+Alexander S. Shved, Blake E. Ocampo, Elena S. Burlova, Casey L. Olen, N. Ian Rinehart & Scott E. Denmark  
+*J. Chem. Inf. Model.* **2024**, *ASAP*  
 
 - [PheSA: An Open-Source Tool for Pharmacophore-Enhanced Shape Alignment](https://doi.org/10.1021/acs.jcim.4c00516) = [GitHub Repo](https://github.com/joewah/PheSAExamples)  
 Joel Wahl  
@@ -313,35 +328,62 @@ Jenna C. Fromer, David E. Graff, and Connor W. Coley
 
 - [Accelerating high-throughput virtual screening through molecular pool-based active learning](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d0sc06805e) + [GitHub Repo](https://github.com/coleygroup/molpal)  
 David E. Graff, Eugene I. Shakhnovicha, and Connor W. Coley  
-*Chem. Sci.*, **2021**, *12*, 7866-7881  
+*Chem. Sci.*, **2021**, *12*, 7866  
 &ensp; Active learning tool for acceleration of virtual screening campaigns.  
 
 
 # Cheminformatics
 
+## Reviews
+
+- [Modern chemical graph theory](https://doi.org/10.1002/wcms.1729)  
+Leonardo S. G. Leite, Swarup Banerjee, Yihui Wei, Jackson Elowitt, Aurora E. Clark  
+*WIREs Comput. Mol. Sci.* **2024**, *14*, (5), e1729  
+
+- [Research Progresses and Applications of Knowledge Graph Embedding Technique in Chemistry](https://doi.org/10.1021/acs.jcim.4c00791)  
+Chuanghui Wang, Yunqing Yang, Jinshuai Song & Xiaofei Nan  
+*J. Chem. Inf. Model.* **2024**, *64*, (19), 7213  
+
+## General
+
+- [Topological Similarity Search in Large Combinatorial Fragment Spaces](https://doi.org/10.1021/acs.jcim.0c00850)  
+Louis Bellmann, Patrick Penner, Matthias Rarey  
+*J. Chem. Inf. Model.* **2021**, *61*, (1), 238  
+
 - [Open-Source Approach to GPU-Accelerated Substructure Search](https://doi.org/10.1021/acs.jcim.4c00679) + [GitHub Repo](https://github.com/ZIFODS/Open_ChemSearch)  
 Andrew J. Whitehouse, Melchor Sanchez-Martinez, Seyedeh Maryam Salehi, Natalja Kurbatova, and Euan Dean  
-*J. Chem. Inf. Model.* **2024**, *ASAP*  
+*J. Chem. Inf. Model.* **2024**, *64*, (18), 6993  
 
 - [When Do Quantum Mechanical Descriptors Help Graph Neural Networks to Predict Chemical Properties?](https://doi.org/10.1021/jacs.4c04670)  
 Shih-Cheng Li, Haoyang Wu, Angiras Menon, Kevin A. Spiekermann, Yi-Pei Li & William H. Green  
-*J. Am. Chem. Soc.* **2024**, *ASAP*  
+*J. Am. Chem. Soc.* **2024**, *146*, (33), 23103  
 
 - [Hilbert-curve assisted structure embedding method](https://doi.org/10.1186/s13321-024-00850-z) + [GitHub Repo](https://github.com/ncats/hcase)  
 Gergely Zahoránszky-Kőhalmi, Kanny K. Wan & Alexander G. Godfrey  
-*J. Cheminf.* **2024**, *16*, 87
+*J. Cheminf.* **2024**, *16*, 87  
+
+## Δ-machine learning
+
+- [Combining Hammett σ constants for Δ-machine learning and catalyst discovery](https://doi.org/10.1039/D4DD00228H) + [GitHub Repo](https://github.com/dianarak/cHIP)  
+V. Diana Rakotonirina, Marco Bragato, Stefan Heinenc & O. Anatole von Lilienfeld  
+*Digital Discovery* **2024**, *ASAP*  
+
+- [Big Data meets Quantum Chemistry Approximations: The Δ-Machine Learning Approach](https://doi.org/10.48550/arXiv.1503.04987)  
+Raghunathan Ramakrishnan, Pavlo O. Dral, Matthias Rupp, O. Anatole von Lilienfeld  
+*J. Chem. Theory Comput.* **2015**, *11*, (5), 2087  
+
 
 # Protein Structure Prediction
 
 - [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://doi.org/10.1038/s41586-024-07487-w) - No code released  
 Josh Abramson, Jonas Adler, Jack Dunger, ... & John M. Jumper  
-*Nat.* **2024** *630*, 493–500  
+*Nat.* **2024** *630*, 493  
 &ensp; AlphaFold 3, a diffusion-based architecture that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. [Blog at Isomorphic](https://www.isomorphiclabs.com/articles/rational-drug-design-with-alphafold-3)  
 
-- [State-specific protein–ligand complex structure prediction with a multiscale deep generative model](https://doi.org/10.1038/s42256-024-00792-z) + [GitHub Repo](https://github.com/zrqiao/NeuralPLexer)  
+- [State-specific protein-ligand complex structure prediction with a multiscale deep generative model](https://doi.org/10.1038/s42256-024-00792-z) + [GitHub Repo](https://github.com/zrqiao/NeuralPLexer)  
 Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller III & Animashree Anandkumar  
-*Nat. Mach. Intell.* **2024** *6*, 195–208  
-&ensp; NeuralPLexer, a computational approach that can directly predict protein–ligand complex structures solely using protein sequence and ligand molecular graph inputs. Owing to its specificity in sampling both ligand-free-state and ligand-bound-state ensembles, NeuralPLexer consistently outperforms AlphaFold2 in terms of global protein structure accuracy on both representative structure pairs with large conformational changes and recently determined ligand-binding proteins.  
+*Nat. Mach. Intell.* **2024**, *6*, 195  
+&ensp; NeuralPLexer, a computational approach that can directly predict protein-ligand complex structures solely using protein sequence and ligand molecular graph inputs. Owing to its specificity in sampling both ligand-free-state and ligand-bound-state ensembles, NeuralPLexer consistently outperforms AlphaFold2 in terms of global protein structure accuracy on both representative structure pairs with large conformational changes and recently determined ligand-binding proteins.  
 
 - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://openreview.net/forum?id=kKF8_K-mBbS) + [GitHub Repo](https://github.com/gcorso/DiffDock)  
 Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, and Tommi Jaakkola  
@@ -382,6 +424,16 @@ Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, and Brendan F
 Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly  
 *NeurIPS* **2015**  
 
+## Contrastive Learning
+
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://doi.org/10.48550/arXiv.2002.05709) + [GitHub Repo](https://github.com/google-research/simclr)  
+Ting Chen, Simon Kornblith, Mohammad Norouzi & Geoffrey Hinton  
+*in Proceedings of the 37th International Conference on Machine Learning*, PMLR 119:1597-1607, **2020**  
+
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://doi.org/10.48550/arXiv.1503.03832)  
+Florian Schroff, Dmitry Kalenichenko, James Philbin  
+*in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, **2015**, 815
+
 
 # Chemistry
 
@@ -397,6 +449,10 @@ Frank Lovering
 
 
 # My papers
+
+- [Sodium Alkyl(trimethylsilyl)amides: Substituent- and Solvent-dependent Solution Structures and Reactivities](https://doi.org/10.1021/jacs.4c10836)  
+Qiulin You, Yun Ma, Ryan A. Woltornist, **Nathan M. Lui**, Jesse A. Spivey, Ivan Keresztes, David B. Collum  
+*Journal of the American Chemical Society* **2024**, *ASAP*
 
 - [Natural Product Isolation of the Extract of Cleome rupicola Fruits Exhibiting Antioxidant Activity](https://doi.org/10.1002/cbdv.202301382)  
 Yumi Gambrill, Patrick Commins, Stefan Schramm, **Nathan M. Lui**, Shaikha S. AlNeyadi, Panče Naumov  
