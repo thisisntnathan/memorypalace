@@ -255,7 +255,10 @@ Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck
 
 # ML Driven Drug Design
 
-## General
+- [MolE: a foundation model for molecular graphs using disentangled attention](https://www.nature.com/articles/s41467-024-53751-y) + [GitHub Repo](https://github.com/recursionpharma/mole_public)  
+Oscar Méndez-Lucio, Christos A. Nicolaou & Berton Earnshaw  
+*Nat. Commun.* **2024**, *15*, 9431  
+&ensp; Non-commercial license  
 
 - [MolCompass: multi-tool for the navigation in chemical space and visual validation of QSAR/QSPR models](https://doi.org/10.1186/s13321-024-00888-z) + [GitHub Repo](https://github.com/sergsb/molcomplib)  
 Sergey Sosnin  
