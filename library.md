@@ -27,6 +27,10 @@ Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei
 
 ## Diffusion Models
 
+- [ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design](https://doi.org/10.48550/arXiv.2411.04130) + [GitHub Repo (model)](https://github.com/coleygroup/shepherd) + [GitHub Repo (scoring functions)](https://github.com/coleygroup/shepherd-score)  
+Keir Adams, Kento Abeywardane, Jenna Fromer, and Connor W. Coley  
+*ArXiv* **2024**  
+
 - [A dual diffusion model enables 3D molecule generation and lead optimization based on target pockets](https://doi.org/10.1038/s41467-024-46569-1) + [GitHub Repo](https://github.com/Layne-Huang/PMDM/tree/main)  
 Lei Huang, Tingyang Xu, Yang Yu, Peilin Zhao, Xingjian Chen, Jing Han, Zhi Xie, Hailong Li, Wenge Zhong, Ka-Chun Wong & Hengtong Zhang  
 *Nat. Commun.* **2024**, *15*, 2657  
@@ -89,6 +93,14 @@ Nicola De Cao and Thomas Kipf
 &ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.  
 
 ## Other
+
+- [TamGen: drug design with target-aware molecule generation through a chemical language model](https://doi.org/10.1038/s41467-024-53632-4) + [GitHub Repo](https://github.com/SigmaGenX/TamGen)  
+Kehan Wu, Yingce Xia, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui, Qizhi Pei, Lijun Wu, Shufang Xie, Si Chen, Xi Lu, Song Hu, Jinzhi Wu, Chi-Kin Chan, Shawn Chen, Liangliang Zhou, Nenghai Yu, Enhong Chen, Haiguang Liu, Jinjiang Guo, Tao Qin & Tie-Yan Liu  
+*Nat. Commun.* **2024**, *15*, 9360
+
+- [TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models](https://doi.org/10.48550/arXiv.2410.20660)  
+Kiwoong Yoo, Owen Oertell, Junhyun Lee, Sanghoon Lee & Jaewoo Kang  
+*NeurIPS* **2024**  
 
 - [DrugSynthMC: An Atom-Based Generation of Drug-like Molecules with Monte Carlo Search](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01451)  
 Milo Roucairol, Alexios Georgiou, Tristan Cazenave, Filippo Prischi & Olivier E. Pardo  
@@ -217,7 +229,7 @@ Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. 
 
 - [RLSynC: Offline–Online Reinforcement Learning for Synthon Completion](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00554)  
 Frazier N. Baker, Ziqi Chen, Daniel Adu-Ampratwum, and Xia Ning*  
-*J. Chim. Inf. Model.* **2024**, *ASAP*  
+*J. Chim. Inf. Model.* **2024**, *64* (17), 6723  
 
 - [Constrained synthesis planning with disconnection-aware transformer and multi-objective search](https://doi.org/10.26434/chemrxiv-2024-c77p4)  
 Annie M. Westerlund, Lakshidaa Saigiridharan, Samuel Genheden  
@@ -234,7 +246,7 @@ Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen
 
 - [OpenChemIE: An Information Extraction Toolkit for Chemistry Literature](https://doi.org/10.1021/acs.jcim.4c00572) + [Web App](https://mit.openchemie.info/)  
 Vincent Fan, Yujie Qian, Alex Wang, Amber Wang, Connor W. Coley, and Regina Barzilay  
-*J. Chem. Inf. Model.* **2024**, *ASAP*  
+*J. Chem. Inf. Model.* **2024**, *64* (14), 5521  
 
 - [Advancements in hand-drawn chemical structure recognition through an enhanced DECIMER architecture](https://doi.org/10.1186/s13321-024-00872-7)  
 Kohulan Rajan, Henning Otto Brinkhaus, Achim Zielesny & Christoph Steinbeck  
@@ -251,7 +263,7 @@ Sergey Sosnin
 
 - [HydraScreen: A Generalizable Structure-Based Deep Learning Approach to Drug Discovery](https://doi.org/10.1021/acs.jcim.4c00481) + [GitHub Repo](https://github.com/Ro5-ai/hydrascreen)  
 Alvaro Prat, Hisham Abdel Aty, Orestis Bastas, Gintautas Kamuntavičius, Tanya Paquet, Povilas Norvaišas, Piero Gasparotto, and Roy Tal  
-*J. Chem. Inf. Model.* *ASAP*  
+*J. Chem. Inf. Model.* *64* (15), 5817  
 
 - [Exposing the Limitations of Molecular Machine Learning with Activity Cliffs](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01073)  
 Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni  
@@ -259,6 +271,18 @@ Derek van Tilborg, Alisa Alenicheva, and Francesca Grisoni
 &ensp; Overview of SAR cliffs and challenges for ML  
 
 ## Property/Activity Prediction
+
+- [Reusability report: exploring the utility of variational graph encoders for predicting molecular toxicity in drug design](https://doi.org/10.1038/s42256-024-00923-6) + [GitHub Repo (NYAN)](https://github.com/Chokyotager/NotYetAnotherNightshade) + [GitHub Repo (Reuse)](https://github.com/LuJiangTHU/NYAN_reuse) + [GitHub Repo (Acute Tox MTL)](https://github.com/LuJiangTHU/Acute_Toxicity_NYAN)  
+Ruijiang Li, Jiang Lu, Ziyi Liu, Duoyun Yi, Mengxuan Wan, Yixin Zhang, Peng Zan, Song He & Xiaochen Bo  
+*Nat. Mach. Intell.* **2024**  
+
+- [ChemXTree: A Feature-Enhanced Graph Neural Network-Neural Decision Tree Framework for ADMET Prediction](https://doi.org/10.1021/acs.jcim.4c01186)  
+Yuzhi Xu, Xinxin Liu, Wei Xia, Jiankai Ge, Cheng-Wei Ju, Haiping Zhang, John Z.H. Zhang  
+*J. Chem. INf. Model.* **2024**, *ASAP*
+
+- [Quantitative structure–activity relationships of chemical bioactivity toward proteins associated with molecular initiating events of organ-specific toxicity](https://doi.org/10.1186/s13321-024-00917-x) + [GitHub Repo](https://github.com/DGadaleta88/MIE_QSAR)  
+Domenico Gadaleta, Marina Garcia de Lomana, Eva Serrano-Candelas, Rita Ortega-Vallbona, Rafael Gozalbes, Alessandra Roncaglioni & Emilio Benfenati  
+*J. Cheminformatics* **2024**, *16*, 122  
 
 - [A bioactivity foundation model using pairwise meta-learning](https://doi.org/10.1038/s42256-024-00876-w) + [GitHub Repo](https://github.com/BFeng14/ActFound)  
 Bin Feng, Zequn Liu, Nanlan Huang, Zhiping Xiao, Haomiao Zhang, Srbuhi Mirzoyan, Hanwen Xu, Jiaran Hao, Yinghui Xu, Ming Zhang & Sheng Wang  
@@ -309,9 +333,13 @@ Xin Xia, Yiping Liu, Chunhou Zheng, Xingyi Zhang, Qingwen Wu, Xin Gao, Xiangxian
 
 ## Virtual Screening
 
+- [Introducing SpaceGA: A Search Tool to Accelerate Large Virtual Screenings of Combinatorial Libraries](https://doi.org/10.1021/acs.jcim.4c01308) + [GitHub Repo](https://github.com/lmoesgaard/SpaceGA)  
+Laust Moesgaard and Jacob Kongsted  
+*J. Chem. Inf. Model.* **2024**, *64* (21), 8123  
+
 - [molli: A General Purpose Python Toolkit for Combinatorial Small Molecule Library Generation, Manipulation, and Feature Extraction](https://doi.org/10.1021/acs.jcim.4c00424) + [GitHub Repo](https://github.com/SEDenmarkLab/molli)  
 Alexander S. Shved, Blake E. Ocampo, Elena S. Burlova, Casey L. Olen, N. Ian Rinehart & Scott E. Denmark  
-*J. Chem. Inf. Model.* **2024**, *ASAP*  
+*J. Chem. Inf. Model.* **2024**, *64* (21), 8083    
 
 - [PheSA: An Open-Source Tool for Pharmacophore-Enhanced Shape Alignment](https://doi.org/10.1021/acs.jcim.4c00516) = [GitHub Repo](https://github.com/joewah/PheSAExamples)  
 Joel Wahl  
@@ -411,6 +439,11 @@ Xu Owen He
 Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson  
 *ICLR* **2022**  
 
+- [Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html) + [GitHub Repo](https://github.com/Microsoft/Graphormer)  
+Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu  
+*NeurIPS* **2021**  
+&ensp; Microsoft's Graphormer paper  
+
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) + [GitHub Repo (archived)](https://github.com/tensorflow/tensor2tensor)  
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin  
 *NeurIPS* **2017**  
@@ -452,7 +485,7 @@ Frank Lovering
 
 - [Sodium Alkyl(trimethylsilyl)amides: Substituent- and Solvent-dependent Solution Structures and Reactivities](https://doi.org/10.1021/jacs.4c10836)  
 Qiulin You, Yun Ma, Ryan A. Woltornist, **Nathan M. Lui**, Jesse A. Spivey, Ivan Keresztes, David B. Collum  
-*Journal of the American Chemical Society* **2024**, *ASAP*
+*Journal of the American Chemical Society* **2024**, *146* (44), 30397  
 
 - [Natural Product Isolation of the Extract of Cleome rupicola Fruits Exhibiting Antioxidant Activity](https://doi.org/10.1002/cbdv.202301382)  
 Yumi Gambrill, Patrick Commins, Stefan Schramm, **Nathan M. Lui**, Shaikha S. AlNeyadi, Panče Naumov  
