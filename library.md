@@ -281,7 +281,7 @@ Ruijiang Li, Jiang Lu, Ziyi Liu, Duoyun Yi, Mengxuan Wan, Yixin Zhang, Peng Zan,
 
 - [ChemXTree: A Feature-Enhanced Graph Neural Network-Neural Decision Tree Framework for ADMET Prediction](https://doi.org/10.1021/acs.jcim.4c01186)  
 Yuzhi Xu, Xinxin Liu, Wei Xia, Jiankai Ge, Cheng-Wei Ju, Haiping Zhang, John Z.H. Zhang  
-*J. Chem. INf. Model.* **2024**, *ASAP*
+*J. Chem. Inf. Model.* **2024**, *ASAP*
 
 - [Quantitative structure–activity relationships of chemical bioactivity toward proteins associated with molecular initiating events of organ-specific toxicity](https://doi.org/10.1186/s13321-024-00917-x) + [GitHub Repo](https://github.com/DGadaleta88/MIE_QSAR)  
 Domenico Gadaleta, Marina Garcia de Lomana, Eva Serrano-Candelas, Rita Ortega-Vallbona, Rafael Gozalbes, Alessandra Roncaglioni & Emilio Benfenati  
