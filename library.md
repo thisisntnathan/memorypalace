@@ -377,6 +377,11 @@ Chuanghui Wang, Yunqing Yang, Jinshuai Song & Xiaofei Nan
 
 ## General
 
+- [UNIQUE: A Framework for Uncertainty Quantification Benchmarking](https://doi.org/10.1021/acs.jcim.4c01578) + [GitHub Repo](https://github.com/Novartis/UNIQUE)  
+Jessica Lanini, Minh Tam Davide Huynh, Gaetano Scebba, Nadine Schneider, and Raquel Rodríguez-Pérez  
+*J. Chim. Inf. Model.* **2024** *ASAP*  
+&ensp; Combo platform for model-agnostic uncertaintly quantification. Quasi-review paper.  
+
 - [Topological Similarity Search in Large Combinatorial Fragment Spaces](https://doi.org/10.1021/acs.jcim.0c00850)  
 Louis Bellmann, Patrick Penner, Matthias Rarey  
 *J. Chem. Inf. Model.* **2021**, *61*, (1), 238  
