@@ -58,7 +58,7 @@ The almighty [LeetCode](https://leetcode.com/)
 ### Tools
 
 [Data Version Control (DVC)](https://dvc.org/)  
-[Keras Core](https://keras.io/keras_core/announcement/) (Soon to be wrapped into Keras3.0)  
+[Keras Core](https://keras.io/about/) (Wrapped into Keras3)  
 [Debugging PyTorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide3/Debugging_PyTorch.html)  
 [Google Colab](https://colab.research.google.com/)  
 [Paperspace Gradient](https://www.paperspace.com/)  
