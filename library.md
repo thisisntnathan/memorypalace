@@ -318,6 +318,10 @@ Zachary Fralish, Ashley Chen, Paul Skaluba, and Daniel Reker
 
 ### Synthetic Accessibility
 
+- [Analog Accessibility Score (AAscore) for Rational Compound Selection](https://doi.org/10.1021/acs.jcim.4c01691) + [GitHub Repo](https://github.com/U-T100/AAscore)  
+Takato Ue, Akinori Sato, and Tomoyuki Miyao  
+*J. Chem. Inf. Model.* **2024**, *ASAP*  
+
 - [Estimating the synthetic accessibility of molecules with building block and reaction-aware SAScore](https://doi.org/10.1186/s13321-024-00879-0) + [GitHub Repo](https://github.com/snu-micc/BR-SAScore)  
 Shuan Chen and Yousung Jung  
 *J. Cheminf.* **2024**, *16*, 83  
@@ -464,6 +468,49 @@ Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, and Brendan F
 - [PointerNets](https://papers.nips.cc/paper_files/paper/2015/hash/29921001f2f04bd3baee84a12e98098f-Abstract.html)  
 Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly  
 *NeurIPS* **2015**  
+
+
+## LLMs and Agents
+
+- [MemGPT: Towards LLMs as Operating Systems](https://doi.org/10.48550/arXiv.2310.08560) + [GitHub Repo](https://github.com/letta-ai/letta)  
+Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Stoica, and Joseph E. Gonzalez  
+*arXiv* **2024**  
+
+- [AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning](https://doi.org/10.48550/arXiv.2406.11200) + [GitHub Repo](https://github.com/zou-group/avatar)  
+Shirley Wu, Shiyu Zhao, Qian Huang, Kexin Huang, Michihiro Yasunaga, Kaidi Cao, Vassilis N. Ioannidis, Karthik Subbian, Jure Leskovec, and James Zou  
+*NeurIPS* **2024**  
+
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) + [GitHub Repo](https://github.com/microsoft/LoRA) (LoRA is now wrapped into the 🤗 PEFT library)  
+Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen  
+*ICLR* **2022**
+
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://doi.org/10.48550/arXiv.2005.11401)   
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, and Douwe Kiela  
+*NeurIPS* **2020**  
+  
+
+## Neural Reasoning & Decision Making
+
+- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://doi.org/10.48550/arXiv.2403.09629)  
+Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, and Noah D. Goodman  
+*CoLM* **2024**  
+
+- [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://doi.org/10.48550/arXiv.2411.10440) + [GitHub Repo](https://github.com/PKU-YuanGroup/LLaVA-CoT)  
+Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, and Li Yuan  
+*NeurIPS* **2024**  
+
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://doi.org/10.48550/arXiv.2305.10601) + [GitHub Repo](https://github.com/princeton-nlp/tree-of-thought-llm)  
+Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan  
+*NeurIPS* **2023**  
+&ensp; [ReasoningAgent (Tree of Thought with Beam Search)](https://ag2ai.github.io/ag2/docs/notebooks/agentchat_reasoning_agent/)  
+
+- [STaR: Bootstrapping Reasoning With Reasoning](https://doi.org/10.48550/arXiv.2203.14465)  
+Eric Zelikman, Yuhuai Wu, Jesse Mu, and Noah D. Goodman  
+*NeurIPS* **2022**  
+
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://doi.org/10.48550/arXiv.2201.11903)  
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou  
+*NeurIPS* **2022**
 
 ## Contrastive Learning
 
