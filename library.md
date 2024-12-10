@@ -306,6 +306,10 @@ Jungwoo Kim, Woojae Chang, Hyunjun Ji, and InSuk Joung
 
 ### Active Learning Methods
 
+- [Human-in-the-loop active learning for goal-oriented molecule generation](https://doi.org/10.1186/s13321-024-00924-y) + [GitHub Repo](https://github.com/yasminenahal/hitl-al-gomg)  
+Yasmine Nahal, Janosch Menke, Julien Martinelli, Markus Heinonen, Mikhail Kabeshov, Jon Paul Janet, Eva Nittinger, Ola Engkvist & Samuel Kaski  
+*J. Cheminformatics* **2024**, *16*, 138  
+
 - [Finding the most potent compounds using active learning on molecular pairs](hhttps://doi.org/10.3762/bjoc.20.185) + [GitHub Repo](https://github.com/RekerLab/ActiveDelta)  
 Zachary Fralish, and Daniel Reker  
 *Beilstein J. Org. Chem.* *2024*, *20*, 2152  
