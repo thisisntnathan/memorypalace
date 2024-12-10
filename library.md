@@ -456,10 +456,14 @@ Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanmin
 *NeurIPS* **2021**  
 &ensp; Microsoft's Graphormer paper  
 
+- [Denoising Diffusion Probabilistic Models](https://doi.org/10.48550/arXiv.2006.11239) + [GitHub Repo](https://github.com/hojonathanho/diffusion) + [Website](https://hojonathanho.github.io/diffusion/)  
+Jonathan Ho, Ajay Jain, Pieter Abbee  
+*NeurIPS* **2020**  
+
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) + [GitHub Repo (archived)](https://github.com/tensorflow/tensor2tensor)  
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin  
 *NeurIPS* **2017**  
-&ensp; The one, the only...  Original transformer paper  
+&ensp; The one, the only...  Original transformer paper. This code eventually becomes the 🤗 Transformers library  
 
 - [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) - No official implementation available  
 Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, and Brendan Frey  
@@ -480,9 +484,10 @@ Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Sto
 Shirley Wu, Shiyu Zhao, Qian Huang, Kexin Huang, Michihiro Yasunaga, Kaidi Cao, Vassilis N. Ioannidis, Karthik Subbian, Jure Leskovec, and James Zou  
 *NeurIPS* **2024**  
 
-- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) + [GitHub Repo](https://github.com/microsoft/LoRA) (LoRA is now wrapped into the 🤗 PEFT library)  
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) + [GitHub Repo](https://github.com/microsoft/LoRA)    
 Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen  
-*ICLR* **2022**
+*ICLR* **2022**  
+&ensp; LoRA is now wrapped into the 🤗 PEFT library
 
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://doi.org/10.48550/arXiv.2005.11401)   
 Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, and Douwe Kiela  
