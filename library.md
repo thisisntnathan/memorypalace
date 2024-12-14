@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Paper Library
+title: Library
 nav_key: Papers
 aside:
   toc: true
