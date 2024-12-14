@@ -1,11 +1,13 @@
 header:
   - title: Library
     url: /library.html
+  - title: Reading List
+    url: /readinglist.html
   - title: AI/ML
     url: /comp.html
   - title: Chemistry
     url: /chemistry.html
-  - title: Archive
-    url: /archive.html
+  - title: Mental Clutter
+    url: /clutter.html
   - title: About
     url: /about.html
