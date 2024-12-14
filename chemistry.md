@@ -6,8 +6,9 @@ aside:
   toc: true
 ---
 
+Some practical tips, tricks, and tools for chemistry I picked up in grad school
 
-Some practical tips, tricks, and tools for organic chemistry I picked up in grad school
+## Synthesis
 
 ### Quick Resources
 
@@ -65,9 +66,3 @@ Some practical tips, tricks, and tools for organic chemistry I picked up in grad
 ### Blog Posts
 
 [Joaquin Barroso's "The 'Art' of Finding Transition States"](https://joaquinbarroso.com/2016/05/26/the-art-of-finding-transition-states-part-1/)+ [Part 2](https://joaquinbarroso.com/2016/05/31/the-art-of-finding-transition-states-part-2/)  
-
-
-## Completely Irrelevant, but Useful Resources
-
-[Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)  
-[Tim Minchin's 9 Life Lessons](https://www.youtube.com/watch?v=yoEezZD71sc)  
