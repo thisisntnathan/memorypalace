@@ -138,7 +138,7 @@ GitHub for [Cornell's ChemE 6888: Deep Learning](https://github.com/PEESEgroup/S
 
 ### Tools
 
-[RDKit](https://www.rdkit.org/)  
+[RDKit](https://www.rdkit.org/) + [Cheat Sheet](https://xinhaoli74.github.io/posts/2020/04/RDKit-Cheatsheet/)  
 [RDChiral](https://github.com/connorcoley/rdchiral) - Wrapper for RDKit's RunReactants to improve stereochemistry handling ([Paper](https://pubs.acs.org/doi/full/10.1021/acs.jcim.9b00286))  
 [Open Babel](https://openbabel.org/wiki/Main_Page) - Chemical Format Conversion  
 [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/) - easy GNNs for PyTorch  
