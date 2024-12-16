@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: Reading List
@@ -11,4 +10,6 @@ mathjax_autoNumber: false
 ---
 
 
-Like a todo-list but for knowledge. This page is (hopefully) auto-updated by the curating agent...
+Like a todo-list but for knowledge. This page is (hopefully) auto-updated by the curating agent...  
+
+
