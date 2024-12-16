@@ -9,19 +9,5 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-
 Like a todo-list but for knowledge. This page is (hopefully) auto-updated by the curating agent...  
-
-
-Autocommitted text from the cli...  
-
-Autocommitted text from the cli...  
-
-
-Autocommitted text from the cli...  
-
-
-Autocommitted text from the cli...  
-
-Commit signed by the autowriter bot? 
 
