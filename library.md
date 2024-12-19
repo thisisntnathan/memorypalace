@@ -25,7 +25,12 @@ Yuanqi Du, Arian R. Jamasb, Jeff Guo, Tianfan Fu, Charles Harris, Yingheng Wang,
 Chao Pang, Jianbo Qiao, Xiangxiang Zeng, Quan Zou, and Leyi Wei  
 *J. Chem. Inf. Model.* **2024**, 64 (7), 2174  
 
-## Diffusion Models
+## Diffusion / Flow Matching Models
+
+- [Exploring Discrete Flow Matching for 3D De Novo Molecule Generation](https://arxiv.org/abs/2411.16644) + [GitHub Repo](https://github.com/dunni3/FlowMol)  
+Ian Dunn, and David R. Koes  
+*NeurIPS* **2024**  
+&ensp; Benchmarks discrete flow matching techniques for 3D molecular design. Paper introduces FlowMol-CTMC, a state-of-the-art model with fewer parameters than existing methods, demonstrating superior performance on small molecule generation. Other models often generate chemically valid but atypical functional groups outside the training distribution. Paper highlights gaps in structural motif prediction while advancing generative approaches for drug discovery.  
 
 - [ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design](https://doi.org/10.48550/arXiv.2411.04130) + [GitHub Repo (model)](https://github.com/coleygroup/shepherd) + [GitHub Repo (scoring functions)](https://github.com/coleygroup/shepherd-score)  
 Keir Adams, Kento Abeywardane, Jenna Fromer, and Connor W. Coley  
