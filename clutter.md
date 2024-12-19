@@ -16,6 +16,8 @@ Trivial things I find on the internet that could be relevant/useful/important/re
 
 ## Other...
 
+[uv, a python package manager written in Rust](https://docs.astral.sh/uv)  
+[runn, the fastest python linter I've seen yet](https://docs.astral.sh/ruff)
 [MiniQR Code Generator](https://mini-qr-code-generator.vercel.app/)  
 
 
@@ -23,3 +25,7 @@ Trivial things I find on the internet that could be relevant/useful/important/re
 
 [Randy Pausch's Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)  
 [Tim Minchin's 9 Life Lessons](https://www.youtube.com/watch?v=yoEezZD71sc)  
+
+## Tri things
+
+[Swim Dojo](https://www.swimdojo.com/)  
