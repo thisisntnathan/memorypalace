@@ -232,6 +232,10 @@ Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. 
 
 # Computer-Aided Retrosynthesis Planning
 
+- [Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases](https://arxiv.org/abs/2412.05269)  
+Krzysztof Maziarz, Guoqing Liu, Hubert Misztela, Aleksei Kornev, Piotr Gaiński, Holger Hoefling, Mike Fortunato, Rishi Gupta, Marwin Segler  
+*arXiv* **2024**  
+
 - [RLSynC: Offline–Online Reinforcement Learning for Synthon Completion](https://pubs.acs.org/doi/10.1021/acs.jcim.4c00554)  
 Frazier N. Baker, Ziqi Chen, Daniel Adu-Ampratwum, and Xia Ning*  
 *J. Chim. Inf. Model.* **2024**, *64* (17), 6723  
@@ -432,7 +436,8 @@ Josh Abramson, Jonas Adler, Jack Dunger, ... & John M. Jumper
 - [State-specific protein-ligand complex structure prediction with a multiscale deep generative model](https://doi.org/10.1038/s42256-024-00792-z) + [GitHub Repo](https://github.com/zrqiao/NeuralPLexer)  
 Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F. Miller III & Animashree Anandkumar  
 *Nat. Mach. Intell.* **2024**, *6*, 195  
-&ensp; NeuralPLexer, a computational approach that can directly predict protein-ligand complex structures solely using protein sequence and ligand molecular graph inputs. Owing to its specificity in sampling both ligand-free-state and ligand-bound-state ensembles, NeuralPLexer consistently outperforms AlphaFold2 in terms of global protein structure accuracy on both representative structure pairs with large conformational changes and recently determined ligand-binding proteins.  
+&ensp; NeuralPLexer, a computational approach that can directly predict protein-ligand complex structures solely using protein sequence and ligand molecular graph inputs. Owing to its specificity in sampling both ligand-free-state and ligand-bound-state ensembles, NeuralPLexer consistently outperforms AlphaFold2 in terms of global protein structure accuracy on both representative structure pairs with large conformational changes and recently determined ligand-binding proteins. Some interesting takes in the [OpenReview for their ICLR 2023 submission](https://openreview.net/forum?id=kKF8_K-mBbS).  
+&ensp; Very interesting [follow up study/comment](https://arxiv.org/abs/2412.02889) from Pat Walters about test set infiltration and data purity (see LinkedIn for some spicy debate about this preprint).  
 
 - [DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking](https://openreview.net/forum?id=kKF8_K-mBbS) + [GitHub Repo](https://github.com/gcorso/DiffDock)  
 Gabriele Corso, Hannes Stärk, Bowen Jing, Regina Barzilay, and Tommi Jaakkola  
@@ -488,10 +493,16 @@ Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly
 - [MemGPT: Towards LLMs as Operating Systems](https://doi.org/10.48550/arXiv.2310.08560) + [GitHub Repo](https://github.com/letta-ai/letta)  
 Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Stoica, and Joseph E. Gonzalez  
 *arXiv* **2024**  
+&ensp; Infinite context for lanuage models. Now pacakged as part of [Letta](https://www.letta.com/).  
 
 - [AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning](https://doi.org/10.48550/arXiv.2406.11200) + [GitHub Repo](https://github.com/zou-group/avatar)  
 Shirley Wu, Shiyu Zhao, Qian Huang, Kexin Huang, Michihiro Yasunaga, Kaidi Cao, Vassilis N. Ioannidis, Karthik Subbian, Jure Leskovec, and James Zou  
 *NeurIPS* **2024**  
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) + [Project Site](https://react-lm.github.io/)  
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao  
+*ICLR* **2023**  
+&ensp; Integrates REasoning and ACTing in large language models (LLMs) to enhance their performance and versatility. By generating reasoning traces and task-specific actions in an interleaved manner, ReAct allows LLMs to synergize these processes. Key contributions include: 1) Reasoning and Action Synergy: Reasoning helps update action plans and handle exceptions, while actions enable interaction with external sources, such as APIs, to gather information. 2) Improved Accuracy and Interpretability: On tasks like question answering (HotpotQA) and fact verification (Fever), ReAct reduces hallucination and error propagation while providing interpretable problem-solving steps. 3) Superior Decision-Making Performance: In interactive decision-making benchmarks (ALFWorld and WebShop), ReAct outperforms imitation and reinforcement learning methods with significant success rate improvements. ReAct demonstrates improved effectiveness over state-of-the-art baselines, better human interpretability, and increased trustworthiness by combining reasoning and action.  
 
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) + [GitHub Repo](https://github.com/microsoft/LoRA)    
 Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen  
@@ -504,6 +515,11 @@ Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin
   
 
 ## Neural Reasoning & Decision Making
+
+- [Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](https://arxiv.org/abs/2412.09078)  
+Zhenni Bi, Kai Han, Chuanjian Liu, Yehui Tang, Yunhe Wang  
+*arXiv* **2024**  
+&ensp; Unlike existing approaches like Chain-of-Thought (CoT) and Tree-of-Thought (ToT), which rely on a single pass of reasoning, FoT uses multiple interconnected reasoning trees to enable collaborative decision-making. Key features include: 1) Sparse Activation: Focuses on the most relevant reasoning paths for enhanced efficiency and accuracy. 2) Dynamic Self-Correction: Allows real-time error detection and learning from mistakes. 3) Consensus-Guided Decision-Making: Balances correctness and computational resource usage. The framework achieves significant improvements in reasoning accuracy and efficiency, making LLMs more effective at tackling complex tasks.
 
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://doi.org/10.48550/arXiv.2403.09629)  
 Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, and Noah D. Goodman  
