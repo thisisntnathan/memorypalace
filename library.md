@@ -560,9 +560,9 @@ Qiulin You, Yun Ma, Ryan A. Woltornist, **Nathan M. Lui**, Jesse A. Spivey, Ivan
 Yumi Gambrill, Patrick Commins, Stefan Schramm, **Nathan M. Lui**, Shaikha S. AlNeyadi, Panče Naumov  
 *Chemistry & Biodiversity* **2024**, *21* (4), e20230138  
 
-- [Structure-Selectivity Principles Underlying Alkylations of Oppolzer’s Camphorsultam Enolates](https://www.proquest.com/openview/c20f7b7aa67c2b55b8917c4cf91f27ff)  
+- [Structure-Selectivity Principles Underlying Alkylations of Oppolzer's Camphorsultam Enolates](https://www.proquest.com/openview/c20f7b7aa67c2b55b8917c4cf91f27ff)  
 **Nathan M. Lui**  
-*Cornell University ProQuest Dissertations & Theses* **2023**, 30570998
+*Cornell University ProQuest Dissertations & Theses* **2023**, 30570998
 
 - [Sodiated Oppolzer enolates: solution structures, mechanism of alkylation, and origin of stereoselectivity](https://doi.org/10.1039/D3QO01021J)  
 **Nathan M. Lui** and David B. Collum  
