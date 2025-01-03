@@ -9,7 +9,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-Like a todo-list but for knowledge. This page is (hopefully) auto-updated by the curating agent...  
+Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
 ## 03 Jan 2025  
