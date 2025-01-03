@@ -125,7 +125,7 @@ Hannes H. Loeffler, Jiazhen He, Alessandro Tibo, Jon Paul Janet, Alexey Voronov,
 *J. of Cheminf.*, **2024**, 16, 20  
 &ensp; AstraZeneca's molecular design tool for *de novo* design, scaffold hopping, R-group replacement, linker design and molecule optimization.  
 
-- [Masked graph modeling for molecule generation](hhttps://doi.org/10.1038/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
+- [Masked graph modeling for molecule generation](https://doi.org/10.1038/s41467-021-23415-2) + [GitHub Repo](https://github.com/nyu-dl/dl4chem-mgm)  
 Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho  
 *Nat. Commun.* **2021**, *12*, 3156  
 &ensp; MPNN for moleular graphs. Generation by iterative sampling of subsets of graphs components, furuter generation steps are conditionalized on the rest of the graph. Trained on QM9 and ChEMBL. Paper provides analysis of GuacaMol benchmark metrics particularly their independence. Conclusions:  
@@ -319,7 +319,7 @@ Jungwoo Kim, Woojae Chang, Hyunjun Ji, and InSuk Joung
 Yasmine Nahal, Janosch Menke, Julien Martinelli, Markus Heinonen, Mikhail Kabeshov, Jon Paul Janet, Eva Nittinger, Ola Engkvist & Samuel Kaski  
 *J. Cheminformatics* **2024**, *16*, 138  
 
-- [Finding the most potent compounds using active learning on molecular pairs](hhttps://doi.org/10.3762/bjoc.20.185) + [GitHub Repo](https://github.com/RekerLab/ActiveDelta)  
+- [Finding the most potent compounds using active learning on molecular pairs](https://doi.org/10.3762/bjoc.20.185) + [GitHub Repo](https://github.com/RekerLab/ActiveDelta)  
 Zachary Fralish, and Daniel Reker  
 *Beilstein J. Org. Chem.* *2024*, *20*, 2152  
 &ensp; Extension of the matched pair methodology from the Reker group. Applied to Chemprop and XGB.  
@@ -552,6 +552,16 @@ Ting Chen, Simon Kornblith, Mohammad Norouzi & Geoffrey Hinton
 Florian Schroff, Dmitry Kalenichenko, James Philbin  
 *in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, **2015**, 815
 
+## Recommender Systems
+
+- [A Scalable Recommendation Engine for New Users and Items](https://arxiv.org/abs/2209.06128)  
+Boya Xu, Yiting Deng, Carl Mela  
+*arXiv* **2022**  
+
+- [Contextual Bandit Algorithms with Supervised Learning Guarantees](https://proceedings.mlr.press/v15/beygelzimer11a.html)  
+Alina Beygelzimer, John Langford, Lihong Li, Lev Reyzin, Robert Schapire  
+*In Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics*, PMLR 15:19-26, **2011**  
+
 
 # Chemistry
 
@@ -561,7 +571,7 @@ Florian Schroff, Dmitry Kalenichenko, James Philbin
 Frank Lovering, Jack Bikker, and Christine Humblet  
 *J. Med. Chem.* **2009**, *52* (21), 6752-6756  
 
-- [Escape from Flatland 2: complexity and promiscuity](hhttps://doi.org/10.1039/C2MD20347B)  
+- [Escape from Flatland 2: complexity and promiscuity](https://doi.org/10.1039/C2MD20347B)  
 Frank Lovering  
 *Med. Chem. Commun.* **2013**, *4*, 515-519  
 
