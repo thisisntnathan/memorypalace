@@ -16,8 +16,8 @@ Trivial things I find on the internet that could be relevant/useful/important/re
 
 ## Other...
 
-[uv, a python package manager written in Rust](https://docs.astral.sh/uv)  
-[runn, the fastest python linter I've seen yet](https://docs.astral.sh/ruff)
+[uv](https://docs.astral.sh/uv) - a python package manager written in Rust  
+[ruff](https://docs.astral.sh/ruff) - the fastest python linter I've seen yet  
 [MiniQR Code Generator](https://mini-qr-code-generator.vercel.app/)  
 
 
