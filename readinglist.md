@@ -14,6 +14,15 @@ Like a todo-list but for knowledge. This page is (hopefully) auto-updated by the
 
 ## 03 Jan 2025  
 
+- [A Data-Driven Reaction Discovery Strategy Based on Large Language Models](https://dx.doi.org/10.26434/chemrxiv-2025-pnjg7?rft_dat=source%3Ddrss)  
+Jingyang, Zhang  
+*ChemRxiv*  
+2025-01-03  
+&ensp;The paper presents a data-driven strategy for discovering novel reactions in organic synthesis by integrating high-throughput experimentation (HTE) with large language models (LLMs). Analyzing 520 publications on cross-electrophile coupling (XEC), the method identifies unexplored substrate pairs and enhances reaction design, demonstrating the effectiveness of combining LLMs with HTE for systematic chemical innovation.  
+
+
+## 03 Jan 2025  
+
 # Reading List
 
 - [LEGOLAS: a Machine Learning method for rapid and accurate predictions of protein NMR chemical shifts](https://dx.doi.org/10.26434/chemrxiv-2025-w2qn8?rft_dat=source%3Ddrss)  
