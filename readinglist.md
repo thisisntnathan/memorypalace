@@ -12,6 +12,35 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 07 Jan 2025  
+
+- [A Robust Crystal Structure Prediction Method to Support Small Molecule Drug Development with Large Scale Validation and Prospective Studies](https://dx.doi.org/10.26434/chemrxiv-2024-f17zp-v3?rft_dat=source%3Ddrss)  
+Leif Jacobson, Dong Zhou, Imanuel Bier, Biswajit Santra, Chuanjie Wu, Haoyu Yu, Robert Abel, Richard Friesner, Lingle Wang, Adiran Suarez, Barbara Almaguer  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-06  
+&ensp;The paper presents a robust crystal structure prediction (CSP) method that combines systematic crystal packing search algorithms with machine learning force fields. Validated on a dataset of 66 molecules and 137 polymorphic forms, it accurately predicts known and suggests new low energy polymorphs. The method enhances drug development by improving formulation design and reducing risks, as demonstrated in a blinded study.  
+- [Designing A Bioinspired Degradation System for Forever Chemicals in Water Using Molecular Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-tm6js?rft_dat=source%3Ddrss)  
+Danny Nguyen, Jesus Valdiviezo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-06  
+&ensp;The paper proposes using the fatty acid photodecarboxylase (5NCC) enzyme to degrade PFAS, or 'forever chemicals,' which resist natural biodegradation. Molecular simulations, including HOMO, LUMO, and MD, were conducted to assess the enzyme's binding affinity with PFAS. This approach aims to develop a sustainable method for addressing PFAS contamination, overcoming inefficiencies in existing degradation methods.  
+- [Periodicity-aware deep learning for polymers](https://dx.doi.org/10.26434/chemrxiv-2025-g2mbp?rft_dat=source%3Ddrss)  
+Yuhui Wu, Cong Wang, Xintian Shen, Tianyi Zhang, Peng Zhang, Jian Ji  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-06  
+&ensp;The paper presents PerioGT, a periodicity-aware deep learning framework for polymers that incorporates a chemical knowledge-driven periodicity prior through contrastive learning. It employs a novel graph augmentation strategy and achieves state-of-the-art results on 12 tasks. Additionally, wet-lab experiments identify two antimicrobial polymers, showcasing the framework's practical applications and improved performance due to periodicity considerations.  
+- [A novel bottom-up approach to find lead-compounds in billion-sized libraries](https://dx.doi.org/10.26434/chemrxiv-2025-lph6p?rft_dat=source%3Ddrss)  
+Jordi Juárez-Jiménez, Xavier Barril, Álvaro Serrano-Morrás, Andrea Bertran-Mostazo, Marina Miñarro-Lleonar, Arnau Comajuncosa-Creus, Adrià Cabello, Carme Labranya, Carmen Escudero, Tian Tian, Inna Khutorianska, Dmytro S. Radchenko, Yurii S. Moroz, Lucas Defelipe, David Ruiz-Carrillo, Maria Garcia-Alai, Robert Schmidt, Matthias Rarey, Patrick Aloy, Carles Galdeano  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-06  
+&ensp;The paper presents a novel bottom-up approach for identifying lead compounds in vast chemical libraries, specifically trillion-scale on-demand collections. The method involves a systematic exploration of fragment space followed by focused mining of promising areas, utilizing advanced computational techniques to reduce false positives. This strategy successfully identified new BRD4 (BD1) binders with potency comparable to established drugs.  
+- [Is BigSMILES the Friend of Polymer Machine Learning?](https://dx.doi.org/10.26434/chemrxiv-2024-bxxhh-v5?rft_dat=source%3Ddrss)  
+Haoke Qiu, Zhao-Yan Sun  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-06  
+&ensp;The paper evaluates the performance of BigSMILES versus SMILES in polymer machine learning across 12 tasks using convolutional neural networks (CNNs). It highlights that while SMILES is simple, it struggles with polymers, whereas BigSMILES offers a more effective representation. The study aims to determine which representation enhances polymer ML tasks, particularly in property prediction and inverse design.  
+
+
 ## 03 Jan 2025  
 
 - [A Data-Driven Reaction Discovery Strategy Based on Large Language Models](https://dx.doi.org/10.26434/chemrxiv-2025-pnjg7?rft_dat=source%3Ddrss)  
