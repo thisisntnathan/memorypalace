@@ -27,6 +27,7 @@ Some practical tips, tricks, and tools for chemistry I picked up in grad school
 [The Reich Collection](https://organicchemistrydata.org/) - Now called "Organic Chemistry Data" and maintained by the ACS DOC  
 &ensp; [Electron Pushing in Organic Chemistry](https://organicchemistrydata.org/hansreich/resources/electron_pushing/)  
 &ensp; [Named Rules and Effects in Organic Chemistry](https://organicchemistrydata.org/hansreich/resources/named_effects/)  
+[Kwan Notes](https://ekwan.github.io/notes.html)  
 [Not Voodoo](http://www.chem.rochester.edu/notvoodoo/) - Demystifying synthesis magic  
 [AIST Spectral Database for Organic Compounds](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi)  
 [Reddit r/Chempros Megathread](https://www.reddit.com/r/Chempros/comments/jput3t/megathread_community_resources_collection/)  
