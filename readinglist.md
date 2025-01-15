@@ -12,6 +12,21 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 15 Jan 2025  
+
+- [ACES-GNN: Can Graph Neural Network Learn to Explain Activity Cliffs?](https://dx.doi.org/10.26434/chemrxiv-2025-11wfv?rft_dat=source%3Ddrss)  
+Xu, Chen; Dazhou, Yu; Liang , Zhao; Fang , Liu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-14  
+&ensp;The paper presents ACES-GNN, a Graph Neural Network framework designed to enhance predictive accuracy and interpretability in drug discovery by incorporating explanation supervision for activity cliffs. Tested on 30 pharmacological targets, ACES-GNN outperforms baseline methods in both prediction and explanation quality, addressing challenges of "intra-scaffold" generalization and promoting interpretable AI in molecular modeling.  
+
+- [How Local is `Local'? Deep Learning Reveals Locality of the Induced Magnetic Field of Polycyclic Aromatic Hydrocarbons](https://dx.doi.org/10.26434/chemrxiv-2025-pqmcc?rft_dat=source%3Ddrss)  
+Renana, Gershoni-Poranne; Yair, Davidson; Aviad, Philipp; Sabyasachi, Chakraborty; Alex M., Bronstein  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-14  
+&ensp;The paper explores the locality of magnetic response in polycyclic aromatic hydrocarbons using graph neural networks (GNNs) with a graph-of-rings representation. It demonstrates high prediction accuracy (MAE < 0.5 ppm) despite training on smaller molecules and employs a k-hop expansion strategy for scalability. The findings suggest efficient magnetic characterization without expensive DFT calculations.  
+
+
 ## 07 Jan 2025  
 
 - [Cross-model Transferability among Large Language Models on the Platonic Representations of Concepts](https://arxiv.org/abs/2501.02009)  
