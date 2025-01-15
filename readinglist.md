@@ -14,6 +14,12 @@ Like a todo-list but for knowledge. Ideally this page is auto-updated by the cur
 
 ## 15 Jan 2025  
 
+- [How Local is `Local'? Deep Learning Reveals Locality of the Induced Magnetic Field of Polycyclic Aromatic Hydrocarbons](https://dx.doi.org/10.26434/chemrxiv-2025-pqmcc?rft_dat=source%3Ddrss)  
+Renana Gershoni-Poranne, Yair Davidson, Aviad Philipp, Sabyasachi Chakraborty, Alex M. Bronstein  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-14  
+&ensp;The paper explores the locality of the magnetic response in polycyclic aromatic hydrocarbons using graph neural networks (GNNs). Trained on datasets with varying sizes of molecules, the models maintain high accuracy (MAE < 0.5 ppm) even with 15-ring molecules. The study demonstrates an effective k-hop expansion strategy, aiding in overcoming GNN generalization and enhancing molecule characterization efficiency.
+
 - [ACES-GNN: Can Graph Neural Network Learn to Explain Activity Cliffs?](https://dx.doi.org/10.26434/chemrxiv-2025-11wfv?rft_dat=source%3Ddrss)  
 Xu, Chen; Dazhou, Yu; Liang , Zhao; Fang , Liu  
 *Theoretical and Computational Chemistry on ChemRxiv*  
