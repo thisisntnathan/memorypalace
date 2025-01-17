@@ -14,6 +14,46 @@ Like a todo-list but for knowledge. Ideally this page is auto-updated by the cur
 
 ## 17 Jan 2025  
 
+- [Going beyond SMILES enumeration for generative deep learning in low data regimes](https://dx.doi.org/10.26434/chemrxiv-2025-fdnnq?rft_dat=source%3Ddrss)
+  * Authors: Helena Brinkmann, Antoine Argante, Hugo ter Steege, Francesca Grisoni  
+  * Summary: This research introduces four innovative approaches for data augmentation in SMILES enumeration to enhance generative deep learning in low data conditions, particularly for de novo molecule design. The study shows the effectiveness of strategies such as token deletion and atom masking and highlights the potential to optimize design in scenarios with limited data.
+
+- [Single atom substitutions in backbone aromatic groups alter membrane permeability and biological activity of cyclic peptides](https://dx.doi.org/10.26434/chemrxiv-2025-pb6d3?rft_dat=source%3Ddrss)
+  * Authors: Peter 't Hart, Joseph Openy, Sabela Vega-Ces, Gulshan Amrahova, Emeline Mestdach, Celestine Chi, Benjamin Kissel  
+  * Summary: This study explores how minor alterations to the aromatic backbones of cyclic peptides influence their membrane permeability and biological activities, providing valuable insights into the design of effective peptide-based therapeutic agents.
+
+- [Improved C5-amide bioisosteres for human neuraminidase 1 inhibitors based on 2-deoxy-2,3-didehydro-N-acetyl neuraminic acid (DANA)](https://dx.doi.org/10.26434/chemrxiv-2025-ll8zq?rft_dat=source%3Ddrss)
+  * Authors: Christopher Cairo, Mostafa Radwan, Elisa Garcia Carvajal  
+  * Summary: This paper discusses the synthesis of novel C5-amide bioisosteres as selective inhibitors for human neuraminidase 1, offering enhanced potency and selectivity compared to existing compounds, highlighting their potential therapeutic application.
+
+- [A tale of two mechanisms: The p53 modulator COTI-2 is a Zn metallochaperone](https://dx.doi.org/10.26434/chemrxiv-2025-ffb6q?rft_dat=source%3Ddrss)
+  * Authors: John F. Trant, İrem Şimşek, Michael J. Krause, Maryam Kosar, Ashley DaDalt, Farsheed Shahbazi-Raz, Azam Mohammadzadeh, Peihan Xu, Samra Khan, Olena Tykhoniuk, Deya'a Almasri, Lara K. Watanabe, Kaitlyn Breault, Fraser S. Pick, Richard L. Ho, Jeremy M. Rawson, John J. Hayward  
+  * Summary: Investigates the activation mechanism of the small molecule COTI-2, suggesting it functions as a zinc chaperone to restore the function of mutant p53 in cancer therapy.
+
+- [Synthesis of Protoberberine Alkaloids by C–H Functionalization and Anionic Aza-6π-Electrocyclization: Dual Activity as AMPK Activators and Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-78nhj?rft_dat=source%3Ddrss)
+  * Authors: Kevin Kou, Wendong Huang, Yujie Cao, Justin Perry, Eryun Zhang, Andy Trinh, Arnav Kacker, Shayne Cruz, Hannah Ceballos, Aaron Pan  
+  * Summary: This research presents a modular synthesis of protoberberine alkaloids showcasing their dual role as AMPK activators and inhibitors, contributing to our understanding of metabolic regulation.
+
+- [CIAA: Integrated Proteomics and Structural Modeling for Understanding Cysteine Reactivity with Iodoacetamide Alkyne](https://dx.doi.org/10.26434/chemrxiv-2025-tm8ch?rft_dat=source%3Ddrss)
+  * Authors: Keriann Backus, Stefano Forli, Lisa Boatner, Jerome Eberhardt, Matthew Holcomb, Flowreen Shikwana, Kendall Houk, Peiyuan Lee  
+  * Summary: This study introduces the CIAA method to analyze cysteine reactivity towards electrophilic probes, providing insights into protein interactions and implications for drug development.
+
+- [Macrocycles for Conventionally Druggable Targets: Lessons from Macrocyclic Kinase Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-s26cq?rft_dat=source%3Ddrss)
+  * Authors: Adrian Whitty, Lauren Viarengo-Baker  
+  * Summary: Reviews the unique advantages of macrocyclization in drug discovery, particularly for kinase targets, and provides guidelines for when to apply macrocyclic strategies.
+
+- [Development of Ethyl Hydrazide-Based Selective Histone Deacetylase 6 (HDAC6) PROTACs](https://dx.doi.org/10.26434/chemrxiv-2025-8dblf?rft_dat=source%3Ddrss)
+  * Authors: Finn Kristian Hansen, Daniel Stopper, Irina Honin, Felix Feller  
+  * Summary: This paper discusses the creation of HDAC6-directed PROTACs using ethyl hydrazide, demonstrating high selectivity and suggesting therapeutic applications for epigenetic drug discovery.
+
+- [Proteome-wide Covalent Targeting of Acidic Residues with Tunable N-Aryl Aziridines](https://dx.doi.org/10.26434/chemrxiv-2025-clgct?rft_dat=source%3Ddrss)
+  * Authors: Alexander Adibekian, Hao Tan, Dany Pechalrieu, Daniel Abegg, Deepanshu Fnu, Poulami Mukherjee, Angel Renteria Gomez, Osvaldo Gutierrez, David C. Powers, Nan Qiu  
+  * Summary: Reports the development of N-aryl aziridines as potent scaffolds for the covalent modification of carboxylates, with implications for drug design and therapeutic targeting.
+
+- [The wins and failures of current docking methods tested on the flexible active site of cytochromes P450](https://dx.doi.org/10.26434/chemrxiv-2024-05299-v2?rft_dat=source%3Ddrss)
+  * Authors: Dominik Suwała, Eugen Hruška  
+  * Summary: Benchmarks several docking engines, revealing insights into their predictive capabilities and limitations for cytochrome P450 proteins, highlighting the need for improved methodologies in drug design.
+
 
 
 ## 15 Jan 2025  
