@@ -12,6 +12,10 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 17 Jan 2025  
+
+
+
 ## 15 Jan 2025  
 
 - [How Local is `Local'? Deep Learning Reveals Locality of the Induced Magnetic Field of Polycyclic Aromatic Hydrocarbons](https://dx.doi.org/10.26434/chemrxiv-2025-pqmcc?rft_dat=source%3Ddrss)  
