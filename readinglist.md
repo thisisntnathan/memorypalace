@@ -14,6 +14,84 @@ Like a todo-list but for knowledge. Ideally this page is auto-updated by the cur
 
 ## 17 Jan 2025  
 
+- [Single atom substitutions in backbone aromatic groups alter membrane permeability and biological activity of cyclic peptides](https://dx.doi.org/10.26434/chemrxiv-2025-pb6d3?rft_dat=source%3Ddrss)  
+Peter, 't Hart; Joseph, Openy; Sabela, Vega-Ces; Gulshan, Amrahova; Emeline, Mestdach; Celestine, Chi; Benjamin, Kissel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;This study explores how altering aromatic groups in cyclic peptides enhances their membrane permeability and biological activity. By modifying the peptide backbone, significant differences in permeability were noted, affecting their ability as therapeutic agents.
+
+- [Improved C5-amide bioisosteres for human neuraminidase 1 inhibitors based on 2-deoxy-2,3-didehydro-N-acetyl neuraminic acid (DANA)](https://dx.doi.org/10.26434/chemrxiv-2025-ll8zq?rft_dat=source%3Ddrss)  
+Christopher, Cairo; Mostafa, Radwan; Elisa Garcia, Carvajal  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The research focuses on the development of selective neuraminidase inhibitors through bioisostere replacement of C5-amide in DANA, resulting in enhanced potency and selectivity, particularly for the NEU1 isoenzyme.
+
+- [A tale of two mechanisms: The p53 modulator COTI-2 is a Zn metallochaperone](https://dx.doi.org/10.26434/chemrxiv-2025-ffb6q?rft_dat=source%3Ddrss)  
+John F., Trant; İrem, Şimşek; Michael J., Krause; Maryam, Kosar; Ashley, DaDalt; Farsheed, Shahbazi-Raz; Azam, Mohammadzadeh; Peihan, Xu; Samra, Khan; Olena, Tykhoniuk; Deya'a, Almasri; Lara K., Watanabe; Kaitlyn, Breault; Fraser S., Pick; Richard L., Ho; Jeremy M., Rawson; John J., Hayward  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The study investigates the mechanisms of COTI-2, proposing it acts as a zinc chaperone, restoring p53 function, crucial in treating cancers with p53 mutations, and reveals its dual functionality in enhancing zinc-binding.
+
+- [Synthesis of Protoberberine Alkaloids by C–H Functionalization and Anionic Aza-6π-Electrocyclization: Dual Activity as AMPK Activators and Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-78nhj?rft_dat=source%3Ddrss)  
+Kevin, Kou; Wendong, Huang; Yujie, Cao; Justin, Perry; Eryun, Zhang; Andy, Trinh; Arnav, Kacker; Shayne, Cruz; Hannah, Ceballos; Aaron, Pan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;This work details the synthesis of protoberberine alkaloids showing dual functionality as AMPK activators and inhibitors, revealing how even small structural changes can switch their activity profile, using innovative synthetic strategies.
+
+- [CIAA: Integrated Proteomics and Structural Modeling for Understanding Cysteine Reactivity with Iodoacetamide Alkyne](https://dx.doi.org/10.26434/chemrxiv-2025-tm8ch?rft_dat=source%3Ddrss)  
+Keriann, Backus; Stefano, Forli; Lisa, Boatner; Jerome, Eberhardt; Matthew, Holcomb; Flowreen, Shikwana; Kendall, Houk; Peiyuan , Lee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;This paper introduces a method (CIAA) combining proteomics and computational modeling to predict cysteine reactivity, identifying crucial structural features that influence reactivity in biological contexts, providing a foundation for further studies.
+
+- [Macrocycles for Conventionally Druggable Targets: Lessons from Macrocyclic Kinase Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-s26cq?rft_dat=source%3Ddrss)  
+Adrian, Whitty; Lauren, Viarengo-Baker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;This research examines how macrocyclization affects kinase inhibitors, noting improvements in selectivity and ADME properties while discussing conditions that favor macrocycle use in drug discovery for highly druggable targets.
+
+- [Development of Ethyl Hydrazide-Based Selective Histone Deacetylase 6 (HDAC6) PROTACs](https://dx.doi.org/10.26434/chemrxiv-2025-8dblf?rft_dat=source%3Ddrss)  
+Finn Kristian, Hansen; Daniel, Stopper; Irina, Honin; Felix, Feller  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;The study highlights the development of non-genotoxic PROTACs targeting HDAC6, using an ethyl hydrazide as a zinc-binding group, demonstrating high efficiency in degrading specifically HDAC6 over other isoforms.
+
+- [Proteome-wide Covalent Targeting of Acidic Residues with Tunable N-Aryl Aziridines](https://dx.doi.org/10.26434/chemrxiv-2025-clgct?rft_dat=source%3Ddrss)  
+Alexander, Adibekian; Hao, Tan; Dany, Pechalrieu; Daniel, Abegg; Deepanshu, Fnu; Poulami, Mukherjee; Angel, Renteria Gomez; Osvaldo, Gutierrez; David C., Powers; Nan, Qiu  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;This paper presents a novel approach for targeting acidic residues in proteins using N-aryl aziridines, demonstrating their versatility in covalent inhibitor discovery and expanding the potential for targeting biologically relevant protein sites.
+
+- [The wins and failures of current docking methods tested on the flexible active site of cytochromes P450](https://dx.doi.org/10.26434/chemrxiv-2024-05299-v2?rft_dat=source%3Ddrss)  
+Dominik, Suwała; Eugen, Hruška  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;This benchmark study evaluates docking engines for cytochrome P450 enzymes, revealing the superiority of induced-fit methods over rigid ones for predicting ligand interactions, pointing to the need for improvements in current models.
+
+- [Evaluating the Diversity and Target Addressability of DELs using Scaffold Analysis and Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2024-9fm01-v2?rft_dat=source%3Ddrss)  
+Ruel, Cedeno; Yaelle, Fischer; Dhoha, Triki; Bertrand, Vivet; Philippe, Schambel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;This research provides a computational framework for assessing DNA-encoded libraries (DELs) based on scaffold diversity and targeting efficiency, aiding chemists in optimizing library screening processes for drug discovery.
+
+- [Compositional and functional diversity of minimal primitive coacervates in a nucleic acid-peptide world](https://dx.doi.org/10.26434/chemrxiv-2024-l40ch-v2?rft_dat=source%3Ddrss)  
+Claudia, Bonfio; Karina Kinuyo, Nakashima; Fatma Zohra, Mihoubi; Kieran, Russell; Fidan, Rahmatova; Jagandeep, Saraya; James, Robinson; Maria Julia, Maristany; Jan, Huertas; Roger, Rubio-Sánchez; Derek, O'Flaherty; Rosana, Collepardo-Guevara  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;The study presents findings on how prebiotic peptides and nucleotides form stable coacervates, contributing to hypotheses on early life origins, suggesting that their interactions were crucial in the nucleic acid-peptide evolutionary timeline.
+
+- [Electrochemical Tryptophan-Selective Bioconjugation](https://dx.doi.org/10.26434/chemrxiv-2025-s1wv9-v3?rft_dat=source%3Ddrss)  
+Kounosuke, Oisaki; Ryo, Kuroda; Eisho, Toyama; Tomoya, Sugai; Mio, Kondo; Shigeyuki, Masaoka; Maho, Imai; Kohei, Watanabe; Natsuki, Konoue; Katsuya, Maruyama; Tsuyoshi, Saitoh; Motomu, Kanai  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;Introducing a novel electrochemical method for tryptophan-selective bioconjugation, this study outlines significant advances in bioconjugation techniques, particularly under mild conditions, enhancing product homogeneity in peptide synthesis.
+
+- [Unveiling microbial single-cell growth dynamics under rapid periodic oxygen oscillations](https://dx.doi.org/10.26434/chemrxiv-2025-732st?rft_dat=source%3Ddrss)  
+Keitaro, Kasahara; Johannes, Seiffarth; Birgit, Stute; Eric, von Lieres; Thomas, Drepper; Katharina, Nöh; Dietrich, Kohlheyer  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;This research develops a microfluidic device to study microbial growth under controlled oxygen fluctuations, revealing how varying oxygen levels impact single-cell growth dynamics, providing insights into microbial adaptation to environmental changes.
+
 - [Going beyond SMILES enumeration for generative deep learning in low data regimes](https://dx.doi.org/10.26434/chemrxiv-2025-fdnnq?rft_dat=source%3Ddrss)
   * Authors: Helena Brinkmann, Antoine Argante, Hugo ter Steege, Francesca Grisoni  
   * Summary: This research introduces four innovative approaches for data augmentation in SMILES enumeration to enhance generative deep learning in low data conditions, particularly for de novo molecule design. The study shows the effectiveness of strategies such as token deletion and atom masking and highlights the potential to optimize design in scenarios with limited data.
