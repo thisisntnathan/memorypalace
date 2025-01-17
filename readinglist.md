@@ -18,6 +18,36 @@ Like a todo-list but for knowledge. Ideally this page is auto-updated by the cur
 Peter, 't Hart; Joseph, Openy; Sabela, Vega-Ces; Gulshan, Amrahova; Emeline, Mestdach; Celestine, Chi; Benjamin, Kissel  
 *Biological and Medicinal Chemistry on ChemRxiv*  
 2025-01-17  
+&ensp;The paper investigates how substituting aromatic groups in the backbone of cyclic peptides can enhance their membrane permeability and biological activity. Using Sanguinamide A as a model, various analogues were synthesized and analyzed for permeability differences and conformational changes via NMR. A target-agnostic cell painting assay indicated a correlation between permeability and biological activity, emphasizing the potential for therapeutic cyclic peptide design.  
+
+- [Improved C5-amide bioisosteres for human neuraminidase 1 inhibitors based on 2-deoxy-2,3-didehydro-N-acetyl neuraminic acid (DANA)](https://dx.doi.org/10.26434/chemrxiv-2025-ll8zq?rft_dat=source%3Ddrss)  
+Christopher, Cairo; Mostafa, Radwan; Elisa Garcia, Carvajal  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper explores new inhibitors for human neuraminidase 1 (NEU1) by substituting the C5-amide of 2-deoxy-2,3-didehydro-N-acetyl neuraminic acid (DANA) with various amide bioisosteres. Inhibitor 542 demonstrated high potency (Kí = 0.4 μM) and improved selectivity over a reference compound, while inhibitor 543 showed selectivity for NEU2 (Kí = 2.6 μM).  
+
+- [A tale of two mechanisms: The p53 modulator COTI-2 is a Zn metallochaperone](https://dx.doi.org/10.26434/chemrxiv-2025-ffb6q?rft_dat=source%3Ddrss)  
+John F., Trant; İrem, Şimşek; Michael J., Krause; Maryam, Kosar; Ashley, DaDalt; Farsheed, Shahbazi-Raz; Azam, Mohammadzadeh; Peihan, Xu; Samra, Khan; Olena, Tykhoniuk; Deya'a, Almasri; Lara K., Watanabe; Kaitlyn, Breault; Fraser S., Pick; Richard L., Ho; Jeremy M., Rawson; John J., Hayward  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper discusses COTI-2, a Zn metallochaperone, which restores function in mutant p53, crucial for cancer therapy. It reports that COTI-2 effectively targets cancer cell lines in vitro and shows safety in Phase 1b trials. The study uses cell-based assays and transcriptomics, proposing zinc-binding as a key mechanism for its therapeutic potential, highlighting broader applications for zinc deficiency-related diseases.  
+
+- [Synthesis of Protoberberine Alkaloids by C–H Functionalization and Anionic Aza-6π-Electrocyclization: Dual Activity as AMPK Activators and Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-78nhj?rft_dat=source%3Ddrss)  
+Kevin, Kou; Wendong, Huang; Yujie, Cao; Justin, Perry; Eryun, Zhang; Andy, Trinh; Arnav, Kacker; Shayne, Cruz; Hannah, Ceballos; Aaron, Pan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper describes a novel synthesis of protoberberine alkaloids through C–H functionalization and aza-6π-electrocyclization, producing compounds that show dual activity as AMPK activators and inhibitors. Key methods include Rh(III)-catalyzed reactions and NaH-mediated transformations. The research identifies structural modifications that alter AMPK activity, with in vitro assays confirming these effects.  
+
+- [CIAA: Integrated Proteomics and Structural Modeling for Understanding Cysteine Reactivity with Iodoacetamide Alkyne](https://dx.doi.org/10.26434/chemrxiv-2025-tm8ch?rft_dat=source%3Ddrss)  
+Keriann, Backus; Stefano, Forli; Lisa, Boatner; Jerome, Eberhardt; Matthew, Holcomb; Flowreen, Shikwana; Kendall, Houk; Peiyuan , Lee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper presents CIAA, a method integrating proteomics and structural modeling to assess cysteine reactivity with iodoacetamide alkyne. It uses a Random Forest model trained on chemoproteomic datasets and high-resolution structures from the PDB, identifying that no single feature predicts reactivity. Key findings include structural elements influencing reactivity, highlighting needs in computational predictions in this area.
+
+- [Single atom substitutions in backbone aromatic groups alter membrane permeability and biological activity of cyclic peptides](https://dx.doi.org/10.26434/chemrxiv-2025-pb6d3?rft_dat=source%3Ddrss)  
+Peter, 't Hart; Joseph, Openy; Sabela, Vega-Ces; Gulshan, Amrahova; Emeline, Mestdach; Celestine, Chi; Benjamin, Kissel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
 &ensp;This study explores how altering aromatic groups in cyclic peptides enhances their membrane permeability and biological activity. By modifying the peptide backbone, significant differences in permeability were noted, affecting their ability as therapeutic agents.
 
 - [Improved C5-amide bioisosteres for human neuraminidase 1 inhibitors based on 2-deoxy-2,3-didehydro-N-acetyl neuraminic acid (DANA)](https://dx.doi.org/10.26434/chemrxiv-2025-ll8zq?rft_dat=source%3Ddrss)  
