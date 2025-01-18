@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 17 Jan 2025  
+
+- [Single atom substitutions in backbone aromatic groups alter membrane permeability and biological activity of cyclic peptides](https://dx.doi.org/10.26434/chemrxiv-2025-pb6d3?rft_dat=source%3Ddrss)  
+Peter, 't Hart; Joseph, Openy; Sabela, Vega-Ces; Gulshan, Amrahova; Emeline, Mestdach; Celestine, Chi; Benjamin, Kissel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper investigates how substituting aromatic groups in the peptide backbone of Sanguinamide A affects membrane permeability and biological activity. Various synthesized analogues showed significant differences in permeability and conformation via NMR spectroscopy. A target-agnostic cell painting assay correlated permeability with biological activity, revealing that specific aromatic modifications influence therapeutic potential.  
+- [A tale of two mechanisms: The p53 modulator COTI-2 is a Zn metallochaperone](https://dx.doi.org/10.26434/chemrxiv-2025-ffb6q?rft_dat=source%3Ddrss)  
+John F., Trant; \u0130rem, \u015eimşek; Michael J., Krause; Maryam, Kosar; Ashley, DaDalt; Farsheed, Shahbazi-Raz; Azam, Mohammadzadeh; Peihan, Xu; Samra, Khan; Olena, Tykhoniuk; Deya'a, Almasri; Lara K., Watanabe; Kaitlyn, Breault; Fraser S., Pick; Richard L., Ho; Jeremy M., Rawson; John J., Hayward  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper investigates COTI-2, a thiosemicarbazone with orphan-drug status for ovarian cancer, proposing it functions as a Zn metallochaperone. It highlights COTI-2's cytotoxicity against cancer cell lines and effectiveness in clinical trials. The study uses cell-based assays and transcriptomics to support this mechanism, suggesting zinc-binding is crucial for COTI-2's activity and therapeutic potential beyond cancer.  
+- [Synthesis of Protoberberine Alkaloids by C–H Functionalization and Anionic Aza-6π-Electrocyclization: Dual Activity as AMPK Activators and Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-78nhj?rft_dat=source%3Ddrss)  
+Kevin, Kou; Wendong, Huang; Yujie, Cao; Justin, Perry; Eryun, Zhang; Andy, Trinh; Arnav, Kacker; Shayne, Cruz; Hannah, Ceballos; Aaron, Pan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper discusses a novel synthetic method for protoberberine alkaloids, including stepharotudine, emphasizing structural modifications that enable dual activity as AMPK activators and inhibitors. Key methods include oxidative Rh(III)-catalyzed C–H functionalization and anionic aza-6π-electrocyclization. In vitro assays revealed unexpected inhibitory properties of selected compounds, contributing to AMPK-related therapeutic strategies.  
+- [CIAA: Integrated Proteomics and Structural Modeling for Understanding Cysteine Reactivity with Iodoacetamide Alkyne](https://dx.doi.org/10.26434/chemrxiv-2025-tm8ch?rft_dat=source%3Ddrss)  
+Keriann, Backus; Stefano, Forli; Lisa, Boatner; Jerome, Eberhardt; Matthew, Holcomb; Flowreen, Shikwana; Kendall, Houk; Peiyuan , Lee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-17  
+&ensp;The paper presents CIAA, a method that integrates cysteine chemoproteomic datasets and structural modeling to understand cysteine reactivity with iodoacetamide alkyne. It utilizes a Random Forest model trained on chemoproteomic data and PDB structures. Key findings include important structural features influencing reactivity and highlights the need for improved prediction methods and dataset curation in cysteine studies.  
+- [Macrocycles for Conventionally Druggable Targets: Lessons from Macrocyclic Kinase Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-s26cq?rft_dat=source%3Ddrss)  
+Adrian, Whitty; Lauren, Viarengo-Baker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;The paper investigates the advantages of macrocyclic compounds in drug discovery for conventional kinase targets, comparing them to acyclic counterparts. Using closely matched compound pairs, it finds that macrocyclization can significantly enhance selectivity, membrane permeability, and metabolic stability, despite variable impacts on potency. The study suggests specific situations where macrocycles are advantageous for drug discovery efforts.  
+- [Development of Ethyl Hydrazide-Based Selective Histone Deacetylase 6 (HDAC6) PROTACs](https://dx.doi.org/10.26434/chemrxiv-2025-8dblf?rft_dat=source%3Ddrss)  
+Finn Kristian, Hansen; Daniel, Stopper; Irina, Honin; Felix, Feller  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;The paper develops ethyl hydrazide-based selective HDAC6 PROTACs to avoid the genotoxicity of hydroxamate ZBGs while achieving effective HDAC6 degradation. The study synthesized CRBN- and VHL-recruiting PROTACs, identifying 17c as the most potent, degrading HDAC6 by 91% with a DC50 of 14 nM, confirmed via the ubiquitin-proteasome system and chemoproteomics.  
+- [Proteome-wide Covalent Targeting of Acidic Residues with Tunable N-Aryl Aziridines](https://dx.doi.org/10.26434/chemrxiv-2025-clgct?rft_dat=source%3Ddrss)  
+Alexander, Adibekian; Hao, Tan; Dany, Pechalrieu; Daniel, Abegg; Deepanshu, Fnu; Poulami, Mukherjee; Angel, Renteria Gomez; Osvaldo, Gutierrez; David C., Powers; Nan, Qiu  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-16  
+&ensp;The paper introduces N-aryl aziridines as a novel scaffold for covalent targeting of carboxylate residues in proteins, addressing a gap in inhibitor discovery. Utilizing a library of fragments and chemoproteomics, the study identified promising leads for proteins like MTCH2 and RUFY1. N-aryl aziridine 5b was shown to selectively modify RUFY1, disrupting its function.
+
 ## 15 Jan 2025  
 
 - [How Local is `Local'? Deep Learning Reveals Locality of the Induced Magnetic Field of Polycyclic Aromatic Hydrocarbons](https://dx.doi.org/10.26434/chemrxiv-2025-pqmcc?rft_dat=source%3Ddrss)  
