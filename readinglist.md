@@ -14,6 +14,43 @@ Like a todo-list but for knowledge. Ideally this page is auto-updated by the cur
 
 ## 22 Jan 2025  
 
+- [Impact of Stereochemical Replacement on the Activity and Selectivity of Membrane-Active Cationic Cyclic Peptides with Broad-Spectrum Antibacterial and Antifungal Activity](https://dx.doi.org/10.26434/chemrxiv-2025-m874k?rft_dat=source%3Ddrss)  
+Keykavous, Parang; Sandeep , Lohan; Anastasia G. , Konshina; Eman H.M. , Mohammed; Naiera M, Helmy; Srishhti K. , Jha; Rakesh Kumar, Tiwari; Innokentiy , Maslennikov; Roman G. , Efremov  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-21  
+&ensp;This study investigates a library of 7-mer cyclic peptides, with L-amino acids replaced by D-isomers, revealing that peptides 15c and 16c exhibit broad-spectrum antibacterial (MIC 1.5-25 \u00b5g/mL) and antifungal activity (MIC 3.1-25 \u00b5g/mL). Methods included NMR spectroscopy and calcein assays. Both peptides demonstrated low hemolytic activity and plasma stability, offering insights for designing peptides with targeted pharmacological effects.  
+
+- [Decoding Regioselectivity in Cu(I)-Catalyzed Borylation of Al-kynes: Insights from Machine Learning and Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-1b0jp?rft_dat=source%3Ddrss)  
+Pablo, Mauleon Perez; Ram\u00f3n, Gómez Arrayás; Guillermo, Marcos-Ayuso; Sara, Fernandez Moyano; Carlos, Lendinez Sanchez; David, Quesada  
+*Organic Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;This study explores the use of machine learning to enhance regioselectivity in copper(I)-catalyzed borylation of alkynes. It combines experimental data and DFT-derived descriptors to create predictive models. The study successfully identified optimal ligands, reduced catalyst loading, and improved yields, demonstrating an effective integration of computational and experimental methods for synthesizing vinyl boronates.  
+
+- [Deciphering Driving Forces of Biomolecular Phase Separation from Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-3glrp?rft_dat=source%3Ddrss)  
+Lukas, Stelzl; Lars, Schäfer  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;The paper discusses recent advances in molecular dynamics simulations (coarse-grained and all-atom) used to analyze biomolecular phase separation. It highlights how these simulations help understand the driving forces behind biomolecular condensates at a microscopic level and addresses future challenges in simulating larger, more complex systems. No specific datasets were mentioned.  
+
+- [All that glitters is not gold: Importance of rigorous evaluation of proteochemometric models](https://dx.doi.org/10.26434/chemrxiv-2025-vbmgc?rft_dat=source%3Ddrss)  
+Olexandr, Isayev; Polina, Avdiunina; Shamieraah, Jamal; Filipp, Gusev  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;The paper emphasizes the need for rigorous evaluation of proteochemometric models (PCMs) in drug discovery, particularly in kinase-ligand bioactivity prediction. It highlights the importance of dataset curation, class imbalances, and data splitting in model performance, finding these factors most critical. The study recommends stricter evaluation standards to improve model generalizability and benchmarking practices.  
+
+- [Atomate2: Modular workflows for materials science](https://dx.doi.org/10.26434/chemrxiv-2025-tcr5h?rft_dat=source%3Ddrss)  
+Hrushikesh, Sahasrabuddhe; Alex, Ganose; Mark, Asta; Kevin, Beck; Tathagata, Biswas; Alexander, Bonkowski; Joana, Bustamante; Xin, Chen; Yuan, Chiang; Daryl, Chrzan; Jacob, Clary; Orion, Cohen; Christina, Ertural; Max, Gallant; Janine, George; Sophie, Gerits; Rhys, Goodall; Rishabh, Guha; Geoffroy, Hautier; Matthew, Horton; Aaron, Kaplan; Ryan, Kingsbury; Matthew, Kuner; Bryant, Li; Xavier, Linn; Matthew, McDermott; Rohith Srinivaas, Mohanakrishnan; Aakash, Naik; Jeffrey, Neaton; Kristin, Persson; Guido, Petretto; Thomas, Purcell; Francesco, Ricci; Benjamin, Rich; Janosh, Riebesell; Gian-Marco, Rignanese; Andrew, Rosen; Matthias, Scheffler; Jonathan, Schmidt; Jimmy-Xuan, Shen; Andrei, Sobolev; Ravishankar, Sundararaman; Cooper, Tezak; Victor, Trinquet; Joel, Varley; Derek, Vigil-Fowler; Duo, Wang; David, Waroquiers; Mingjian, Wen; Han, Yang; Hui, Zheng; Jiongzhi, Zheng; Zhuoying, Zhu; Anubhav, Jain  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;The paper introduces Atomate2, an upgraded framework for high-throughput density functional theory (DFT) calculations in materials science. It supports multiple electronic structure packages and enables flexible, abstract workflows. Atomate2 aims to reduce technical barriers and promote the adoption of new computational methods, enhancing research efficiency in the field.  
+
+- [Analyzing Spectral Distributions of Charge Transfer Character in Ensembles: A Case Study on the Reaction Center of Photosystem II](https://dx.doi.org/10.26434/chemrxiv-2025-vp17h?rft_dat=source%3Ddrss)  
+Adam, Šrut; Sinjini, Bhattacharjee; Dimitrios A., Pantazis; Vera, Krewald  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-21  
+&ensp;The paper presents a computational method to analyze charge transfer in excited states within ensembles, specifically applied to the Photosystem II reaction center. It utilizes thermal effects and identifies the Chl[D1]Pheo[D1] pair as the primary charge separation site over the P[D1]P[D2] pair. The approach is applicable to various biological and artificial systems.  
+
+
 - [Deciphering Driving Forces of Biomolecular Phase Separation from Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-3glrp?rft_dat=source%3Ddrss)  
 Lukas, Stelzl; Lars, Schäfer  
 *Biological and Medicinal Chemistry on ChemRxiv*  
