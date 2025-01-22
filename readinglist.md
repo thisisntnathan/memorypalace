@@ -12,6 +12,56 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 22 Jan 2025  
+
+- [Deciphering Driving Forces of Biomolecular Phase Separation from Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-3glrp?rft_dat=source%3Ddrss)  
+Lukas, Stelzl; Lars, Schäfer  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;The paper discusses using molecular dynamics simulations to understand biomolecular phase separation and condensate formation. It emphasizes recent advances in coarse-grained and all-atom simulations, aiming to elucidate the thermodynamic forces involved. Additionally, it addresses future challenges in conducting efficient and accurate simulations of complex biological systems.  
+
+- [All that glitters is not gold: Importance of rigorous evaluation of proteochemometric models](https://dx.doi.org/10.26434/chemrxiv-2025-vbmgc?rft_dat=source%3Ddrss)  
+Olexandr, Isayev; Polina, Avdiunina; Shamieraah, Jamal; Filipp, Gusev  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;The paper critiques the evaluation of proteochemometric models (PCMs) in drug discovery, focusing on kinase-ligand bioactivity prediction. Key factors affecting model performance include dataset curation, data splitting strategies, and class imbalances. Despite employing various descriptors and embeddings, findings show that protein embeddings have limited impact, advocating for stricter evaluation standards to enhance model generalizability.  
+
+- [Unlocking A New Biological Interface of Chiral Supramolecular Helical Polymers](https://dx.doi.org/10.26434/chemrxiv-2025-5jkhj?rft_dat=source%3Ddrss)  
+Miguel, Vázquez López; Ana , Alcalde Ordóñez; Axel , Sarmiento Fuentes; Jacobo , Gómez González; Manuel , Núñez Martínez; Manuel, Fernández Míguez; Rafael , Rodríguez Riego; Félix , Freire Iribarne; M. Eugenio , Vázquez Sentís  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;The paper explores the design of a C3 symmetric benzene-1,3,5-triyltrimethanamine (BTMA) core that can self-assemble into either chiral supramolecular helical polymers or helicates in water. The BTMA-1 molecule exhibits selectivity in recognizing DNA junctions, showing potential for biological applications. The CoII peptide helicate can be oxidized to a kinetically inert CoIII form while retaining its recognition capabilities.  
+
+- [A Photoswitchable Tryptophan Zipper – (Un)folding Fibrils in Seconds](https://dx.doi.org/10.26434/chemrxiv-2025-jclbt?rft_dat=source%3Ddrss)  
+Nadja, Simeth; Tat Cheung, Cheng; Lukas, Kaltschnee; Patrick, Maibach; Moritz, Engelke; Niklas, Schwegler; Franziska, Thomas; Christina M. , Thiele; Elena Rebecca, Cotroneo  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-22  
+&ensp;The paper presents A3Tz5, a synthetic peptide that enables light-controlled aggregation within seconds, addressing challenges in studying protein aggregation linked to neurodegenerative diseases. By incorporating photoswitchable amino acids in a tryptophan zipper, the peptide can reversible switch structures. The study utilized various spectroscopies and microscopy techniques to elucidate the underlying molecular interactions.  
+
+- [Molecular Glue-Augmented E2-Ubiquitin Recognition from A Computational Approach](https://dx.doi.org/10.26434/chemrxiv-2025-p0rj1?rft_dat=source%3Ddrss)  
+Zhaoxi, Sun; Danial , Muhammad; Wei , Xia; Musheng , Wang; John Z. H. , Zhang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-21  
+&ensp;The paper presents a computational framework for analyzing thermodynamics in the CDC34A-Ub protein-protein system using 18 molecular glues. This method surpasses standard techniques by ranking MG-(E2-Ub) affinities and elucidating interaction dynamics, aiding in the virtual screening of effective molecular glues for improving ubiquitination processes.  
+
+- [dMSGB-IE: Computational Mutational Scanning for (de)Methylation Thermodynamics](https://dx.doi.org/10.26434/chemrxiv-2025-4lskc?rft_dat=source%3Ddrss)  
+Zhaoxi, Sun; John Zeng Hui, Zhang; Zhendong, Li; Lei , Zheng; Yuqing , Yang; Xiaohui, Wang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-21  
+&ensp;The paper introduces dMSGB-IE, a cost-effective computational method for analyzing (de)methylation thermodynamics in histone-protein interactions. Utilizing implicit-solvent-based free energy techniques, it offers efficient affinity change assessments comparable to more expensive methods. The study illustrates its application on histone-reader recognition complexes, demonstrating the method’s effectiveness and reliability.  
+
+- [Streamlined Identification of Metallopeptides for Intracellular Catalysis Using Positionally-Addressable Combinatorial Libraries](https://dx.doi.org/10.26434/chemrxiv-2025-27pzn?rft_dat=source%3Ddrss)  
+M. Eugenio, Vazquez; Carmen, González-González; Laura, Martínez-Castro; Soraya, Learte-Aymamí; José R.,  Couceiro; Pau, Martin-Malpartida; Maria J., Macias; Jean-Didier, Maréchal; José L., mascarenas; Clara, Pose-Insua  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-21  
+&ensp;The paper presents a method for identifying novel catalytic metallopeptides using positionally addressable combinatorial libraries (SPOT libraries). This approach efficiently discovers β-hairpin palladopeptides for depropargylation reactions in intracellular settings, outperforming traditional trial-and-error methods.  
+
+- [Impact of Stereochemical Replacement on the Activity and Selectivity of Membrane-Active Cationic Cyclic Peptides with Broad-Spectrum Antibacterial and Antifungal Activity](https://dx.doi.org/10.26434/chemrxiv-2025-m874k?rft_dat=source%3Ddrss)  
+Keykavous, Parang; Sandeep , Lohan; Anastasia G. , Konshina; Eman H.M. , Mohammed; Naiera M, Helmy; Srishhti K. , Jha; Rakesh Kumar, Tiwari; Innokentiy , Maslennikov; Roman G. , Efremov  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-21  
+&ensp;The paper explores 7-mer macrocyclic peptides with stereochemical replacements, focusing on lead compounds 15c and 16c. They demonstrated broad-spectrum antibacterial and antifungal activity (MICs 1.5-25 µg/mL), effective biofilm degradation, and rapid kill kinetics while showing low hemolytic activity. NMR spectroscopy and simulations were used to investigate structure-activity relationships for rational peptide design.
+
 ## 17 Jan 2025  
 
 - [Single atom substitutions in backbone aromatic groups alter membrane permeability and biological activity of cyclic peptides](https://dx.doi.org/10.26434/chemrxiv-2025-pb6d3?rft_dat=source%3Ddrss)  
