@@ -12,6 +12,74 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 24 Jan 2025  
+
+- [Expediting hit-to-lead progression in drug discovery through reaction prediction and multi-objective molecular optimization](https://dx.doi.org/10.26434/chemrxiv-2025-0lxhw?rft_dat=source%3Ddrss)  
+Kenneth Atz, David F. Nippa, Yannick Stenzhorn, Alex T. Müller, Andreas Tosstorff, Jörg Benz, Hayley Binch, Markus Bürkler, Achi Haider, Dominik Heer, Remo Hochstrasser, Christian Kramer, Michael Reutlinger, Petra Schneider, Thierry Shem, Andreas Topp, Alexander Walter, Matthias B. Wittwer, Jens Wolfard, Bernd Kuhn, Mario van der Stelt, Rainer E. Martin, Uwe Grether, Gisbert Schneider  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper presents a workflow combining high-throughput experimentation and deep learning for drug discovery, focusing on hit-to-lead progression. It generated a dataset of 13,490 C-H alkylation reactions to train graph neural networks, producing a virtual library of 26,375 molecules. From these, 212 MAGL inhibitor candidates were identified, with 14 synthesized showing improved potency and favorable pharmacological profiles.  
+
+- [Structure-Switching DNA Translators for the Integration of Transcription Factor-Driven CRISPR-Cas12a Activity into Synthetic Biomolecular Networks](https://dx.doi.org/10.26434/chemrxiv-2025-jr99w?rft_dat=source%3Ddrss)  
+Alessandro Bertucci, Luca Capelli, Sofia Marzari, Elena Spezzani  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper presents a platform utilizing transcription factors (TFs) to regulate CRISPR-Cas12a activity through engineered DNA translators that switch conformations upon TF binding. Using TBP and Myc-Max, the researchers optimized these translators for precise control, demonstrating their specificity in synthetic biology applications, including activating a fluorogenic RNA aptamer and creating multimolecular communication between Cas12a and Cas13a.  
+
+- [Machine Learning Reveals Amine Type in Polymer Micelles Determines mRNA Binding, In Vitro, and In Vivo Performance for Lung-Selective Delivery](https://dx.doi.org/10.26434/chemrxiv-2025-09kqv?rft_dat=source%3Ddrss)  
+Sidharth Panda, Theresa Reineke, Branden Moriarity, Sapna Sarupria, Ella Eaton, Praveen Muralikrishnan, David Morrissey, Davis Seelig, Erin Stelljes, Alexandria Gilkey, Michael Leyden, Jackson Barnes  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;This paper investigates how different amine types in cationic micelles influence mRNA delivery performance. A library of 30 nanoparticles was tested, with machine learning analysis on 3,780 data points revealing that amine-specific binding efficiency is key for delivery efficacy. Micelle A7 showed optimal in vitro and in vivo lung delivery, highlighting the importance of chemical optimization for mRNA vehicles.  
+
+- [Water molecules in the cannabinoid receptor 2 binding site crucially impact the discovery of novel ligands](https://dx.doi.org/10.26434/chemrxiv-2025-qhx69?rft_dat=source%3Ddrss)  
+Peter Kolb, Magdalena M. Scharf, Morgan Scott-Dennis, Leire Borrega-Roman, Franziska N. Z. Giese, Darya Plevako, David A. Sykes, Dmitry B. Veprintsev  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The study focuses on discovering novel CB2R ligands using diverse in silico docking screens, emphasizing water molecules' role in binding site targeting. Employing various screening methods improved hit rates and identified novel ligands, including high-affinity compounds with a new scaffold. The research enhances strategies for ligand discovery in CB2R and similar receptors.  
+
+- [‘Innocent’ Hexafluorophosphate Salts Induce Capacity Fade in Non-Aqueous Redox Flow Batteries](https://dx.doi.org/10.26434/chemrxiv-2025-cgp0s?rft_dat=source%3Ddrss)  
+Edwin Otten, Johan Hjelm, Jelte Steen, Wenlong Tang, Jurjen Hettinga  
+*Organic Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The study examines capacity fade in non-aqueous redox flow batteries (RFBs) using the 1,2,4-benzotriazin-4-yl radical in symmetric cells, revealing non-linear degradation linked to PF6- salt anion decomposition. The research highlights that using alternative anions significantly enhances electrolyte stability, allowing a RFB with 0.38M active material to cycle for over 43 days with high capacity retention.  
+
+- [One-pot Chemoselective Aerobic Cascade Synthesis of Allyl-Aryl Sulfoxides Enabled by Photoinduced Na2 - Eosin Y and TEMPO](https://dx.doi.org/10.26434/chemrxiv-2025-6c23s-v2?rft_dat=source%3Ddrss)  
+Baby Viswambharan, Trinadh Ballanki, Aishwarya Subramanian  
+*Organic Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper presents a metal-free, one-pot method for synthesizing allyl-aryl sulfoxides from Morita–Baylis–Hillman allyl bromides and thiols using visible light photocatalysis with TEMPO as an oxidizing agent. The method avoids overoxidation, providing a selective and efficient approach for producing biologically relevant compounds.  
+
+- [Highly Z-selective Julia–Kocienski Olefination Using N-sulfonylimines and Its Mechanistic Insights from DFT Calculations](https://dx.doi.org/10.26434/chemrxiv-2024-4nfk8-v3?rft_dat=source%3Ddrss)  
+Mizuki Watanabe, Koichi Fujiwara, Takuma Chizaki, Junko Fujimoto, Tetsuo Narumi, Satoshi Shuto  
+*Organic Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper reports a highly Z-selective Julia–Kocienski olefination (Z ratio >99:1) using N-sulfonylimines, accommodating various functional groups. It enables the synthesis of valuable Z-alkenes and highlights mechanistic insights from DFT calculations, showing Z-selectivity arises from the 1,2-addition step, contrasting with conventional methods. This method enhances stereoselective olefin synthesis capabilities.  
+
+- [Synthesis of the spirotetracyclic core of the ginkgolides via a malonyl radical cascade](https://dx.doi.org/10.26434/chemrxiv-2025-2931g?rft_dat=source%3Ddrss)  
+Jonathan Burton, Pol Hernández-Lladó, Kirsten Christensen  
+*Organic Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper describes a synthesis method for the spirotetracyclic core of ginkgolides using a manganese(III)-mediated oxidative radical cascade. Starting from six simple materials, the process achieves diastereoselective synthesis of rings A, B, D, and E in nine steps, facilitating the total synthesis of these natural products exclusive to Ginkgo biloba.  
+
+- [Extending the MMPBSA method to membrane proteins: Addressing conformational changes upon ligand binding to P2Y12R](https://dx.doi.org/10.26434/chemrxiv-2025-2zr3l?rft_dat=source%3Ddrss)  
+Cizhang Zhao, Tianhong Wang, Ray Luo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper presents enhancements to the MMPBSA method for calculating binding affinities in membrane proteins, specifically applied to the P2Y12R receptor. It utilizes ensemble simulations, multi-trajectory approaches, and entropy corrections to improve accuracy regarding ligand-induced conformational changes. Validations demonstrate superior performance over traditional methods, leveraging extensive existing experimental data on P2Y12R.  
+
+- [Bridging the Gap: Using Machine Learning Force Fields to Simulate Gold Break Junctions at Pulling Speeds Closer to Experiments](https://dx.doi.org/10.26434/chemrxiv-2025-szt8q-v2?rft_dat=source%3Ddrss)  
+William Bro-Jørgensen, Joseph M. Hamill, Davide Donadio, Gemma C. Solomon  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper demonstrates that machine learning force fields provide better accuracy in simulating gold break junctions compared to classical force fields. By revealing new behaviors, particularly the dependency of average breaking distance on pulling speed, this research bridges the gap between experimental and simulation timescales, enhancing the modeling of metallic nanowires.  
+
+- [Purification of Pharmaceuticals via Retention Time Prediction: Leveraging Graph Invariant Networks, Limited Data, and Transfer Learning](https://dx.doi.org/10.26434/chemrxiv-2025-23z17?rft_dat=source%3Ddrss)  
+Pankaj Aggarwal, Rojan Shrestha, Armen G. Beck, Jun Wang, Jonathan Fine, Erik L. Regalado, Kanaka Hettiarachchi, Katharine B. Williams, Edward C. Sherer  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-23  
+&ensp;The paper presents a method for predicting retention times in drug purification using a graph invariant network and transfer learning. It utilized a dataset of 4,549 analytes from high-throughput screening, achieving an R² of 0.82 and a mean average error of 0.088 minutes. The model is implemented as a dashboard app for selecting purification methods.
+
 ## 22 Jan 2025  
 
 - [Impact of Stereochemical Replacement on the Activity and Selectivity of Membrane-Active Cationic Cyclic Peptides with Broad-Spectrum Antibacterial and Antifungal Activity](https://dx.doi.org/10.26434/chemrxiv-2025-m874k?rft_dat=source%3Ddrss)  
