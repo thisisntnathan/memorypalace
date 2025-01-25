@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 25 Jan 2025  
+
+- [In silico exploration of metabolite-derived soft materials using a chemical reaction network: what is possible?](https://dx.doi.org/10.26434/chemrxiv-2025-qfgsd?rft_dat=source%3Ddrss)  
+Jackson Nicholas, Shruti Iyer  
+*Organic Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;The paper explores the potential of microbial metabolites for developing soft materials in a sustainable economy, using a constructed chemical reaction network based on microbial metabolite databases and USPTO reaction sets. Results show chemical diversity saturating rapidly within three synthetic steps and highlight overlaps with petrochemical building blocks. A computational framework for soft materials discovery is introduced.  
+- [Co(III)-Catalyzed, N-Amino-Directed C-H Coupling with 4-Hydroxy-2-Alkynoates for Indole Synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-6lww1?rft_dat=source%3Ddrss)  
+Zhu Jin, Wenjie Yue, Renpeng Zhou, Zhixin Wang, Xuanzhen Han  
+*Organic Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;The paper presents a Co(III)-catalyzed method for N-amino-directed C-H coupling using 4-hydroxy-2-alkynoates, facilitating the synthesis of indole derivatives. It highlights the use of skeleton-chaperoned reactivity, enabling concurrent conversions of five functional groups, showcasing the potential for diverse chemical synthesis through structural scaffolding.  
+- [Artificial Intelligence Driven Prediction of Aqueous Solubility of Drug Molecules Using Molecular Descriptors and Optimized ANN Architectures](https://dx.doi.org/10.26434/chemrxiv-2025-1pnxw?rft_dat=source%3Ddrss)  
+Subhojit Majumdar, Simon Taddeo, Adriel Doppico Hidalgo, Yulianna Velina  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;The paper assesses the efficacy of Artificial Neural Networks (ANNs) for predicting aqueous solubility (logS) of drug molecules using molecular descriptors from SMILES data. It compares ANNs with baseline models like Random Forest and Linear Regression, finding ANNs to provide superior accuracy. The study emphasizes the need for balanced model design and diverse datasets to improve predictions in drug discovery.  
+- [Wiggle150: Benchmarking Density Functionals And Neural Network Potentials On Highly Strained Conformers](https://dx.doi.org/10.26434/chemrxiv-2025-4mbsk-v2?rft_dat=source%3Ddrss)  
+Joseph Gair, Corin Wagen, Rebecca Brew, Ian Nelson, Meruyert Binayeva, Amlan Nayak, Wyatt Simmons  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;The paper presents Wiggle150, a benchmark set of 150 highly strained conformations of adenosine, benzylpenicillin, and efavirenz, generated via metadynamics. It evaluates various computational methods, revealing AIMNet2 as the most robust neural network potential. The dataset aims to improve methods for non-equilibrium systems and enhance the development of density functionals and neural network potentials.  
+- [Resolution of selectivity steps of CO reduction reaction on copper by quantum Monte Carlo](https://dx.doi.org/10.26434/chemrxiv-2024-46fll-v2?rft_dat=source%3Ddrss)  
+Roman Fanta, Michal Bajdich  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;This paper applies fixed-node diffusion Monte Carlo (FNDMC) to accurately benchmark adsorption energies of CO*, H*, COH*, and CHO* on Cu(111), finding close alignment with experimental data. It highlights DFT limitations and demonstrates that water stabilizes COH* over CHO*. The authors release high-accuracy FNDMC benchmarks for refining DFT functionals in electrocatalysis.  
+- [Data-driven massive reaction networks reveal new pathways underlying catalytic CO2 hydrogenation](https://dx.doi.org/10.26434/chemrxiv-2025-pnh6l?rft_dat=source%3Ddrss)  
+Ananth Govind Rajan, Anand M. Verma, Shivam Chaturvedi, Swastik Paul, Srinibas Nandi, Rahul Sheshanarayana, Kotni Santhosh, G Valavarasu, Ambedkar Dukkipati, Chuandayani Gunawan Gwie, Pei Ying Moo, Chun Qi Joy Ng, Amol Amrute  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;The paper presents a method combining DFT, ML for activation barrier prediction, and reaction enumeration to study CO2 hydrogenation on copper. It constructs a dataset of 152 reactions and reveals 9389 elementary reactions, achieving 40-fold higher CO2 conversion rates. This method reduces human bias and uncovers key mechanisms such as intermolecular hydrogen transfer, advancing catalysis and carbon conversion research.  
+- [Efficient Black-Box Prediction of Hydrogen-Bond-Acceptor Strength](https://dx.doi.org/10.26434/chemrxiv-2025-kv6d6?rft_dat=source%3Ddrss)  
+Corin Wagen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;The paper presents a black-box workflow for predicting hydrogen-bond-acceptor strength (pKBHX values) in organic molecules. Using neural network potentials and density-functional theory, the method achieves sub-0.2 pKBHX-unit accuracy. The approach is validated against a dataset of experimentally determined pKBHX values and demonstrates applications in drug discovery that enhance bioavailability and selectivity.  
+- [Aptamer-Driven Nanovehicles for Targeted Therapy of HER2 Overexpressing Breast Cancer Cells](https://dx.doi.org/10.26434/chemrxiv-2025-d3wkp?rft_dat=source%3Ddrss)  
+Gaurav Sharma, Aditya Srivastava  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-24  
+&ensp;The paper discusses the development of an aptamer-driven nanovehicle for targeted therapy in HER2-overexpressing breast cancer. It incorporates a protamine-aptamer complex to deliver EGCG, an anticancer agent, specifically to HER2+ cells. The study utilized in silico methods, including AlphaFold for HER2 structure modeling, revealing effective binding and drug release mechanisms, enhancing treatment efficacy and safety.
+
 ## 24 Jan 2025  
 
 - [Expediting hit-to-lead progression in drug discovery through reaction prediction and multi-objective molecular optimization](https://dx.doi.org/10.26434/chemrxiv-2025-0lxhw?rft_dat=source%3Ddrss)  
