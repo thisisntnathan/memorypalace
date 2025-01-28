@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 28 Jan 2025  
+
+- [To what extent can we extrapolate Proteochemometric models: A case study for the SLC6 transporter family](https://dx.doi.org/10.26434/chemrxiv-2025-sbw2l?rft_dat=source%3Ddrss)  
+Uday, Abu Shehab; Gerhard, Ecker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper explores Proteochemometrics modeling for the SLC6 transporter family, achieving Q2 values up to 0.79. It emphasizes the importance of residue A173 in hSERT for selectivity and reveals limitations in model validation due to optimistic target stratification splits. Additionally, leave-one-transporter-out studies showed drops in performance, indicating a need for advanced methods in PCM for drug discovery.  
+
+- [Molecular Motors Activate Skeletal Muscle](https://dx.doi.org/10.26434/chemrxiv-2025-9v5t8?rft_dat=source%3Ddrss)  
+James, Tour; Yuchen, Rui; Dallin, Arnold; Jacob, Beckham; Bowen, Li; Guillaume, Duret; Gautam, Chaudhry; Jacob, Robinson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-27  
+&ensp;The paper explores using molecular motors (MMs) to control skeletal muscle contraction by regulating intracellular calcium signaling in C2C12 myoblasts and myotubes. Results show MMs induce calcium release via IP3 signaling and that inhibiting cAMP pathway proteins decreases this response, demonstrating a novel method to manipulate muscle contraction for research and therapeutic applications.  
+
+- [A Photoactivatable Free Mycolic Acid Probe to Investigate Mycobacteria–Host Interactions](https://dx.doi.org/10.26434/chemrxiv-2025-ttl38?rft_dat=source%3Ddrss)  
+Benjamin, Swarts; Kingsley, Agu; Nicholas, Banahene; Carolina, Santamaria; Christi, Kim; Jessica, Cabral; Kyle, Biegas; Casey, Papson; Andrew, Kruskamp; M. Sloan, Siegrist  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-27  
+&ensp;The paper presents a novel photoactivatable probe, x-Alk-MA, for studying free mycolic acid (fMA) interactions in Mycobacterium tuberculosis. Using asymmetric hydrogenation and diastereoselective alkylation, x-Alk-MA was synthesized to allow live-cell protein interaction studies. Results showed it effectively labeled the TREM2 receptor in macrophages, shedding light on fMA's role in immune evasion.  
+
+- [Design and Construction of a Fully Functionalised Probe Library for Mode of Action Studies](https://dx.doi.org/10.26434/chemrxiv-2025-4vn1q?rft_dat=source%3Ddrss)  
+Gary, J., Tarver; Yaroslav, Holik; Dinakaran, Murugesan; Stephen,  Patterson; Susan, Wyllie; Ian, H., Gilbert; Fabio,  Zuccotto  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-27  
+&ensp;The paper presents the design and construction of a functionalized probe library to discover novel drug targets for infectious diseases. It utilizes diverse small molecule fragments with diazirine crosslinking and acetylene moieties for target pulldown, and includes unreactive acetamide fragments for competition studies, aimed at phenotypic screening and reducing false positives.  
+
+- [Theoretical Analysis of Bivalent Binding Avidity and Kinetics: Implications for DNA-Encoded Libraries](https://dx.doi.org/10.26434/chemrxiv-2025-k5fc7?rft_dat=source%3Ddrss)  
+Richard, R. Edward, Eray, Watts; Boris, Belotserkovskii  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-27  
+&ensp;The paper analyzes bivalent binding behavior through a theoretical framework, emphasizing the avidity effect that enhances binding strength. It finds that shorter tethers improve binding equilibrium but may slow target search. A model is proposed to assess equilibrium and kinetics for optimizing bivalent DNA-Encoded Libraries (DELs) and improving selection efficiency.  
+
+- [Polyoxometalate-Loaded Carboxymethyl Chitosan Nanoparticles with Anticancer Activity](https://dx.doi.org/10.26434/chemrxiv-2025-vcn88?rft_dat=source%3Ddrss)  
+Jaclyn M., Parris; Greta R., Patzke; Caroline , Maake; Reyhaneh , Hooshmandabbasi; Giann, WiprÄchtiger  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-27  
+&ensp;The paper investigates the anticancer activity of polyoxometalate-loaded carboxymethyl chitosan nanoparticles. Three POMs were assessed for cytotoxicity against PC-3, MRC-5, and HeLa cells. The most effective was [NaP5W30O110]14-. Nanoparticles (100-250 nm) showed enhanced cytotoxicity, and the study evaluated cell recovery post-treatment, revealing significant effects based on encapsulation strategy and POM properties.
+
 ## 25 Jan 2025  
 
 - [In silico exploration of metabolite-derived soft materials using a chemical reaction network: what is possible?](https://dx.doi.org/10.26434/chemrxiv-2025-qfgsd?rft_dat=source%3Ddrss)  
