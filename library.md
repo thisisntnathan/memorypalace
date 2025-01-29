@@ -68,7 +68,7 @@ Shirley Wu, Shiyu Zhao, Qian Huang, Kexin Huang, Michihiro Yasunaga, Kaidi Cao, 
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) + [Project Site](https://react-lm.github.io/)  
 Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao  
 *ICLR* **2023**  
-&ensp; Integrates REasoning and ACTing in large language models (LLMs) to enhance their performance and versatility. By generating reasoning traces and task-specific actions in an interleaved manner, ReAct allows LLMs to synergize these processes. Key contributions include: 1) Reasoning and Action Synergy: Reasoning helps update action plans and handle exceptions, while actions enable interaction with external sources, such as APIs, to gather information. 2) Improved Accuracy and Interpretability: On tasks like question answering (HotpotQA) and fact verification (Fever), ReAct reduces hallucination and error propagation while providing interpretable problem-solving steps. 3) Superior Decision-Making Performance: In interactive decision-making benchmarks (ALFWorld and WebShop), ReAct outperforms imitation and reinforcement learning methods with significant success rate improvements. ReAct demonstrates improved effectiveness over state-of-the-art baselines, better human interpretability, and increased trustworthiness by combining reasoning and action.  
+&ensp; ReAct integrates reasoning and acting in LLMs by interleaving reasoning traces with task-specific actions. It reduces hallucinations in QA (HotpotQA) and fact verification (Fever) via Wikipedia API interactions and outperforms imitation and RL methods in ALFWorld (+34%) and WebShop (+10%). ReAct enhances interpretability and decision-making with minimal in-context examples.  
 
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) + [GitHub Repo](https://github.com/microsoft/LoRA)    
 Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen  
@@ -82,10 +82,20 @@ Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin
 
 ## Neural Reasoning & Decision Making
 
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) + [Community Sourced GitHub Reproduction](https://github.com/huggingface/open-r1)   
+DeepSeek-AI,... Zhen Zhang  
+*cs.CL on arXiv* **2025**  
+&ensp; DeepSeek-R1 introduces reasoning-focused LLMs trained via reinforcement learning (RL). DeepSeek-R1-Zero, trained without supervised fine-tuning, shows strong reasoning but struggles with readability. DeepSeek-R1 improves performance using multi-stage training and cold-start data, matching OpenAI-o1-1217 on reasoning tasks. The study releases DeepSeek-R1-Zero, DeepSeek-R1, and six distilled models (1.5B–70B) based on Qwen and Llama.  
+
+- [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1) + [GitHub Repo](https://github.com/deepseek-ai/DeepSeek-V3)  
+DeepSeek-AI,... Zizheng Pan  
+*cs.CL on arXiv* **2024**  
+&ensp; DeepSeek-V3 is a 671B-parameter Mixture-of-Experts (MoE) model with 37B active parameters per token. It employs Multi-head Latent Attention (MLA) and DeepSeekMoE for efficiency and stability, trained on 14.8T tokens with SFT and RL. It outperforms open models, rivals closed ones, and trains efficiently in 2.788M H800 GPU hours without loss spikes.  
+
 - [Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](https://arxiv.org/abs/2412.09078)  
 Zhenni Bi, Kai Han, Chuanjian Liu, Yehui Tang, Yunhe Wang  
 *arXiv* **2024**  
-&ensp; Unlike existing approaches like Chain-of-Thought (CoT) and Tree-of-Thought (ToT), which rely on a single pass of reasoning, FoT uses multiple interconnected reasoning trees to enable collaborative decision-making. Key features include: 1) Sparse Activation: Focuses on the most relevant reasoning paths for enhanced efficiency and accuracy. 2) Dynamic Self-Correction: Allows real-time error detection and learning from mistakes. 3) Consensus-Guided Decision-Making: Balances correctness and computational resource usage. The framework achieves significant improvements in reasoning accuracy and efficiency, making LLMs more effective at tackling complex tasks.
+&ensp; Forest-of-Thought (FoT) improves LLM reasoning by integrating multiple reasoning trees for collective decision-making. It employs sparse activation for efficiency, dynamic self-correction for real-time error handling, and consensus-guided decision-making. Experiments show FoT significantly enhances accuracy and efficiency in solving complex tasks, outperforming single-pass methods like Chain-of-Thought (CoT) and Tree-of-Thought (ToT).  
 
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://doi.org/10.48550/arXiv.2403.09629)  
 Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, and Noah D. Goodman  
