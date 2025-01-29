@@ -12,6 +12,79 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 29 Jan 2025  
+
+- [Conformal Prediction-based Machine Learning in Cheminformatics: Current Applications and New Challenges](https://dx.doi.org/10.26434/chemrxiv-2025-p36vt?rft_dat=source%3Ddrss)  
+Gonzalo Colmenarejo, Mario Astigarraga, Andrés Sánchez-Ruiz  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-29  
+&ensp;This paper reviews the use of Conformal Prediction (CP) in Cheminformatics, particularly in QSAR modeling and Molecular Screening. It highlights CP's ability to address challenges like applicability domain, imbalanced datasets, and prediction uncertainties. The study emphasizes its rapid adoption since 2012 and discusses challenges for Deep Learning and nonexchangeable datasets, while critiquing its applications.  
+- [Levodopa Sensing with a Nanosensor Array and a Low-Cost Near Infrared Readout](https://dx.doi.org/10.26434/chemrxiv-2025-9lf2t?rft_dat=source%3Ddrss)  
+Sebastian Kruss, Jan Stegemann, Matthias Niklas Augustin, Julia Ackermann, Nour el Houda Fizzi, Krisztian Neutsch, Markus Gregor, Svenja Herbertz  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper presents a NIR fluorescence biosensing approach using SWCNTs and Si detectors to monitor levodopa levels for Parkinson's treatment. Simulation and experimental validation revealed that Si detectors outperform InGaAs in short NIR ranges. A low-cost reader was developed, successfully detecting levodopa at 10 µM in human blood serum, highlighting potential for point-of-care applications.  
+- [Intrinsic Visible Emission of Amyloid-β Oligomers:  A Potential Tool for Early Alzheimer’s Diagnosis](https://dx.doi.org/10.26434/chemrxiv-2025-3mdgs?rft_dat=source%3Ddrss)  
+Wajih Al-Soufi, Mercedes Novo, Sara Illodo, Jesús Seijas, Flor Rodríguez-Prieto  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper explores using the intrinsic autofluorescence of amyloid-β oligomers for early Alzheimer's disease diagnosis via steady-state fluorescence spectroscopy. It identifies specific spectral shifts during oligomerization of Aβ40 and correlates visible emissions with oligomer concentration. This method is simpler and more accessible than current techniques, presenting a promising tool for early detection in clinical settings.  
+- [aweSOM: a GNN-based Site-of-Metabolism Predictor with Aleatoric and Epistemic Uncertainty Estimation](https://dx.doi.org/10.26434/chemrxiv-2024-pzmqt-v2?rft_dat=source%3Ddrss)  
+Johannes Kirchmair, Roxane Axel Jacob, Oliver Wieder, Ya Chen, Angelica Mazzolari, Andreas Bergner, Klaus-Juergen Schleifer  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper presents aweSOM, a graph neural network (GNN)-based predictor for site-of-metabolism (SOM) in phase 1 and 2 reactions, incorporating aleatoric and epistemic uncertainty estimation. The method enhances prediction reliability and offers insights for model improvement. Results demonstrate improved efficiency in the metabolic characterization of novel compounds, providing a valuable alternative to traditional in vivo and in vitro methods.  
+- [Fluorescein Diacetate (FDA) Should Not Be Used to Study Human Carboxylesterase 2 (CES2) in Complex Biological Systems Without Validation](https://dx.doi.org/10.26434/chemrxiv-2025-4s8qr-v2?rft_dat=source%3Ddrss)  
+Michael W. Beck, Carolyn J. Karns, Anchal Singh, Makenzie R. Walk, Emmanuel Adusah, Alyssa M. Pearson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper critiques the use of Fluorescein Diacetate (FDA) for studying Human Carboxylesterase 2 (CES2) in complex biological systems. Utilizing computational, biochemical, and live cell imaging methods, it finds FDA unsuitable for CES2 activity assessment in the presence of other hydrolases, advising rigorous validation for chemical tools in biological studies.  
+- [microPhotoGas reactor: High-throughput experimentation for photoinduced reactions under gas atmosphere](https://dx.doi.org/10.26434/chemrxiv-2025-tln5l?rft_dat=source%3Ddrss)  
+Eugénie Romero, Taline Kerackian, Sylvain Foucquart, Geraud Chacktas, Jean-Christophe Cintrat  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper presents the microPhotoGas reactor, a newly designed device enabling high-throughput experimentation (HTE) of photoinduced reactions involving gases. It addresses limitations in current HTE setups by allowing parallelization and miniaturization under gas pressure. The development aims to enhance exploration of catalytic processes previously hindered by inadequate equipment.  
+- [Developing red and NIR thermally activated delayed fluorescence emitters based on dibenzo[f,h]pyrido[2,3-b]quinoxaline acceptor](https://dx.doi.org/10.26434/chemrxiv-2025-hn77r?rft_dat=source%3Ddrss)  
+Eli Zysman-Colman, Falak Naz, Changfeng Si, Suela Kellici, Tariq Sajjad  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper discusses the synthesis of red and near-infrared (NIR) thermally activated delayed fluorescence (TADF) emitters using dibenzo[f,h]pyrido[2,3-b]quinoxaline (PyBP) as the electron acceptor. The study reports emission wavelengths of 643 nm, 722 nm, and 743 nm, with the highest photoluminescence quantum yield of 62.3% for DMACPyBP. The results reveal challenges in optimizing TADF and photoluminescence in long-wavelength emitters.  
+- [High-Throughput Microdroplet-Based Synthesis using Automated Array-to-Array Transfer](https://dx.doi.org/10.26434/chemrxiv-2025-19k8q?rft_dat=source%3Ddrss)  
+R. Graham Cooks, Kai-Hung Huang, Kitmin Chen, Nicolás M. Morato, Thomas C. Sams, Eric T. Dziekonski  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper presents an automated high-throughput microdroplet synthesis system using desorption electrospray ionization, achieving a 64% success rate in generating 172 analogs within approximately 45 seconds per reaction. The integration allows for efficient drug discovery, with quantitative validation via LC/MS, producing sufficient product quantities for bioactivity screening.  
+- [Developments in Suzuki-Miyaura cross coupling reaction (SMR) towards green synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-mf5t7?rft_dat=source%3Ddrss)  
+Subir Panja, Biprajit Paul, Ankita Mandal  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper reviews advancements in the Suzuki-Miyaura coupling reaction using greener techniques over the past two decades. It discusses modifications through reaction devices and environmentally friendly pathways, emphasizing their potential for sustainable synthesis. No specific datasets or results are mentioned.  
+- [Palladium-catalyzed enantioselective and stereospecific assembly of axially chiral alkylidenecyclobutanes via N-tosylhydrazone-based carbene couplings](https://dx.doi.org/10.26434/chemrxiv-2025-n2x5j?rft_dat=source%3Ddrss)  
+Ying Xia, Xufei Yan, Xiaoqin Ning, Tonglin Zhao, Yulei Zhu, Bo Liu  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper presents a palladium-catalyzed enantioselective carbene cross-coupling reaction of N-tosylhydrazones with organohalides to synthesize axially chiral alkylidenecyclobutanes. Using the Sadphos ligand, the method yields high enantioselectivities and allows for precise stereospecificity. Results include excellent yields and 99% ee for enantioenriched free amines and nitrogen-containing heterocycles.  
+- [Unraveling the Hidden Pathway of Catalyst‐Free Direct Photochemical Conversion of Sulfides to Sulfoxides: A Universal Pathway Under UVA Radiation](https://dx.doi.org/10.26434/chemrxiv-2025-q1q5x?rft_dat=source%3Ddrss)  
+Tushar Kanti Mukherjee, Shivendra Singh, Supritam Datta, Souvik Manna, Biswarup Pathak  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper uncovers a hidden pathway for the catalyst-free conversion of sulfides to sulfoxides under UVA radiation (370 nm). It highlights the generation of singlet oxygen through solvent-oxygen charge transfer, leading to efficient oxidation with excellent yields. Key findings include the role of water in improving kinetics and preventing overoxidation, rendering this pathway suitable for broader photoredox reactions.  
+- [Nickel-Catalyzed [4 + 4] Cycloaddition of Diene-Vinylcyclobutanones](https://dx.doi.org/10.26434/chemrxiv-2025-pvxgn?rft_dat=source%3Ddrss)  
+Zhi-Xiang Yu, Bing-Wen Li, Jicheng Duan, Jiguo Ma  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper discusses a Ni(0)-catalyzed [4 + 4] cycloaddition using diene-vinylcyclobutanones to form trans-5/8 bicyclic structures with quaternary carbon centers. It highlights the importance of the vinyl group's activation in the cyclobutanone and its ability to facilitate further functionalization. DFT calculations elucidate the mechanism, emphasizing the role of ligand dissociation at higher temperatures.  
+- [Remote Silyl Groups Enhance Hydrolytic Stability and Photocleavage Efficiency in Carbamates for Protein Release](https://dx.doi.org/10.26434/chemrxiv-2024-vrvwd-v2?rft_dat=source%3Ddrss)  
+Masahiko Yoshimura, Tomoko Inose, Ryuto Sasayama, Chihiro Mori, Yusuke Nakasone, Takashi Kajiwara  
+*Organic Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper presents a novel design for coumarin-based photocleavable molecules by introducing remote silyl groups, enhancing both hydrolytic stability and photocleavage efficiency. This method improves photolysis efficiency while ensuring robustness in aqueous and enzymatic environments, ultimately leading to the creation of high-performance biomaterials for protein release. No specific datasets were mentioned in the abstract.  
+- [Tunable Conformational Fluctuations of DNA Nanocages](https://dx.doi.org/10.26434/chemrxiv-2025-zx11g?rft_dat=source%3Ddrss)  
+Jianing Li, Jonathon Ferrell, Yutong Shi, Severin Schneebeli, Yu Shi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-28  
+&ensp;The paper explores the conformational dynamics of wireframe DNA nanocages using molecular modeling and simulation, focusing on four topologies. It highlights how Mg2+/Na+ ion concentrations and selective hybridization affect cage volume, leading to fluctuations from 15% to 150% of ideal sizes. The findings provide methodologies for future DNA nanocage design.
+
 ## 28 Jan 2025  
 
 - [To what extent can we extrapolate Proteochemometric models: A case study for the SLC6 transporter family](https://dx.doi.org/10.26434/chemrxiv-2025-sbw2l?rft_dat=source%3Ddrss)  
