@@ -11,6 +11,124 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
+# Deep Learning
+
+- [Mixture of A Million Experts](https://doi.org/10.48550/arXiv.2407.04153)  
+Xu Owen He  
+*ArXiv Preprint* **2024**  
+
+- [Graph Neural Networks with Learnable Structural and Positional Representations](https://arxiv.org/abs/2110.07875) + [GitHub Repo](https://github.com/vijaydwivedi75/gnn-lspe)  
+Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson  
+*ICLR* **2022**  
+
+- [Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html) + [GitHub Repo](https://github.com/Microsoft/Graphormer)  
+Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu  
+*NeurIPS* **2021**  
+&ensp; Microsoft's Graphormer paper  
+
+- [Denoising Diffusion Probabilistic Models](https://doi.org/10.48550/arXiv.2006.11239) + [GitHub Repo](https://github.com/hojonathanho/diffusion) + [Website](https://hojonathanho.github.io/diffusion/)  
+Jonathan Ho, Ajay Jain, Pieter Abbee  
+*NeurIPS* **2020**  
+
+- [Attention is All You Need](https://arxiv.org/abs/1706.03762) + [GitHub Repo (archived)](https://github.com/tensorflow/tensor2tensor)  
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin  
+*NeurIPS* **2017**  
+&ensp; The one, the only...  Original transformer paper. This code eventually becomes the 🤗 Transformers library  
+
+- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) - No official implementation available  
+Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, and Brendan Frey  
+*ArXiv Preprint* **2016**  
+
+- [PointerNets](https://papers.nips.cc/paper_files/paper/2015/hash/29921001f2f04bd3baee84a12e98098f-Abstract.html)  
+Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly  
+*NeurIPS* **2015**  
+
+
+## LLMs and Agents
+
+- [Instruction-Following Pruning for Large Language Models](https://arxiv.org/abs/2501.02086)  
+Bairu Hou, Qibin Chen, Jianyu Wang, Guoli Yin, Chong Wang, Nan Du, Ruoming Pang, Shiyu Chang, Tao Lei  
+*cs.CL on arXiv* **2025**  
+&ensp;The paper proposes "instruction-following pruning," a dynamic structured pruning method for large language models (LLMs). It utilizes a sparse mask predictor that adapts based on user instructions, optimizing both the predictor and the LLM using instruction-following data. Results show that a 3B activated model outperforms a 3B dense model by 5-8 points in specific domains, matching a 9B model's performance. 
+
+- [Inconsistency of LLMs in Molecular Representations](https://dx.doi.org/10.26434/chemrxiv-2024-lnvbz?rft_dat=source%3Ddrss)  
+Bing Yan, Angelica Chen, Kyunghyun Cho  
+*Theoretical and Computational Chemistry on ChemRxiv* **2024**  
+&ensp;The paper investigates the consistency of large language models (LLMs) in molecular representations like SMILES and IUPAC names. Despite finetuning with a dual representation dataset and applying a Kullback-Leibler divergence loss for training, the models exhibited less than 1% consistency and no improvement in accuracy. Findings highlight the limitations of LLMs in understanding chemistry. 
+
+- [MemGPT: Towards LLMs as Operating Systems](https://doi.org/10.48550/arXiv.2310.08560) + [GitHub Repo](https://github.com/letta-ai/letta)  
+Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Stoica, and Joseph E. Gonzalez  
+*arXiv* **2024**  
+&ensp; Infinite context for lanuage models. Now pacakged as part of [Letta](https://www.letta.com/).  
+
+- [AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning](https://doi.org/10.48550/arXiv.2406.11200) + [GitHub Repo](https://github.com/zou-group/avatar)  
+Shirley Wu, Shiyu Zhao, Qian Huang, Kexin Huang, Michihiro Yasunaga, Kaidi Cao, Vassilis N. Ioannidis, Karthik Subbian, Jure Leskovec, and James Zou  
+*NeurIPS* **2024**  
+
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) + [Project Site](https://react-lm.github.io/)  
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao  
+*ICLR* **2023**  
+&ensp; Integrates REasoning and ACTing in large language models (LLMs) to enhance their performance and versatility. By generating reasoning traces and task-specific actions in an interleaved manner, ReAct allows LLMs to synergize these processes. Key contributions include: 1) Reasoning and Action Synergy: Reasoning helps update action plans and handle exceptions, while actions enable interaction with external sources, such as APIs, to gather information. 2) Improved Accuracy and Interpretability: On tasks like question answering (HotpotQA) and fact verification (Fever), ReAct reduces hallucination and error propagation while providing interpretable problem-solving steps. 3) Superior Decision-Making Performance: In interactive decision-making benchmarks (ALFWorld and WebShop), ReAct outperforms imitation and reinforcement learning methods with significant success rate improvements. ReAct demonstrates improved effectiveness over state-of-the-art baselines, better human interpretability, and increased trustworthiness by combining reasoning and action.  
+
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) + [GitHub Repo](https://github.com/microsoft/LoRA)    
+Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen  
+*ICLR* **2022**  
+&ensp; LoRA is now wrapped into the 🤗 PEFT library
+
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://doi.org/10.48550/arXiv.2005.11401)   
+Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, and Douwe Kiela  
+*NeurIPS* **2020**  
+  
+
+## Neural Reasoning & Decision Making
+
+- [Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](https://arxiv.org/abs/2412.09078)  
+Zhenni Bi, Kai Han, Chuanjian Liu, Yehui Tang, Yunhe Wang  
+*arXiv* **2024**  
+&ensp; Unlike existing approaches like Chain-of-Thought (CoT) and Tree-of-Thought (ToT), which rely on a single pass of reasoning, FoT uses multiple interconnected reasoning trees to enable collaborative decision-making. Key features include: 1) Sparse Activation: Focuses on the most relevant reasoning paths for enhanced efficiency and accuracy. 2) Dynamic Self-Correction: Allows real-time error detection and learning from mistakes. 3) Consensus-Guided Decision-Making: Balances correctness and computational resource usage. The framework achieves significant improvements in reasoning accuracy and efficiency, making LLMs more effective at tackling complex tasks.
+
+- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://doi.org/10.48550/arXiv.2403.09629)  
+Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, and Noah D. Goodman  
+*CoLM* **2024**  
+
+- [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://doi.org/10.48550/arXiv.2411.10440) + [GitHub Repo](https://github.com/PKU-YuanGroup/LLaVA-CoT)  
+Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, and Li Yuan  
+*NeurIPS* **2024**  
+
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://doi.org/10.48550/arXiv.2305.10601) + [GitHub Repo](https://github.com/princeton-nlp/tree-of-thought-llm)  
+Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan  
+*NeurIPS* **2023**  
+&ensp; [ReasoningAgent (Tree of Thought with Beam Search)](https://ag2ai.github.io/ag2/docs/notebooks/agentchat_reasoning_agent/)  
+
+- [STaR: Bootstrapping Reasoning With Reasoning](https://doi.org/10.48550/arXiv.2203.14465)  
+Eric Zelikman, Yuhuai Wu, Jesse Mu, and Noah D. Goodman  
+*NeurIPS* **2022**  
+
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://doi.org/10.48550/arXiv.2201.11903)  
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou  
+*NeurIPS* **2022**
+
+## Contrastive Learning
+
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://doi.org/10.48550/arXiv.2002.05709) + [GitHub Repo](https://github.com/google-research/simclr)  
+Ting Chen, Simon Kornblith, Mohammad Norouzi & Geoffrey Hinton  
+*in Proceedings of the 37th International Conference on Machine Learning*, PMLR 119:1597-1607, **2020**  
+
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://doi.org/10.48550/arXiv.1503.03832)  
+Florian Schroff, Dmitry Kalenichenko, James Philbin  
+*in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, **2015**, 815
+
+## Recommender Systems
+
+- [A Scalable Recommendation Engine for New Users and Items](https://arxiv.org/abs/2209.06128)  
+Boya Xu, Yiting Deng, Carl Mela  
+*arXiv* **2022**  
+
+- [Contextual Bandit Algorithms with Supervised Learning Guarantees](https://proceedings.mlr.press/v15/beygelzimer11a.html)  
+Alina Beygelzimer, John Langford, Lihong Li, Lev Reyzin, Robert Schapire  
+*In Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics*, PMLR 15:19-26, **2011**  
+
+
 # Molecular Generation
 
 Generative models for molecules. Most typically text-based inputs (SMILES/SELFIES) or graph reps (parallel models on atom and bond matrices). Usually have some property optimization ability (latent space search/interpolation, reinformcement learning, guided genetic exploration). Most commonly these methods are autoregressive, but more recently non-autoregressive molecular generation methods have started to arise.  
@@ -98,6 +216,12 @@ Nicola De Cao and Thomas Kipf
 &ensp; GAN for molecular graphs (tandem atom identity and bond matrices). Trained as W-GAN on QM9 with basic "RL" input. Implemented with R-GCNs.  
 
 ## Other
+
+- [Targeted Molecular Generation With Latent Reinforcement Learning](https://dx.doi.org/10.26434/chemrxiv-2024-8k8gr-v2?rft_dat=source%3Ddrss)  
+Ragy Haddad, Eleni Litsa, Zhen Liu, Xin Yu, Daniel Burkhardt, Govinda Bhisetti  
+*ChemRxiv*  
+2025-01-03  
+&ensp;The paper presents a novel approach for targeted molecular generation using Reinforcement Learning with proximal policy optimization (PPO) in the latent space of pre-trained deep learning generative models. The method shows superior performance on benchmark datasets and can generate molecules with specific substructures while optimizing for desired properties, aiding drug discovery.  
 
 - [TamGen: drug design with target-aware molecule generation through a chemical language model](https://doi.org/10.1038/s41467-024-53632-4) + [GitHub Repo](https://github.com/SigmaGenX/TamGen)  
 Kehan Wu, Yingce Xia, Pan Deng, Renhe Liu, Yuan Zhang, Han Guo, Yumeng Cui, Qizhi Pei, Lijun Wu, Shufang Xie, Si Chen, Xi Lu, Song Hu, Jinzhi Wu, Chi-Kin Chan, Shawn Chen, Liangliang Zhou, Nenghai Yu, Enhong Chen, Haiguang Liu, Jinjiang Guo, Tao Qin & Tie-Yan Liu  
@@ -341,6 +465,11 @@ Shuan Chen and Yousung Jung
 
 ## Molecular Optimization
 
+- [A Zero-Shot Single-point Molecule Optimization Model: Mimicking Medicinal Chemists’ Expertise](https://dx.doi.org/10.26434/chemrxiv-2025-m82r5?rft_dat=source%3Ddrss)  
+Peng Gao, Jie Zhang, Zhilian Dai, Yangyang Deng, Dan Zhang, Jiawei Fu, Songyou Zhong, Yichao Liu  
+*Theoretical and Computational Chemistry on ChemRxiv* **2024**  
+&ensp;The paper presents the Single-point Chemical Language Model (SpCLM), a framework for molecular design that mimics medicinal chemists' expertise. Using a few hundred generated compounds, SpCLM predicts 60%-80% of active compounds in tests, correlating well with experimental data. This method reduces the need for extensive screening, offering a data-driven approach to optimize drug activity and selectivity.  
+
 - [Projecting Molecules into Synthesizable Chemical Spaces](https://arxiv.org/abs/2406.04628)  
 Shitong Luo, Wenhao Gao, Zuofan Wu, Jian Peng, Connor W. Coley, and Jianzhu Ma  
 *ArXiv Preprint*, **2024**  
@@ -351,7 +480,12 @@ Xin Xia, Yiping Liu, Chunhou Zheng, Xingyi Zhang, Qingwen Wu, Xin Gao, Xiangxian
 *J. Chem. Inf. Model.* **2024**, *64*, (13), 5161  
 &ensp; Multiobjective molecule optimization framework (MOMO) is a pareto-based MPO tool that evolves moelcules into better molecules. Genetic/ecolutionary algorithm in the latent (implicit) space ended by a VAE.  
 
-## Virtual Screening
+## Large-scale Virtual Screening
+
+- [A novel bottom-up approach to find lead-compounds in billion-sized libraries](https://dx.doi.org/10.26434/chemrxiv-2025-lph6p?rft_dat=source%3Ddrss)  
+Jordi Juárez-Jiménez, Xavier Barril, Álvaro Serrano-Morrás,... Carles Galdeano  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+&ensp;The paper presents a novel bottom-up approach for identifying lead compounds in vast chemical libraries, specifically trillion-scale on-demand collections. The method involves a systematic exploration of fragment space followed by focused mining of promising areas, utilizing advanced computational techniques to reduce false positives. This strategy successfully identified new BRD4 (BD1) binders with potency comparable to established drugs.  
 
 - [Introducing SpaceGA: A Search Tool to Accelerate Large Virtual Screenings of Combinatorial Libraries](https://doi.org/10.1021/acs.jcim.4c01308) + [GitHub Repo](https://github.com/lmoesgaard/SpaceGA)  
 Laust Moesgaard and Jacob Kongsted  
@@ -453,114 +587,6 @@ Arne Schneuing, Yuanqi Du, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du
 Ian Dunn and David Ryan Koes  
 *NeurIPS* **2023**  
 &ensp; GNN-based architecture for learning latent representations of molecular structure. Encodes protein represntation into reduced set of key points. When trained end-to-end with a diffusion model (DiffSBDD) for *de novo* ligand design, achieves comparable performance to one with an all-atom protein representation while exhibiting a 3-fold reduction in inference time. Unclear whether or not the original issues with DiffSBDD were address in this implementation...  
-
-
-# Deep Learning
-
-- [Mixture of A Million Experts](https://doi.org/10.48550/arXiv.2407.04153)  
-Xu Owen He  
-*ArXiv Preprint* **2024**  
-
-- [Graph Neural Networks with Learnable Structural and Positional Representations](https://arxiv.org/abs/2110.07875) + [GitHub Repo](https://github.com/vijaydwivedi75/gnn-lspe)  
-Vijay Prakash Dwivedi, Anh Tuan Luu, Thomas Laurent, Yoshua Bengio, Xavier Bresson  
-*ICLR* **2022**  
-
-- [Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html) + [GitHub Repo](https://github.com/Microsoft/Graphormer)  
-Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu  
-*NeurIPS* **2021**  
-&ensp; Microsoft's Graphormer paper  
-
-- [Denoising Diffusion Probabilistic Models](https://doi.org/10.48550/arXiv.2006.11239) + [GitHub Repo](https://github.com/hojonathanho/diffusion) + [Website](https://hojonathanho.github.io/diffusion/)  
-Jonathan Ho, Ajay Jain, Pieter Abbee  
-*NeurIPS* **2020**  
-
-- [Attention is All You Need](https://arxiv.org/abs/1706.03762) + [GitHub Repo (archived)](https://github.com/tensorflow/tensor2tensor)  
-Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin  
-*NeurIPS* **2017**  
-&ensp; The one, the only...  Original transformer paper. This code eventually becomes the 🤗 Transformers library  
-
-- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) - No official implementation available  
-Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, Ian Goodfellow, and Brendan Frey  
-*ArXiv Preprint* **2016**  
-
-- [PointerNets](https://papers.nips.cc/paper_files/paper/2015/hash/29921001f2f04bd3baee84a12e98098f-Abstract.html)  
-Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly  
-*NeurIPS* **2015**  
-
-
-## LLMs and Agents
-
-- [MemGPT: Towards LLMs as Operating Systems](https://doi.org/10.48550/arXiv.2310.08560) + [GitHub Repo](https://github.com/letta-ai/letta)  
-Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Stoica, and Joseph E. Gonzalez  
-*arXiv* **2024**  
-&ensp; Infinite context for lanuage models. Now pacakged as part of [Letta](https://www.letta.com/).  
-
-- [AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning](https://doi.org/10.48550/arXiv.2406.11200) + [GitHub Repo](https://github.com/zou-group/avatar)  
-Shirley Wu, Shiyu Zhao, Qian Huang, Kexin Huang, Michihiro Yasunaga, Kaidi Cao, Vassilis N. Ioannidis, Karthik Subbian, Jure Leskovec, and James Zou  
-*NeurIPS* **2024**  
-
-- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) + [Project Site](https://react-lm.github.io/)  
-Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao  
-*ICLR* **2023**  
-&ensp; Integrates REasoning and ACTing in large language models (LLMs) to enhance their performance and versatility. By generating reasoning traces and task-specific actions in an interleaved manner, ReAct allows LLMs to synergize these processes. Key contributions include: 1) Reasoning and Action Synergy: Reasoning helps update action plans and handle exceptions, while actions enable interaction with external sources, such as APIs, to gather information. 2) Improved Accuracy and Interpretability: On tasks like question answering (HotpotQA) and fact verification (Fever), ReAct reduces hallucination and error propagation while providing interpretable problem-solving steps. 3) Superior Decision-Making Performance: In interactive decision-making benchmarks (ALFWorld and WebShop), ReAct outperforms imitation and reinforcement learning methods with significant success rate improvements. ReAct demonstrates improved effectiveness over state-of-the-art baselines, better human interpretability, and increased trustworthiness by combining reasoning and action.  
-
-- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) + [GitHub Repo](https://github.com/microsoft/LoRA)    
-Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, and Weizhu Chen  
-*ICLR* **2022**  
-&ensp; LoRA is now wrapped into the 🤗 PEFT library
-
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://doi.org/10.48550/arXiv.2005.11401)   
-Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, and Douwe Kiela  
-*NeurIPS* **2020**  
-  
-
-## Neural Reasoning & Decision Making
-
-- [Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning](https://arxiv.org/abs/2412.09078)  
-Zhenni Bi, Kai Han, Chuanjian Liu, Yehui Tang, Yunhe Wang  
-*arXiv* **2024**  
-&ensp; Unlike existing approaches like Chain-of-Thought (CoT) and Tree-of-Thought (ToT), which rely on a single pass of reasoning, FoT uses multiple interconnected reasoning trees to enable collaborative decision-making. Key features include: 1) Sparse Activation: Focuses on the most relevant reasoning paths for enhanced efficiency and accuracy. 2) Dynamic Self-Correction: Allows real-time error detection and learning from mistakes. 3) Consensus-Guided Decision-Making: Balances correctness and computational resource usage. The framework achieves significant improvements in reasoning accuracy and efficiency, making LLMs more effective at tackling complex tasks.
-
-- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://doi.org/10.48550/arXiv.2403.09629)  
-Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, and Noah D. Goodman  
-*CoLM* **2024**  
-
-- [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://doi.org/10.48550/arXiv.2411.10440) + [GitHub Repo](https://github.com/PKU-YuanGroup/LLaVA-CoT)  
-Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, and Li Yuan  
-*NeurIPS* **2024**  
-
-- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://doi.org/10.48550/arXiv.2305.10601) + [GitHub Repo](https://github.com/princeton-nlp/tree-of-thought-llm)  
-Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan  
-*NeurIPS* **2023**  
-&ensp; [ReasoningAgent (Tree of Thought with Beam Search)](https://ag2ai.github.io/ag2/docs/notebooks/agentchat_reasoning_agent/)  
-
-- [STaR: Bootstrapping Reasoning With Reasoning](https://doi.org/10.48550/arXiv.2203.14465)  
-Eric Zelikman, Yuhuai Wu, Jesse Mu, and Noah D. Goodman  
-*NeurIPS* **2022**  
-
-- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://doi.org/10.48550/arXiv.2201.11903)  
-Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou  
-*NeurIPS* **2022**
-
-## Contrastive Learning
-
-- [A Simple Framework for Contrastive Learning of Visual Representations](https://doi.org/10.48550/arXiv.2002.05709) + [GitHub Repo](https://github.com/google-research/simclr)  
-Ting Chen, Simon Kornblith, Mohammad Norouzi & Geoffrey Hinton  
-*in Proceedings of the 37th International Conference on Machine Learning*, PMLR 119:1597-1607, **2020**  
-
-- [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://doi.org/10.48550/arXiv.1503.03832)  
-Florian Schroff, Dmitry Kalenichenko, James Philbin  
-*in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, **2015**, 815
-
-## Recommender Systems
-
-- [A Scalable Recommendation Engine for New Users and Items](https://arxiv.org/abs/2209.06128)  
-Boya Xu, Yiting Deng, Carl Mela  
-*arXiv* **2022**  
-
-- [Contextual Bandit Algorithms with Supervised Learning Guarantees](https://proceedings.mlr.press/v15/beygelzimer11a.html)  
-Alina Beygelzimer, John Langford, Lihong Li, Lev Reyzin, Robert Schapire  
-*In Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics*, PMLR 15:19-26, **2011**  
 
 
 # Chemistry
