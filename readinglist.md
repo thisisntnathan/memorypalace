@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 31 Jan 2025  
+
+- [Identifying organic co-solvents via machine learning solubility predictions in organic solvents and water](https://dx.doi.org/10.26434/chemrxiv-2025-xlt1q?rft_dat=source%3Ddrss)  
+  Maurycy, Krzyzanowski; Sirazam Munira, Aishee; Nirala, Singh; Bryan R., Goldsmith  
+  *Organic Chemistry on ChemRxiv*  
+  2025-01-30  
+  &ensp;The paper develops a machine learning workflow to identify effective organic co-solvents for increasing the solubility of hydrophobic molecules in water. Using the AqSolDB and BigSolDB datasets, it employs a Light Gradient Boosting Machine model, achieving R2 scores of 0.864 for aqueous and 0.805 for organic solubility. The model's predictions are validated experimentally with benzaldehyde and limonene.  
+
+- [Multiple Atropo Selectivity by κ2-N,O-Oxazoline Urea Ligands in Cobaltaelectro-Catalyzed C–H Activations: Decoding Selectivity with Data Science Integration](https://dx.doi.org/10.26434/chemrxiv-2025-7h5k4?rft_dat=source%3Ddrss)  
+  Neeraj Kumar, Pandit; Philipp, Boos; Suman, Dana; Tristan, von Münchow; Airu, Hashidoko; Laura, Haberstock; Regine, Herbst-Irmer; Dietmar, Stalke; Lutz, Ackermann  
+  *Organic Chemistry on ChemRxiv*  
+  2025-01-30  
+  &ensp;The paper presents a new class of chiral oxazoline urea ligands for enantioselective catalysis, evaluated against amide and enol derivatives. A multivariate linear regression model was developed to analyze the impact of ligand and substrate structures on enantioselectivity, applied in cobaltaelectro-catalyzed C–H annulations of 1-alkynyl indoles, enhancing understanding of selectivity in these reactions.  
+
+- [Rapid photoluminescence “turn-on” sensing of tertiary amines and opioids via dual-emissive ground and excited charge-transfer states](https://dx.doi.org/10.26434/chemrxiv-2025-vjjxw?rft_dat=source%3Ddrss)  
+  Aoyuan, Cheng; Xuewen, Gu; Chengze, Yang; Mei, Liu; Baicheng, Zhang; Hongping, Liu; Xiaoyu, Chen; Airong, Feng; Jun, Jiang; Yi, Luo; Pieter E. S., Smith; Wenhuan, Huang; Guoqing, Zhang  
+  *Organic Chemistry on ChemRxiv*  
+  2025-01-30  
+  &ensp;The paper presents a novel photoluminescence “turn-on” method for distinguishing tertiary amines using naphthalimide, showcasing varying emission colors based on molecular structure. This approach effectively identifies opioids like heroin and fentanyl, offering a rapid alternative to traditional methods. The study highlights unique excited-state dynamics and includes observations from time-resolved spectroscopy.  
+
+- [Uracil-BX: A New Class of Cyclic Hypervalent Iodine Reagents for Unraveling Approach Towards Umpolung Functionalization and VEGF G-Quadruplex DNA Identification](https://dx.doi.org/10.26434/chemrxiv-2025-tn425?rft_dat=source%3Ddrss)  
+  Raj Kumar, Nandi; Sukanya, Das; Sagar, Bag; Md Abbasuddin, Sk; Priyankar, Majumdar; Uttam Kumar, Das; Sudipta, Bhowmik  
+  *Organic Chemistry on ChemRxiv*  
+  2025-01-30  
+  &ensp;The paper introduces Uracil-BX, a novel cyclic hypervalent iodine reagent designed for umpolung functionalization and G-Quadruplex DNA identification. It describes synthetic methods for sulfenylation and amination, and highlights compound UBX 3a's interactions with VEGF GQ-DNA, which may influence cancer gene expression and aid future GQ biology research. Biophysical studies support these findings.  
+
+- [The Chemistry and Biology of the Tetrodotoxin Natural Product Family](https://dx.doi.org/10.26434/chemrxiv-2025-vt7tq?rft_dat=source%3Ddrss)  
+  David, Konrad; Benedikt, Nißl; Marcel, Mülbaier; Francesca, Grisoni; Dirk, Trauner; Marcel, Bermúdez; Clemens, Dialer  
+  *Organic Chemistry on ChemRxiv*  
+  2025-01-30  
+  &ensp;The paper reviews tetrodotoxin, a neurotoxic marine alkaloid, discussing its structural complexities, biological activities, and potential therapeutic applications. It covers the diversity of its natural derivatives, biosynthetic pathways, and structure-activity relationships, along with total syntheses reported so far. No specific datasets or methods were mentioned in the abstract.  
+
+- [Chiral Phosphite Mediated Photoredox Catalyzed Aerobic Oxidative DYKAT for C–N Atropoisomers](https://dx.doi.org/10.26434/chemrxiv-2025-1l3kn?rft_dat=source%3Ddrss)  
+  Pradip, Maity; Pinku, Saikia; M, Aarthika; Ayantika, Bhattacharjya; Priyam, Bajpai; Susmita, Maity; Asish, Bera; Arindam, Saha; Rajesh, Gonnade; Kumar, Vanka  
+  *Organic Chemistry on ChemRxiv*  
+  2025-01-30  
+  &ensp;The paper presents a novel phosphite-mediated method for atroposelective synthesis of C–N atropoisomers via Dynamic Kinetic Asymmetric Transformation (DYKAT). The approach effectively oxidizes iminium ions, allowing a broader range of substrates including isoquinolones, pyridones, and lactams. Computational studies back the mechanism, offering a new strategy that enhances diversity in synthesizing axially chiral compounds.
+
 ## 30 Jan 2025  
 
 - [Rivers at Risk: A Comprehensive Review of Human-Induced Pollution and Its Seasonal Variation](https://dx.doi.org/10.26434/chemrxiv-2025-g8wxz?rft_dat=source%3Ddrss)  
