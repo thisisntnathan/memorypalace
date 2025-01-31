@@ -11,6 +11,9 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
+A collection of papers (and code) that were at one time or another deemed interesting enough to hang on to...  
+
+
 # Deep Learning
 
 - [Mixture of A Million Experts](https://doi.org/10.48550/arXiv.2407.04153)  
