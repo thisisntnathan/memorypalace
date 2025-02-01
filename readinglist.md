@@ -12,6 +12,50 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 01 Feb 2025  
+
+- [Bayesian Illumination: Inference and Quality-Diversity Accelerate Generative Molecular Models](https://dx.doi.org/10.26434/chemrxiv-2024-tqf0x-v3?rft_dat=source%3Ddrss)  
+Verhellen, Jonas  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-31  
+&ensp;The paper presents Bayesian Illumination, a novel generative model that integrates Bayesian optimization with a quality-diversity process for small molecules. It demonstrates that this approach outperforms traditional methods, such as genetic algorithms and deep learning, by generating a wider diversity of high-performing molecules and enhancing search efficiency. Key datasets include bespoke kernels for small molecules.
+
+- [CRISPR in therapeutics and diagnostics: Perspectives from landscape analysis](https://dx.doi.org/10.26434/chemrxiv-2025-0qk09?rft_dat=source%3Ddrss)  
+Iyer, Kavita; Tenchov, Rumiana; Diaz, Leilani Lotti; Jain, Preeti; Thite, Trupti; Deng, Yi; Zhou, Qiongqiong  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-31  
+&ensp;This paper analyzes over 53,000 publications on CRISPR therapeutics and diagnostics, revealing a focus on cancer and infectious diseases. Key gene targets include TP53, c-myc, and HBB, with adeno-associated vectors being a preferred delivery method. With over 140 CRISPR therapeutics in development, the field shows significant investment and growth despite ongoing ethical challenges.
+
+- [Design, Synthesis and Preclinical Evaluation of a brain-permeable PET Tracer for P2Y12R Imaging in the Brain](https://dx.doi.org/10.26434/chemrxiv-2025-5461s-v2?rft_dat=source%3Ddrss)  
+Lindner, Simon; Joseph, Emanuel; Kunze, Lea H.; Schaefer, Rebecca; Palumbo, Giovanna; Kugelmann, Benjamin; Wagner, Stephan; Lammich, Sven; Feederle, Regina; Willem, Michael; Werner, Rudolf A.; Brendel, Matthias  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-01-31  
+&ensp;The paper presents a novel brain-permeable PET tracer, Nicotinate [18F]12, designed for imaging P2Y12R-positive microglia, crucial for understanding neuroinflammation and neurodegenerative diseases. The tracer exhibited nanomolar affinity, with confirmed brain uptake in WT mice via PET imaging and ex vivo analyses, showing correlation with microglia activity. This advancement enhances diagnostic tools for treating microglial dysfunction.
+
+- [Investigation of Arenes and Heteroarenes Nitration supported by High-Throughput Experimentation and Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-5t1h2-v2?rft_dat=source%3Ddrss)  
+Romero, Eugénie; Kerackian, Taline; Pasquinet, Eric; Daniel, Matthieu; Wespiser, Clément  
+*Organic Chemistry on ChemRxiv*  
+2025-01-31  
+&ensp;The paper explores the nitration of arenes and heteroarenes using high-throughput experimentation and machine learning. Diverse nitration conditions were systematically screened, generating significant data. Key trends related to electronic properties were identified, particularly the challenges with electron-poor heteroarenes. Machine learning was employed to design a predictive tool, highlighting the need for diverse and relevant data encoding.
+
+- [Collective Intelligence of Specialized Language Models Guides Realization of de novo Chemical Synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-dc28b?rft_dat=source%3Ddrss)  
+Li, Haote; Sarkar, Sumon; Lu, Wenxin; Loftus, Patrick; Qiu, Tianyin; Shee, Yu; Cuomo, Abbigayle; Webster, John-Paul; Kelly, H. Ray; Manee, Vidhyadhar; Sreekumar, Sanil; Buono, Frederic; Crabtree, Robert; Newhouse, Timothy; Batista, Victor  
+*Organic Chemistry on ChemRxiv*  
+2025-01-31  
+&ensp;The paper introduces MOSAIC, a framework using Llama3.1-8B-instruct architecture and 2,489 specialized models to analyze chemical reactions effectively. It predicts novel transformations, successfully synthesizing over 35 new compounds from diverse categories. This approach enhances the utilization of existing chemical knowledge, fostering advancements in computational and experimental chemistry.
+
+- [Knowledge-informed molecular design for zeolite synthesis using ChatGPT towards human-machine collaboration](https://dx.doi.org/10.26434/chemrxiv-2024-wqxl7-v6?rft_dat=source%3Ddrss)  
+Muraoka, Koki; Ito, Shusuke; Nakayama, Akira  
+*Organic Chemistry on ChemRxiv*  
+2025-01-31  
+&ensp;The paper discusses leveraging Large Language Models (LLMs) for designing organic structure-directing agents (OSDAs) for zeolites. The method combines LLM-generated proposals with empirical feedback and atomistic simulations, resulting in candidates that enhance predictability and exploration of chemical space. The outcomes include validated and novel OSDAs with improved affinity scores, highlighting the potential of human-machine collaboration in molecular design.
+
+- [Molecular Simulations with a Pretrained Neural Network and Universal Pairwise Force Fields](https://dx.doi.org/10.26434/chemrxiv-2024-bdfr0-v2?rft_dat=source%3Ddrss)  
+Kabylda, Adil; Frank, J. Thorben; Dou, Sergio Suarez; Khabibrakhmanov, Almaz; Sandonas, Leonardo Medrano; Unke, Oliver T.; Chmiela, Stefan; Müller, Klaus-Robert; Tkatchenko, Alexandre  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-01-31  
+&ensp;The paper presents the SO3LR method, combining the SO3krates neural network with universal pairwise force fields, trained on 4 million molecular complexes. It achieves efficiency, scalability, and accuracy in molecular simulations, applicable to various biomolecules and large systems. The study highlights computational benefits and addresses future challenges in integrating MLFFs with atomistic models.
+
 ## 31 Jan 2025  
 
 - [Identifying organic co-solvents via machine learning solubility predictions in organic solvents and water](https://dx.doi.org/10.26434/chemrxiv-2025-xlt1q?rft_dat=source%3Ddrss)  
