@@ -12,6 +12,38 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 05 Feb 2025  
+
+- [Machine learning-driven antiviral libraries targeting respiratory viruses](https://dx.doi.org/10.26434/chemrxiv-2025-bwdjj?rft_dat=source%3Ddrss)  
+José L. Medina-Franco, Gabriela Valle-Núñez, Raziel Cedillo-González, Juan F. Avellaneda-Tamayo, Fernanda I. Saldívar González, Diana L. Prado-Romero  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-04  
+&ensp;The paper explores the development of antiviral compound libraries targeting respiratory viruses using machine learning (ML) classification models. It created a curated dataset of compounds linked to respiratory infections, focusing on predicting antiviral activity. Validation of models was performed for seven respiratory targets, addressing the urgent need for new antiviral drugs highlighted by the SARS-CoV-2 pandemic.  
+
+- [Toward Far-red Emitting Chemogenetic Labelling for Live Cell Super-Resolution Microscopy using Fluorescence-Activating and Absorption-Shifting Tag](https://dx.doi.org/10.26434/chemrxiv-2025-k7vd4?rft_dat=source%3Ddrss)  
+Eszter Kozma, Ágnes Szatmári, Tibor Novák, György Török, Ivana Nikić-Spiegel, Attila Kormos, Gergely B. Cserép, Alexandra Egyed, Ágnes Horváth, Krisztina Németh, Réka Kereszty, Elvira Czvik, Miklós Erdélyi, Péter Kele  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-04  
+&ensp;The paper presents new chemogenetic approaches for far-red fluorescence detection in live cell super-resolution microscopy, using the Fluorescence-Activating and Absorption Shifting Tag (FAST). Methods include FRET-FAST for single molecule localization microscopy and a far-red variant (frFAST) for live imaging. Results demonstrate successful imaging of cytoskeletal dynamics and organelles without significant photobleaching in both fixed and live mammalian cells.  
+
+- [Fully-Functionalized Natural Product Probes to Expand the Chemical Tractability of the Human Proteome](https://dx.doi.org/10.26434/chemrxiv-2025-hfmv4?rft_dat=source%3Ddrss)  
+Christopher Parker, Christian Chaheine, Louis Conway  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-04  
+&ensp;The paper discusses the use of natural product-inspired photoaffinity probes to enhance chemical tractability of the human proteome. It employs semi-synthesis and mass spectrometry-based chemoproteomics to identify ligand interactions in human cells, revealing new regio- and stereoselective ligands for previously uncharacterized proteins. Results suggest these libraries significantly expand the ligandable proteome.  
+
+- [A Generalized Deep Entropy Scaling Architecture Framework to Predict Viscosities](https://dx.doi.org/10.26434/chemrxiv-2025-jrjj9?rft_dat=source%3Ddrss)  
+Maximilian Fleck, Niels Hansen, Timo Klenk, Samir Darouich, Marcelle B M Spera  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-04  
+&ensp;The paper presents a generalized deep learning framework for predicting viscosities, addressing data scarcity in sustainable material processes. It enhances a prior neural network model by removing specific entropy scaling dependencies. The model effectively predicts shear viscosities across diverse thermodynamic states and complex molecules, showing improved accuracy, ease of training, and versatile applications.  
+
+- [Multiple Molecule λ-Dynamics: Probing Drug Resistance with Concurrent Protein and Ligand Perturbations](https://dx.doi.org/10.26434/chemrxiv-2025-m0129?rft_dat=source%3Ddrss)  
+Jonah Vilseck, Ryan Hayes, Charles Brooks, Michael Liesen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-04  
+&ensp;The paper presents Multiple Molecule λ-Dynamics (MMλD), a method for assessing drug resistance by simultaneously perturbing ligands and proteins in a single simulation. Applied to native and T315I mutant Abl kinases in chronic myelogenous leukemia, MMλD shows a high agreement with traditional methods, achieving mean unsigned errors of 0.21 and 0.79 kcal/mol, demonstrating its potential in drug discovery.
+
 ## 01 Feb 2025  
 
 - [Bayesian Illumination: Inference and Quality-Diversity Accelerate Generative Molecular Models](https://dx.doi.org/10.26434/chemrxiv-2024-tqf0x-v3?rft_dat=source%3Ddrss)  
