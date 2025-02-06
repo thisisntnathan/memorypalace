@@ -12,6 +12,86 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 06 Feb 2025  
+
+- [Synthesis of Selectively 13C/2H/15N-Labelled Arginine to Probe Protein Conformation and Interaction by NMR Spectroscopy](https://dx.doi.org/10.26434/chemrxiv-2025-dxwrr?rft_dat=source%3Ddrss)  
+Paul Schanda, Darja Rohden, Giorgia Toscano, Roman Lichtenecker  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper presents a method for synthesizing selectively labeled arginine with 13C, 15N, and 2H isotopes to study protein conformation and interactions using NMR spectroscopy. This approach combines synthetic organic chemistry and protein overexpression, resulting in proteins with optimized NMR active spin systems that yield simplified spectra, enhancing sensitivity to environmental changes.  
+
+- [Designing reversible photoswitching azobenzene modified nucleotide for controlling biological function](https://dx.doi.org/10.26434/chemrxiv-2025-vxgll?rft_dat=source%3Ddrss)  
+Ting Wang, Juncheng Li, Jinxi Du, Weiwei He, Ibrahim Adelakun, Miao Zhong, Savia Boyer, Ya Ying Zheng, Qishan Lin, Serdal Kirmizialtin, Jia Sheng  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper presents the design of a reversible photoswitchable azobenzene-modified nucleotide for controlling RNA functions. The authors synthesized modified RNA oligonucleotides and validated their reversible photoisomerization using all-atom molecular dynamics simulations and UV melting experiments. The modified oligonucleotides can influence reverse transcription processes upon light exposure, potentially aiding gene regulation and drug development.  
+
+- [Higher-level Strategies for Computer-Aided Retrosynthesis](https://dx.doi.org/10.26434/chemrxiv-2025-21zvt?rft_dat=source%3Ddrss)  
+Jihye Roh, Joonyoung F. Joung, Kevin Yu, G. Logan Bartholomew, Omar A. Santiago-Reyes, Mun Hong Fong, Richmond Sarpong, Sarah E. Reisman, Connor W. Coley, Zhengkai Tu  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper presents a novel framework called higher-level retrosynthesis for computer-aided retrosynthesis, which simplifies complex synthetic pathways by emphasizing broader strategies rather than specific chemical details. The approach demonstrated higher success rates in both single- and multi-step planning through case studies on drugs and natural products, enhancing the effectiveness of synthesis design.  
+
+- [Enantioselective Synthesis of Complex Carbocycles by Donor/Donor Carbenes C-H insertion](https://dx.doi.org/10.26434/chemrxiv-2025-b1fh6?rft_dat=source%3Ddrss)  
+Jose Ruiz, Jared Shaw, Dylan Turner, Mingchun Gao, Wentao Guo, Tania Shahvali, Emily Jimenez Andrade, Beck Miller, Kevin Kong, James Fettinger, Matthew Sigman, Dean Tantillo  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper discusses the enantioselective synthesis of benzene-fused carbocycles through C–H insertion using rhodium donor/donor carbenes. The method shows chemoselectivity towards carbon centers with electron-donating heteroatoms. DFT calculations indicate a step-wise mechanism, shedding light on the stereoselectivity and preference for C–H over O–H insertion.  
+
+- [Fully-Functionalized Natural Product Probes to Expand the Chemical Tractability of the Human Proteome](https://dx.doi.org/10.26434/chemrxiv-2025-hfmv4-v2?rft_dat=source%3Ddrss)  
+Christopher Parker, Christian Chaheine, Louis Conway  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper discusses the development of natural product-derived photoaffinity probes to enhance chemical proteomics for exploring the human proteome. The authors use mass spectrometry to identify unique ligand interactions in cells, demonstrating regio- and stereoselective binding for proteins lacking chemical probes. This approach could significantly expand the ligandable chemical space of the human proteome.  
+
+- [Visible-Light Photocatalysis Using CsPbX3 Perovskite Nanocrystals for Organic Transformations](https://dx.doi.org/10.26434/chemrxiv-2025-vdjb1-v2?rft_dat=source%3Ddrss)  
+Prasenjit Mal, Pravat Nayek, Buddhadeb Pal  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper reviews the potential of CsPbX3 perovskite nanocrystals as photocatalysts for organic transformations, highlighting their unique properties and high solar radiation power conversion efficiency (up to 26.3%). It summarizes recent advancements, mechanistic insights, and future exploration opportunities in organic photocatalysis, emphasizing the relevance of these nanocrystals in improving synthetic methodologies.  
+
+- [On the Photosensitizing Properties of Aloe-Emodin in Photodynamic Therapy: Insights from the Molecular Modeling](https://dx.doi.org/10.26434/chemrxiv-2025-spzw3-v3?rft_dat=source%3Ddrss)  
+Maciej Spiegel  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper examines aloe-emodin's photosensitizing properties using computational chemistry, revealing a 98:2 ratio of neutral to monoanionic species. Key findings include a two-photon absorption cross-section of 77 GM and triplet quantum yields of 0.51 and 0.79. The neutral form exhibits superior biomolecule oxidation and DNA intercalation, corroborating with experimental data.  
+
+- [Guanosine-based supramolecular particles for enhanced drug and gene delivery in cell culture](https://dx.doi.org/10.26434/chemrxiv-2025-qm64k?rft_dat=source%3Ddrss)  
+Jose M. Rivera, Luis M. Negroán, Edwin Vázquez-Rosa, Luxene Belfleur, Tanya L. Díaz, Bismark Madera-Soto, Irving E. Vega  
+*Organic Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper presents supramolecular hacky sacks (SHS), self-assembled particles from guanosine derivatives for drug and gene delivery. Confocal microscopy and flow cytometry show that SHS uptake depends on G-derivative composition. SHS effectively encapsulate doxorubicin and facilitate plasmid transfection, highlighting their biocompatibility and tunable bioactivity for biomedical applications.  
+
+- [The Hitchhiker's Guide to Socratic Methods in Prompting Large Language Models for Chemistry Applications](https://dx.doi.org/10.26434/chemrxiv-2025-djf43?rft_dat=source%3Ddrss)  
+Hassan Harb, Yunkai Sun, Rajeev Surendran Assary  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper discusses the application of the Socratic method in prompting large language models (LLMs) for chemistry, focusing on iterative questioning to improve hypothesis refinement and problem-solving. It illustrates how integrating Socratic principles enhances LLM performance, adaptability, and model interpretability in scientific reasoning through examples from chemistry and materials research.  
+
+- [Refinement and Truncation of DNA Aptamers based on Molecular Dynamics Simulations: Computational Protocol and Experimental Validation](https://dx.doi.org/10.26434/chemrxiv-2025-k5mzk?rft_dat=source%3Ddrss)  
+Natalia Díaz, Ana Díaz-Fernández, Camen S. Ciudad, Dimas Suárez, Noemí de-los-Santos-Álvarez, M. Jesús Lobo-Castañón  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper presents a strategy for refining DNA aptamers using molecular dynamics simulations, which helps design shorter aptamers (20-35% shorter) with maintained or improved binding affinities. The protocol also assesses secondary structure stability and the impact of poly-thymine spacers. This method enhances optimization for aptamers used in diagnostics and therapeutic applications.  
+
+- [IR-Bot: an autonomous robotic system for real-time chemical mixture analysis via infrared spectroscopy and machine learning](https://dx.doi.org/10.26434/chemrxiv-2025-8xp04?rft_dat=source%3Ddrss)  
+Linjiang Chen, Xiaoyu Yue, Tao Song, Jiaqi Cao, Xiaolong Zhang, Shuo Feng, Weiwei Shang, Jun Jiang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper presents IR-Bot, an autonomous system for real-time chemical mixture analysis using infrared spectroscopy and machine learning. It employs a large-language-model-based IR Agent, multi-agent robotics, and a novel alignment-prediction approach to analyze binary and ternary mixtures. Results from a Suzuki coupling reaction demonstrate accurate predictions and insights into chemical behavior, enhancing data-driven laboratory workflows.  
+
+- [Pyrrolic FeN4 models for FeNC catalysts: the influence of planarity on electronic properties and Mӧssbauer parameters](https://dx.doi.org/10.26434/chemrxiv-2025-9hstm-v2?rft_dat=source%3Ddrss)  
+Niklas von Rhein, Jian Liang Low, Charlotte Gallenkamp, Beate Paulus, Vera Krewald  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper investigates the effects of planarity on electronic properties and Mӧssbauer parameters of pyrrolic FeN4 models in FeNC catalysts, alternative to platinum catalysts. It compares three pyrrolic models, focusing on the ability of spectroscopic techniques, especially Mӧssbauer spectroscopy, to detect differences in these models, which induce defects in the carbon matrix.  
+
+- [Atomic-Scale Observation of Moiré potential in Twisted Hexagonal Boron Nitride Layers by Electron Microscopy](https://dx.doi.org/10.26434/chemrxiv-2024-hbbfj-v2?rft_dat=source%3Ddrss)  
+Takashi Uchino, Rina Mishima, Takuro Nagai, Hiroyo Segawa, Masahiro Ehara  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-05  
+&ensp;The paper presents a method for obtaining atomically clean twisted hexagonal boron nitride (hBN) layers to study moiré potentials via aberration-corrected electron microscopy. Using this technique, researchers observed moiré diffraction spots, enabling the reconstruction of moiré potential. Results indicate that local interlayer atomic overlap significantly influences the moiré potential's periodicity and distribution, supported by density functional theory calculations.
+
 ## 05 Feb 2025  
 
 - [Machine learning-driven antiviral libraries targeting respiratory viruses](https://dx.doi.org/10.26434/chemrxiv-2025-bwdjj?rft_dat=source%3Ddrss)  
