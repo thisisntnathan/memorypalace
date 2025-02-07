@@ -12,6 +12,63 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 07 Feb 2025  
+
+- [Single-Molecule Quantification of RNA Degradation with Nanopore Sensing](https://dx.doi.org/10.26434/chemrxiv-2025-th9vf?rft_dat=source%3Ddrss)  
+Casey, Platnich; Mohammed, Alawami; Max, Earle; Ulrich, Keyser  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-07  
+&ensp;The paper introduces solid-state nanopore sensing as a novel method for quantifying RNA degradation, offering single-molecule resolution for very low RNA quantities (as little as 100 pg). This method outperforms gel electrophoresis, which requires larger amounts of RNA. The results indicate nanopore sensing is effective for analyzing RNA integrity in challenging samples.  
+
+- [Going nuclear: Improved antisense oligonucleotide activity through conjugation with a nuclear importer](https://dx.doi.org/10.26434/chemrxiv-2024-p6q7p-v2?rft_dat=source%3Ddrss)  
+Michael, Booth; Thomas, Milne; Disha, Kashyap  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper discusses the enhancement of antisense oligonucleotide (ASO) efficacy through conjugation with the nuclear importer (+)-JQ1. This method improved the performance of ASOs, particularly Oblimersen, in nuclear delivery, splice-switching, and mRNA knockdown. The findings suggest that modifying ASOs with nuclear importers may lead to more effective therapeutics.  
+
+- [AlphaFold2-RAVE: Protein Ensemble Generation with Physics-Based Sampling](https://dx.doi.org/10.26434/chemrxiv-2025-q3mwr?rft_dat=source%3Ddrss)  
+Da, Teng; Vanessa J., Meraz; Akashnathan, Aranganathan; Xinyu, Gu; Pratyush, Tiwary  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper presents AlphaFold2-RAVE, an open-source Python package that combines AlphaFold2 predictions with molecular dynamics simulations for efficient protein ensemble generation. It utilizes a feature selection module and the State Predictive Information Bottleneck method for structural analysis. Validation on proteins like E. coli adenosine kinase and the SARS-CoV-2 spike protein shows high sampling efficiency and minimal computational cost, promoting applications in drug discovery.  
+
+- [Discovery of amodiachins, a novel class of 4-aminoquinoline antimalarials active against multi-drug resistant Plasmodium falciparum](https://dx.doi.org/10.26434/chemrxiv-2023-lnkrm-v2?rft_dat=source%3Ddrss)  
+Mason J, Handford; Yuexin, Li; Terry, Riscoe; Katherine, Liebman; Michael K, Riscoe  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper explores amodiachin analogs as new 4-aminoquinoline antimalarials against multi-drug resistant Plasmodium falciparum. A series of synthesized compounds were tested for activity in cultured erythrocytes and cytotoxicity in HepG2 cells. Notably, compound 43 (ADC-028) showed potent antimalarial effects with significant metabolic stability and low toxicity, suggesting its potential in treating malaria.  
+
+- [Co-Design of Cyanobacteria Mutant Strains and Processes for Phosphorus Recovery from Livestock Wastewater](https://dx.doi.org/10.26434/chemrxiv-2025-3n9sd-v2?rft_dat=source%3Ddrss)  
+Brenda, Cansino-Loeza; Theodore A., Chavkin; Leonardo D., Gonzalez; Rebecca, Larson; Brian F., Pfleger; Victor M., Zavala  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper presents a cyanobacteria-based process for phosphorus recovery from livestock wastewater, achieving an 8.5-fold increase in biomass phosphorus density without affecting growth. Techno-economic modeling shows over a 2-fold reduction in total annualized costs and significant decreases in land use and energy. The combined process yields a phosphorus recovery charge of $9.2/kg, promoting a circular agricultural economy.  
+
+- [Nuclear Coupled Electronic States Analyses Expose Nuclear Quantum Effects in Nucleobase Pairs](https://dx.doi.org/10.26434/chemrxiv-2025-81k3n?rft_dat=source%3Ddrss)  
+Hirotoshi , Mori; Kohei, Motoki  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper examines the nuclear quantum effects (NQEs) in the tautomerization of nucleobase pairs, specifically Cytosine-Guanine. Utilizing constrained nuclear-electronic orbital calculations, the study found that considering NQEs increased the probability of tautomer formation significantly—8.0 times in gas and 20.5 times in water. It estimates 246 tautomer pairs per human genome.  
+
+- [Power Series Representation of Reaction Rates in Chemical Kinetics and Its Physical Interpretation](https://dx.doi.org/10.26434/chemrxiv-2025-hxbm5?rft_dat=source%3Ddrss)  
+Jia, Qiu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-07  
+&ensp;The paper presents a power series framework for modeling chemical reaction rates, enhancing traditional power-law models. It uses multivariate power series of reactant concentrations to account for multi-molecular interactions and synergistic effects, providing a more comprehensive understanding of reaction kinetics. The method offers improved mathematical flexibility and physical interpretation in representing reaction rates.  
+
+- [Fragment libraries from large synthetic compounds and natural products: A comparative chemoinformatic analysis](https://dx.doi.org/10.26434/chemrxiv-2025-8x50r?rft_dat=source%3Ddrss)  
+José L., Medina-Franco; Verónica, Ramírez-Cid; Ana L., Chávez-Hernández; Osvaldo, Sánchez López; Raul, Marques Novais; Temitayo Omowumi, Alegbejo Price; Kamilla, Moraes Alves; Wemenes J., Lima Silva; Flavio da, Silva Emery; Carolina Horta, Andrade  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper presents a comparative analysis of fragment libraries derived from large natural product databases, specifically 2,583,127 fragments from COCONUT and 74,193 from LANaPDB, against the synthetic CRAFT library containing 1,214 fragments. The study assesses chemical space coverage and diversity, with the curated libraries available for public access.  
+
+- [Platinum-Modified Cantor Alloys as High-Entropy Electrocatalysts for Oxygen Reduction Reaction](https://dx.doi.org/10.26434/chemrxiv-2025-slt2b?rft_dat=source%3Ddrss)  
+Christian Møgelberg, Clausen; Wiljar, Lobjakas; Jaak, Nerut; Jan, Rossmeisl  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-06  
+&ensp;The paper investigates platinum-modified Cantor alloys (CrCoFeMnNi) as high-entropy electrocatalysts for the oxygen reduction reaction (ORR). Using a machine learning-accelerated simulation protocol, the study identifies that Pt-rich alloys (approximately 80% Pt) exhibit the highest ORR activity due to synergistic effects. The findings advance the understanding of how bulk composition impacts kinetic behavior in complex alloys.  
+
+
 ## 06 Feb 2025  
 
 - [Synthesis of Selectively 13C/2H/15N-Labelled Arginine to Probe Protein Conformation and Interaction by NMR Spectroscopy](https://dx.doi.org/10.26434/chemrxiv-2025-dxwrr?rft_dat=source%3Ddrss)  
