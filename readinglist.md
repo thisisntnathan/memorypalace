@@ -12,6 +12,39 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 08 Feb 2025  
+
+- [Recent Advances in Machine Learning and Coarse-Grained Potentials for Biomolecular Simulations and Their Applications](https://dx.doi.org/10.26434/chemrxiv-2025-vxjlk?rft_dat=source%3Ddrss)  
+Leonardo, Medrano Sandonas, Adolfo, B. Poma, Alejandra, Hinostroza Caldas, Luis, Cofas-Vargas, Michael, Jones, Andrew, L. Ferguson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-07  
+&ensp;The paper reviews advancements in machine learning (ML) and coarse-grained (CG) potentials for biomolecular simulations, addressing the challenges of multiscale biological processes. It highlights ML-driven potentials with quantum accuracy and backmapping techniques, enhancing simulation efficiency while maintaining accuracy. These developments aim to improve insights in drug discovery and virus-host interactions by extending time and length scales in simulations.  
+
+- [Assigning the Stereochemistry of Natural Products by Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v2?rft_dat=source%3Ddrss)  
+Jean-Louis, Reymond, Markus, Orsi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-07  
+&ensp;The paper presents NPstereo, a machine learning model trained on the COCONUT database, which assigns the stereochemistry of natural products (NPs) with 80.1% accuracy for full assignments and 86.3% for partial assignments. It effectively translates NP structures into isomeric SMILES notation, aiding in the characterization of secondary metabolites like alkaloids and polyketides.  
+
+- [Text2Struc: Programmatic Crystal Structure Generation with Fine-Tuned Large Language Models](https://dx.doi.org/10.26434/chemrxiv-2025-pvgp0?rft_dat=source%3Ddrss)  
+Viktoriia, Baibakova, Weike, Ye, Igor, Vasiljevic, Steven, Torrisi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-07  
+&ensp;The paper presents Text2Struc, a fine-tuned CodeGen model for generating crystal structures from text. It utilizes low-rank adaptation and compares outputs to the Materials Project database. Results indicate that API calls yield higher accuracy, especially for complex structures, while training without CIF outputs increases generation fidelity. The findings emphasize the benefits of fine-tuning and API integration in materials science automation.  
+
+- [Chemical functionalization of a unique 2D material 
+– Computational prediction for cyclooctyne on the biphenylene network](https://dx.doi.org/10.26434/chemrxiv-2025-cqhf1?rft_dat=source%3Ddrss)  
+Ralf, Tonner-Zech, Hendrik, Weiske  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-07  
+&ensp;This paper employs density functional theory to predict the chemical functionalization of the biphenylene network with cyclooctyne. The study reveals an asynchronous [2+2] cycloaddition mechanism that alters the effective band structure, leading to unique electronic properties. The research highlights the high reactivity of the biphenylene network, signifying its potential for novel functional materials.  
+
+- [Hierarchical Transfer Learning: An Agile and Equitable Strategy for Machine-Learning Interatomic Models](https://dx.doi.org/10.26434/chemrxiv-2024-523v8-v2?rft_dat=source%3Ddrss)  
+Rebecca, Lindsey, Awwal, Oladipupo, Sorin, Bastea, Bradley, Steele, I-Feng William, Kuo, Nir, Goldman  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-07  
+&ensp;The paper presents a hierarchical transfer learning approach for machine-learned interatomic models (ML-IAM) to efficiently handle complex systems with multiple element types. Demonstrated on C and N mixtures at various conditions, it allows for reusable parameter blocks, enhancing model generation accessibility and validation while reducing computational demands on users.
+
 ## 07 Feb 2025  
 
 - [Single-Molecule Quantification of RNA Degradation with Nanopore Sensing](https://dx.doi.org/10.26434/chemrxiv-2025-th9vf?rft_dat=source%3Ddrss)  
