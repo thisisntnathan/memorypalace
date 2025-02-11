@@ -12,6 +12,57 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 11 Feb 2025  
+
+- [Machine Learning-Driven Discovery of Highly Selective Antifungal Peptides Containing Non-Canonical 
+β-Amino Acids](https://dx.doi.org/10.26434/chemrxiv-2024-gnpvz-v2?rft_dat=source%3Ddrss)  
+Reid, Van Lehn; Sean, Palecek; David, Lynn; Myung-Ryul, Lee; Douglas, Chang; Joshua, Richardson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The paper presents an iterative Gaussian process regression (GPR) method for the discovery of antifungal peptides with improved selectivity. Using a dataset of 147 sequences and their activities, the researchers explored 336,000 synthetic analogues of aurein 1.2, achieving up to 52-fold increased selectivity. This approach integrates computational predictions with experimental validation to combat antimicrobial resistance.  
+
+- [Probability Guided Chemical Reaction Scopes](https://dx.doi.org/10.26434/chemrxiv-2025-z0djf?rft_dat=source%3Ddrss)  
+Inbal Lorena, Eshel; Barkai, Shahar; Sergio , Barranco; Mónica, Pérez-Temprano; Anat, Milo  
+*Organic Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The paper presents a method for classifying chemical substrates based on reaction conditions to enhance synthetic protocol design. It uses a probability estimation approach that compares molecular features of target substrates with reported ones. This method is suitable for small datasets, addressing the challenge of low substrate diversity in existing literature.  
+
+- [Programmable Strategies for the Conversion of Aldehydes to Unsymmetrical (Deuterated) Diarylmethanes and Diarylketones](https://dx.doi.org/10.26434/chemrxiv-2025-d9zv4?rft_dat=source%3Ddrss)  
+Ahmad, Masarwa; Vipin, Gavit; Nicole, Hanania; Nadim, Eghbarieh; Israa, Shioukhi  
+*Organic Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The study presents an efficient method for synthesizing unsymmetrical diarylmethanes and diarylketones using aldehydes and arenes. Key techniques include regioselective Ar-H alkylation and chemoselective reductions or oxidations of phosphonium salts. The synthesis of fully deuterated diarylmethanes using D2O is highlighted. High yields and simple setups indicate its potential for academic and pharmaceutical applications.  
+
+- [Synthesis of an ultra-bright rotaxane with threaded BODIPY stoppers](https://dx.doi.org/10.26434/chemrxiv-2025-pxqqx?rft_dat=source%3Ddrss)  
+Yann, Trolez; Matthieu, Hicguet; Olivier, Mongin; Fabienne, Berrée  
+*Organic Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The paper reports the synthesis of two boron-assembled rotaxanes, featuring threaded BODIPY stoppers. One rotaxane achieved highly efficient fluorescence (quantum yield of 64%) upon selective boron removal, resulting in a brightness of 1.24 x 10^5 mol^-1.L.cm^-1, making it among the brightest reported. The method involved using potassium hydroxide for selective boron removal.  
+
+- [Selective Phosphorylation of Phenols and Benzenediols by the Kinase PsiK and Variants Thereof](https://dx.doi.org/10.26434/chemrxiv-2025-765rs?rft_dat=source%3Ddrss)  
+Jared, Lewis; Ahram, Kim; Nicolás M., Morato; R. Graham, Cooks; Ryan M., Phelan; Prabir, Saha; Pascal, Eyimegwu; Aqeel A., Niyaz; Rui, Huang  
+*Organic Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The paper investigates the kinase PsiK's ability to selectively phosphorylate phenols and benzenediols. Utilizing ATP as a phosphate donor, the study shows PsiK effectively phosphorylates various substituted phenols and benzenediols, achieving gram-scale phosphorylation with a turnover number exceeding 10,000. The findings suggest potential synthetic applications for this biocatalytic method.  
+
+- [Unusual Directionality in Thioamide Hydrogen Bonds Can Stabilize β-Strands](https://dx.doi.org/10.26434/chemrxiv-2024-nb231-v2?rft_dat=source%3Ddrss)  
+Haoliang, Zheng; Robert W, Newberry  
+*Organic Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The paper investigates how thioamides, despite being weaker hydrogen-bond acceptors, can stabilize β-strands through unusual directionality in hydrogen bonding. Using spectroscopic analysis of minimal amino-acid models and β-hairpin models, the study confirms these effects and suggests potential control over β-strand stability through thioamide incorporation.  
+
+- [Aryl Thiocyanate as an Organic ‘CN’ Source: Circular Chemical Economy Approach to Access Thiocyano-Thioesters from Cyclic Thioacetals](https://dx.doi.org/10.26434/chemrxiv-2025-p2cbf?rft_dat=source%3Ddrss)  
+Dr. Ramakrishna G., Bhat; Mousumi, Behera; Shubham , Shukla; Pankaj D. , Dharpure  
+*Organic Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The paper discusses a mild, transition metal-free method using aryl thiocyanate to produce thiocyano-thioesters from cyclic thioacetals via organophotoredox catalysis. It emphasizes a circular chemical economy by repurposing diaryl disulfide as a reusable substrate. The method shows broad functional group tolerance and scalability, supported by control experiments and cyclic voltammetry analysis.  
+
+- [Direct activation of C(sp3)–H bonds by carbon dots photoredox catalysts](https://dx.doi.org/10.26434/chemrxiv-2025-h1wv1?rft_dat=source%3Ddrss)  
+Le, Wang; Yuyong, Ma; Meifang, Zhu; Mingwei, Hui; Di, Chen; Dingxi, Li; Xianhao, Chi; Keping, Zhai  
+*Organic Chemistry on ChemRxiv*  
+2025-02-10  
+&ensp;The paper presents the innovative use of carbon dots (CDs) as metal-free photoredox catalysts for functionalizing C(sp³)–H bonds. It highlights their tunable photophysical properties that enhance reactivity, enabling a switch between Giese radical addition and dehydrogenative annulation. The findings demonstrate the potential of CDs for sustainable organic synthesis, addressing the limitations of precious metal catalysts.
+
 ## 08 Feb 2025  
 
 - [Recent Advances in Machine Learning and Coarse-Grained Potentials for Biomolecular Simulations and Their Applications](https://dx.doi.org/10.26434/chemrxiv-2025-vxjlk?rft_dat=source%3Ddrss)  
