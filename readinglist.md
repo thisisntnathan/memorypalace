@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 12 Feb 2025  
+
+- [Single molecule peptide synthesis without any side-chain protection using a nanopore and a sub-nanometer positioning system](https://dx.doi.org/10.26434/chemrxiv-2025-gsw8x?rft_dat=source%3Ddrss)  
+G, Sampath  
+*Organic Chemistry on ChemRxiv*  
+2025-02-11  
+&ensp;The paper presents a method for single-molecule peptide synthesis without side-chain protection using a nanopore with a sub-nanometer positioning system. The method allows for N-to-C or C-to-N synthesis, minimizes reagent usage, and reduces post-synthesis cleanup. It offers potential for large-scale synthesis with an array of headers and nanopores, achieving high precision and greenness.  
+
+- [Pseudo-4-Component Photoredox-catalyzed Alkylative Amidination / Carbamoylation of Styrenes with Isocyanides and Redox-Active Esters](https://dx.doi.org/10.26434/chemrxiv-2025-bvcvr?rft_dat=source%3Ddrss)  
+Maxime R., Vitale; Alexandre, Simon; Camilla, Acconcia; Sylvestre P. J. T., Bachollet; Mariateresa, Giustiniano; Laurence, Grimaud; Jérémy, Forté; Virgile, Rouffeteau  
+*Organic Chemistry on ChemRxiv*  
+2025-02-11  
+&ensp;The paper presents a photoredox-catalyzed process for alkylative amidination of styrenes, utilizing isocyanides and redox-active esters (RAEs). This method demonstrates broad functional group tolerance, allowing the final products, amidines, to be converted into various derivatives. The study showcases a novel synthetic approach with versatile applications in organic chemistry.  
+
+- [Au(III)-Catalyzed Domino Cyclization / Functionalization Reactions: an Efficient Entry to Heterocycles](https://dx.doi.org/10.26434/chemrxiv-2025-z5cjr?rft_dat=source%3Ddrss)  
+Antoine, Versini; Quentin, Arias; Jonathan, Boyer; Sandra, Olivero; Etienne, Brachet; Philippe, Belmont; Véronique, Michelet  
+*Organic Chemistry on ChemRxiv*  
+2025-02-11  
+&ensp;The paper discusses a gold(III)-catalyzed method for domino cyclization and functionalization, facilitating the synthesis of highly functionalized polyheterocycles. It focuses on creating isochromenes from 2-ethynylarylaldehydes and cycloisomerizing 1,6-enynes. The use of NHC-type gold(III) catalysts demonstrated superior reactivity and tolerance to functional groups compared to gold(I) catalysts.  
+
+- [Beyond HAT: Harnessing TBADT for photocatalyzed C(sp3)-C(sp3) Bond Formation through Reductive SET](https://dx.doi.org/10.26434/chemrxiv-2025-n0dx2?rft_dat=source%3Ddrss)  
+MAURIZIO, FAGNONI; Matteo, Leone; Dalila, Arnaldi  
+*Organic Chemistry on ChemRxiv*  
+2025-02-11  
+&ensp;This paper explores the use of the decatungstate anion (TBADT) for photocatalyzed C(sp3)-C(sp3) bond formation via reductive single electron transfer (SET). By optimizing conditions with γ-terpinene as a hydrogen donor, the method achieves high yields in alkylations of olefins, demonstrating TBADT's potential in sustainable organic synthesis and pharmaceutical applications.  
+
+- [Genie in a Bottle – Formation and Reactivity of an Elusive Monomeric Mn(IV)-Oxo Species Inside a Cavitand Pore](https://dx.doi.org/10.26434/chemrxiv-2025-133gp?rft_dat=source%3Ddrss)  
+Yuri, Tulchinsky; Galon, Green; Kamal Uddin, Ansari; Daphna, Shimon; Thejasree, Munikrishna; Sagi, Ezov; Donia, Shamali; Orit, Cohen  
+*Organic Chemistry on ChemRxiv*  
+2025-02-11  
+&ensp;The paper discusses a novel cavitand architecture with a Mn(II) center that generates a highly reactive Mn(IV)-oxo species. This species was characterized using spectroscopy and XRD, supported by ab-initio/TDDFT calculations. The study reveals the reactivity of the Mn(IV)-oxo core in H atom abstraction and O atom transfer, showcasing regioselective oxidation similar to natural metalloenzymes.  
+
+- [Asymmetric Electrochemical Alkenylation by Synergistic Chiral Primary Amine and Naphthalene Catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-z4hsr?rft_dat=source%3Ddrss)  
+Yingdong, Duan; Jianyuan, Chen; Liang, Cheng; Sanzhong, Luo  
+*Organic Chemistry on ChemRxiv*  
+2025-02-11  
+&ensp;The paper presents a method for asymmetric α-alkenylation of carbonyl compounds using potassium alkenyl trifluoroborate under electrochemical conditions, enhancing reactivity with the new organic mediator dimethoxyl naphthalene. Mechanistic studies reveal an ion-pair interaction contributing to high enantioselectivity, achieving unprecedented levels of enantioselectivities in electro-oxidative enamine transformations.
+
 ## 11 Feb 2025  
 
 - [Machine Learning-Driven Discovery of Highly Selective Antifungal Peptides Containing Non-Canonical 
