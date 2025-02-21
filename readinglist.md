@@ -12,6 +12,56 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 21 Feb 2025  
+
+- [Two-tier Selectivity in PROTAC-Prodrugs Targeting Prostate Cancer](https://dx.doi.org/10.26434/chemrxiv-2025-8qlmc?rft_dat=source%3Ddrss)  
+Cristina Nevado, Eleen Laul, Katherine Gosselé  
+*Organic Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;This paper discusses a novel two-tier selective PROTAC prodrug, compound 1, targeting prostate cancer (PCa) by combining a PSMA-617-derived ligand with a GSH-responsive linker. It efficiently releases the active PROTAC MZ1 in GSH-rich cancer cells, degrading BRD4 and exhibiting strong antiproliferative effects on PSMA-positive LNCaP cells while reducing toxicity in healthy cells.  
+
+- [Versatile bifunctional PYTA derivatives for actinium-225 radiolabeling: a comparison to gold standards](https://dx.doi.org/10.26434/chemrxiv-2025-q2t1b?rft_dat=source%3Ddrss)  
+Sophie Poty, Maxime Cheveau, Mathieu Moreau, Anna Grohmann, Sarah Robert, Alexandre Cochet, Bertrand Collin, Frédéric Boschetti, Franck Denat  
+*Organic Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;This paper introduces three newly synthesized PYTA bifunctional chelators for actinium-225, demonstrating superior radiochemical properties and in vitro stability compared to existing standards. The study validates their effectiveness through bioconjugation to various biovectors and in vivo evaluations, suggesting PYTA's potential as a new gold-standard chelator for actinium-225 due to its easier synthesis and versatility.  
+
+- [Data-driven Discovery of Polar Organic Cocrystals: Integration of Machine Learning and Automated Screening](https://dx.doi.org/10.26434/chemrxiv-2025-rr1vg?rft_dat=source%3Ddrss)  
+Huiyu Liu, Muyao Yu, Xiangyu Zhang, Yiru Sun, Yuyang Ling, Zezhao Xu, Zidi Wang, Na Yu, Yue-Biao Zhang, Ping Huai, Qisheng Wang, Xuming He, Linjiang Chen, Wei-Hong Zhu, Shan Jiang  
+*Organic Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;This paper presents a machine learning and high-throughput automation approach to accelerate the discovery of polar organic cocrystals. It explores 20 cocrystal combinations and solvent systems, resulting in the identification of 16 new hydrogen-bonded cocrystals, with a polar cocrystal discovery rate of 50%, significantly higher than the CSD average. This method could advance functional molecular materials.  
+
+- [Higher-level Strategies for Computer-Aided Retrosynthesis](https://dx.doi.org/10.26434/chemrxiv-2025-21zvt-v2?rft_dat=source%3Ddrss)  
+Jihye Roh, Joonyoung F. Joung, Kevin Yu, G. Logan Bartholomew, Omar A. Santiago-Reyes, Mun Hong Fong, Richmond Sarpong, Sarah E. Reisman, Connor W. Coley, Zhengkai Tu  
+*Organic Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;This paper presents a novel framework for computer-aided retrosynthesis called "higher-level retrosynthesis," which simplifies complex synthetic pathways by abstracting detailed substructures. This approach improves success rates in single- and multi-step retrosynthetic planning, demonstrated through case studies on complex drugs and natural products, ultimately enhancing the effectiveness of synthesis design.  
+
+- [Modulation of Lanthanide Luminescence with the Mechanical Bond: Antenna-Emitter Confinement in a Compact [2]Rotaxane](https://dx.doi.org/10.26434/chemrxiv-2025-m46z4?rft_dat=source%3Ddrss)  
+Fredrik Schaufelberger, Anja Ramström, Daisy R. S. Pooler, Huseynagha Abasov, Monika Tomar, Stefano Crespi  
+*Organic Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;The paper explores using mechanical bonding to connect lanthanide luminescent emitters with antennas in compact [2]rotaxanes, enhancing their dynamic and responsive features. The synthesis is modular and high-yielding. Photophysical studies confirm effective energy transfer and unique Cu(II) ion selectivity, showcasing the mechanical bond as an innovative conjugation strategy for improved luminescence applications.  
+
+- [FEP-SPell-ABFE: An Open-Source Automated Alchemical Absolute Binding Free Energy Calculation Workflow for Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2024-tkvrh-v2?rft_dat=source%3Ddrss)  
+Pengfei Li, Tingting Pu, Ye Mei  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;The paper presents FEP-SPell-ABFE, an open-source Python workflow that automates absolute binding free energy (ABFE) calculations for drug discovery. It requires a receptor in PDB format, ligands in SDF format, and a configuration file. The workflow outputs ranked ligands with binding energies in CSV format, utilizing SLURM for resource management. The code is available on GitHub.  
+
+- [Advancing Multiscale Molecular Modeling with Machine Learning-Derived Electrostatics](https://dx.doi.org/10.26434/chemrxiv-2024-m9xgc-v3?rft_dat=source%3Ddrss)  
+Jonathan A. Semelak, Pickering Ignacio, Kate K. Huddleston, Justo Olmos, Juan S. Grassano, Camila Clemente, Salvador I. Drusin, Marcelo Marti, Mariano C. Gonzalez Lebrero, Adrian E. Roitberg, Dario A. Estrin  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;The paper presents a novel machine learning framework for multiscale molecular modeling, integrating ML-derived electrostatics with molecular mechanics. It utilizes ANI neural networks for atomic partial charges, requiring no additional training, and is implemented in Amber software. Validated across various applications, it shows strong alignment with QM/MM benchmarks, enhancing computational efficiency and accuracy in simulations.  
+
+- [A Machine Learning and Quantum Chemistry Approach for Identifying Prebiotic Molecules in the Interstellar Medium](https://dx.doi.org/10.26434/chemrxiv-2025-vnwq3?rft_dat=source%3Ddrss)  
+Anita Rágyanszki, Rene Fournier, Hongchen Ji  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-20  
+&ensp;The paper presents a strategy combining machine learning and quantum chemistry to identify potential prebiotic molecules in the interstellar medium (ISM). Utilizing a dataset of over 153,000 reaction combinations, the authors identified 24 molecules with low energy barriers, five of which were previously observed. Advanced calculations provided data to aid future spectroscopic searches for new interstellar species.
+
 ## 12 Feb 2025  
 
 - [Single molecule peptide synthesis without any side-chain protection using a nanopore and a sub-nanometer positioning system](https://dx.doi.org/10.26434/chemrxiv-2025-gsw8x?rft_dat=source%3Ddrss)  
