@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 22 Feb 2025  
+
+- [Assisted Reproductive Technology: A Ray of Hope for Infertility](https://dx.doi.org/10.26434/chemrxiv-2025-5sfk1?rft_dat=source%3Ddrss)  
+Rumiana, Tenchov; Qiongqiong Angela, Zhou  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper discusses how assisted reproductive technologies (ART) have transformed reproductive medicine, providing solutions for infertility. It highlights the impact of ART on individuals and couples seeking to conceive, although specific datasets, methods, and results are not detailed in the abstract.  
+
+- [AI-driven de-novo design and development of non-toxic DYRK1A inhibitors](https://dx.doi.org/10.26434/chemrxiv-2024-rcx7n-v2?rft_dat=source%3Ddrss)  
+Nuria E., Campillo; Simón , Rodríguez Santana; Eduardo , González; Pablo, Varas; Pedro, González-Naranjo; Juan A., Páez; Eugenia , Ulzurrun; David, Rios-Insua; Concha, Pérez; Guillermo, Marcos-Ayuso  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;The paper focuses on the AI-driven design of non-toxic DYRK1A inhibitors, targeting diseases like DYRK1A syndrome, cancer, diabetes, and Alzheimer's. The study employs innovative methodologies to develop these inhibitors, although specific datasets and results are not detailed in the abstract.  
+
+- [A Novel Nucleic Acid Analogue (eTNA) Enhances Oligonucleotide Exonuclease Resistance Through End Capping](https://dx.doi.org/10.26434/chemrxiv-2025-vvjd7?rft_dat=source%3Ddrss)  
+Hui, Mei; Junlin, Wen; Chunlei, Zhang; Xue, Chen; Ziwen, Dai; Mengting, Li; Wenjian, Ma; Xiaoluo, Huang; Chenghe, Xiong  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper presents a novel nucleic acid analogue, eTNA, which enhances oligonucleotide resistance to 3’ exonuclease degradation through end capping with modified nucleotides. This approach improves the stability and therapeutic efficacy of oligonucleotides in vivo, highlighting its potential for biomedical applications.  
+
+- [Quantification of azides on the surface of nanoparticles: towards precise bioconjugation](https://dx.doi.org/10.26434/chemrxiv-2025-swjjx?rft_dat=source%3Ddrss)  
+Elizaveta, Maksimova; David E., Salazar Marcano; Jonathan, De Roo  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper discusses methods for quantifying azides on nanoparticle surfaces to enhance bioconjugation for improved cell targeting and uptake. It likely involves the use of specific datasets and experimental techniques to achieve precise measurements, although exact methods and results are not specified in the abstract.  
+
+- [Design, Synthesis, and Structure–Activity Relationship Studies of 4-substituted Phenylpyrazolidinone Derivatives as Potent Ku70/80 Targeted DNA-PK Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-trgrp?rft_dat=source%3Ddrss)  
+Navnath S., Gavande; Narva Deshwar , Kushwaha; Pamela , VanderVere-Carozza; Tyler L.,  Vernon; Pamela L. , Mendoza-Munoz; Jitender D. , Gaddameedi; Karim Ben , Ali Gacem; Jean-Baptiste , Charbonnier; John J.,  Turchi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper investigates the design and synthesis of 4-substituted phenylpyrazolidinone derivatives as inhibitors targeting the Ku70/80 complex involved in DNA repair. Structure-activity relationship studies were conducted to evaluate their potency. Specific datasets and methods used are not mentioned in the provided information, nor are specific results detailed.  
+
+- [Scaffold Hopping with Generative Reinforcement Learning](https://dx.doi.org/10.26434/chemrxiv-2024-gd3j4-v2?rft_dat=source%3Ddrss)  
+Luke, Rossen; Francesca, Grisoni; Finton, Sirockin; Nadine, Schneider  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;The paper explores scaffold hopping using generative reinforcement learning to design novel scaffolds for lead candidates. It addresses the challenges in medicinal chemistry and computational methods. Specific datasets and methods are not mentioned in the abstract, nor are detailed results provided.  
+
+- [Stabilization of the Ferryl=oxoheme Form of Staphylococcus aureus IsdG by Electron Transfer from a Second-Sphere Tryptophan](https://dx.doi.org/10.26434/chemrxiv-2024-8tqvn-v3?rft_dat=source%3Ddrss)  
+Matthew D, Liptak; Aarzoo, Grover; Matthew A, Conger  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper investigates the stabilization of the ferryl-oxoheme form in Staphylococcus aureus IsdG via electron transfer from a second-sphere tryptophan. It highlights novel UV/Vis absorption spectra observed in this form compared to typical biological ferryl hemes. No specific datasets or quantitative results are mentioned in the abstract.  
+
+- [What can be learned from the electrostatic environments within nitrogenase enzymes?](https://dx.doi.org/10.26434/chemrxiv-2025-dndx6-v2?rft_dat=source%3Ddrss)  
+Thijs, Stuyver; Olena, Protsenko; Davide , Avagliano; Thomas, Ward  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper explores electrostatic environments in nitrogenase enzymes, crucial for nitrogen fixation, a complex process due to N2's inertness. While the abstract lacks specifics on datasets or methods, it emphasizes understanding these environments to enhance catalytic efficiency. Results or explicit techniques are not detailed in the provided text.  
+
+- [Defluorinative Coupling of (NH)-Heteroarenes and Unactivated Vinyl Fluorides Enabled by Metal–Organic Frameworks](https://dx.doi.org/10.26434/chemrxiv-2025-r4408?rft_dat=source%3Ddrss)  
+Phillip, Milner; Kaitlyn, Keasler; Jaehwan, Kim; Julia, Pitolaj  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper explores the defluorinative coupling of (NH)-heteroarenes with unactivated vinyl fluorides using metal-organic frameworks. It highlights the significance of N-vinyl azoles in pharmaceuticals and the role of fluorovinyl groups as carbonyl bioisosteres in drug design, although specific datasets and results are not detailed in the abstract.  
+
+- [Kinetics Overcome Thermodynamics in Primitive Analogs of the Reverse Tricarboxylic Acid Cycle](https://dx.doi.org/10.26434/chemrxiv-2025-tjbjd?rft_dat=source%3Ddrss)  
+Brett, Savoie; Vignesh, Sathyasaleen; John, Morgan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;This paper investigates the reverse tricarboxylic acid (rTCA) cycle in primitive analogs, showing that kinetic factors can prevail over thermodynamic constraints. It likely utilizes experimental data from metabolic processes in anaerobic bacteria and archaea but does not specify datasets or methods in the abstract. The results emphasize kinetic over thermodynamic influences on CO2 fixation.
+
 ## 21 Feb 2025  
 
 - [Two-tier Selectivity in PROTAC-Prodrugs Targeting Prostate Cancer](https://dx.doi.org/10.26434/chemrxiv-2025-8qlmc?rft_dat=source%3Ddrss)  
