@@ -49,6 +49,16 @@ Oriol Vinyals, Meire Fortunato, and Navdeep Jaitly
 
 ## LLMs and Agents
 
+- [Collective Intelligence of Specialized Language Models Guides Realization of de novo Chemical Synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-dc28b?rft_dat=source%3Ddrss) + [GitHub Repo](https://github.com/haoteli/MOSAIC)  
+Li, Haote; Sarkar, Sumon; Lu, Wenxin; Loftus, Patrick; Qiu, Tianyin; Shee, Yu; Cuomo, Abbigayle; Webster, John-Paul; Kelly, H. Ray; Manee, Vidhyadhar; Sreekumar, Sanil; Buono, Frederic; Crabtree, Robert; Newhouse, Timothy; Batista, Victor  
+*Organic Chemistry on ChemRxiv* **2025**  
+&ensp;The paper introduces MOSAIC, a framework using Llama3.1-8B-instruct architecture and 2,489 specialized models to analyze chemical reactions effectively. It predicts novel transformations, successfully synthesizing over 35 new compounds from diverse categories. This approach enhances the utilization of existing chemical knowledge, fostering advancements in computational and experimental chemistry.  
+
+- [The Hitchhiker's Guide to Socratic Methods in Prompting Large Language Models for Chemistry Applications](https://dx.doi.org/10.26434/chemrxiv-2025-djf43?rft_dat=source%3Ddrss)  
+Hassan Harb, Yunkai Sun, Rajeev Surendran Assary  
+*Theoretical and Computational Chemistry on ChemRxiv* **2025**  
+&ensp;The paper discusses the application of the Socratic method in prompting large language models (LLMs) for chemistry, focusing on iterative questioning to improve hypothesis refinement and problem-solving. It illustrates how integrating Socratic principles enhances LLM performance, adaptability, and model interpretability in scientific reasoning through examples from chemistry and materials research.
+
 - [Instruction-Following Pruning for Large Language Models](https://arxiv.org/abs/2501.02086)  
 Bairu Hou, Qibin Chen, Jianyu Wang, Guoli Yin, Chong Wang, Nan Du, Ruoming Pang, Shiyu Chang, Tao Lei  
 *cs.CL on arXiv* **2025**  
@@ -230,6 +240,12 @@ Nicola De Cao and Thomas Kipf
 
 ## Other
 
+- [Scaffold Hopping with Generative Reinforcement Learning](https://dx.doi.org/10.26434/chemrxiv-2024-gd3j4-v2?rft_dat=source%3Ddrss)  
+Luke, Rossen; Francesca, Grisoni; Finton, Sirockin; Nadine, Schneider  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-21  
+&ensp;The paper explores scaffold hopping using generative reinforcement learning to design novel scaffolds for lead candidates. Presents improvements on REINVENT and LinkINVENT methods using RL for Unconstrained Scaffold Hopping. Essentially uses a ROCS-based reward to steer scaffold generation towards those with similar 3D and pharmacoaphore properties.
+
 - [Targeted Molecular Generation With Latent Reinforcement Learning](https://dx.doi.org/10.26434/chemrxiv-2024-8k8gr-v2?rft_dat=source%3Ddrss)  
 Ragy Haddad, Eleni Litsa, Zhen Liu, Xin Yu, Daniel Burkhardt, Govinda Bhisetti  
 *ChemRxiv*  
@@ -271,7 +287,15 @@ Omar Mahmood, Elman Mansimov, Richard Bonneau, and Kyunghyun Cho
 3. Uniqueness does not correlate strongly with any other metric  
 
 
-# Reaction Informatics
+# HTE
+
+- [Expediting hit-to-lead progression in drug discovery through reaction prediction and multi-objective molecular optimization](https://dx.doi.org/10.26434/chemrxiv-2025-0lxhw-v2?rft_dat=source%3Ddrss)  
+Kenneth, Atz; David F., Nippa;... Gisbert, Schneider  
+*Organic Chemistry on ChemRxiv* **2025**  
+&ensp;The paper presents an integrated medicinal chemistry workflow that accelerates hit-to-lead optimization in drug discovery. Using high-throughput experimentation, a dataset of 13,490 reaction outcomes was generated, training deep graph neural networks. A virtual library of 26,375 molecules led to 212 candidate MAGL inhibitors, with 14 achieving subnanomolar activity, improving potency up to 4500 times over original compounds.  
+
+
+# Reaction Product Prediction
 
 These models predict mechanisms for chemical reactions, ideally similar to how we teach 2nd years to push arrows. There are reltatively few of expamples of this task but they fall into 3 major categories electron flows, graph edits, reaction netowrks. At inference these models are used for forward synthesis prediction, potntially for prediction of chemo/regio-selectivity. Largely trained on pattern recognition from atom-mapped inputs (USPTO) though there are exceptions (e.g., Baldi papers below).  
 
@@ -369,6 +393,11 @@ Timur R. Gimadiev, Arkadii Lin, Valentina A. Afonina, Dinar Batyrshin, Ramil I. 
 
 # Computer-Aided Retrosynthesis Planning
 
+- [Higher-level Strategies for Computer-Aided Retrosynthesis](https://dx.doi.org/10.26434/chemrxiv-2025-21zvt?rft_dat=source%3Ddrss) + [GitHub Repo](https://github.com/jihye-roh/higherlev_retro)  
+Jihye Roh, Joonyoung F. Joung, Kevin Yu, G. Logan Bartholomew, Omar A. Santiago-Reyes, Mun Hong Fong, Richmond Sarpong, Sarah E. Reisman, Connor W. Coley, Zhengkai Tu  
+*Organic Chemistry on ChemRxiv*  **2025**  
+&ensp;The paper presents a novel framework called higher-level retrosynthesis for computer-aided retrosynthesis, which simplifies complex synthetic pathways by emphasizing broader strategies rather than specific chemical details. The approach demonstrated higher success rates in both single- and multi-step planning through case studies on drugs and natural products, enhancing the effectiveness of synthesis design.  
+
 - [Chimera: Accurate retrosynthesis prediction by ensembling models with diverse inductive biases](https://arxiv.org/abs/2412.05269)  
 Krzysztof Maziarz, Guoqing Liu, Hubert Misztela, Aleksei Kornev, Piotr Gaiński, Holger Hoefling, Mike Fortunato, Rishi Gupta, Marwin Segler  
 *arXiv* **2024**  
@@ -389,6 +418,11 @@ Weihe Zhong, Ziduo Yang, and Calvin Yu-Chian Chen
 
 
 # Publication Parsing
+
+- [ActionIE: Action Extraction from Scientific Literature with Programming Languages](https://doi.org/10.18653/v1/2024.acl-long.683)  
+Xianrui Zhong, Yufeng Du, Siru Ouyang, Ming Zhong, Tingfeng Luo, Qirong Ho, Hao Peng, Heng Ji, Jiawei Han  
+In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics* **2024**  
+&ensp; ActionIE is a method that leverages Large Language Models (LLMs) to extract experimental procedures from scientific literature by converting natural language instructions into executable Python code. It identifies linguistic patterns to improve action and entity extraction, particularly in chemical synthesis. The study introduces a new dataset and a graph-based metric, demonstrating superior performance in action extraction.
 
 - [OpenChemIE: An Information Extraction Toolkit for Chemistry Literature](https://doi.org/10.1021/acs.jcim.4c00572) + [Web App](https://mit.openchemie.info/)  
 Vincent Fan, Yujie Qian, Alex Wang, Amber Wang, Connor W. Coley, and Regina Barzilay  
