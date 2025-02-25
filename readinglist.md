@@ -12,6 +12,74 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 25 Feb 2025  
+
+- [Intermolecular Toroidal Conjugation: Circularly Stacked 16 π-Planes Formed by Supramolecular Assembly Enabling Cyclic Charge and Energy Delocalization](https://dx.doi.org/10.26434/chemrxiv-2025-hnn6b?rft_dat=source%3Ddrss)  
+Daisuke, Sakamaki; Koki, Tsubono; Minami, Nakamura; Daiki, Shimizu; Yasunori, Matsui; Hiroshi, Ikeda; Ko, Furukawa; Hideki, Fujiwara  
+*Organic Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper presents the first example of intermolecular toroidal conjugation through self-assembly, forming a circularly stacked array of 16 c0-planes from phthalocyanines and diazapentacenes. X-ray crystal analysis confirmed the structure, and spectroscopic methods demonstrated charge and exciton delocalization in the toroidal array, with charge migration observed in cationic and photoexcited states.  
+
+- [Chemodivergent Defluorinative Alkylation and Hydroalkylation of α-Trifluoromethyl Alkenes via Eosin Y Catalysis and EDA Photo-chemistry](https://dx.doi.org/10.26434/chemrxiv-2025-z7wcx?rft_dat=source%3Ddrss)  
+Zhen, Chen; Tianshuai, Zhu; Xinyu, Xie; Yue, Zhang; Hua-Wei, Liu; Jing-Jing, Zhang  
+*Organic Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper presents a visible-light-induced method for selectively creating gem-difluoroalkenes and trifluoromethyl alkanes from α1-trifluoromethyl olefins using Eosin Y as a photocatalyst. The method involves N-alkoxyphthalimides and showcases excellent chemo-selectivity across various substrates, enabling late-stage functionalization of natural products and bioactive molecules.  
+
+- [An Azobenzene-Based Liquid Molecular Solar Thermal (MOST) Storage System – Energy Carrier and Solvent](https://dx.doi.org/10.26434/chemrxiv-2025-7v3ds-v2?rft_dat=source%3Ddrss)  
+Hermann A., Wegner; Dominic, Schatz; Conrad, Averdunk; Rouven, Fritzius  
+*Organic Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper introduces 2,6-difluoroazobenzene (AB), a low-viscosity compound for molecular solar thermal (MOST) storage, achieving the highest storage density of 218 kJ kg-1 among liquid azobenzenes. The study highlights its efficient irradiation, processing, and dual function as both an energy carrier and solvent, facilitating energy harvesting through back-isomerization. Further optimization is necessary for enhanced efficiency.  
+
+- [Remote C(sp3) gamma- and epsilon-Arylation of Dienones and Trienones via a Co(II)-Catalyzed C–H Functionalization](https://dx.doi.org/10.26434/chemrxiv-2025-1ss78?rft_dat=source%3Ddrss)  
+Manmohan, Kapur; Pooja, Sah  
+*Organic Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper presents a cobalt-catalyzed method for gamma- and epsilon-arylation of enones and dienones via C-H bond activation. This approach demonstrates high regioselectivity with various functional groups. Mechanistic studies indicate the formation of radicals and a Co(IV) intermediate. The method is noted for its sustainability and effectiveness in direct coupling without directing group retention.  
+
+- [Photo-Electrochemical Geminal α-Fluorosulfenylation of Diazo Compounds through Carbene Radical Anion Intermediate](https://dx.doi.org/10.26434/chemrxiv-2025-5b068?rft_dat=source%3Ddrss)  
+Biplab, Maji; Rajib, Maity  
+*Organic Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper presents a method for the geminal difunctionalization of diazo compounds to synthesize α-fluorosulfinyl products using photo- and electro-catalysis. A commercial ionic liquid served as the fluorine source, yielding moderate to good results. The study details the reaction mechanism and highlights the cooperative effect of the dual catalytic approach.  
+
+- [Chiral Amplification of Dynamic Helical Polymers through 1:1 Host-Guest Interactions: Theoretical Models for Majority Rule and Sergeants and Soldiers Effects](https://dx.doi.org/10.26434/chemrxiv-2025-s5ndl?rft_dat=source%3Ddrss)  
+Nozomu, Suzuki; Daisuke, Taura; Yusuke, Furuta  
+*Organic Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper develops theoretical models for chiral amplification in dynamic helical polymers through 1:1 host-guest interactions, focusing on majority rule (MRHG) and sergeants and soldiers (SSHG) effects. The models assess enantioselectivity and the energy favoring helical states, with the chiral solvation model identified as a specific case of the SSHG model.  
+
+- [Application of Machine Learning Interatomic Potentials in Heterogeneous Catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-vt9qc?rft_dat=source%3Ddrss)  
+Tibor, Szilvasi; Gbolagade , Olajide; Khagendra , Baral; Sophia , Ezendu; Ademola , Soyemi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-25  
+&ensp;The paper discusses the use of machine learning interatomic potentials (MLIPs) as cost-effective alternatives to Density Functional Theory (DFT) in modeling heterogeneous catalysts. It reviews their applications in thermal and electrocatalysis, particularly for transition metal oxide surfaces, while noting limitations in transferability and non-local interactions. Promising future areas for MLIPs are also identified.  
+
+- [Reactive Quantum-Mechanical Molecular Dynamics Simulations to Reveal Mechanisms of Enzyme Catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-fq66p-v2?rft_dat=source%3Ddrss)  
+Rae Ann, Corrigan Grove; Michael A., Moxley; Christian F. A., Negre; Marc J., Cawkwell; Anders M. N., Niklasson; Susan M. , Mniszewski; Nathan, Smith; Kevin, Prososki; Mark A., Wilson; Michael E., Wall  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper presents a reactive quantum-mechanical molecular dynamics (QMD) approach to study isocyanide hydratase (ICH) catalysis. Using QMD simulations, the authors identified a thioimidate intermediate and a protonation pathway involving mobile protons. The findings were supported by X-ray crystallography and functional assays, highlighting the potential of reactive QMD for investigating enzyme mechanisms.  
+
+- [Structure-Based Drug Design to Discover Potential Hit Molecules for the Trim71 protein to prevent Congenital Hydrocephalus](https://dx.doi.org/10.26434/chemrxiv-2025-fh2v7-v2?rft_dat=source%3Ddrss)  
+Divya, Ramamoorthy; Veer, Bhatia  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;This paper focuses on structure-based drug design to identify inhibitors for the TRIM71 protein, linked to Congenital Hydrocephalus. Utilizing molecular modeling tools, the researchers screened compounds against the TRIM71 NHL domain (PDB: 7QRX) and identified a promising candidate with a binding energy of -30.29 kcal/mol and good drug-likeness. Future validation through experimental assays is recommended.  
+
+- [A systematic and general machine learning approach to build a consistent data set from different experiments: application to the thermal conductivity of methane](https://dx.doi.org/10.26434/chemrxiv-2024-g6bsl-v3?rft_dat=source%3Ddrss)  
+Itamar, Borges; Matheus, Máximo-Canadas; Julio Cesar, Duarte; Jakler, Nichele; Leonardo, Alves; Rogerio, Ramos; Luiz Octavio, Pereira  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper presents a machine learning method to create a consistent dataset from varied experimental data on methane's thermal conductivity. Using data from the NIST database, the proposed method integrates multiple sources, yielding predictions that closely align with processed data. The findings suggest that ML effectively handles noisy data, offering a faster alternative to traditional data processing methods.  
+
+- [Integrating Machine Learning-Based Pose Sampling with Established Scoring Functions for Virtual Screening](https://dx.doi.org/10.26434/chemrxiv-2025-96kzg-v2?rft_dat=source%3Ddrss)  
+Johannes, Kirchmair; Thi Ngoc Lan, Vu; Hosein, Fooladi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-24  
+&ensp;The paper investigates integrating DiffDock-L, a machine learning pose sampling method, with traditional scoring functions Vina and Gnina in virtual screening (VS). Evaluations using the DUDEZ benchmark dataset show that DiffDock-L performs competitively in VS and pose sampling, often producing plausible poses, while highlighting the importance of scoring function choice on VS outcomes.
+
 ## 22 Feb 2025  
 
 - [Assisted Reproductive Technology: A Ray of Hope for Infertility](https://dx.doi.org/10.26434/chemrxiv-2025-5sfk1?rft_dat=source%3Ddrss)  
