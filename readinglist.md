@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 27 Feb 2025  
+
+- [Chemiluminescent 2-Coumaranones: Synthesis, Luminescence Mechanism, and Emerging Applications](https://dx.doi.org/10.26434/chemrxiv-2025-j7zl0?rft_dat=source%3Ddrss)  
+Stefan Schramm, Tim Lippold, Isabelle Navizet  
+*Organic Chemistry on ChemRxiv*  
+2025-02-26  
+&ensp;The paper reviews 2-Coumaranones, promising chemiluminescent compounds known for efficient light emission. It covers their synthesis, structural properties, and mechanisms, highlighting applications in bioanalytical and material sciences such as enzyme-catalyzed assays and mechanoluminescence. Challenges include optimizing quantum yield and solvent compatibility. Future research aims to develop tunable derivatives for enhanced applications in diagnostics and sensing.  
+
+- [Enhancing Uncertainty Quantification in Molecular Machine Learning: A Comparative Study of Deep Evidential Regression and Ensembles with Posthoc Calibration](https://dx.doi.org/10.26434/chemrxiv-2025-fx019?rft_dat=source%3Ddrss)  
+BIDHAN CHANDRA GARAIN, Matheus O. Bispo, Max Pinheiro, Jr., Mario Barbatti  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-26  
+&ensp;The paper evaluates uncertainty quantification (UQ) in molecular property prediction, using an enhanced equivariant graph neural network (EGNN-DER) and an ensemble of ANI models. It addresses underconfident uncertainties with posthoc calibration methods and highlights the effectiveness of adversarial group calibration in improving active learning. The findings emphasize the need for calibration in refining machine learning strategies in computational chemistry.  
+
+- [Development of Parallel On-the-Fly Crystal Algorithm for Reaction Discovery in Large and Complex Molecular Systems](https://dx.doi.org/10.26434/chemrxiv-2025-9hcdq-v2?rft_dat=source%3Ddrss)  
+Ruibin Liang, Ankit Pandey, Gustavo J. Costa, Alam Mushfiq, Bill Poirier  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-26  
+&ensp;The paper presents a parallel on-the-fly Crystal algorithm optimized for reaction discovery in large molecular systems, specifically applied to bilirubin and novel molecular photoswitches. Using a QM/MM approach, it explores configurational spaces to uncover new product minima and reaction pathways, showcasing the algorithm's efficacy in enhancing understanding of chemical reactivities.  
+
+- [Predicting the binding sites of alkali atoms on transition metal dichalcogenides with a machine learning model based on electrostatics](https://dx.doi.org/10.26434/chemrxiv-2025-l3gpw?rft_dat=source%3Ddrss)  
+Raheel Hammad, Soumya Ghosh  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-26  
+&ensp;The paper presents a machine learning model that predicts alkali atom binding sites on transition metal dichalcogenides (TMDs) using electrostatic energies. It highlights challenges with traditional DFT methods and shows limited correlation with point charge analysis. The model accurately ranks binding site energies for various alkali ion concentrations and TMD types, enhancing predictions for battery and optoelectronic applications.  
+
+- [Frontier Orbital Changes Induce Slow-down of Excited State Population Dynamics in Thiopyridone Isomers](https://dx.doi.org/10.26434/chemrxiv-2025-cjls7?rft_dat=source%3Ddrss)  
+Sambit Kumar Das, Garratt Douglas, Gaffney Kelly, Michael Odelius  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-26  
+&ensp;The study investigates the non-adiabatic dynamics of photoexcited thiopyridone isomers (ortho, meta, para) using TDDFT-based surface hopping dynamics. The research reveals a systematic decrease in intersystem crossing rates from ortho to para isomer and underscores the role of electronic structure in these dynamics. Comparisons with a multireference approach enhance the understanding of excited-state proton transfer processes.  
+
+- [Meta effect enables redder and larger Stokes shift chromophores by enhanced aromaticity reversal](https://dx.doi.org/10.26434/chemrxiv-2025-56x1p?rft_dat=source%3Ddrss)  
+Chong Fang, Cheng Chen, Jiawei Liu, Ivan N. Myasnyanko, Daniil I. Rudik, Anita H. Adams, Alice R. Walker, Mikhail S. Baranov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-26  
+&ensp;The paper investigates the "meta effect" in compact fluorescent molecules with meta-positioned donor and acceptor groups. It finds that meta chromophores exhibit redder emissions and larger Stokes shifts compared to para isomers due to enhanced aromaticity reversal. The study proposes methods to improve fluorescence quantum yields while utilizing large Stokes shifts for applications in bioimaging and optoelectronics.
+
 ## 26 Feb 2025  
 
 - [Development of simplified, photo-active, and TfR1-targeted poly(β-aminoester)-zwitterion nanovehicles for gene delivery across brain endothelium](https://dx.doi.org/10.26434/chemrxiv-2025-wcxb8?rft_dat=source%3Ddrss)  
