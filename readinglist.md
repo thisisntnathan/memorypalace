@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 28 Feb 2025  
+
+- [Growing and Linking Optimizers: Synthesis-driven Molecule Design](https://dx.doi.org/10.26434/chemrxiv-2025-64bhb?rft_dat=source%3Ddrss)  
+Clarisse Descamps, Vincent Bouttier, Juan Sanz García, Quentin Perron, Hamza Tajmouati  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper introduces two reaction-based generative models, Growing Optimizer and Linking Optimizer, for molecular design, focusing on drug discovery. These models sequentially select building blocks and simulate reactions, offering advantages in restricting chemistry to specific pathways. Compared to REINVENT 4, they generate more synthetically accessible molecules with desired properties.  
+
+- [Scalable multigram practical total syntheses of amatoxins: amaninamide and α-amanitin for new antibody–drug conjugates](https://dx.doi.org/10.26434/chemrxiv-2025-klds2?rft_dat=source%3Ddrss)  
+Guodu Liu, Xinlong Yan, Zongwei Li, Yanyan Guo, Tao Zhang, Lujie Ning, Cunxi Zhang, Longke Qiao, Zhonghe Cui, Xiangdong Zhang, Yu Feng, Yongmin Zhang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper presents a scalable total synthesis of amatoxins, amaninamide and α-amanitin, aimed at developing antibody-drug conjugates (ADCs). Key methods included a novel asymmetric synthesis of chiral amino acids DHIle and 6-Htp, achieving yields of 3.69% and 1.73% for the targets. This approach significantly advances the efficiency of synthesizing these toxic peptides for therapeutic use.  
+
+- [The lysine deprotonation mechanism in a ubiquitin conjugating enzyme](https://dx.doi.org/10.26434/chemrxiv-2025-g7j3n?rft_dat=source%3Ddrss)  
+Isaiah Sumner, Alexis J. Wathan, Nicole Deschene, Joseph Litz  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper investigates the lysine deprotonation mechanism in the E2 enzyme Ubc13, which aids in ubiquitination. Using constant pH molecular dynamics (CpHMD), the study finds that the pKa of lysine 63 is influenced by its proximity to the active site, while mutations in certain residues (Asp119 and Glu64) minimally affect the pKa of lysine 63.  
+
+- [Predicting Solubility and Size-Exclusivity Towards the Rational Design of Porous Liquid Solutions](https://dx.doi.org/10.26434/chemrxiv-2025-cxwjt?rft_dat=source%3Ddrss)  
+Rebecca Greenaway, Austin Mroz, Benjamin Egleston, James Sherwood, Ruby Morel, Kim Jelfs  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper discusses a computational workflow combining solubility prediction and size-exclusivity algorithms to discover new porous liquid solutions for gas storage. The approach eliminates incorrect size-exclusivity predictions and successfully identified new solvent and porous molecular species pairs, achieving enhanced methane uptake. This method demonstrates significant advantages over traditional experimental approaches in identifying high-performance porous liquids.  
+
+- [Zero-field NMR and millitesla-SLIC spectra for > 200 molecules from density functional theory and spin dynamics](https://dx.doi.org/10.26434/chemrxiv-2025-fvm85-v2?rft_dat=source%3Ddrss)  
+Franziska Theiss, Thomas Theis, Volker Blum, Xingtao He, Iuliia Mandzhieva, Adam Ortmeier, Stephen McBride, Stephen DeVience, Matthew Rosen, Anuja Koirala  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper discusses the use of zero-field NMR and 6.5 mT spectra for over 200 small molecules, showing that ultra-low-field NMR can uniquely identify chemicals. The methodology involves all-electron DFT calculations using FHI-aims for J couplings and chemical shifts, with simulations conducted via SPINACH. Results indicate that low-field NMR provides reliable chemical identification.  
+
+- [Metal-FP: A hybrid molecular fingerprint to encode metal-based approved drugs](https://dx.doi.org/10.26434/chemrxiv-2025-6zh2h?rft_dat=source%3Ddrss)  
+EDGAR LÓPEZ LÓPEZ, José L. Medina-Franco  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper introduces Metal-FP, a hybrid molecular fingerprint for encoding metal-based drugs, alongside the first open metal-based drug database (MetAP DB). It addresses computational limitations in discovering metal compounds by providing a systematic protocol for encoding descriptors such as valence, oxidation state, and functional groups relevant to metal-based approved drugs.  
+
+- [RefineScore: Improving Ligand Docking Accuracy and Interpretability by Predicting MDN Corrective Physical Interactions](https://dx.doi.org/10.26434/chemrxiv-2025-kbhfb?rft_dat=source%3Ddrss)  
+Jinmei Pan, Wei Liu, Jintao Zhu, Weilin Zhang, Haoyu Lin, Geng Dong, Lirui Lin, Jiahan Zhou, Youjun Xu, Jianfeng Pei  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper presents RefineScore, a method that enhances ligand docking accuracy by using mixed density networks to predict van der Waals and hydrogen bonding interactions. It improves binding free energy calculations and offers physical interpretability of interactions. Evaluation results demonstrate that RefineScore outperforms traditional docking methods in scoring and ranking.  
+
+- [A set of Quantum–Mechanically Derived Force Fields for Natural and Synthetic Retinal Photoswitches](https://dx.doi.org/10.26434/chemrxiv-2025-chsf0-v2?rft_dat=source%3Ddrss)  
+Daniele Padula, Razan Daoud, Simone Veglianti, Anna Piras, Abderrahmane Semmeq, Giacomo Prampolini, Samuele Giannini  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper presents quantum-mechanically derived force fields (QMD–FFs) for modeling retinal photoswitches, using intramolecular force fields based on Møller–Plesset second order perturbation theory. Validation tests show these QMD–FFs accurately represent chromophore geometries, conformational landscapes, and optical properties. The parameters are designed to integrate with existing literature for biological macromolecules.  
+
+- [Decoding the Structure-Activity Relationship of the Dopamine D3 Receptor-Selective Ligands Using Machine and Deep Learning Approaches](https://dx.doi.org/10.26434/chemrxiv-2025-qtp1q?rft_dat=source%3Ddrss)  
+Lei Shi, Sung Joon Won, Kuo Hao Lee, Rey Capangpangan, Benjoe Rey Visayas  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper presents a study using machine and deep learning to develop quantitative structure-activity relationship (QSAR) models for predicting binding affinity and selectivity of dopamine D3 receptor ligands. High-quality data from the ChEMBL database were utilized. The deep neural network model outperformed other algorithms, with a novel optimization protocol and consensus approach increasing accuracy. Key features for receptor interactions were identified.  
+
+- [A Database of Steric and Electronic Properties of Heteroaryl Substituents](https://dx.doi.org/10.26434/chemrxiv-2025-8nrh7?rft_dat=source%3Ddrss)  
+Turki Alturaifi, Grace Scofield, Shengchun Wang, Peng Liu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-27  
+&ensp;The paper presents HArD, a database with DFT-computed steric and electronic properties of 31,500 heteroaryl substituents, significant for drug discovery and materials science. It includes 65 descriptors and newly developed Hammett-type constants (σHet) to enhance the evaluation of heteroaryl groups, covering various ring systems and regioisomers.
+
 ## 27 Feb 2025  
 
 - [Chemiluminescent 2-Coumaranones: Synthesis, Luminescence Mechanism, and Emerging Applications](https://dx.doi.org/10.26434/chemrxiv-2025-j7zl0?rft_dat=source%3Ddrss)  
