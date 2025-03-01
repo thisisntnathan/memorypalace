@@ -12,6 +12,38 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 01 Mar 2025  
+
+- [Light-Driven Constitutional Pump Powers Far-From-Equilibrium Dynamic-Covalent Behavior](https://dx.doi.org/10.26434/chemrxiv-2025-wjvld?rft_dat=source%3Ddrss)  
+Ruirui GU, Huiping Wu, Jean-Marie Lehn, Pengyun Li, Chong Li, Rui Wang, Wei-Hong Zhu, He Tian, Ben L. Feringa, Da-Hui Qu  
+*Organic Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper presents a light-driven constitutional pump that enhances dynamic covalent chemistry by creating unidirectional kinetic pathways, using a kinetic ratchet mechanism. It achieves a 28-fold amplification of the equilibrium constant, enabling spatiotemporal control over polymer crosslink density. This method contrasts with traditional catalytic approaches, leveraging light to control reaction intermediates and design adaptive materials.  
+
+- [Introducing Ylides as Charge-Neutral Termini for Poly(Ethylene Glycol) with Applications in Nanomedicine](https://dx.doi.org/10.26434/chemrxiv-2025-q9s64?rft_dat=source%3Ddrss)  
+Kevin Neumann, Daniela A. Wilson, Kouichi Shiraishi, Dulce M. Sánchez-Cerrillo, Lucía Mallen-Huertas, Remi Peters  
+*Organic Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper introduces a novel PEGylation method using sulfur ylides with tri- and pentapeptides to reduce antibody recognition of PEGylated systems. The resulting ylide-PEG conjugates maintained key properties and significantly decreased binding to anti-PEG antibodies in assays. This approach presents a scalable strategy with implications for nanomedicine and biomaterials, enhancing stealth properties while avoiding immunogenicity.  
+
+- [Enantioselective Synthesis of Complex Carbocycles by Donor/Donor Carbenes C-H insertion](https://dx.doi.org/10.26434/chemrxiv-2025-b1fh6-v2?rft_dat=source%3Ddrss)  
+Jose Ruiz, Jared Shaw, Dylan Turner, Mingchun Gao, Wentao Guo, Tania Shahvali, Emily Jimenez Andrade, Beck Miller, Kevin Kong, James Fettinger, Matthew Sigman, Dean Tantillo  
+*Organic Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper presents an enantioselective C–H insertion method using rhodium donor/donor carbenes to synthesize benzene-fused carbocycles. It demonstrates chemoselectivity for electron-donating heteroatoms, including ethers and nitrogen substituents. DFT calculations reveal a step-wise mechanism explaining stereoselectivity and C–H versus O–H insertion preference.  
+
+- [Radical Formation by Direct Single Electron Transfer between Nitrobenzene and Anionic Organo Bases](https://dx.doi.org/10.26434/chemrxiv-2025-8hnzz?rft_dat=source%3Ddrss)  
+DANIEL RETA, Shivaprasad A. Balahoju, Nicholus Bhattacharjee, Xabier Lopez, Luis Lezama, Pablo Salcedo-Abraira, Antonio Rodríguez-Diéguez  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper discusses direct single electron transfer between nitrobenzene and anionic organo bases, resulting in stable nitrobenzenide radical ion pairs. Methods include electron paramagnetic resonance spectroscopy and ab initio calculations. Results indicate the potential for radical properties in nitroarenes, offering a new platform for exploring frustrated radical pairs and enhancing heteroatom-centered radical applications.  
+
+- [Predicting Solubility and Size-Exclusivity Towards the Rational Design of Porous Liquid Solutions](https://dx.doi.org/10.26434/chemrxiv-2025-cxwjt?rft_dat=source%3Ddrss)  
+Rebecca Greenaway, Austin Mroz, Benjamin Egleston, James Sherwood, Ruby Morel, Kim Jelfs  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper presents a computational workflow for discovering new porous liquid solutions by predicting solubility and size-exclusivity. It successfully combined solubility prediction software with a size-exclusivity prediction algorithm, resulting in a new porous liquid with improved methane uptake. Experimental validation confirmed the findings, showcasing the effectiveness of a data-driven approach in porous liquid research.
+
 ## 28 Feb 2025  
 
 - [Growing and Linking Optimizers: Synthesis-driven Molecule Design](https://dx.doi.org/10.26434/chemrxiv-2025-64bhb?rft_dat=source%3Ddrss)  
