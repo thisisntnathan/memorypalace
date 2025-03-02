@@ -12,6 +12,26 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 02 Mar 2025  
+
+- [Evaluating Machine Learning Models for Molecular Property Prediction: Performance and Robustness on Out-of-Distribution Data](https://dx.doi.org/10.26434/chemrxiv-2025-g1vjf?rft_dat=source%3Ddrss)  
+Johannes Kirchmair, Hosein Fooladi, Thi Ngoc Lan Vu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-01  
+&ensp;This study evaluates twelve machine learning models for molecular property prediction, focusing on their performance on out-of-distribution (OOD) data using eight datasets and seven splitting strategies. It finds that while classical and GNN models perform similarly under scaffold-based splitting, cluster-based splitting presents more challenges. The correlation between in-distribution and OOD performance varies significantly, emphasizing careful model selection for specific applications.  
+
+- [When Theory Came First: A Review of Theoretical Chemical Predictions Ahead of Experiments](https://dx.doi.org/10.26434/chemrxiv-2025-gn7lm?rft_dat=source%3Ddrss)  
+Mario Barbatti  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-01  
+&ensp;This review surveys twenty instances from the past fifteen years where computational theoretical chemistry predicted molecular behaviors before experimental verification. It underscores contributions across diverse fields, illustrating the essential role of quantum chemical methods in guiding scientific discovery.  
+
+- [MlCOFSyn: A Machine Learning Framework to Facilitate the Synthesis of 2D Covalent Organic Frameworks](https://dx.doi.org/10.26434/chemrxiv-2025-j5g73?rft_dat=source%3Ddrss)  
+Yue Shi, Jiaxin Tian, Haoyuan Li  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-01  
+&ensp;This paper presents MlCOFSyn, a machine learning framework designed to assist in the synthesis of 2D covalent organic frameworks (COFs). It includes functionalities for predicting crystal sizes, reverse-engineering addition sequences, and optimizing sequences for larger crystals, making it accessible for non-experts and advancing 2D COF research.
+
 ## 01 Mar 2025  
 
 - [Light-Driven Constitutional Pump Powers Far-From-Equilibrium Dynamic-Covalent Behavior](https://dx.doi.org/10.26434/chemrxiv-2025-wjvld?rft_dat=source%3Ddrss)  
