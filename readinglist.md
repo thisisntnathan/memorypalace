@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 04 Mar 2025  
+
+- [Breaking Barriers in PROTAC Design: Improving Solubility of USP7-Targeting Degraders](https://dx.doi.org/10.26434/chemrxiv-2025-q39r1?rft_dat=source%3Ddrss)  
+Christian Steinebach, Sophie Wittenburg, Maximilian R. Zuleeg, Kirsten Peter, Patricia Lemnitzer, Rabea Voget, Aleša Bricelj, Martina Gobec, Nele Dierlamm, Thomas M. Geiger, Michael B. Braun, Christopher Heim, Alicia Stakemeier, Karl G. Wagner, Radosław P. Nowak, Marcus D. Hartmann, Izidor Sosič, Michael Gütschow, Jan Krönke  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-03  
+&ensp;This study presents a novel method for improving the solubility of VHL-recruiting USP7-targeting PROTACs through optimizing physicochemical properties. A constrained six-membered ring and solubilizing groups were introduced, resulting in compounds like bis-basic piperazine-modified PROTAC 40, which showed a 170-fold increase in solubility without compromising efficacy. This approach may be applicable to other E3 ligases.  
+
+- [Directed Evolution of APOX for Proximity Labeling Using Phenols with High Redox Potentials](https://dx.doi.org/10.26434/chemrxiv-2025-07zmn?rft_dat=source%3Ddrss)  
+Jeffrey D. Martell, Sifei Fang, Leslie D. Acevedo, Alexander J. Solivais, Xu Zhou, Elliot S. Delfosse, Brian L. Frey, Lloyd M. Smith  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-03  
+&ensp;This paper describes the directed evolution of APOX, a mutant of APEX2, which efficiently oxidizes nitrophenol for proximity labeling (PL) in living cells, improving spatial resolution. APOX exhibits 6-fold faster oxidation of nitrophenol and 2.5-fold faster oxidation of biotin phenol, enabling detailed proteomic mapping and enhancing the tagging of biomolecules.  
+
+- [High-affinity probes for androgen receptor imaging: from cells to whole-body fluorescent applications](https://dx.doi.org/10.26434/chemrxiv-2025-40bvk?rft_dat=source%3Ddrss)  
+Saheed Ayodeji, SHERYL ROBERTS, Destina Unaegbu, Allison Ingman  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-03  
+&ensp;This paper discusses the development of high-affinity fluorescent androgen receptor inhibitors (ARi-FL) for imaging in castrate-resistant prostate cancer (CRPC). Using a novel aryloxycyclohexane scaffold, the probes exhibited a binding affinity of ~13 nM, enabling visualization of AR in human cells and animal models, suggesting potential clinical applications for monitoring AR signaling.  
+
+- [Unveiling selectivity trends for CO2 reduction reaction over Ti3C2Tx MXene: The key role of less-stable intermediate states and coadsorbates](https://dx.doi.org/10.26434/chemrxiv-2025-m4lm9?rft_dat=source%3Ddrss)  
+Pablo Lozano-Reis, Kai S. Exner  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-03  
+&ensp;This paper investigates CO2 reduction reaction selectivity over Ti3C2Tx MXene, revealing that terminal groups and coadsorbates influence activity. Utilizing electronic structure theory calculations, the authors emphasize the inclusion of less-stable intermediates for accurate modeling, aligning theoretical predictions with experimental results, and could have broader implications for various catalytic transformations.  
+
+- [Soaring Chemical Space of Battery Electrolytes Using Universal Machine Learning Potential](https://dx.doi.org/10.26434/chemrxiv-2025-fnw1w?rft_dat=source%3Ddrss)  
+Jun Cheng, Feng Wang, Yu-Hang Tang, Ze-Bing Ma, Yu-Cheng Jin  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-03  
+&ensp;This paper develops a universal machine learning potential (uMLP) for battery electrolytes to address challenges in computational methods. By creating diverse electrolyte datasets and employing machine learning molecular dynamics (MLMD), it accurately computes key properties such as ionic conductivity and viscosity, revealing that shorter coordination lifetimes correlate with improved ion transport, enhancing electrolyte design efficiency.  
+
+- [Spin-scaled double hybrids with range-separation solve the TD-DFT overestimation problem in BODIPY dyes: benchmarking and experimental validation](https://dx.doi.org/10.26434/chemrxiv-2025-1mqbt?rft_dat=source%3Ddrss)  
+Lars Goerigk, Shebual Sebastian, Vaughan Riley, Binuki Wanniarachchi, Chris Ritchie  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-03  
+&ensp;This paper introduces the SBYD31 benchmark set for BODIPY absorption energies and evaluates 28 TD-DFT methods. It demonstrates that spin-scaled double hybrids with range-separation effectively address the overestimation issue, achieving chemical accuracy in absorption energy predictions. The findings enhance future developments of BODIPY dyes.
+
 ## 02 Mar 2025  
 
 - [Evaluating Machine Learning Models for Molecular Property Prediction: Performance and Robustness on Out-of-Distribution Data](https://dx.doi.org/10.26434/chemrxiv-2025-g1vjf?rft_dat=source%3Ddrss)  
