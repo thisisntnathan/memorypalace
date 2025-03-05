@@ -12,6 +12,27 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 05 Mar 2025  
+
+- [CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13](https://dx.doi.org/10.26434/chemrxiv-2025-8f0rq?rft_dat=source%3Ddrss)  
+Dakota Treleaven, Oleksandra Herasymenko, Madhushika Silva, and others  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-04  
+&ensp;The CACHE Challenge #2 aimed to predict ligands for the SARS-CoV-2 Nsp13 helicase RNA binding site, involving 23 teams using computational methods. A total of 1957 compounds were predicted, with 0.7% confirmed to bind in assays. Two scaffolds with Kd below 10 µM were identified. Successful strategies included fragment growing and machine-learning models, enhancing drug discovery efforts.  
+
+- [SEISMiQ: de novo impurity structure elucidation from tandem mass spectra boosts drug development](https://dx.doi.org/10.26434/chemrxiv-2025-6hhn1?rft_dat=source%3Ddrss)  
+Julian Keupp, Emilio Dorigatti, Jonathan Groß, Jonas Kühlborn, Robert Möckel, Frank Maier  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-04  
+&ensp;The paper presents SEISMiQ, a method for elucidating unknown impurities in pharmaceuticals from tandem mass spectra, enhancing accuracy by incorporating expert knowledge and utilizing transfer learning from an in-house simulated MS/MS dataset. The approach eliminates the need for experimental data collection by simulating drug synthesis processes.  
+
+- [Universally Accurate or Specifically Inadequate? Stress-testing General Purpose Machine Learning Interatomic Potentials](https://dx.doi.org/10.26434/chemrxiv-2025-tbhdk?rft_dat=source%3Ddrss)  
+Johannes T. Margraf, Karsten Reuter, Konstantin Jakob  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-04  
+&ensp;The paper evaluates the performance of M3GNet and MACE general purpose machine learning interatomic potentials (MLIPs) in predicting structures for various inorganic materials, comparing them with density functional theory. While MLIPs generally excel in computational efficiency and materials discovery, they exhibit systematic biases. A reliability metric is introduced, and novel ground state structures for 15 of 100 compositions are predicted.  
+
+
 ## 04 Mar 2025  
 
 - [Breaking Barriers in PROTAC Design: Improving Solubility of USP7-Targeting Degraders](https://dx.doi.org/10.26434/chemrxiv-2025-q39r1?rft_dat=source%3Ddrss)  
