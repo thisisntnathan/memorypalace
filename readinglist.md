@@ -12,6 +12,29 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 06 Mar 2025  
+
+- [CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13](https://dx.doi.org/10.26434/chemrxiv-2025-8f0rq-v3?rft_dat=source%3Ddrss)  
+Dakota Treleaven, Oleksandra Herasymenko, Madhushika Silva, Abd Al-Aziz Abu-Saleh, Ayaz Ahmad, et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The CACHE Challenge #2 aimed to identify ligands for the SARS-CoV-2 helicase Nsp13. Twenty-three teams used fragment screening and advanced computational methods to predict 1957 compounds, of which 0.7% bound to Nsp13. Successful strategies included fragment growing and machine learning approaches, leading to two novel scaffolds with Kd < 10 μM that inhibited helicase activity.  
+- [Amino acid appended supramolecular self-associating amphiphiles demonstrate dual activity against both MRSA and ovarian cancer](https://dx.doi.org/10.26434/chemrxiv-2025-bjgl9?rft_dat=source%3Ddrss)  
+Jennifer Hiscock, Precious Popoola, Thomas Allam, Rebecca Lilley, et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-05  
+&ensp;The paper introduces chiral, amino acid appended amphiphiles targeting MRSA and ovarian cancer, exploiting cell membrane composition changes associated with these conditions. It employs vesicle studies, NMR spectroscopy, and patch clamp experiments for mode of action, alongside in vitro drug metabolism and in vivo toxicity tests in Galleria mellonella, demonstrating dual antimicrobial and anticancer efficacy.  
+- [High-affinity probes for androgen receptor imaging: from cells to whole-body fluorescent applications](https://dx.doi.org/10.26434/chemrxiv-2025-40bvk-v2?rft_dat=source%3Ddrss)  
+Saheed Ayodeji, Destina Unaegbu, Allison Ingman, Sheryl Roberts  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-05  
+&ensp;The paper describes the development of high-affinity fluorescent probes (ARi-FL) for imaging androgen receptor (AR) signaling in castrate-resistant prostate cancer (CRPC). Using a novel aryloxycyclohexane scaffold, the probes demonstrated ~13 nM binding affinity to AR and effective visualization in cell assays and animal models, enabling noninvasive measurements of AR levels. These tools may enhance AR-targeted diagnostics and monitoring.  
+- [Generating Free-energy Landscapes and Mapping Conformational Transition Pathways from cryo-EM Images using a Deep Isometric Autoencoder](https://dx.doi.org/10.26434/chemrxiv-2024-8t70s-v2?rft_dat=source%3Ddrss)  
+Atsushi Tokuhisa, Kimihiro Yamazaki, Yuichiro Wada, Mutsuyo Wada, et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-05  
+&ensp;The paper presents a deep-learning method, PaStEL with cryoTWIN, for analyzing cryo-EM images to reveal free-energy landscapes and conformational transition pathways. Utilizing cryo-EM datasets, it identifies parallel assembly pathways in the 50S ribosome and the thermodynamic basis of SARS-CoV-2 spike protein infectivity, showcasing its potential in structural biology.
+
 ## 05 Mar 2025  
 
 - [CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13](https://dx.doi.org/10.26434/chemrxiv-2025-8f0rq?rft_dat=source%3Ddrss)  
