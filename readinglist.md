@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 07 Mar 2025  
+
+- [Evaluating Machine Learning Models for Molecular Property Prediction: Performance and Robustness on Out-of-Distribution Data](https://dx.doi.org/10.26434/chemrxiv-2025-g1vjf-v2?rft_dat=source%3Ddrss)  
+Johannes, Kirchmair; Hosein, Fooladi; Thi Ngoc Lan, Vu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The paper evaluates twelve machine learning models, including random forests and graph neural networks, on eight datasets to assess their robustness on out-of-distribution (OOD) data. It reveals that OOD data, particularly chemical similarity clustering, poses challenges for model performance. The correlation between in-distribution (ID) and OOD performance varies significantly, informing model selection based on application domains.  
+- [Photophysics of Resveratrol Derivatives for Singlet Oxygen Formation](https://dx.doi.org/10.26434/chemrxiv-2025-dwlbl?rft_dat=source%3Ddrss)  
+Mario, Barbatti; Mariana, Yoshinaga; Josene M., Toldo; Willian R. , Rocha  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The paper analyzes the photophysical properties of resveratrol derivatives (trans-resveratrol, cis-resveratrol, THP, and resveratrone) for singlet oxygen generation using quantum chemical methods. Results demonstrate THP's competitive intersystem crossing and fluorescence rates, making it a prominent photosensitizer over resveratrone. These findings suggest potential applications for these derivatives in photodynamic therapy.  
+- [Temperature-Dependent Mechanical and Phase Behavior of Pulmonary Surfactant Monolayers Studied by Dissipative Particle Dynamics Modeling and Experiments](https://dx.doi.org/10.26434/chemrxiv-2025-5rp46?rft_dat=source%3Ddrss)  
+Kolattukudy, Santo; Monica, Iepure; Jonathan, Arrendondo; Younjin, Min; Alexander, Neimark  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The paper presents a coarse-grained dissipative particle dynamics (DPD) model to study the temperature-dependent mechanical properties of dipalmitoyl phosphatidylcholine (DPPC) monolayers. The model predicts surface tension and phase behavior accurately, validated by experiments at varying temperatures. Findings include LC and LE phase coexistence and transitions, enhancing understanding of pulmonary surfactant functions in respiratory diseases.  
+- [Enhancing PROTAC Ternary Complex Prediction with Ligand Information in AlphaFold 3](https://dx.doi.org/10.26434/chemrxiv-2025-gfd6c?rft_dat=source%3Ddrss)  
+Rocío, Mercado; Francisco, Erazo; Nils, Dunlop; Farzaneh, Jalalypour  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The paper discusses enhancing AlphaFold 3's predictions of PROTAC ternary complexes by incorporating ligand information. Evaluating 48 PROTAC-related structures from the Protein Data Bank, the authors demonstrate improved accuracy using metrics like RMSD and pTM when ligand details are included. They also assess input strategies for better predictions, releasing their methodology and results on GitHub.  
+- [RIGR: Resonance Invariant Graph Representation for Molecular Property Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-qgfxp?rft_dat=source%3Ddrss)  
+Akshat Shirish, Zalte; Hao-Wei, Pang; Anna C, Doner; William H., Green  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The paper introduces RIGR, a Resonance Invariant Graph Representation that improves molecular property predictions by creating a single representation for resonance-exhibiting molecules. Evaluated on a large dataset using the D-MPNN architecture, RIGR outperforms Chemprop while using 60% fewer features. It is available as an open-source featurization scheme, showing promise in various property prediction tasks.  
+- [Deciphering self-assembly mechanisms of IRMOF-n-inspired three-dimensional cubic-symmetry nanoporous crystals from multiscale simulations](https://dx.doi.org/10.26434/chemrxiv-2025-qh8p1?rft_dat=source%3Ddrss)  
+Alexander, Pak; Katherine, Ardila; Tsung-Wei, Liu; Diego, Gomez-Gualdron  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The paper investigates the self-assembly mechanisms of cubic-symmetry nanoporous crystals inspired by IRMOF-n MOFs using multiscale simulations, including DFT and molecular dynamics. It identifies a coordination strength range (40-65 kJ/mol) that favors successful MOF formation, revealing that disassembly into amorphous clusters precedes crystallization. Key findings include specific free energy barriers affecting crystal growth under varying coordination strengths.  
+- [Machine learning for the experimental and computational development of heterogeneous catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-6v1sf?rft_dat=source%3Ddrss)  
+Carlota, Bozal-Ginesta; Sergio, Pablo-García; Changhyeok, Choi; Albert, Tarancón; Alán, Aspuru-Guzik  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The paper discusses the role of machine learning in enhancing heterogeneous catalysis by identifying patterns in large datasets. It highlights high-throughput quantum chemistry calculations and emphasizes the need for more comprehensive experimental data. The authors propose integrating high-throughput methods with machine learning and systematically compare existing literature based on various criteria, including ML methods and dataset sizes.  
+- [CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13](https://dx.doi.org/10.26434/chemrxiv-2025-8f0rq-v3?rft_dat=source%3Ddrss)  
+Dakota , Treleaven; Oleksandra, Herasymenko; Madhushika, Silva; Abd Al-Aziz, Abu-Saleh; Ayaz , Ahmad; Jesus A., Alvarado-Huayhuaz; Oscar E. A., Arce; Roly J., Armstrong; Cheryl, Arrowsmith; Kelly E., Bachta; Harmut, Beck; Denes, Berta; Mateusz K, Bieniek; Vincent, Blay; Albina, Bolotokova; Philip E., Bourne; Marco, Breznik; Peter J., Brown; Aaron D. G., Campbell; Emanuele, Carosati; Irene, Chau; Daniel J., Cole; Ben, Cree; Wim, Dehaen; Katrin, Denzinger; Karina, dos Santos Machado; Ian, Dunn; Prasannavenkatesh, Durai; Kristina, Edfeldt; Aled, Edwards; Darren, Fayne; Kallie, Friston; Pegah, Ghiabi; Elisa, Gibson; Judith, Guenther; Anders, Gunnarsson; Alexander, Hillisch; Douglas R., Houston; Jan, Halborg Jensen; Rachel J, Harding; Kate S., Harris; Laurent, Hoffer; Anders, Hogner; Joshua T., Horton; Scott, Houliston; Judd F., Hultquist; Ashley, Hutchinson; John J., Irwin; Marko, Jukić; Shubhangi, Kandwal; Andrea, Karlova; Vittorio L., Katis; Ryan P., Kich; Dmitri, Kireev; David, Koes; Nicole L., Inniss; Uta, Lessel; Sijie, Liu; Peter, Loppnau; Wei, Lu; Sam, Martino; Miles, McGibbon; Jens, Meiler; Akhila, Mettu; Sam, Money-Kyrle; Rocco, Moretti; Yurii S., Moroz; Joseph A., Newman; Leon, Obendorf; Brooks, Paige; Amit, Pandit; Keunwan, Park; Sumera, Perveen; Rachael, Pirie; Gennady, Poda; Mykola, Protopopov; Vera, Pütter; Federico, Ricci; Natalie J., Roper; Edina, Rosta; Margarita, Rzhetskaya; Yogesh, Sabnis; Karla J. F. , Satchell; Frederico, Schmitt Kremer; Thomas, Scott; Almagul, Seitova; Casper, Steinmann; Valerij, Talagayev; Olga O., Tarkhanova; Natalie J., Tatum; Adriano, Velasque Werhli; W. Patrick, Walters; Xiaowen, Wang; Jude, Wells; Geoffrey, Wells; Yvonne, Westermaier; Gerhard, Wolber; Lars, Wortmann; Jixian, Zhang; Zheng, Zhao; Shuangjia, Zheng; Matthieu, Schapira; Charuvaka, Muvva  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-06  
+&ensp;The CACHE Challenge #2 assessed computational methods to identify ligands for the SARS-CoV-2 helicase Nsp13 RNA binding site. Twenty-three teams predicted 1957 compounds, with 0.7% showing binding in assays. Successful strategies included fragment-growing and deep learning. Two compound scaffolds were identified with Kd below 10 µM, advancing drug discovery efforts against COVID-19.
+
 ## 06 Mar 2025  
 
 - [CACHE Challenge #2: Targeting the RNA Site of the SARS-CoV-2 Helicase Nsp13](https://dx.doi.org/10.26434/chemrxiv-2025-8f0rq-v3?rft_dat=source%3Ddrss)  
