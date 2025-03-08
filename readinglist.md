@@ -12,6 +12,62 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 08 Mar 2025  
+
+- [Molecular Simulations driven Identification of Natural Compounds as Marburg Virus VP35 Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-qlt3m-v2?rft_dat=source%3Ddrss)  
+Seraphin Benjamin, Ngachilindi Mbeket, Jean Jules, Fifen, Fidele, Ntie-Kang, Jeanet, Conradie  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The study identifies potential inhibitors of the Marburg virus VP35 using a multi-scale molecular simulation approach with a library of African natural compounds. Structure-based virtual screening revealed 134 candidates outperforming Favipiravir. Fifteen were further evaluated, with compounds SA260 and NA1411 recognized as the most promising. The research aims to advance antiviral treatments for Marburg virus infections.  
+
+- [Near-Infrared-Activated Photocages Made to Order: Late-Stage Caging Protocol](https://dx.doi.org/10.26434/chemrxiv-2024-2t8hw-v2?rft_dat=source%3Ddrss)  
+Peter, Stacko, Marina, Russo, Andrea, Ramundo, Dominika, Zielinska, Katarzyna, Hanc, Delia, Meier, Attila, Szabo  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper presents a simple and robust protocol for creating near-infrared-activated photocages, enabling easy installation of complex payloads, including hormones and FDA-approved drugs. It showcases the caging of the CDK4/6 inhibitor palbociclib, demonstrating NIR light-dependent activation. This user-friendly method aims to enhance the adoption of photocages in various scientific fields.  
+
+- [Solvent Reorganization in Stabilized Protein-Polymer Conjugates Visualized by 2D IR and NMR Spectroscopy](https://dx.doi.org/10.26434/chemrxiv-2025-sk9mk?rft_dat=source%3Ddrss)  
+Carlos, Baiz, Matthew, Eddy, Raiza, Maia, Xiaobing, Chen, Emma, Mulry  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper investigates the role of solvation in stabilizing PEGylated proteins, specifically the carbohydrate recognition domain of human Galectin-3 (Gal3C). Utilizing 2D IR and NMR spectroscopy, it reveals that longer PEG chains enhance protein and solvent dynamics, increasing thermal stability. Molecular dynamics simulations suggest PEGylation stabilizes the protein's solvation shell rather than dehydrating it, guiding optimal polymer design for biologics.  
+
+- [Water-Soluble Integral Membrane Protein Nanoparticles](https://dx.doi.org/10.26434/chemrxiv-2025-nkgp3?rft_dat=source%3Ddrss)  
+Lauren, Buchanan, Ricardo, Capone, James, Hutchison, Amanda, Cao, Geoffrey, Li, James, Hayes, Oliver, Chalkley, Michael, Goodman, Manuel, Castro, William, Weeks, Sivaraja, Vaithiyalingam, Qiangjun, Zhou, Charles, Sanders  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper presents a discovery that single-span helical integral membrane proteins can form stable, reversible protein nanoparticle assemblies (DLPs) without a lipid bilayer. Using size exclusion chromatography and electron microscopy, the study found that C99-DLPs are stable, spherical, and persist in solution. Notably, C99-DLPs are internalized by mammalian cells without degradation, challenging existing assumptions about membrane protein stability.  
+
+- [Direct Observation of Triplet-Triplet Energy Transfer Between C-Nucleotides of Thioxanthone and Naphthalene in DNA](https://dx.doi.org/10.26434/chemrxiv-2025-nrzhp?rft_dat=source%3Ddrss)  
+Christoph, Kerzig, Sebastian, Häcker, Till J. B., Zähringer, Hans-Achim, Wagenknecht  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper investigates triplet-triplet energy transfer in DNA using transient absorption spectroscopy, incorporating thioxanthone and naphthalene as energy donor and acceptor, respectively. Results show a rapid energy transfer rate of 17 ns with an exponential distance dependence of 1.15 Å^−1 for up to four A-T base pairs, indicating DNA's limited conductivity for triplet energy.  
+
+- [Stable, bioactive hydrogel coating on silicone surfaces for non-invasive decontamination via photochemical treatment](https://dx.doi.org/10.26434/chemrxiv-2025-7b7rl?rft_dat=source%3Ddrss)  
+Marie, Weinhart, Romina, Berger, Alina, Rahtz, Sonja, Johannsmeier, Wibke, Dempwolf, Henning, Menzel, Alexander, Schweigerdt, Andrea, Cosimi, Daniel, Stöbener  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper presents a method for enhancing PDMS surfaces with a bioactive polyacrylamide coating, incorporating catechol units for adhesion and stability. The coatings demonstrated effective antimicrobial activity against S. aureus, achieving a 4-log reduction post-irradiation. Results indicate long-term stability for at least 60 days and applicability in non-invasive decontamination techniques, utilizing a proof-of-concept with rose bengal photosensitizer.  
+
+- [Design of Light Driven Hole Bifurcating Proteins](https://dx.doi.org/10.26434/chemrxiv-2025-7j16n?rft_dat=source%3Ddrss)  
+David, Beratan, Xiao, Huang, Jonathon, Yuly, Peng, Zhang, William, DeGrado, Michael, Therien  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper discusses the design of light-driven hole bifurcating proteins that efficiently split electrons into high- and low-energy pools for applications in photosynthesis and biocatalysis. It outlines a strategy based on electrochemical potentials and cofactor distances, presenting an energy landscape to support this design, which could inform bioinspired charge delivery systems.  
+
+- [Decrypting the Non-Adiabatic Photoinduced Electron Transfer Mechanism in Light-Sensing Cryptochrome](https://dx.doi.org/10.26434/chemrxiv-2025-g0lg7?rft_dat=source%3Ddrss)  
+Ruibin, Liang, Gustavo J., Costa  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper investigates the photoinduced electron transfer (ET) mechanism in cryptochromes, particularly focusing on Arabidopsis thaliana cryptochrome 1. Using extensive non-adiabatic and adiabatic dynamics simulations with electronic structure calculations, it reveals that non-radiative decay occurs faster than adiabatic ET, influenced by the protein environment and new structural insights.  
+
+- [Engineering antisense oligonucleotides for targeted mRNA degradation through lysosomal trafficking](https://dx.doi.org/10.26434/chemrxiv-2025-jzgrj?rft_dat=source%3Ddrss)  
+Michael, Booth, Disha, Kashyap, Thomas, Milne  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-07  
+&ensp;The paper presents a novel mechanism for targeted mRNA degradation using antisense oligonucleotides (ASOs) via lysosomal trafficking. Employing autophagosome-tethering compounds, researchers developed RNase H-inactive ASO-ispinesib conjugates that outperformed traditional gapmer ASOs in knockdown efficiency. The study focuses on Menin (MEN1) for leukemia treatment, highlighting the potential for improved gene silencing and therapeutic applications.
+
 ## 07 Mar 2025  
 
 - [Evaluating Machine Learning Models for Molecular Property Prediction: Performance and Robustness on Out-of-Distribution Data](https://dx.doi.org/10.26434/chemrxiv-2025-g1vjf-v2?rft_dat=source%3Ddrss)  
