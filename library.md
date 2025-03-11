@@ -240,6 +240,13 @@ Nicola De Cao and Thomas Kipf
 
 ## Other
 
+- [Growing and Linking Optimizers: Synthesis-driven Molecule Design](https://dx.doi.org/10.26434/chemrxiv-2025-64bhb?rft_dat=source%3Ddrss)  
+Clarisse Descamps, Vincent Bouttier, Juan Sanz García, Quentin Perron, Hamza Tajmouati  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-02-28  
+&ensp;The paper introduces two reaction-based generative models, Growing Optimizer and Linking Optimizer, for molecular design, focusing on drug discovery. These models sequentially select building blocks and simulate reactions, offering advantages in restricting chemistry to specific pathways. Compared to REINVENT 4, they generate more synthetically accessible molecules with desired properties.  
+
+
 - [Scaffold Hopping with Generative Reinforcement Learning](https://dx.doi.org/10.26434/chemrxiv-2024-gd3j4-v2?rft_dat=source%3Ddrss)  
 Luke, Rossen; Francesca, Grisoni; Finton, Sirockin; Nadine, Schneider  
 *Biological and Medicinal Chemistry on ChemRxiv*  
