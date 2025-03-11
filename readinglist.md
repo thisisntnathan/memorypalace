@@ -12,6 +12,50 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 11 Mar 2025  
+
+- [Machine Learning-Based Retention Time Prediction Tool for Routine LC-MS Data Analysis](https://dx.doi.org/10.26434/chemrxiv-2025-0rplb?rft_dat=source%3Ddrss)  
+Oleksandr O., Grygorenko; Sofiia A., Dymura; Oleksandr O., Viniichuk; Kostiantyn P., Melnykov; Dmytro S., Radchenko  
+*Organic Chemistry on ChemRxiv*  
+2025-03-10  
+&ensp;The paper presents a machine learning model for predicting retention time (RT) in LC-MS data analysis using a GATv2Conv+DL graph neural network. Trained on internal data and evaluated with the METLIN SMRT dataset, the model achieved a mean absolute error of 2.83 seconds. It was integrated into an existing LC-MS tool, with 95% of data within the RT range of -11.34 to +10.68 seconds.  
+
+- [Design Rules to Engineer the Spin Structure of Cr4+ Molecular Qubits via Matrix Modularity](https://dx.doi.org/10.26434/chemrxiv-2025-79sw7?rft_dat=source%3Ddrss)  
+Lorenzo, Baldinelli; Diego, Sorbelli; Michael, Toriyama; Giovanni, Bistoni; Filippo, De Angelis; Giulia, Galli  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-03-10  
+&ensp;The paper explores engineering the spin structure of Cr(IV) molecular qubits using a multi-level computational approach to predict zero-field splitting (ZFS) parameters accurately. By altering the matrix composition, it tunes qubit magnetic anisotropy for enhanced quantum performance. The study identifies factors like molecular symmetry and electrostatic fields, computing spin-coherence times influenced by these matrix environments.  
+
+- [Reaction Network of CO₂ Hydrogenation into C1-2 Oxygenates and Its BEP Relationships](https://dx.doi.org/10.26434/chemrxiv-2025-pxps4-v2?rft_dat=source%3Ddrss)  
+Mikhail, Polynski; Sergey, Kozlov  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-03-10  
+&ensp;The paper explores CO₂ hydrogenation into C1-2 oxygenates using simplified catalytic reaction networks on Cu and Pd, incorporating realistic active sites. It introduces tailored Brønsted-Evans-Polanyi relationships, enabling more efficient machine learning analyses. The results highlight Cu's superior catalytic properties and provide a theoretical framework to improve understanding and design of catalysts for CO₂ hydrogenation.  
+
+- [Investigating Cavity Quantum Electrodynamics-Enabled Endo/Exo- Selectivities in a Diels-Alder Reaction](https://dx.doi.org/10.26434/chemrxiv-2024-6xsr6-v4?rft_dat=source%3Ddrss)  
+Pengfei, Huo; Jialong, Wang; Braden, Weight  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-03-10  
+&ensp;The paper explores how cavity quantum electrodynamics can alter selectivity in a Diels-Alder reaction, using a parameterized quantum electrodynamic (pQED) approach. It shows that coupling to the cavity changes selectivity from equal probabilities of Endo/Exo isomers outside the cavity. The findings align with high-level QED methods, demonstrating electron density redistribution due to the cavity effects.  
+
+- [When Theory Came First: A Review of Theoretical Chemical Predictions Ahead of Experiments](https://dx.doi.org/10.26434/chemrxiv-2025-gn7lm-v2?rft_dat=source%3Ddrss)  
+Mario, Barbatti  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-03-10  
+&ensp;The paper reviews twenty examples over fifteen years where theoretical predictions in computational chemistry anticipated experimental findings in fields like bioinorganic chemistry and materials science. It highlights the essential role of quantum chemical methods in predicting molecular structures, reaction mechanisms, and material properties, demonstrating their impact on guiding experiments and scientific discovery.  
+
+- [On the Reproducibility of Free Energy Surfaces in Machine-Learned Collective Variable Spaces](https://dx.doi.org/10.26434/chemrxiv-2025-g6q8f?rft_dat=source%3Ddrss)  
+Matteo, Salvalaglio; Florian M., Dietrich  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-03-10  
+&ensp;The paper discusses reproducibility in machine-learned collective variable (MLCV) spaces for calculating free energy surfaces (FES). It identifies the influence of training variability and hyperparameter roughness on reproducibility, proposing a Geometric Free Energy representation and a normalization factor to unify definitions and improve gradient modeling. These approaches aim to enhance the adoption of MLCVs in molecular simulations.  
+
+- [Polaronic competition triggers the H2O2 evolution on perovskite oxides during water oxidation](https://dx.doi.org/10.26434/chemrxiv-2025-rr2nh?rft_dat=source%3Ddrss)  
+Mohsen, Sotoudeh; Axel, Groß  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-03-10  
+&ensp;This study utilizes density functional theory (DFT) to explore the OER mechanism in calcium-based perovskite oxides (CaMO3). Findings reveal early transition metals favor O2 production, while Mn, Fe, and Co lead to hydrogen peroxide (H2O2) formation due to polaronic effects. pH significantly impacts perovskite stability, highlighting the importance of these factors for enhancing OER performance.
+
 ## 08 Mar 2025  
 
 - [Molecular Simulations driven Identification of Natural Compounds as Marburg Virus VP35 Inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-qlt3m-v2?rft_dat=source%3Ddrss)  
