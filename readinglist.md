@@ -12,6 +12,38 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 12 Mar 2025  
+
+- [Validation of dried saliva for molecular diagnostics](https://dx.doi.org/10.26434/chemrxiv-2025-66dj9?rft_dat=source%3Ddrss)  
+Charles R., Mace; Andrea C., Mora; Alexandra K., Sogn; Allison J., Tierney; Elizabeth, Tzavaras; Mabi L.,  Singh; Gustavo, Mahn Arteaga; Fiorenzo G., Omenetto; Athena, Papas  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-11  
+&ensp;The paper discusses the validation of FishburneTabs for standardized saliva sampling in viral diagnostics, particularly for COVID-19. It involves a method where patients collect saliva on paper tabs that dry and can be processed like dried blood spots. With 125 clinical samples, this method achieved 85% sensitivity and 94% specificity, offering a reliable alternative to liquid saliva for decentralized testing.  
+
+- [A one-pot RT-LAMP diagnostic assay for SARS-CoV-2 from saliva samples](https://dx.doi.org/10.26434/chemrxiv-2025-b40mr?rft_dat=source%3Ddrss)  
+Charles R., Mace; Andrea C., Mora; Allison J., Tierney; Alexandra K., Sogn; Paul T., Lawrence; Elizabeth, Tzavaras; Mabi L.,  Singh; Gustavo, Mahn Arteaga; Fiorenzo G., Omenetto; Athena, Papas  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-11  
+&ensp;The paper describes a one-pot RT-LAMP assay for detecting SARS-CoV-2 in saliva, addressing challenges of saliva's complexity. The method involves five steps, including heating and reaction processes. Tested on 127 patient samples, the assay achieved 98% accuracy, 88% sensitivity, and 100% specificity, demonstrating potential for improved point-of-care diagnostics for respiratory viruses.  
+
+- [Novel Tacrine-Based Compounds: Bridging Cholinesterase Inhibition and NMDAR Antagonism](https://dx.doi.org/10.26434/chemrxiv-2025-75581?rft_dat=source%3Ddrss)  
+Jan, Korabecny; Barbora, Svobodova; Zuzana, Moravcova; Anna, Misiachna; Gabriela, Novakova; Ales, Marek; Vladimir, Finger; Jitka, Odvarkova; Jaroslav, Pejchal; Jana, Karasova Zdarova; Jakub, Netolicky; Marek, Ladislav; Martina, Hrabinova; Ales, Sorf; Lubica, Muckova; Lenka, Fikejzlova; Marketa, Benkova; Martin, Novak; Lukas, Prchal; Jan, Capek; Jiri, Handl; Tomas, Rousar; Katarzyna, Ewa Greber; Krzesimir, Ciura; Martin, Horak; Ondrej, Soukup  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-11  
+&ensp;The paper discusses the design and evaluation of 16 novel tacrine derivatives for Alzheimer’s disease treatment, focusing on combining cholinesterase inhibition and NMDAR antagonism. In silico screening and in vitro assays assessed bioavailability and safety, revealing compound 5m as a potent inhibitor with improved metabolic stability and CNS penetration. The study supports further development of these multi-target ligands.  
+
+- [DNA-programmable Protein Degradation: Dynamic Control of PROTAC Activity via DNA Hybridization and Strand Displacement](https://dx.doi.org/10.26434/chemrxiv-2025-x4m7p?rft_dat=source%3Ddrss)  
+Michael, Booth; Disha, Kashyap; Thomas, Milne  
+*Organic Chemistry on ChemRxiv*  
+2025-03-11  
+&ensp;The paper presents OligoPROTACs, DNA-linked PROTACs that enable controlled protein degradation through DNA hybridization and a dynamic off-switch mechanism via strand displacement. The study showcases how these constructs can achieve distance-dependent degradation and reduce off-target effects, suggesting DNA nanotechnology's potential to refine PROTAC systems for safer therapeutic applications.  
+
+- [Enzymatic Crosslinking of Polyelectrolyte Complexes Produces Strong, Reconstitutable Biomedical Adhesives](https://dx.doi.org/10.26434/chemrxiv-2025-txdbz?rft_dat=source%3Ddrss)  
+Aasheesh, Srivastava; Tanmay , Dutta; Bhanwar, Lal; Drishya, Vats; Roop Singh, Lodhi; Paramita, Das; Debasis, Nayak  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-11  
+&ensp;The paper presents a novel water-based biomedical adhesive formed from anionic and cationic polyelectrolytes with Horseradish Peroxidase. It demonstrated strong adhesion (up to 10 MPa) on various surfaces and superior hemostatic properties in vivo compared to commercial adhesives. The adhesive is also reconstitutable from a lyophilized form, indicating potential for effective wound healing applications.
+
 ## 11 Mar 2025  
 
 - [Machine Learning-Based Retention Time Prediction Tool for Routine LC-MS Data Analysis](https://dx.doi.org/10.26434/chemrxiv-2025-0rplb?rft_dat=source%3Ddrss)  
