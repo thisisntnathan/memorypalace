@@ -12,6 +12,39 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 13 Mar 2025  
+
+- [Conformal Selection for Efficient and Accurate Compound Screening in Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2024-pf3ph-v2?rft_dat=source%3Ddrss)  
+Tian, Bai; Peng, Tang; Yuting, Xu; Vladimir, Svetnik; Abbas, Khalili; Xiang, Yu; Archer, Yang; Bingjia, Yang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-12  
+&ensp;The paper presents a conformal selection approach for compound screening in drug discovery, addressing bias and risk control issues. By using conformal inference to generate p-values, it ensures rigorous false discovery rate control and high accuracy. The method shows improved computational efficiency and is validated through numerical simulations on real-world datasets.  
+- [DeepDeg: Forecasting and explaining degradation in novel photovoltaics](https://dx.doi.org/10.26434/chemrxiv-2023-j2pvp-v2?rft_dat=source%3Ddrss)  
+Felipe, Oviedo; David S., Hayden; Thomas, Heumeuller; Jonas, Wortmann; Jose Dario, Perea; Richa, Naik; Hansong, Xue; John, Fisher III; Christoph J, Brabec; Tonio, Buonassisi; Juan, Lavista  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-12  
+&ensp;The paper presents DeepDeg, a machine learning model that forecasts and explains degradation in novel photovoltaics. Using a dataset of over 785 stability tests (230,000 hours), it accurately predicts degradation dynamics and explains the factors involved. Evaluated with 9,000 hours of data, DeepDeg accelerates degradation characterization by 5-20 times.  
+- [Automated Predictive Chemical Reaction Modelling applied to Gold(I) Catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-c6rxp?rft_dat=source%3Ddrss)  
+Raphaël, Robidas; Claude Y., Legault  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-12  
+&ensp;The paper presents a theoretical framework for automated predictive chemical reaction modeling applied to gold(I) catalysis, utilizing a "neophile" kinetic model. It achieved successful modeling of 17 unimolecular reactions, closely matching experimental results in 11 cases. This approach aims to facilitate unbiased reaction data generation and future machine-learning applications for autonomous research.  
+- [Exploring Chemistry and Catalysis by Biasing Skewed Distributions via Deep Learning](https://dx.doi.org/10.26434/chemrxiv-2025-cvb1v?rft_dat=source%3Ddrss)  
+Zhikun, Zhang; GiovanniMaria, Piccini  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-12  
+&ensp;The paper presents Loxodynamics, a deep learning approach for automating chemical reaction discovery using biased molecular dynamics. It utilizes a skewed distribution to identify low-energy reaction pathways, employing Skewencoder for efficient data extraction. Validated on various reactions, including gas-phase and catalytic processes, Loxodynamics provides a novel, data-driven framework for navigating complex chemical systems.  
+- [Harnessing Electric Fields for Rare Earth Element Recovery: A Computational Study of Electromigration and Flow Dynamics Using Dilute Feedstock](https://dx.doi.org/10.26434/chemrxiv-2025-n1742?rft_dat=source%3Ddrss)  
+Venkateshkumar, Prabhakaran; Zirui, Mao; Zhijie, Xu; Yang, Huang; Giovanna, Ricchiuti; Bruce, Palmer; Pauline G. , Simonnin; Vijayakumar, Murugesan; Grant E, Johnson; Jaehun , Chun  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-12  
+&ensp;The paper presents a Computational Fluid Dynamics (CFD) study exploring electrohydrodynamic methods for separating rare earth elements (REEs) from dilute feedstocks. It identifies key separation regimes influenced by diffusion, advection, and electromigration. Optimal conditions for separation require slow flows and strong electric fields. Results emphasize the significance of channel design and flow dynamics for effective REE recovery.  
+- [Comparing Massively-Multitask Regression Algorithms for Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-2mrbb?rft_dat=source%3Ddrss)  
+Eric, Martin; Xiang-Wei, Zhu; Patrick,  Riley; Steven, Kearnes; Ekaterina A , Sosnina; Li, Tian; Ying, Wei; Thomas M, Whitehead; Gareth J, Conduit; Matthew D, Segall  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-12  
+&ensp;The paper compares six Massively-Multitask Regression Models (MMRMs) for bioactivity prediction in drug discovery, using datasets of 159 kinase and 4276 diverse ChEMBL assays. Results show MMRMs outperform single-task random forests, particularly in hit-finding, but not for virtual screening. Training on 99+% of data yields better accuracy than training on 75%. Practical recommendations for method selection are discussed.
+
 ## 12 Mar 2025  
 
 - [Validation of dried saliva for molecular diagnostics](https://dx.doi.org/10.26434/chemrxiv-2025-66dj9?rft_dat=source%3Ddrss)  
