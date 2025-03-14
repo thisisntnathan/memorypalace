@@ -12,6 +12,38 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 14 Mar 2025  
+
+- [mineMS2: Annotation of spectral libraries with exact fragmentation patterns](https://dx.doi.org/10.26434/chemrxiv-2025-3c9z1?rft_dat=source%3Ddrss)  
+Etienne A., Thévenot, Alexis, Delabrière, Coline, Gianfrotta, Sylvain, Dechaumet, Pierrick, Roger, Annelaure, Damont, Thaïs, Hautbergue, Emilien L., Jamin, Olivier, Puel, Christophe, Junot, François, Fenaille  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-13  
+&ensp;The paper presents mineMS2, a software for annotating spectral libraries using exact fragmentation patterns. It employs a novel graph-based representation and a frequent-subgraph mining algorithm. Evaluated on spectral databases and biological samples, mineMS2 identifies similarities overlooked by traditional methods, enhancing structural interpretation and the identification of unknown metabolites. The software is available as an R package.  
+
+- [HyperXtract: Strategic Platform for Optimizing High-Bandwidth Nanopore Data Extraction Performance](https://dx.doi.org/10.26434/chemrxiv-2025-ll0z3?rft_dat=source%3Ddrss)  
+Y.M. Nuwan, D.Y. Bandara, Katherine, Gussenhoven, Dhanush, Amarasekara, Jugal, Saharia  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-13  
+&ensp;The paper introduces HyperXtract (HX), a platform optimizing high-bandwidth nanopore data extraction, outperforming its predecessor, NanoPlex (NP). HX processes 1000-second files at 40 MHz in under 50 seconds, significantly faster than NP's >45× slower performance. Key methods include MEX functions, memory mapping, and pre-allocation for efficient analysis, allowing near real-time decision-making in high-bandwidth experiments.  
+
+- [Graph neural networks to predict atomic transition charges and exciton couplings in organic semiconductors](https://dx.doi.org/10.26434/chemrxiv-2025-9h9rm?rft_dat=source%3Ddrss)  
+Daniel, Packwood, Geoffrey, Weal, Maryam, Nurhuda, Justin, Hodgkiss, Paul, Hume  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-13  
+&ensp;The paper presents a graph neural network (GNN) model that predicts exciton couplings in organic semiconductors using atomic transition charges. It demonstrates successful predictions for fused-ring electron acceptors and other molecules from the Cambridge Crystallographic Data Centre, enabling accurate exciton diffusion simulations and advancing high-throughput virtual screening for photovoltaic applications.  
+
+- [Comparison of Magnesium and Manganese Ions on the Structural and Catalytic Properties of Human DNA Polymerase Gamma](https://dx.doi.org/10.26434/chemrxiv-2025-lqqv4?rft_dat=source%3Ddrss)  
+Arkanil, Roy, G. Andrés, Cisneros  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-13  
+&ensp;The paper compares the effects of magnesium (Mg²⁺) and manganese (Mn²⁺) on human DNA polymerase gamma (Pol γ) using molecular dynamics and quantum mechanics/molecular mechanics simulations. Mn²⁺ enhances catalytic efficiency and flexibility but reduces structural stability compared to Mg²⁺. Findings indicate a trade-off between these properties, with implications for mutagenesis and mitochondrial disorders.  
+
+- [Cooperative Free Energy: Induced Protein–Protein Interactions and Cooperative Solvation in Ternary Complexes](https://dx.doi.org/10.26434/chemrxiv-2025-0mx20?rft_dat=source%3Ddrss)  
+Sereina, Riniker, Shu-Yu, Chen, Riccardo, Solazzo, Marianne, Fouché, Hans-Jörg, Roth, Birger, Dittrich  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-13  
+&ensp;The paper investigates cooperative free energy in ternary complexes, emphasizing induced protein-protein interactions (PPIs) and cooperative solvation. Using an approximated expression, it developed a rapid computational method to predict cooperativity in eight complexes, achieving a Kendall τ of 0.79. The study critiques current interpretations of cooperativity and provides thermodynamic insights into protein-ligand-protein interactions.
+
 ## 13 Mar 2025  
 
 - [Conformal Selection for Efficient and Accurate Compound Screening in Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2024-pf3ph-v2?rft_dat=source%3Ddrss)  
