@@ -12,6 +12,34 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 18 Mar 2025  
+
+- [Molecular deep learning at the edge of chemical space](https://dx.doi.org/10.26434/chemrxiv-2025-qj4k3?rft_dat=source%3Ddrss)  
+Derek van Tilborg, Luke Rossen, Francesca Grisoni  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-17  
+&ensp;The paper proposes a joint modeling approach to enhance molecular machine learning's ability to generalize beyond training data. Utilizing over 30 bioactivity datasets, it introduces a reconstruction-based "unfamiliarity" metric to predict model performance on novel bioactive molecules. The results show that this method effectively identifies out-of-distribution molecules and offers deeper molecular insights compared to traditional approaches.  
+- [How repair proteins identify DNA damage in the nucleosome](https://dx.doi.org/10.26434/chemrxiv-2025-605xd?rft_dat=source%3Ddrss)  
+Fabrizio Cleri, Parvathy A. P. Sarma, Safwen Ghediri, Vinnarasi Saravanan, Corinne Abbadie, Ralf Blossey  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-17  
+&ensp;The paper investigates how repair proteins identify DNA damage in nucleosomes using molecular dynamics simulations. It focuses on interactions between glycosylase UDG and mutated uracil, and PARP1 with simulated single-strand breaks. Results suggest that specific mechanical deformations around DNA defects may enhance damage recognition, making random search insufficient for efficient repair initiation.  
+- [Neural Mulliken Analysis: Molecular Graphs from Density Matrices for QSPR on Raw Quantum-Chemical Data](https://dx.doi.org/10.26434/chemrxiv-2024-k2k3l-v3?rft_dat=source%3Ddrss)  
+Oleg Gromov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-17  
+&ensp;The paper introduces Neural Mulliken Analysis, leveraging molecular graphs from one-electron density matrices for QSPR. Utilizing atomic and link node embeddings, the method employs a GNN trained on data from the Solubility Challenge, achieving improved solubility predictions (RMSE 0.63, R^2 0.79). This approach shows potential for enhancing chemical machine-learning tasks by integrating electronic structure awareness.  
+- [Leveraging Alchemical Free Energy Calculations with Accurate Protein Structure Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-wv6z9-v2?rft_dat=source%3Ddrss)  
+Jan Domański, Jenke Scheen, Francesco Rianjongdee, Hannah Bruce Macdonald, Richard Gowers, Seb Degorce, Adam Green, Conor Scully, Tom Duffy, Jen Howes, Charlotte Cordery, Alwin Bucher, Laksh Aithani  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-17  
+&ensp;The paper presents a hybrid framework combining machine-learned ligand-protein co-folding models with Free Energy Perturbation (FEP) for drug discovery. It benchmarks results on a public kinase target (PFKFB3) and an internal target, showing improved accuracy and reduced computational costs compared to traditional methods, thus enhancing lead optimization and supporting therapeutic discovery.  
+- [Time-Series Learning Based on Neural Ordinary Differential Equations for Nonadiabatic Molecular Dynamics Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-jrjz5?rft_dat=source%3Ddrss)  
+Haoyang Xu, Jin Wen, Luxiang Zhu, Lei Niu, Feng Yan, Meifang Zhu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-17  
+&ensp;The paper presents two time-series learning models based on neural ordinary differential equations (NODEs) for nonadiabatic molecular dynamics simulations: continuous normalizing flow (CNF) and Hamiltonian neural networks (HNN). CNF improves modeling of energy gap distributions, while HNN effectively handles nonadiabatic transitions. Both architectures show potential for ultrafast dynamics simulations, with CNF simplifying parameter tuning and HNN enhancing configurational reorganization simulations.
+
 ## 14 Mar 2025  
 
 - [mineMS2: Annotation of spectral libraries with exact fragmentation patterns](https://dx.doi.org/10.26434/chemrxiv-2025-3c9z1?rft_dat=source%3Ddrss)  
