@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 19 Mar 2025  
+
+- [Data Scaling and Generalization Insights for Medicinal Chemistry Deep Learning Models](https://dx.doi.org/10.26434/chemrxiv-2024-bznm6-v2?rft_dat=source%3Ddrss)  
+Alan Cheng, Jacky Chen, Song Yang, Jonathan Tynan, Cheng Chen, Yunsie Chung  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper investigates deep learning models for drug discovery, comparing them to traditional methods like XGBoost and random forest using internal and publicly available datasets. It examines performance across various data tasks and identifies factors boosting graph neural network performance. A scaling relationship accounting for 81% of performance variance is developed, aiding in estimating models for ADMET endpoints and enhancing drug discovery outcomes.  
+- [Machine Learning-Guided Synthesis of Prospective Organic Molecular Materials: An Algorithm with Latent Variables for Understanding and Predicting Experimentally Unobservable Reactions](https://dx.doi.org/10.26434/chemrxiv-2023-bvvdb-v8?rft_dat=source%3Ddrss)  
+Norie MOMIYAMA, Kazuhiro TAKEDA, Naoya OHTSUKA, Toshiyasu SUZUKI  
+*Organic Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper presents a machine learning algorithm that incorporates latent variables to predict unobservable reactions for perfluoro-iodinated naphthalene derivatives. The algorithm achieved an R2 value >0.99, accurately estimating substitution patterns and reaction yields, validated experimentally. This ML-guided framework enhances heuristic methods in chemistry, optimizing synthetic processes and enabling further applications in catalyst discovery and organic semiconductor optimization.  
+- [Transferable Machine Learning Interatomic Potential for Pd-Catalyzed Cross-Coupling Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-n36r6?rft_dat=source%3Ddrss)  
+Olexandr Isayev, Dylan Anstine, Roman Zubatyuk, Liliana Gallegos, Robert Paton, Olaf Wiest, Benjamin Nebgen, Travis Jones, Gabe Gomes, Sergei Tretiak  
+*Organic Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper presents AIMNet2-Pd, a machine learning interatomic potential for palladium-catalyzed cross-coupling reactions, enabling rapid computational studies. Trained on monophosphine ligands, it performs energy calculations and geometry optimizations with high accuracy (1-2 kcal mol−1 and ~0.1 Å) in seconds, facilitating high-throughput catalyst screening and mechanistic studies of diverse Pd complexes.  
+- [Ascorbate Peroxidase (APEX2) Activates Dihydrotetrazine Oxidation for Rapid Bioorthogonal Chemistry in Living Cells](https://dx.doi.org/10.26434/chemrxiv-2025-prsq2?rft_dat=source%3Ddrss)  
+Joseph Fox, Sophia Neglia, Amanda Tallon, Christopher am Ende, Colin Thorpe  
+*Organic Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper demonstrates that APEX2 efficiently catalyzes dihydrotetrazine (DHTz) oxidation, enhancing bioorthogonal reactions in living cells. Through in vitro studies, it reveals the role of superoxide dismutase and the impact of H2O2 on reaction efficiency (kcat/KM 4.90 × 10^3 M−1s−1). Tests included live HeLa and PC3 cells, showing successful tetrazine conjugation with fluorescent tags and selective targeting of enzymes.  
+- [Addressing sustainability challenges in peptide synthesis with flow chemistry and machine learning](https://dx.doi.org/10.26434/chemrxiv-2025-93c25?rft_dat=source%3Ddrss)  
+Kristóf Ferentzi, András Perczel, Viktor Farkas  
+*Organic Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper presents a recyclable Anisole/DMSO solvent system for flow chemistry in peptide synthesis, outperforming DMF. Key methods included solvent parameter exploration, flow parameter adjustments reducing racemization, and machine learning optimization. High-efficiency synthesis of peptides (Aib-ACP, GLP-1, BPTI) was achieved, making the process more sustainable by minimizing toxic waste and improving speed.  
+- [Racemization-free peptide bond formation via 2-nitrobenzensulfonyl strategy for diastereoselective synthesis of (Z)-fluoroalkene-type peptidomimetcs](https://dx.doi.org/10.26434/chemrxiv-2025-wn98j?rft_dat=source%3Ddrss)  
+Tetsuo NARUMI, Chihiro Iio, Kohei Sato, Nobuyuki Mase  
+*Organic Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper discusses a novel racemization-free strategy for synthesizing (Z)-fluoroalkene-type peptidomimetics, using the 2-nitrobenzensulfonyl (Ns) group to prevent racemization during peptide bond formation. The method involves coupling Xaa-Pro-type FADIs with amino acid benzyl esters, enhancing diastereoselectivity and expanding the applications of FADIs in peptide development.  
+- [Chiral Potassium Brønsted Base-Catalyzed Stereoselective Synthesis of 1,3-Diols via a Tandem Allylic Isomerization/Asymmetric Aldol–Tishchenko Reaction](https://dx.doi.org/10.26434/chemrxiv-2025-w9479?rft_dat=source%3Ddrss)  
+Masahiro Sai, Hiroki Ishikawa  
+*Organic Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper discusses chiral potassium Brønsted bases featuring 3,3́-substituted BINOL-based crown ethers as sustainable catalysts for a tandem allylic isomerization/asymmetric aldol–Tishchenko reaction. This method produces diverse 1,3-diols with excellent diastereoselectivity and high enantioselectivity, utilizing allylic alcohols as nucleophiles.  
+- [An Electrochemical Amidation/C-H Halogenation Cascade for the Sustainable Synthesis of Halogenated N-Aryl Amides, Carbamates and Ureas](https://dx.doi.org/10.26434/chemrxiv-2025-pjgx8?rft_dat=source%3Ddrss)  
+Oscar Verho, Sudipta Ponra, Ruzal Sitdikov, Alyssio Calis  
+*Organic Chemistry on ChemRxiv*  
+2025-03-18  
+&ensp;The paper presents an electrochemical cascade method for synthesizing halogenated N-aryl amides, carbamates, and ureas, combining amide bond formation with C-H chlorination. Demonstrating its robustness, over 180 products were synthesized, highlighting its scalability and environmental benefits compared to traditional methods.
+
 ## 18 Mar 2025  
 
 - [Molecular deep learning at the edge of chemical space](https://dx.doi.org/10.26434/chemrxiv-2025-qj4k3?rft_dat=source%3Ddrss)  
