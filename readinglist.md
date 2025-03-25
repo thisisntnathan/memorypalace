@@ -12,6 +12,39 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 25 Mar 2025  
+
+- [From GPCRs to Kinases: Automating the Path to Universal Pandemic Vaccine Development](https://dx.doi.org/10.26434/chemrxiv-2025-z1nxv?rft_dat=source%3Ddrss)  
+Sumbul , Asif; Debaprasad, Mukherjee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-24  
+&ensp;The paper discusses automating the development of universal pandemic vaccines by targeting G protein-coupled receptors (GPCRs) and kinases involved in viral entry and replication. It emphasizes the need for such vaccines against varied strains, notably SARS-CoV-2. The authors highlight AI, machine learning, and computational biology as key methods for enhancing vaccine development.  
+- [Modulation of A3-40 and A4-40 co-assembly by Zinc: getting closer to the biological reality](https://dx.doi.org/10.26434/chemrxiv-2025-65v0m?rft_dat=source%3Ddrss)  
+Enrico , Falcone; Lucie, de Cremoux; Christelle, Hureau; David, Schmitt; Wojciech, Bal; Ewelina , Stefaniak; Marta D.,  Wiśniewska; Nicolas, Vitale  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-24  
+&ensp;The paper investigates the effect of Zn(II) ions on the self- and co-assembly of amyloid-b2 peptides A1-40 and A4-40, using pH-dependent X-ray absorption and NMR spectroscopy. It finds that Zn(II) concentration influences assembly behavior, promoting potentially toxic aggregates. A4-16 has a lower Zn affinity than A1-16, highlighting the significance of Zn in Alzheimer's disease pathology.  
+- [Complex structure-free compound-protein interaction prediction for mitigating activity cliff-induced discrepancies and integrated bioactivity learning](https://dx.doi.org/10.26434/chemrxiv-2025-96p6b?rft_dat=source%3Ddrss)  
+Yaowen, Gu; Song, Xia; Qi, Ouyang; Yingkai, Zhang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-24  
+&ensp;The paper presents CPI2M, a benchmark dataset with about 2 million bioactivity endpoints and activity cliff annotations, addressing challenges in compound-protein interaction (CPI) prediction. The authors introduce GGAP-CPI, a structure-free deep learning model that improves prediction accuracy by mitigating the effects of activity cliffs. GGAP-CPI outperforms several baselines across various scenarios in drug screening.  
+- [Two-way mechanism of designer biomolecular condensate catalysts](https://dx.doi.org/10.26434/chemrxiv-2025-4q7p4?rft_dat=source%3Ddrss)  
+Ayala, Lampel; Hao, Dong; Tlalit , Massarano; Yuqin , Yang; Avigail, Baruch Leshem; Ori, Eran; Xiaoyu, Wang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-24  
+&ensp;The paper investigates designer biomolecular condensates formed by histidine peptides that catalyze ester hydrolysis through two mechanisms: Zn2+-dependent coordination and hydrogen bonds in the absence of Zn2+. Utilizing computational and experimental methods, the study highlights the catalytic pathways of these condensates, suggesting their potential in green chemistry and advanced materials.  
+- [How to generalize machine learning models to both canonical and non-canonical peptides](https://dx.doi.org/10.26434/chemrxiv-2025-ggp8n?rft_dat=source%3Ddrss)  
+Raúl, Fernández-Díaz; Rodrigo, Ochoa; Thanh Lam, Hoang; Vanessa, Lopez; Denis, Shields  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-24  
+&ensp;The paper examines methods for generalizing machine learning models to both canonical and non-canonical peptides. It highlights the superiority of chemical fingerprint-based similarity over traditional metrics in dataset partitioning. Deep-learned embeddings from Chemical Language Models outperform other models, but combining canonical datasets with non-canonical peptides enhances generalization. All supplementary materials are available on GitHub.  
+- [Machine learning transition state geometries and applications in reaction property prediction](https://dx.doi.org/10.26434/chemrxiv-2024-wdtz9-v3?rft_dat=source%3Ddrss)  
+Isaac W., Beaglehole; Miles J., Pemberton; Elliot H. E., Farrar; Matthew N., Grayson  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-24  
+&ensp;This paper discusses the use of machine learning (ML) for predicting transition state (TS) geometries, aiming to reduce reliance on expensive quantum mechanical calculations. It reviews ML methods, their applications in predicting reaction properties, and the importance of accurate TS data. The paper also evaluates the limitations and challenges of current TS prediction methods.
+
 ## 22 Mar 2025  
 
 - [A 3D-Bioprinted Dermal-Like Scaffold Incorporating Fibroblasts and DRG Neurons to investigate Peripheral Nerve Regeneration](https://dx.doi.org/10.26434/chemrxiv-2025-1scrm?rft_dat=source%3Ddrss)  
