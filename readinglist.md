@@ -12,6 +12,54 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 26 Mar 2025  
+
+- [Spatiotemporal Control of Formation of Dynamic Protein Fibre Networks via Photophysical Effects of a Focused Laser Beam](https://dx.doi.org/10.26434/chemrxiv-2025-sqjb0?rft_dat=source%3Ddrss)  
+Hiroshi Y. Yoshikawa, Ren Shirata, Takuya Takeshige, Fumika Kiryu, Kei Takano, Shuma Matsumoto, Natsumi Sawada, Chi-Shiun Wu, Yang-Hsin Shih, Hiromasa Niinomi, Takahisa Matsuzaki, Seiichiro Nakabayashi, Teruki Sugiyama, Ryuzo Kawamura  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d0*  
+2025-03-25  
+&ensp;The paper demonstrates a method for controlling the formation of dynamic microtubule networks using focused laser irradiation, which accumulates tubulin proteins at laser foci. The resulting networks exhibit dynamic behaviors like motion and cilia-like beating, driven by motor proteins. This technique relies on laser trapping and heat generation, enabling complex network fabrication without photochemical reactions, with potential applications in bioengineering.  
+- [Discovery of a Dual-Target Natural Compound for Rheumatoid Arthritis: High-Throughput Screening and Molecular Dynamics of a COX-2/JAK1 Inhibitor](https://dx.doi.org/10.26434/chemrxiv-2025-447km?rft_dat=source%3Ddrss)  
+Dhrubajyoti Maji  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d0*  
+2025-03-25  
+&ensp;The paper reports the discovery of a dual-target compound, F3139-1037, for rheumatoid arthritis through high-throughput screening of 3666 natural compounds. This compound demonstrates superior binding affinity and inhibition for COX-2 and JAK1 compared to standard drugs. Molecular dynamics simulations confirm its stability, suggesting F3139-1037 as a promising candidate for multi-target RA therapies.  
+- [Counterintuitive Photochemistry of an Isolated Acridinyl Radical: ConPET via Preassembly Despite a Long-Lived Excited State](https://dx.doi.org/10.26434/chemrxiv-2025-jk4bp?rft_dat=source%3Ddrss)  
+Daniel Scott, Samuel Horsewill, Katherine Sharrock, P9r Feh9r, Jack Woolley, Imre P9pai  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-25  
+&ensp;The paper investigates the photochemistry of an isolated acridinyl radical in consecutive photoinduced electron transfer (conPET). Using photoreactivity, photoluminescence, and transient absorption techniques, it reveals that preassembly of the catalyst and substrate occurs prior to excitation, challenging previous assumptions about the role of a long-lived fluorescent excited state in reactivity.  
+- [Capturing Variability in Material Property Predictions for Plastics Recycling via Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-j2f4f?rft_dat=source%3Ddrss)  
+Marcin Pietrasik, Anna Wilbik, Yannick Damoiseaux, Tessa Derks, Emery Karambiri, Shirley de Koster, Daniel van de Velde, Kim Ragaert, Sin Yong Teng  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-25  
+&ensp;The paper presents a framework utilizing interval-based machine learning to predict material properties in plastics recycling, addressing the challenges of heterogeneous polyolefin blends and stochastic measurements. The study involves a regressor for point estimation and an interval predictor, with empirical evaluations on a real-world dataset showing improved model interpretation and uncertainty prediction in mechanical recycling processes.  
+- [Circularly polarized luminescence modulation in europium(III) complexes based on camphor-fused bis(pyrazolyl)pyridine ligands](https://dx.doi.org/10.26434/chemrxiv-2025-vmlnk?rft_dat=source%3Ddrss)  
+Narcis Avarvari, Justin Cado, Alexandre Abherv9, Maxime Grasser, Nicolas Vanthuyne, Francesco Zinna, Lorenzo Di Bari, Boris Le Guennic  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-25  
+&ensp;The paper discusses europium(III) complexes formed using chiral camphor-fused bis(pyrazolyl)pyridine ligands. The ligands were fully characterized using single crystal X-ray diffraction. Key findings include strong circularly polarized luminescence (CPL) with glum factors up to ±0.2 and an ability to invert emission polarization between regioisomeric ligands, facilitating CPL modulation.  
+- [Graph2Mat: Universal graph to matrix conversion for electron density prediction](https://dx.doi.org/10.26434/chemrxiv-2024-j4g21-v2?rft_dat=source%3Ddrss)  
+Arghya Bhowmik, Pol Febrer, Peter J9rgensen, Miguel Pruneda, Alberto Garcia, Pablo Ordejon  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-25  
+&ensp;The paper introduces Graph2Mat, a method for converting molecular graphs into equivariant matrices to predict electron densities efficiently. It demonstrates state-of-the-art performance using significantly smaller datasets than traditional grid-based methods. Testing on QM9 molecules in DFT calculations yielded a 40% reduction in self-consistent field iterations, enabling new uncertainty measures for practical applications in machine learning-accelerated DFT methodologies.  
+- [Challenges and Opportunities for Machine Learning Potentials in Transition Path Sampling: Alanine Dipeptide and Azobenzene Studies](https://dx.doi.org/10.26434/chemrxiv-2024-8w526-v3?rft_dat=source%3Ddrss)  
+Nikita Fedik, Wei Li, Nicholas Lubbers, Benjamin Nebgen, Sergei Tretiak, Ying Wai Li  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-25  
+&ensp;The paper discusses using machine learning (ML) potentials in transition path sampling (TPS) for the studies of alanine dipeptide and azobenzene. Utilizing the HIP-NN-TS and ANI-1x ML frameworks trained on a 5 million HCNO structure dataset, the study achieved near-quantum accuracy in conformational searches. Key findings include improved accuracy through active learning and challenges in azobenzene isomerization.  
+- [Data-Driven Many-Body Simulations of Biomolecules with CCSD(T) Accuracy: I Polyalanine in the Gas Phase](https://dx.doi.org/10.26434/chemrxiv-2025-b05k5?rft_dat=source%3Ddrss)  
+Francesco Paesani, Ruihan Zhou, Ethan F. Bull-Vulpe, Yuanhui Pan  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-25  
+&ensp;The paper presents a data-driven many-body method, MB-nrg, achieving CCSD(T) accuracy for simulating polyalanine in the gas phase. By utilizing modular potential energy functions, the approach reproduces energies and free-energy landscapes more accurately than traditional force fields. It highlights improvements in capturing structural motifs and facilitates flexible sampling in longer peptides, advancing accurate simulations of proteins.  
+- [Stay Together or Split Up? Investigating Selective Adsorption of Carbon Dioxide and Acetylene in Anion-Pillared Microporous MOFs](https://dx.doi.org/10.26434/chemrxiv-2025-kh4l3?rft_dat=source%3Ddrss)  
+Mikko Karttunen, Yining Huang, Tahereh Azizivahed, Anupom Roy, Lucier Bryan, Shoushun Chen, Chen-Xi Liang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-25  
+&ensp;The paper investigates selective adsorption of carbon dioxide and acetylene in anion-pillared microporous MOFs, specifically SIFSIX-1-Cu and SIFSIX-3-Cu. Methods include solid-state NMR spectroscopy and density functional theory, revealing SIFSIX-1-Cu favors acetylene while SIFSIX-3-Cu adsorbs both gases. Results enhance understanding of gas separation mechanisms and inform the design of selective adsorption materials.
+
 ## 25 Mar 2025  
 
 - [From GPCRs to Kinases: Automating the Path to Universal Pandemic Vaccine Development](https://dx.doi.org/10.26434/chemrxiv-2025-z1nxv?rft_dat=source%3Ddrss)  
