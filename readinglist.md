@@ -12,6 +12,50 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 27 Mar 2025  
+
+- [Leveraging High-Spin DFT Features for Prediction of Spin State Gaps in 3d Transition Metal Complexes](https://dx.doi.org/10.26434/chemrxiv-2025-t7h5p?rft_dat=source%3Ddrss)  
+Anuj Kumar, Ray; Sandeep , Nagar; Girish, Varma; U Deva, Priyakumar; Ankan, Paul  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-26  
+&ensp;The paper presents a machine learning approach to predict spin state energetics in 3d transition metal complexes using features from a single high-spin DFT calculation. Trained on 1434 SSE values from 934 complexes, the method retains accuracy while bypassing multi-reference optimizations, demonstrating transferability to more complex ligands. Key features include atomic energy levels and d-orbital eigenvalues.  
+
+- [Molecular aromaticity: a quantum phenomenon](https://dx.doi.org/10.26434/chemrxiv-2025-tzc36?rft_dat=source%3Ddrss)  
+Miquel, Solà; Dariusz W. , Szczepanik  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-26  
+&ensp;The paper re-evaluates the classification of cyclo[18]carbon, a molecule identified in 2019, questioning its aromaticity based on quantum mechanics principles. The analysis suggests it should be considered non-aromatic. No specific datasets or experimental methods are mentioned in the abstract.  
+
+- [Predicting Catalytic Activity for CH4 Combustion on Pd-exchanged Zeolite Catalysts Using Automated Reaction Route Mapping](https://dx.doi.org/10.26434/chemrxiv-2025-qhqkd?rft_dat=source%3Ddrss)  
+Shunsaku, Yasumura; Shiho, Sakuma; Kenichiro, Saita; Tetsuya, Taketsugu; Masaru, Ogura  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-26  
+&ensp;The paper discusses predicting CH4 combustion catalytic activity using Pd-exchanged zeolites through automated reaction route mapping and neural network potential. Key findings include identifying intermediate species and evaluating activation energies, with Pd-MOR showing the highest catalytic activity. The research highlights the effectiveness of NNP in rationalizing catalyst design and pre-screening.  
+
+- [Generative deep learning for de novo drug design – a chemical space odyssey](https://dx.doi.org/10.26434/chemrxiv-2025-1zs8j?rft_dat=source%3Ddrss)  
+Rıza, Özçelik; Helena, Brinkmann; Emanuele, Criscuolo; Francesca, Grisoni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-26  
+&ensp;The paper explores the use of generative deep learning in drug design, addressing challenges in molecule generation and evaluation. It highlights the importance of balancing chemical diversity, synthesizability, and bioactivity. The authors discuss current methods, optimization, and evaluation protocols, outlining future directions for utilizing generative models in exploring chemical space for novel drug development.  
+
+- [PolyMetriX: An Ecosystem for Digital Polymer Chemistry](https://dx.doi.org/10.26434/chemrxiv-2025-s2f2r?rft_dat=source%3Ddrss)  
+Kevin Maik, Jablonka; Sreekanth, Kunchapu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-26  
+&ensp;The paper introduces PolyMetriX, an open-source Python library that standardizes and improves the digital polymer chemistry workflow. It provides curated polymer property datasets, hierarchical featurization techniques, and polymer-specific data splitting strategies. These enhancements lead to better model performance and reproducibility in polymer design, addressing issues of comparability in the field.  
+
+- [Active learning FEP using 3D-QSAR for prioritizing bioisosteres in medicinal chemistry](https://dx.doi.org/10.26434/chemrxiv-2024-d9fwk-v2?rft_dat=source%3Ddrss)  
+Venkata Krishnan, Ramaswamy; Matthew, Habgood; Mark, Mackey  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-26  
+&ensp;The paper presents an active learning workflow combining 3D-QSAR and relative binding free energy calculations to prioritize bioisosteres in drug discovery. Demonstrated on a human aldose reductase case, this method efficiently identifies potent bioisosteric replacements from large datasets, achieving significant results with modest computational resources.  
+
+- [Machine learning-guided materials and system co-design for high-pressure hydrogen compression](https://dx.doi.org/10.26434/chemrxiv-2025-352vm-v2?rft_dat=source%3Ddrss)  
+Matthew, Witman; Brendan, Davis; Vitalie, Stavila; Terry, Johnson  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-26  
+&ensp;The paper discusses enhancing hydrogen compression technology using machine learning for co-design of materials and systems. It presents a method for optimizing low-stability metal hydrides for high-pressure applications, validated through pressure-composition-temperature isotherms, and models compressor efficiency, predicting operational efficiencies for 2-stage and 3-stage compressors.
+
 ## 26 Mar 2025  
 
 - [Spatiotemporal Control of Formation of Dynamic Protein Fibre Networks via Photophysical Effects of a Focused Laser Beam](https://dx.doi.org/10.26434/chemrxiv-2025-sqjb0?rft_dat=source%3Ddrss)  
