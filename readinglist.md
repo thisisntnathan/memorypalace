@@ -12,6 +12,20 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 28 Mar 2025  
+
+- [Binding modes of the KRAS(G12C) inhibitors GDC-6036 and LY3537982 revealed by all atom molecular dynamics simulations](https://dx.doi.org/10.26434/chemrxiv-2023-mq2p7-v2?rft_dat=source%3Ddrss)  
+Tatu, Pantsar; Renne, Leini; Kari, Kopra; Jonas, Kapp  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-27  
+&ensp;The paper reveals the binding modes of KRAS(G12C) inhibitors GDC-6036 and LY3537982 using all-atom molecular dynamics simulations, totaling 200 microseconds. Experimental assays show high affinity for both inhibitors towards KRAS(G12C), but efficacy is reduced by certain co-mutations. The findings support the use of microsecond simulations for predicting binding interactions, aligning with experimental data.
+
+- [Investigating errors in alchemical free energy predictions using random forest models and GaMD](https://dx.doi.org/10.26434/chemrxiv-2025-3b8bp?rft_dat=source%3Ddrss)  
+Skanda, Sastry; Michael, Kim  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-27  
+&ensp;The paper investigates alchemical free energy (ΔG) prediction errors using random forest models and GaMD for antibody-antigen complexes. It highlights that current predictions, while sufficient for screening, fail to assess critical post-translational modifications that can significantly impair binding. Key metrics include a ΔG threshold of +0.5 kcal/mol, indicating a 50% loss in dissociation constant (Kd).
+
 ## 27 Mar 2025  
 
 - [Leveraging High-Spin DFT Features for Prediction of Spin State Gaps in 3d Transition Metal Complexes](https://dx.doi.org/10.26434/chemrxiv-2025-t7h5p?rft_dat=source%3Ddrss)  
