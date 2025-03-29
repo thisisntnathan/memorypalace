@@ -12,6 +12,38 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 29 Mar 2025  
+
+- [Identification of Betulinic Acid Derivatives as Inverse Agonists of RAR-related Orphan Receptor Gamma (RORb3)](https://dx.doi.org/10.26434/chemrxiv-2025-pb5wq?rft_dat=source%3Ddrss)  
+Ya Chen, Patrik F. Schwarz, Alexander F. Perhal, Famke Guder, Jorge Enrique Hernández González, Kerrin Janssen, Ece Sağiroğlu, Ammar Tahir, Johannes Kirchmair, Natacha Rochel, Verena M. Dirsch  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-28  
+&ensp;The paper identifies novel betulinic acid derivatives as ROR-b3 inverse agonists, crucial for inhibiting Th17 cell differentiation linked to autoimmune diseases. A key compound exhibited IC50 values of 0.4 M and 0.6 M in ROR-b3 assays. RT-qPCR confirmed gene down-regulation, with structure-activity relationships explored through molecular docking and mutagenesis.  
+
+- [Cryo-EM exposes diverse polymorphism in IAPP mutants to guide rational design of novel therapeutics](https://dx.doi.org/10.26434/chemrxiv-2025-0bdpp?rft_dat=source%3Ddrss)  
+Dylan Valli, Saik Ann Ooi, Mikołaj Ignacy Kuska, Helena Marí, Himanshu Chaudhary, Weixiao Yuan Wahlgren, Sebastian Westenhoff, Alesia A Tietze, Anna Novials, Joan-Marc Servitja, Michał Maj  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-28  
+&ensp;The paper investigates IAPP mutants for type 2 diabetes therapies using cryo-electron microscopy to reveal six polymorphs from single-point mutations A25P, S28P, and S29P. Notably, the A25P variant formed a unique trimeric structure. Structures guided the design of novel non-amyloidogenic IAPP mutants, showcasing the potential of structure-based therapeutic development against amyloid diseases.  
+
+- [Ligand binding into a cryptic pocket in Escherichia coli DsbA inhibits the enzymatic activity in vitro](https://dx.doi.org/10.26434/chemrxiv-2025-78ghw?rft_dat=source%3Ddrss)  
+Martin Scanlon, Biswaranjan Mohanty, Wesam Alwan, Menachem Gunzburg, Olga Ilyichova, Martin Williams, Gaurav Sharma, Geqing Wang, Begona Heras, Bryn Fenwick, Peter Wright, Pramodh Vallurapalli, Bradley Doak, Ben Capuano  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-28  
+&ensp;The paper identifies a cryptic ligand binding pocket in Escherichia coli DsbA using nuclear magnetic resonance (NMR) relaxation-dispersion data. It describes a dynamics-driven fragment discovery method and reveals that compounds bind to the pocket with slow kinetics, inhibiting DsbA's activity in vitro. This suggests the pocket's potential for developing new anti-virulence agents targeting EcDsbA.  
+
+- [Integrative Design of ADAMTS Partial Agonists within a Multi-Hallmark Therapeutic Framework: The Beginning of Paving the Way Toward a Functional Cure for Neurodegenerative Disorders](https://dx.doi.org/10.26434/chemrxiv-2025-4n2nb-v3?rft_dat=source%3Ddrss)  
+David Ferguson, MRSB MRSC  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-28  
+&ensp;The paper discusses a multi-hallmark therapeutic approach to neurodegenerative disorders, focusing on ADAMTS metalloproteinases. It emphasizes bioisosteric design in developing partial agonists to control ECM degradation and reduce neuroinflammation. The integration of immune modulation and drug delivery systems is highlighted as enhancing treatment efficacy, aiming to restore functional neural networks in diseases like Alzheimer's and Parkinson's.  
+
+- [Smart sensor particles for intracellular tracing of reactive oxygen species by transmission electron microscopy](https://dx.doi.org/10.26434/chemrxiv-2025-7s20z?rft_dat=source%3Ddrss)  
+Stephanie Hoeppener, Maren T. Kuchenbrod-Röther, Paul M. Jordan, Phillip Dahlke, Alicia De San Luis Gonzalez, Steffi Stumpf, Oliver Werz  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-03-28  
+&ensp;The paper presents a novel sensor particle system for detecting reactive oxygen species (ROS) within cells using Transmission Electron Microscopy (TEM). The method involves linking cerium chloride to poly(2-vinylpyridine) particles, reducing cytotoxicity and expanding cultivation media options. This approach enhances existing STAINING protocols for ROS detection.
+
 ## 28 Mar 2025  
 
 - [Binding modes of the KRAS(G12C) inhibitors GDC-6036 and LY3537982 revealed by all atom molecular dynamics simulations](https://dx.doi.org/10.26434/chemrxiv-2023-mq2p7-v2?rft_dat=source%3Ddrss)  
