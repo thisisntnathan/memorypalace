@@ -12,6 +12,20 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 01 Apr 2025  
+
+- [Achieving excellent optical molecules by screening superalkali-doped cyclo[2n]carbon, M3O@C2n (M = Li, Na, and K, n = 5-10)](https://dx.doi.org/10.26434/chemrxiv-2025-1d7k9?rft_dat=source%3Ddrss)  
+Zeyu Liu, Wenwen Zhao, Jiaojiao Wang, Xiufen Yan, Tian Lu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-31  
+&ensp;The paper explores nonlinear optical (NLO) molecules formed by superalkali-doped cyclo[2n]carbon (M3O@C2n, M = Li, Na, K; n = 5-10). Using time-dependent density functional theory, it finds that the polarizability and hyperpolarizability increase with alkali metal size. Specifically, Li3O@C20 shows exceptional properties, including a red-shifted absorption spectrum and potential for deep-ultraviolet NLO applications.  
+
+- [QRCI: Quantitative Ring Complexity Index for Evaluating Molecular Structure and Chemical Diversity](https://dx.doi.org/10.26434/chemrxiv-2025-mlqwl?rft_dat=source%3Ddrss)  
+Jianmin Wang, Kai Xu, Tengfei Ma, Xudong Zhang, Pengsen Ma, Chunyan Li, Weiran Huang, Meng Wang, Xiaojun Yao, Tao Song, Xiangxiang Zeng  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-03-31  
+&ensp;The paper introduces the Quantitative Ring Complexity Index (QRCI), which enhances traditional ring complexity assessments by incorporating ring diversity, topological complexity, and macrocyclic features. QRCI can be computed without 3D data and correlates with synthetic accessibility, aiding in evaluating molecular structures and chemical diversity for drug discovery amidst vast chemical spaces.
+
 ## 29 Mar 2025  
 
 - [Identification of Betulinic Acid Derivatives as Inverse Agonists of RAR-related Orphan Receptor Gamma (RORb3)](https://dx.doi.org/10.26434/chemrxiv-2025-pb5wq?rft_dat=source%3Ddrss)  
