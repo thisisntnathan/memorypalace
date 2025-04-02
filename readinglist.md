@@ -12,6 +12,56 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 02 Apr 2025  
+
+- [From GPCRs to Kinases: Automating the Path to Universal Pandemic Vaccine Development](https://dx.doi.org/10.26434/chemrxiv-2025-z1nxv-v2?rft_dat=source%3Ddrss)  
+Asif Sumbul, Mukherjee Debaprasad  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The paper discusses the critical roles of GPCRs and kinases in viral infections and the urgent need for universal pandemic vaccines against strains like Covid-19, SARS, and MERS. It highlights the potential of AI and computational biology in automating vaccine development, particularly for broad-spectrum antiviral treatments.  
+
+- [µMap-FFPE: A High-Resolution Protein Proximity Labeling Platform for Formalin-Fixed Paraffin-Embedded Tissue Samples](https://dx.doi.org/10.26434/chemrxiv-2025-th865?rft_dat=source%3Ddrss)  
+Noah B. Bissonnette, Marie E. Zamanis, Steven D. Knutson, Zane Boyer, Angelo Harris, Daniel Martin, Jacob B. Geri, Suzana Couto, Tahamtan Ahmadi, Anantharaman Muthuswamy, Mark Fereshteh, David W. C. MacMillan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The paper presents µMap-FFPE, a novel protein proximity labeling platform for studying protein interactions in formalin-fixed paraffin-embedded (FFPE) tissue samples. The method aims to explore microscale interactions critical for understanding disease states, specifically comparing CD20’s interactome between healthy and cancerous tissues, overcoming challenges posed by formalin-fixation.  
+
+- [Four new bright members of the ZinPyr zinc fluorescence sensor family for live cell imaging](https://dx.doi.org/10.26434/chemrxiv-2025-tm6vj?rft_dat=source%3Ddrss)  
+Sabine Becker, Marisa Franziska Jakobs, Max Carlsson, Simon Wittmann, Jörg Fahrer  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The paper introduces four new members of the ZinPyr zinc fluorescence sensor family—ZP1(5-en), ZP1(6-en), ZP1(5-Me2en), and ZP1(6-Me2en)—developed for live cell imaging. These sensors exhibit low quantum yields in the zinc-free state but high turn-on and dynamic ranges. They successfully detect intracellular zinc and localize in lysosomes and nuclei.  
+
+- [Computational Insights into the Binding Mechanism of L6I with Keap1 Kelch Domain (5FNU): A Molecular Docking Approach](https://dx.doi.org/10.26434/chemrxiv-2025-lhx43?rft_dat=source%3Ddrss)  
+Swaroop Kumar . P  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The paper investigates the binding mechanism of the L6I inhibitor with the Keap1 Kelch domain (PDB ID: 5FNU) using molecular docking. The study utilized AutoDock to analyze binding affinity, achieving -10.6 kcal/mol with a binding distance of 2.677 Å. Results indicate L6I's potential to disrupt Keap1-Nrf2 interaction, suggesting further experimental validation is needed.  
+
+- [High-performance quantitative exposomics covering up to >230 toxicants and key biomarkers](https://dx.doi.org/10.26434/chemrxiv-2025-sb0nl?rft_dat=source%3Ddrss)  
+Yunyun Gu, Max Lennart Feuerstein, Caroline Helen Johnson, Benedikt Warth  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The paper presents a scalable LC-MS/MS workflow for quantifying over 230 toxicants and biomarkers in urine, plasma, and serum. The method demonstrated high sensitivity, robustness, and suitable extraction recovery, with over 130 biomarkers detected in 200 urine samples from pregnant women. This approach supports large-scale exposome-wide association studies (ExWAS) effectively.  
+
+- [Polyglycerol-based Lipids: A Next-Generation Alternative to PEG in Lipid Nanoparticles for Advanced Drug Delivery Systems](https://dx.doi.org/10.26434/chemrxiv-2025-2jf8r?rft_dat=source%3Ddrss)  
+Yara Ensminger, Rashmi Rashmi, Gideon Nölte, Michael Karimov, Ann-Cathrin Schmitt, David Diaz-Oviedo, Johannes Koebberling, Rainer Haag  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The paper presents a study on polyglycerol-based lipid nanoparticles (LNPs) as an alternative to PEG for drug delivery, addressing issues with anti-PEG antibodies. The researchers formulated LNPs with linear polyglycerol (lPG) and demonstrated that these LNPs had low binding to anti-PEG antibodies and comparable mRNA delivery efficacy to PEGylated LNPs in HepG2 cells.  
+
+- [In-situ Dynamic Imaging of Magnetosome Biomineralization in A Living Bacterium](https://dx.doi.org/10.26434/chemrxiv-2025-pdgks?rft_dat=source%3Ddrss)  
+Jiandong Feng, Qin Juan, Yibo Yang, Zengrong Zhou, Pinlong Zhao, Shiyang Lyu, Wenjing Duan, Hongzhen Bai, Jinhua Li  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The paper presents in-situ dynamic magnetic imaging of magnetosome biomineralization in living magnetotactic bacteria using Quantum-enabled Chemical Operando Microscopy. The study reveals a novel ‘retarded logistic type dynamics’ for magnetism development during magnetosome chain formation and elucidates the growth and assembly mechanisms at a sub-bacterium level, advancing the understanding of biomineralization in living organisms.  
+
+- [Structure-based identification of the first non-covalent thioredoxin reductase inhibitor with proven ADMET suitability](https://dx.doi.org/10.26434/chemrxiv-2025-xfc4d?rft_dat=source%3Ddrss)  
+Luisa Ronga, Giuseppe Felice Mangiatordi, Lamanna Giuseppe, Augello Giuseppa, Tesauro Diego, Silvestri Ilaria, Azzolina Antonina, Melchiorre Cervello, Saviano Michele  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-01  
+&ensp;The study identifies C55, the first non-covalent thioredoxin reductase 1 (TrxR1) inhibitor with established ADMET safety. Using a computational approach, over 90,000 compounds were screened, revealing C55's micromolar-range inhibitory effect on TrxR1 across various cancer cell lines (HepG2, Huh7, MCF-7, MDA-MB-231), paving the way for anticancer drug development.
+
 ## 01 Apr 2025  
 
 - [Achieving excellent optical molecules by screening superalkali-doped cyclo[2n]carbon, M3O@C2n (M = Li, Na, and K, n = 5-10)](https://dx.doi.org/10.26434/chemrxiv-2025-1d7k9?rft_dat=source%3Ddrss)  
