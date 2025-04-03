@@ -12,6 +12,54 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 03 Apr 2025  
+
+- [Efficient Decoy Selection to Improve Virtual Screening Using Machine Learning Models](https://dx.doi.org/10.26434/chemrxiv-2025-2hh8z?rft_dat=source%3Ddrss)  
+Oliver Koch, Janosch Menke, Victoria-Munoz Felipe, Norberto Sanchez-Cruz  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper investigates decoy selection strategies to improve machine learning models using Protein per Atom Score Contributions Derived Interaction Fingerprint (PADIF) for virtual screening in drug discovery. It explores three workflows for selecting decoys, including random selection from ZINC15 and utilizing dark chemical matter. Results indicate these methods enhance model performance and improve active compound selection over classical scoring functions.  
+- [Artificial Intelligence and Automation in Universal Pandemic Vaccine Design:  A Strategic Imperative for Global Health Security](https://dx.doi.org/10.26434/chemrxiv-2025-2nxrb?rft_dat=source%3Ddrss)  
+Malika Ahuja, Debaprasad Mukherjee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper discusses the urgent need for universal pandemic vaccines to combat evolving viruses and emphasizes the role of automation, including AI and robotics, in their development. It examines current technologies, challenges, and ethical considerations while highlighting ongoing research. The findings stress the importance of investment in automated vaccine design for global health security.  
+- [Setting New Benchmarks in AI-driven Infrared Structure Elucidation](https://dx.doi.org/10.26434/chemrxiv-2025-9p2dw?rft_dat=source%3Ddrss)  
+Marvin Alberts, Federico Zipoli, Teodoro Laino  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper presents enhancements in automated infrared (IR) structure elucidation using an improved Transformer architecture, achieving Top-1 accuracy of 63.79% and Top-10 accuracy of 83.95%. These results surpass previous benchmarks (53.56% and 80.36%). Models and code are publicly shared to promote adoption in chemical laboratories, emphasizing the potential of AI-driven IR spectroscopy.  
+- [BigSolDB 20: a dataset of solubility values for organic compounds in organic solvents and water at various temperatures](https://dx.doi.org/10.26434/chemrxiv-2025-nq0gr?rft_dat=source%3Ddrss)  
+Lev Krasnov, Dmitry Malikov, Marina Kiseleva, Sergei Tatarin, Stanislav Bezzubov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper introduces BigSolDB 20, a dataset with 103,944 experimental solubility values for 1,448 organic compounds in 213 solvents, measured across 243-425 K. It standardizes molecular structures and solubility data in a machine-readable format. A web tool for visualization and search is provided, aiming to facilitate machine learning advancements in solubility prediction.  
+- [Automatic Annotation of Sites of Metabolism from Biotransformation Data](https://dx.doi.org/10.26434/chemrxiv-2025-wrjm9?rft_dat=source%3Ddrss)  
+Johannes Kirchmair, Roxane Axel Jacob, Angelica Mazzolari  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper presents AutoSOM, an open-source tool for automatically annotating sites of metabolism (SOM) from biotransformation data. It processes over 5,000 reactions with over 90% accuracy quickly and transparently. AutoSOM enhances SOM labeling consistency across institutions, supporting federated learning while maintaining data confidentiality, and aims to improve metabolic property studies in drug discovery.  
+- [Generative deep learning for de novo drug design – a chemical space odyssey](https://dx.doi.org/10.26434/chemrxiv-2025-1zs8j-v2?rft_dat=source%3Ddrss)  
+Riza Özçelik, Helena Brinkmann, Emanuele Criscuolo, Francesca Grisoni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper discusses the use of generative deep learning in drug design to explore chemical space and generate novel molecules. It highlights challenges in molecule generation and evaluation, focusing on balancing diversity, synthesizability, and bioactivity. The authors emphasize the need for robust evaluation protocols and outline key components and future directions in this evolving field.  
+- [Predicting Catalytic Activity for CH4 Combustion on Pd-exchanged Zeolite Catalysts Using Automated Reaction Route Mapping](https://dx.doi.org/10.26434/chemrxiv-2025-qhqkd-v2?rft_dat=source%3Ddrss)  
+Shunsaku Yasumura, Shiho Sakuma, Kenichiro Saita, Tetsuya Taketsugu, Masaru Ogura  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper presents a novel approach combining neural network potentials and automated reaction route mapping to predict catalytic activity for CH4 combustion on Pd-exchanged zeolite catalysts (Pd-CHA, Pd-beta, Pd-MOR). Key findings include activation energies for the rate-determining step and the identification of intermediates, which align with experimental results and suggest efficient pre-screening for catalyst design.  
+- [Accessing Ultralarge Chemical Spaces via a Sociable Fragment Library: Design and Crystallographic Screening](https://dx.doi.org/10.26434/chemrxiv-2024-rpst3-v3?rft_dat=source%3Ddrss)  
+Oliver Koch, Philipp Janssen, Fabrice Becker, Friederike T. Füsser, Nataliya Tolmachova, Tetiana Matviiuk, Ivan Kondratov, Manfred Weiss, Daniel Kümmel, Laila Benz  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;The paper presents a 96-membered "sociable" fragment library designed for crystallographic screening, enabling rapid exploration of chemical spaces. Utilizing Enamine’s REAL Space, it provides access to numerous follow-up compounds for each fragment. The library was successfully tested on mycobacterial thioredoxin reductase and Zika virus protease, leading to rapid experimental follow-up on promising fragments.  
+- [From short-sighted to far-sighted: A comparative study of recursive machine learning approaches for open quantum systems](https://dx.doi.org/10.26434/chemrxiv-2025-1rlxr?rft_dat=source%3Ddrss)  
+Arif Ullah  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-02  
+&ensp;This paper compares four physics-informed neural network (PINN) architectures for modeling open quantum systems: SR-PINN, PSR-PINN, MR-PINN, and PMR-PINN, applied to the spin-boson and Fenna-Matthews-Olson models. Results show that multi-RDMs-predicting models outperform single-RDMs in accuracy and stability for long-term predictions, revealing limitations in traditional short-sighted methods and the redundancy of including simulation parameters.
+
 ## 02 Apr 2025  
 
 - [From GPCRs to Kinases: Automating the Path to Universal Pandemic Vaccine Development](https://dx.doi.org/10.26434/chemrxiv-2025-z1nxv-v2?rft_dat=source%3Ddrss)  
