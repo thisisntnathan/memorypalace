@@ -12,6 +12,64 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 04 Apr 2025  
+
+- [N-isopropylacrylamide based nanogels crossing the blood-brain barrier: evidence of high in vitro internalization in human endothelial cells and in vivo permeation in zebrafish](https://dx.doi.org/10.26434/chemrxiv-2025-hpfg1-v2?rft_dat=source%3Ddrss)  
+Marina Resmini, Roberta Bilardo, Adele Leggieri, Federico Traldi, Francesca Tomatis, Miguel Lino, Eleonora Rizzi, Caroline Mysiorek, Lino Ferreira, Caroline Brennan, Alena Vdovchenko  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper reports the synthesis of N-isopropylacrylamide nanogels that significantly enhance blood-brain barrier (BBB) permeability, achieving a 13.4% permeation in an in vitro human model. The nanogels, stable in zebrafish without toxicity, showed nearly five-fold improved internalization via clathrin-mediated endocytosis. Methods included fluorescent labeling for tracking and testing in both cell culture and zebrafish models.  
+- [Polyglycerol-based Lipids: A Next-Generation Alternative to PEG in Lipid Nanoparticles for Advanced Drug Delivery Systems](https://dx.doi.org/10.26434/chemrxiv-2025-2jf8r-v2?rft_dat=source%3Ddrss)  
+Yara Ensminger, Rashmi Rashmi, Gideon Nölte, Michael Karimov, Ann-Cathrin Schmitt, David Diaz-Oviedo, Johannes Koebberling, Rainer Haag  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper explores polyglycerol-based lipids as a substitute for polyethylene glycol (PEG) in lipid nanoparticles (LNPs) for drug delivery. It demonstrates that polyglycerol-functionalized LNPs exhibit low binding to anti-PEG antibodies and effectively deliver eGFP mRNA into HepG2 cells, matching the transfection efficacy of PEGylated LNPs.  
+- [GlycoFASP: A Universal Method to Prepare Complex Mixtures for O-Glycoproteomic Analysis](https://dx.doi.org/10.26434/chemrxiv-2025-bxv0k?rft_dat=source%3Ddrss)  
+Stacy Malaker, Shane Finn, Keira Mahoney, Taryn Lucas, Valentina Rangel-Angarita, Ryan Chen  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper introduces GlycoFASP, a rapid and cost-effective method for O-glycoproteomic analysis using molecular-weight cut-off filters and specific O-glycoprotease digestion. It requires only 1 mg of sample, depletes non-O-glycosylated proteins effectively, and yields over 70% of protein signals from O-glycoproteins, making it accessible for non-specialists.  
+- [bis(trifluoromethyl)-carborhodamines: highly fluorogenic, far-red to near infrared dyes for live cell fluorescence microscopy, activity-based sensing, and single-molecule microscopy](https://dx.doi.org/10.26434/chemrxiv-2024-7p8dl-v2?rft_dat=source%3Ddrss)  
+Evan Miller, Nels Gerstner, Jack McCann, Julia Martin, Sathvik Anantakrishnan, Katharine Henn, Kathrin Riske, Thomas Graham, Xavier Darzacq  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper introduces bis(trifluoromethyl)carborhodamine (BF) dyes, which have excitation and emission properties over 650 nm. These dyes exhibit high brightness and 30-fold increased fluorogenicity compared to traditional rhodamines. The study includes design, synthesis, and characterization of BF dyes, demonstrating their application in live cell fluorescence microscopy, including single-molecule tracking and no-wash labeling.  
+- [High Throughput Ligand Dissociation Kinetics Predictions using Site-Identification by Ligand Competitive Saturation](https://dx.doi.org/10.26434/chemrxiv-2025-5bc2t-v3?rft_dat=source%3Ddrss)  
+Alex MacKerell, Wenbo Yu, Shashi Kumar, Mingtian Zhao, David Weber  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper presents a machine learning approach, SILCS-Kinetics, to predict ligand dissociation kinetics (koff) using 329 ligands across thirteen proteins. It combines the SILCS method for calculating free energy profiles with ML models to enhance predictions and reduce computational costs. Results demonstrate robust workflows for evaluating ligand dissociation pathways, aiding drug design efficiency.  
+- [MolPrice: Assessing Synthetic Accessibility of Molecules based on Market Value](https://dx.doi.org/10.26434/chemrxiv-2025-psjf9?rft_dat=source%3Ddrss)  
+Friedrich Hastedt, Klaus Hellgardt, Sophia Yaliraki, Dongda Zhang, Antonio del Rio Chanona  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper presents MolPrice, a machine learning model for predicting molecular market prices to assess synthetic accessibility. It uses self-supervised contrastive learning to autonomously label complex molecules, outperforming existing models by reliably identifying purchasable molecules. Results indicate that MolPrice effectively distinguishes molecular complexity and performs well against state-of-the-art methods, enhancing real-world applicability in molecular design.  
+- [The density-based many-body expansion for polypeptides and proteins](https://dx.doi.org/10.26434/chemrxiv-2025-jgx5p-v2?rft_dat=source%3Ddrss)  
+Christoph R. Jacob, Toni M. Maier, Johannes R. Vornweg  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper introduces a fragment-based method enhancing the quantum-chemical treatment of large biomolecular systems, specifically polypeptides and proteins, by combining the MFCC scheme with the density-based many-body expansion. This approach reduces fragmentation error to approximately 1 kJ/mol per amino acid, improving accuracy across various structural motifs.  
+- [A Benchmark Set of Bioactive Molecules for Diversity Analysis of Compound Libraries and Combinatorial Chemical Spaces](https://dx.doi.org/10.26434/chemrxiv-2025-vzjw3?rft_dat=source%3Ddrss)  
+Alexander Neumann, Raphael Klein  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper presents a benchmark set of bioactive molecules for evaluating compound libraries, utilizing the CHEMBL database to create three sets (Set L: 379k, Set M: 25k, Set S: 3k). The study employed methods including FTrees, SpaceLight, and SpaceMACS, finding that commercial Chemical Spaces outperformed enumerated libraries, offering more similar compounds and unique scaffolds.  
+- [Exploring organic chemical space for materials discovery using crystal structure prediction-informed evolutionary optimisation](https://dx.doi.org/10.26434/chemrxiv-2025-v8692?rft_dat=source%3Ddrss)  
+Graeme Day, Jay Johal  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper introduces CSP-EA, an evolutionary algorithm that integrates crystal structure prediction into the search for organic molecular semiconductors. By assessing candidate molecules based on predicted material properties, CSP-EA enhances performance over traditional methods focusing solely on molecular properties. The study demonstrates this improved approach through a case study on organic semiconductors, achieving higher identification of molecules with elevated electron mobilities.  
+- [DNA sequencing with a nanopore and a sub-nanometer stop-and-go positioning system for incremental base identification](https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1?rft_dat=source%3Ddrss)  
+G. Sampath  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper presents a nanopore sequencing technique for single-stranded DNA using a sub-nanometer precision positioning system. It proposes thread-based movement and blockade current measurement to identify bases incrementally. The method requires a blockade current precision analysis for biological and synthetic pores and hints at potential applications for detecting DNA post-translational modifications.  
+- [Potential energy surfaces of bound and metastable electron-attached states of N2O characterized by a joint experimental and theoretical study](https://dx.doi.org/10.26434/chemrxiv-2025-m5dnl?rft_dat=source%3Ddrss)  
+Madhubani Mukherjee, Carson Baker, Miloš Ranković, Pamir Nag, Juraj Fedor, Anna I. Krylov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-03  
+&ensp;The paper investigates electron scattering from nitrous oxide (N2O) using experimental two-dimensional electron energy loss spectra (EELS) at 2.5-2.6 eV and complex-valued equation-of-motion coupled-cluster theory. It identifies two overlapping resonances at 2.8 eV and 2.3 eV and estimates the electron affinity of N2O to be -0.140 eV, with a predissociative 2A′ state and a dissociation barrier of 0.183 eV.
+
 ## 03 Apr 2025  
 
 - [Efficient Decoy Selection to Improve Virtual Screening Using Machine Learning Models](https://dx.doi.org/10.26434/chemrxiv-2025-2hh8z?rft_dat=source%3Ddrss)  
