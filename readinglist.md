@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 05 Apr 2025  
+
+- [From GPCRs to Kinases: Automating the Path to Universal Pandemic Vaccine Development using Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-z1nxv-v3?rft_dat=source%3Ddrss)  
+Asif Sumbul, Mukherjee Debaprasad  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;The paper discusses the urgent need for universal pandemic vaccines targeting COVID-19 and related coronaviruses, emphasizing the roles of GPCRs and kinases in viral entry and replication. It highlights the application of AI, machine learning, and bioinformatics in automating vaccine development, underscoring the importance of these methods in addressing emerging viral variants.  
+- [Discovery of histone deacetylase 8 (HDAC8)-specific proteolysis-targeting chimeras with anti-cancer activity against hematological malignancies](https://dx.doi.org/10.26434/chemrxiv-2025-fmh6q?rft_dat=source%3Ddrss)  
+Finn Kristian Hansen, Shiyang Zhai, Marie Kemkes, Cindy-Esther Kponomaizoun, Felix Feller, Jia-Wey Tu, Dominika Ewa Pieńkowska, Jan Gerhartz, Julian Schliehe-Diecks, Michael Gütschow, Radosław P. Nowak, Christian Steinebach, Sanil Bhatia  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;This study develops two series of cereblon-recruiting PROTACs for selective HDAC8 degradation, using HDAC8 inhibitor PCI-34051. The pomalidomide/thalidomide-based series (BP1-05) showed strong anti-leukemic activity and CRBN substrate degradation, while the phenyl glutarimide series (BP6-010) displayed low cytotoxicity but enhanced stability. BP6-treated cells increased sensitivity to MEK inhibitor cobimetinib.  
+- [Non-Noyori-type Ruthenium-POP Pincer Catalysts in Ethanol Upgrading](https://dx.doi.org/10.26434/chemrxiv-2025-nkfsb?rft_dat=source%3Ddrss)  
+Martin Nielsen, Alexander Tobias Nikol, Rosa Padilla  
+*Organic Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;The paper reports the synthesis of new Ruthenium-POP pincer complexes for ethanol upgrading to butanol. Using tridentate ligands, the catalysts showed varying analytical properties based on electronic and steric factors. Results indicated a maximum yield of 28% 1-butanol at 120 °C over 48 hours.  
+- [Dual Nickel-Photoredox Catalyzed Amidine-Arylation Method Mediated By In Situ Generated Triazine Cocatalyst](https://dx.doi.org/10.26434/chemrxiv-2025-hlzgd-v2?rft_dat=source%3Ddrss)  
+Gellért Sipos, Matteo Gasparetto, Attila Sveiczer, Andrea Fermi, Mounir Raji, Richard J. Fair, Paola Ceroni  
+*Organic Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;The paper presents a nickel/photoredox-catalyzed method for amidine arylation with high yields across various substrates, demonstrating good functional group tolerance. Key findings include the role of an in situ generated triazine cocatalyst, leading to optimized reaction rates and milder conditions.  
+- [Deoxygenative Functionalization of Alcohols and Carbonyl Compounds via Electrochemical Reduction](https://dx.doi.org/10.26434/chemrxiv-2025-0dfb4?rft_dat=source%3Ddrss)  
+Andrew Ressler, Jesus Martinez-Alvarado, Ruchira Hariharan, Weiyang Guan, Song Lin  
+*Organic Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;The paper presents a method for deoxygenating alcohols and carbonyl compounds using hydrosilanes to create silyl ether intermediates, followed by electrochemical reduction for C–O bond cleavage. This strategy allows for the synthesis of various carbon bonds (C–Si, C–B, C–Ge, C–Sn) from these intermediates.  
+- [Accelerated investigation of complex reaction cascades via digital aerosol chemistry coupled to online mass spectrometry](https://dx.doi.org/10.26434/chemrxiv-2025-g4hcg?rft_dat=source%3Ddrss)  
+S. Hessam M. Mehr, Zehua Li  
+*Organic Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;The paper presents a novel platform integrating aerosol chemistry and online mass spectrometry to enhance the observation of self-assembly processes. It addresses challenges in monitoring fleeting intermediates and insoluble products. The method's effectiveness is illustrated through three case studies: polymerization, Schiff base synthesis, and covalent organic framework self-assembly.  
+- [Extending the MMPBSA method to membrane proteins: Addressing conformational changes upon ligand binding to P2Y12R](https://dx.doi.org/10.26434/chemrxiv-2025-2zr3l-v2?rft_dat=source%3Ddrss)  
+Cizhang Zhao, Tianhong Wang, Ray Luo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;The paper discusses extending the MMPBSA method for membrane proteins, specifically addressing conformational changes in P2Y12R during ligand binding. It highlights advancements in Amber for calculating membrane placement parameters and multi-trajectory methods, emphasizing improvements in binding affinity calculations. The work reflects ongoing progress in computational techniques relevant to drug discovery involving membrane proteins.  
+- [Teaching chemists to code with diversity in mind: a pedagogy of belonging for end-user conditions](https://dx.doi.org/10.26434/chemrxiv-2025-sbhws?rft_dat=source%3Ddrss)  
+Marie van Staveren  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-04  
+&ensp;The paper discusses how coding instruction for chemistry students should consider equity to enhance chemistry identity. It suggests inclusive teaching methods to cultivate a sense of belonging in a stereotypically exclusive field. No specific datasets or quantitative results are mentioned.
+
 ## 04 Apr 2025  
 
 - [N-isopropylacrylamide based nanogels crossing the blood-brain barrier: evidence of high in vitro internalization in human endothelial cells and in vivo permeation in zebrafish](https://dx.doi.org/10.26434/chemrxiv-2025-hpfg1-v2?rft_dat=source%3Ddrss)  
