@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 08 Apr 2025  
+
+- [Polyglycerol-based Lipids: A Next-Generation Alternative to PEG in Lipid Nanoparticles for Advanced Drug Delivery Systems](https://dx.doi.org/10.26434/chemrxiv-2025-2jf8r-v3?rft_dat=source%3Ddrss)  
+Yara Ensminger, Rashmi Rashmi, Gideon Nölte, Michael Karimov, Ann-Cathrin Schmitt, David Diaz-Oviedo, Johannes Köbberling, Rainer Haag, Markus Hafke  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The study explores linear polyglycerol (lPG) as an alternative to polyethylene glycol (PEG) in lipid nanoparticles (LNPs) for drug delivery. It demonstrates that PG-functionalized LNPs avoid binding to anti-PEG antibodies and effectively deliver mRNA, achieving transfection efficacy similar to PEGylated LNPs, highlighting a promising advancement in drug delivery systems.  
+
+- [Structure-Based Discovery of a Cryptic Druggable Pocket in TP53 C238Y: Implications for Targeted Therapy](https://dx.doi.org/10.26434/chemrxiv-2025-29bnr?rft_dat=source%3Ddrss)  
+hoosdally shakeel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The paper investigates the C238Y mutation in TP53, a gene often associated with cancer, using computational modeling and structural biological analysis. The study identifies a previously hidden druggable pocket created by this mutation, suggesting the potential for targeted therapies. Results underline the importance of mutation-specific approaches in developing personalized cancer treatments.  
+
+- [Dual Organelle Targeting for Intra-Organelle Click: Mitochondria and Endoplasmic Reticulum-Directed Benzothiophene-Fused Cycloalkyne Probes](https://dx.doi.org/10.26434/chemrxiv-2025-hxm34?rft_dat=source%3Ddrss)  
+Natalia A. Danilkina, Aleksandra A. Vidyakina, Sergey A. Silonov, Alexander Y. Ivanov, Elena A. Shpakova, Ekaterina P. Podolskaya, Mia D. Kim, Alexey S. Gladchuk, Irina A. Balova, Stefan Bräse  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The paper presents dual organelle-targeted cycloalkyne reagents for mitochondria and endoplasmic reticulum (ER) using the benzothiophene-fused azacyclononyne BT9N. The study employs fluorescence microscopy for localization and quantifies co-localization. Results confirm efficient intra-organelle click reactions with azides, showcasing potential for organelle-targeted studies and drug delivery.  
+
+- [Discovery of Novel EGFR Kinase Inhibitors Using a Wild-Type EGFR: A Computational Approach](https://dx.doi.org/10.26434/chemrxiv-2025-k329j?rft_dat=source%3Ddrss)  
+Dhrubajyoti Maji  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The study presents a computational approach to discover novel EGFR kinase inhibitors using a pharmacophore model based on the 3D structure (PDB ID: 4WKQ). The model screened a dataset and the ChEMBL library, yielding 25,000 candidates. Four lead compounds were identified with superior binding affinities, and stability was confirmed through molecular dynamics, validating this robust pipeline for kinase-targeted drug discovery.  
+
+- [Theoretical Framework for Absolute Quantification in Digital Immunoassays and Advancements in Microfluidic-Free Droplet-Based Digital Immunoassay Methodologies](https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v5?rft_dat=source%3Ddrss)  
+Huan Li, Tianjiao Mao, Liang Lu, Yipi Xiao, Fanrong Ai, Liang Guo, Jiani Wang, Jing Yao, Xiluan Yan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The paper presents a new theoretical framework for absolute quantification in digital immunoassays, modeling protein capture using magnetic beads as Poisson processes. It introduces bead-counting and external calibration methods that simplify traditional calibration processes. Comparative analyses show improved performance over existing methods. The research enhances protein quantification techniques in biomedical fields.  
+
+- [A general and accessible approach to enrichment and characterisation of natural anti-Neu5Gc antibodies from human samples](https://dx.doi.org/10.26434/chemrxiv-2025-htm1g?rft_dat=source%3Ddrss)  
+Martin Fascione, Nathalie Signoret, Esme Hutton, Yumiko Uno, Craig Robson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The paper presents a simplified method for enriching and detecting anti-Neu5Gc antibodies from small human serum samples using an affinity purification followed by ELISA. The approach utilizes CMAH-transfected human cells for Neu5Gc-containing glycans and successfully identified antibodies in all tested donors, demonstrating individual reactivity differences while ensuring effective binding to Neu5Gc glycans on whole human cells.  
+
+- [Kinetic predictions for SN2 reactions using the BERT architecture: Comparison and interpretation](https://dx.doi.org/10.26434/chemrxiv-2025-0ln4g?rft_dat=source%3Ddrss)  
+Chloe Wilson, María Calvo, Stamatia Zavitsanou, James Somper, Ewa Wieczorek, Tom Watts, Jason Crain, Fernanda Duarte  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;This paper explores the use of the BERT architecture to predict logk values for SN2 reactions, comparing its performance against Random Forest models. Both achieved RMSE = 1.1 logk units on similarity-split test data, reflecting high accuracy. However, BERT struggled with aromatic effect recognition while RF had limitations in logk extrapolation.  
+
+- [Ligand Controlled Regioselectivities in C–H Activation - A Case Study on Approaches for the Rationalization and Prediction of Selectivities](https://dx.doi.org/10.26434/chemrxiv-2025-f723q?rft_dat=source%3Ddrss)  
+Manuel van Gemmeren, Fritz Deufel  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The paper investigates ligand effects on regioselectivity in Pd-catalyzed alkynylation of thiophenes. Using multivariate linear regression and DFT studies, it identifies key structural factors and proposes a Curtin-Hammett scenario for selectivity. The study highlights solvent interactions and silver's role in enhancing selectivity, offering insights for future research in C–H activation mechanisms.  
+
+- [Twenty Years After: Scaling Relations in Oxygen Electrocatalysis and Beyond](https://dx.doi.org/10.26434/chemrxiv-2024-csxt9-v2?rft_dat=source%3Ddrss)  
+Nadezda Kongi, Vladislav Ivaništšev, Ritums Cepitis, Jan Rossmeisl  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The paper reviews scaling relations in oxygen electrocatalysis, especially regarding the oxygen reduction reaction (ORR). It analyzes existing literature, proposes new theoretical principles, and categorizes strategies to overcome scaling relations that limit catalyst effectiveness. The paper aims to reshape the understanding and approaches to ORR catalysis challenges, particularly for fuel cells and metal-air batteries.  
+
+- [Autonomous Discovery of Polymer Electrolyte Formulations with Warm-start Batch Bayesian Optimization](https://dx.doi.org/10.26434/chemrxiv-2025-2cjbg?rft_dat=source%3Ddrss)  
+Jurgis Ruza, Michael Stolberg, Sawyer Cawthern, Jeremiah Johnson, Yang Shao-Horn, Rafael Gomez-Bombarelli  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-07  
+&ensp;The paper presents a closed-loop Bayesian optimization pipeline for discovering and optimizing polymer electrolyte formulations using poly(\epsilon-caprolactone) and 18 lithium salts. Utilizing literature data for warm-starting, the method achieved high-performance results, discovering formulations with ionic conductivity comparable to leading poly(ethylene oxide) electrolytes within five batches over a month on a high-throughput platform.
+
 ## 05 Apr 2025  
 
 - [From GPCRs to Kinases: Automating the Path to Universal Pandemic Vaccine Development using Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-z1nxv-v3?rft_dat=source%3Ddrss)  
