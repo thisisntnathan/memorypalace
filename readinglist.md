@@ -12,6 +12,62 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 09 Apr 2025  
+
+- [Mapping the L-tryptophan Capped Copper Nanocluster Mediated Binding and Targeted pH-Responsive Release of Doxorubicin via Fluorescence Resonance Energy Transfer (FRET)](https://dx.doi.org/10.26434/chemrxiv-2025-w1n6m?rft_dat=source%3Ddrss)  
+Supratik, Sen Mojumdar et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;This study presents a Tryptophan-capped copper nanocluster (Trp-Cu NC) for targeted delivery of Doxorubicin (Dox) in cancer treatment. Utilizing FRET for interaction analysis, it reveals that Trp-Cu NC forms a nanoconjugate (~24.7 nm) at neutral pH and releases Dox under acidic conditions. The method enhances Dox's efficacy by ~3.6-fold while reducing toxicity to normal cells.  
+
+- [GPepT: A foundation language model for peptidomimetics incorporating non-canonical amino acids](https://dx.doi.org/10.26434/chemrxiv-2025-q5347?rft_dat=source%3Ddrss)  
+Yuna, Oikawa et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;The paper presents GPepT, a language model for generating diverse peptidomimetics using over 17,000 non-canonical amino acids extracted from the ChEMBL database. It improves molecular diversity and shows effective antimicrobial activity in a generated compound during experimental validation. GPepT is fully available on HuggingFace.  
+
+- [aweSOM: a GNN-based Site-of-Metabolism Predictor with Aleatoric and Epistemic Uncertainty Estimation](https://dx.doi.org/10.26434/chemrxiv-2024-pzmqt-v3?rft_dat=source%3Ddrss)  
+Johannes, Kirchmair et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;This study introduces aweSOM, a GNN-based predictor for the site-of-metabolism (SOM) of xenobiotics, integrating uncertainty estimation to enhance reliability. It addresses the costs of traditional methods and demonstrates improvements through experimental analysis, offering strategies for future model refinement.  
+
+- [Regio- and Stereoselective Synthesis of Nitro-fatty Acids as NRF2 Pathway Activators Working under Ambient or Hypoxic Conditions](https://dx.doi.org/10.26434/chemrxiv-2025-nh099?rft_dat=source%3Ddrss)  
+Jiri, Pospisil et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;The study presents a synthesis protocol for nitro-fatty acids (NO₂FAs) that act as NRF2 activators. Testing in bone marrow cells shows specific NO₂FAs enhancing NRF2 stabilization under varied oxygen conditions, indicating their potential therapeutic applications.  
+
+- [Binding Affinity of HIV-1 Protease Inhibitors: Insights from Machine Learning Models of Crystallographic Structures](https://dx.doi.org/10.26434/chemrxiv-2025-9xbh7?rft_dat=source%3Ddrss)  
+Inbal, Tuvi-Arad and Yaffa, Shalit  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;This paper develops machine learning models to predict the binding affinity of HIV-1 protease inhibitors using crystallographic data from 291 complexes. The models utilize techniques like Random Forest, achieving accuracy scores above 0.85, enhancing structural understanding of HIV-1 protease–inhibitor interactions.  
+
+- [Fluorescence Quenching Properties and Bioimaging Applications of Readily Accessible Blue to Far-Red Fluorogenic Triazinium Salts](https://dx.doi.org/10.26434/chemrxiv-2025-dcpf1?rft_dat=source%3Ddrss)  
+Milan, Vrabel et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;The paper presents a new class of fluorogenic probes based on triazinium salts (Trz+), which become fluorescent upon bioorthogonal activation. These probes are easily synthesized and demonstrate efficient quenching and fluorescence enhancement, applicable in various bioimaging settings.  
+
+- [Investigating the Effect of Membrane Composition on the Selective Ammonium Transport of E coli AmtB Membrane Proteins](https://dx.doi.org/10.26434/chemrxiv-2025-0ksxc?rft_dat=source%3Ddrss)  
+Brandon, Clark et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;This study investigates how E. coli membrane lipids affect ammonium transport by AmtB proteins through solid-supported membrane electrophysiology. It finds that proteoliposomes with POPE exhibited the highest ammonium permeability, stressing the role of specific phospholipid bonding in transport performance.  
+
+- [Predicting aqueous and organic solubilities with machine learning: a workflow for identifying organic co-solvents](https://dx.doi.org/10.26434/chemrxiv-2025-xlt1q-v2?rft_dat=source%3Ddrss)  
+Maurycy, Krzyzanowski et al.  
+*Organic Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;The study develops a machine learning workflow to identify organic co-solvents for increasing hydrophobic molecules' solubility in aqueous mixtures. The model achieves strong predictive performance, assisting in selecting effective co-solvents for sustainable fuel applications, validated experimentally.  
+
+- [Design of CO2-philic Molecular Units with Large Language Models](https://dx.doi.org/10.26434/chemrxiv-2025-kg3r1?rft_dat=source%3Ddrss)  
+Konstantinos, Vogiatzis  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-08  
+&ensp;The paper explores using large language models (LLMs) for designing molecular units with high CO₂ affinity aimed at carbon capture technologies. Combining LLMs with DFT evaluations, it produces candidates with promising interaction energies exceeding the required threshold, highlighting innovative design strategies in molecular discovery.
+
 ## 08 Apr 2025  
 
 - [Polyglycerol-based Lipids: A Next-Generation Alternative to PEG in Lipid Nanoparticles for Advanced Drug Delivery Systems](https://dx.doi.org/10.26434/chemrxiv-2025-2jf8r-v3?rft_dat=source%3Ddrss)  
