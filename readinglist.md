@@ -12,6 +12,64 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 10 Apr 2025  
+
+- [Mitochondria-targeting abasic site-reactive probe (mTAP) enables the manipulation of mitochondrial DNA repair and turnover](https://dx.doi.org/10.26434/chemrxiv-2025-0nstw?rft_dat=source%3Ddrss)  
+Anal, Jana; Yu-Hsuan, Chen; Linlin, Zhao  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The study introduces mTAP, a mitochondria-targeting probe that selectively reacts with mitochondrial abasic sites, manipulating mtDNA repair. Utilizing mass spectrometry, it confirmed mTAP's specificity and demonstrated its ability to prevent AP endonuclease binding. Cellular tests showed mTAP improved mtDNA copy number and transcription after AP site damage, revealing its potential in mitochondrial DNA maintenance.  
+- [Exploring a Druggable Hydrophobic Tunnel in the 5-HT2A Receptor with Potent Phenethylamines](https://dx.doi.org/10.26434/chemrxiv-2025-s9rhl?rft_dat=source%3Ddrss)  
+Christian B. M., Poulie; Icaro A., Simon; Eline, Pottie; Kasper, Harpsøe; Anders A., Jensen; Jesper L., Kristensen; Christophe P., Stove  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper investigates a hydrophobic tunnel in the 5-HT2A receptor implicated in its pharmacology. The study used molecular modeling and synthesized ten phenethylamine analogs to explore agonist activity. Key residues were identified, revealing that analogs with specific 4-substituents enhance agonist potency through tunnel interactions, marking the tunnel as a potential target for drug design.  
+- [Glutathione-Nucleotide Supramolecular Hydrogels with Intrinsic Antiviral, Antibacterial, and Anticancer Activities](https://dx.doi.org/10.26434/chemrxiv-2025-756b5?rft_dat=source%3Ddrss)  
+Tridib K., Sarma; Vidhi, Agarwal; Vaishali, Saini; Aditya, Prasun; Nidhi, Varshney; Amrita, Chakraborty; Hem Chandra, Jha  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper presents glutathione-based hydrogels formed by guanosine monophosphate, exhibiting antiviral, antibacterial, and anticancer properties. The hydrogels maintain their structure through physical crosslinking, showing stability and biocompatibility. In vitro studies demonstrate antiviral efficacy against EBV and SARS-CoV-2, as well as antibacterial effects. Results suggest potential applications in antimicrobial coatings and therapeutic solutions for COVID-19-related concerns.  
+- [Advanced computational methods in protein simulations  A case study of enhanced sampling applied to membrane transporters](https://dx.doi.org/10.26434/chemrxiv-2025-1r6sv?rft_dat=source%3Ddrss)  
+Philip, Biggin; Jonathan, Colburn; Simon, Lichtinger  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper reviews enhanced sampling techniques in molecular dynamics simulations, focusing on their application to membrane transporters. It categorizes problems into conformational changes and intermolecular interactions. The authors anticipate future developments, including machine learning integration, and recommend standardized reporting for better reproducibility. No specific datasets or results are mentioned in the abstract.  
+- [Reaction Exploration Reveals Strong Kinetic Filtering in Li-Ion Battery Electrolyte Degradation](https://dx.doi.org/10.26434/chemrxiv-2025-xmhjg?rft_dat=source%3Ddrss)  
+Brett, Savoie; Hsuan-Hao, Hsu; Tianfan, Jin  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper investigates the degradation reactions of lithium-ion battery electrolytes, focusing on the solid electrolyte interphase (SEI). Using automated reaction exploration methods, it analyzes the traditional electrolyte of ethylene carbonate and lithium hexafluorophosphate, revealing strong kinetic filtering effects and key degradation products like lithium ethylene monocarbonate and lithium ethylene dicarbonate. The study emphasizes the utility of computational methods for understanding SEI formation.  
+- [Discriminant Analysis Optimizes Progress Coordinate in Weighted Ensemble Simulations of Rare Event Kinetics](https://dx.doi.org/10.26434/chemrxiv-2024-l8tpq-v2?rft_dat=source%3Ddrss)  
+Praveen Ranganath, Prabhakar; Dhiman, Ray; Ioan, Andricioaei  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper presents a machine learning approach using harmonic linear discriminant analysis to optimize progress coordinates in weighted ensemble simulations, enhancing the computation of rare biomolecular conformational transitions. Tested on alanine dipeptide kinetics and small protein unfolding, this method requires minimal system knowledge, potentially broadening its applicability.  
+- [Hydrogen Bonds under Electric Fields with Quantum Accuracy](https://dx.doi.org/10.26434/chemrxiv-2025-v69sh-v2?rft_dat=source%3Ddrss)  
+Giuseppe, Cassone; Alessandro , Amadeo; Marco Francesco, Torre; Klaudia, Mràziková; Franz, Saija; Sebastiano, Trusso; Jing, Xie; Matteo, Tommasini  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The study examines hydrogen bonds in dimers (H2O, HF, H2S, NH3) under electric fields using correlated quantum methods (CCSD and CCSD(T)). It reveals that electric fields strengthen intermolecular interactions and modifies H-bond properties, with the vibrational Stark effect linked to binding energies. Findings have implications for catalysis and biological processes, highlighting variations based on molecular polarizability.  
+- [Integrating Pharmacokinetics and Quantitative Systems Pharmacology Approaches in Generative Drug Design](https://dx.doi.org/10.26434/chemrxiv-2025-77hg5-v2?rft_dat=source%3Ddrss)  
+Helle W., van den Maagdenberg; Jikke, de Mol van Otterloo; Piet H., van der Graaf; J. G. Coen, van Hasselt; Gerard J. P., van Westen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper presents an integrated framework combining pharmacokinetics (PK) and pharmacodynamics (PD) in generative drug design using DrugEx. It utilizes quantitative structure-property relationship models to predict PK properties and receptor affinity. The results indicate that optimizing these parameters can influence molecular scaffolds and expected tumor growth inhibition, suggesting a new approach for advanced drug design.  
+- [Beyond Lithium Lanthanum Titanate: Metal-Stable Hafnium Perovskite Electrolytes for Solid-State Batteries](https://dx.doi.org/10.26434/chemrxiv-2025-t9njm-v3?rft_dat=source%3Ddrss)  
+Basant, Ali; Charles, Musgrave; Ahmed, Biby  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper investigates hafnium perovskite electrolytes (LLHfO) as alternatives to lithium lanthanum titanate (LLTO) for solid-state batteries, emphasizing their stability against metal anodes. Using DFT calculations, the study reveals that LLHfO offers mechanical stability and lower diffusion barriers compared to LLTO. Sodium perovskites are noted for stability but require improved Na+ diffusion for better ionic conductivity.  
+- [Preorganized electric fields in voltage-gated sodium channels](https://dx.doi.org/10.26434/chemrxiv-2024-cm35v-v2?rft_dat=source%3Ddrss)  
+Valerie, Vaissier Welborn; Yi, Zheng; Taoyi, Chen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper investigates electric fields in sodium channels using molecular dynamics simulations of Nav1.5, Nav1.6, and Nav1.7 with the AMOEBA polarizable force field. It finds that both charged and uncharged residues create significant electric fields facilitating Na+ movement, stressing the role of charge-dipole interactions and highlighting mutual information among residues in optimizing allosteric pathways.  
+- [Constructing Accurate Potential Energy Surfaces with Limited High-Level Data Using Atom-Centered Potentials and Density Functional Theory](https://dx.doi.org/10.26434/chemrxiv-2025-3h5p5?rft_dat=source%3Ddrss)  
+Mahsa, Nazemi Ashani; Alberto , Otero-de-la-Roza; Gino , A. DiLabio  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-09  
+&ensp;The paper presents a method for creating accurate potential energy surfaces (PESs) using limited high-level reference data. The authors employ a quasirandom sampling approach and fit atom-centered potentials (ACPs) to enhance density functional theory (DFT) methods. Results show significant RMSE reductions for HFCO and uracil molecules, demonstrating the effectiveness of the technique with minimal data points.
+
 ## 09 Apr 2025  
 
 - [Mapping the L-tryptophan Capped Copper Nanocluster Mediated Binding and Targeted pH-Responsive Release of Doxorubicin via Fluorescence Resonance Energy Transfer (FRET)](https://dx.doi.org/10.26434/chemrxiv-2025-w1n6m?rft_dat=source%3Ddrss)  
