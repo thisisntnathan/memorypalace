@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 11 Apr 2025  
+
+- [MolSculptor: a diffusion-evolution framework for multi-site inhibitor design](https://dx.doi.org/10.26434/chemrxiv-2025-v4758?rft_dat=source%3Ddrss)  
+Yanheng Li, Xiaohan Lin, Yize Hao, Jun Zhang, Yi Qin Gao  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-10  
+&ensp;The paper presents MolSculptor, a training-free framework for designing multi-site inhibitors using a latent diffusion model and evolutionary algorithms. It addresses the limitations of current deep generative models due to scarce training datasets. MolSculptor showed superior performance in various tasks, including optimizing dual-target inhibitors and selective inhibitor design, compared to existing methods.  
+- [A Multi-Task Learning Approach for Data Imputation of Compound Bioactivity Values for the SLC Transporter Superfamily](https://dx.doi.org/10.26434/chemrxiv-2025-7vtgv?rft_dat=source%3Ddrss)  
+Tarik Cerimagic, Sergey Sosnin, Gerhard Ecker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-10  
+&ensp;The paper presents a multi-task deep neural network (MTDNN) for imputing missing compound-bioactivity values for the SLC transporter superfamily. Using a dataset with 2.53% density, the model predicted 480,133 values for 9,122 compounds across 54 targets, achieving an R² of 0.74. The approach outperformed single-task methods and shows promise despite data limitations.  
+- [Kinetic predictions for SN2 reactions using the BERT architecture: Comparison and interpretation](https://dx.doi.org/10.26434/chemrxiv-2025-0ln4g-v2?rft_dat=source%3Ddrss)  
+Chloe Wilson, María Calvo, Stamatia Zavitsanou, James Somper, Ewa Wieczorek, Tom Watts, Jason Crain, Fernanda Duarte  
+*Organic Chemistry on ChemRxiv*  
+2025-04-10  
+&ensp;The paper investigates the use of BERT to predict logk values for SN2 reactions, comparing its accuracy to a top-performing Random Forest model. Both models achieved near-experimental accuracy (RMSE = 1.1 logk units) but showed limitations in extrapolation and recognition of effects. The study highlights the potential of BERT in kinetic prediction while addressing model interpretation.  
+- [Understanding cation and surface charging effects at electrified interfaces using neural network interatomic potentials](https://dx.doi.org/10.26434/chemrxiv-2025-076cz?rft_dat=source%3Ddrss)  
+Nitish Govindarajan, Jiawei Guo, Marcos Calegari Andrade, Christopher Hahn, Ambarish Kulkarni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-10  
+&ensp;The paper explores electrified interfaces using message-passing neural network interatomic potentials based on the MACE architecture to conduct molecular dynamics simulations. It investigates the effects of surface charging and cation identity (Li+, Na+, K+, Cs+) on interfacial properties, revealing that surface charging significantly influences dynamics and structure, while double layer capacitance (17-19 µF/cm²) remains largely insensitive to cation types.  
+- [BigSolDB 20: a dataset of solubility values for organic compounds in organic solvents and water at various temperatures](https://dx.doi.org/10.26434/chemrxiv-2025-nq0gr-v2?rft_dat=source%3Ddrss)  
+Lev Krasnov, Dmitry Malikov, Marina Kiseleva, Sergei Tatarin, Stanislav Bezzubov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-10  
+&ensp;The paper presents BigSolDB 20, a dataset with 103,944 solubility values for 1,448 organic compounds in 213 solvents, measured across temperatures from 243 to 425 K. The data is standardized and accessible in a machine-readable format, supporting data-driven analyses. A web-tool for visualization is also introduced, aiming to aid machine learning in solubility prediction.  
+- [A consistent set of thermophysical properties of methane curated with machine learning](https://dx.doi.org/10.26434/chemrxiv-2024-gthhs-v2?rft_dat=source%3Ddrss)  
+Itamar Borges Jr, Matheus Maximo-Canadas, Rubens Caio Souza, Julio Cesar Duarte, Jakler Nichele, Leonardo Santos de Brito Alves, Luis Octavio Vieira Pereira, Ligia Gaigher Franco  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-10  
+&ensp;The paper presents a machine learning approach to accurately predicting methane's thermophysical properties across various phases, utilizing a range of ML algorithms. The method aligns predictions more closely with standardized NIST data compared to raw experimental data, highlighting ML’s effectiveness in managing noise and variability. Extra Trees and Gradient Boosting were particularly noted for their scalability and efficiency.  
+- [Optimizing mixtures of metal–organic frameworks for robust and bespoke passive atmospheric water harvesting](https://dx.doi.org/10.26434/chemrxiv-2025-k4v52?rft_dat=source%3Ddrss)  
+Cory Simon, Qia Ke, Charles Harriman, Ashlee Howarth, Thijs Vlugt  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-10  
+&ensp;The paper presents a method for optimizing mixtures of metal-organic frameworks (MOFs) for passive atmospheric water harvesting (AWH), using historical weather data and thermodynamic models in a linear programming framework. Case studies in the Chihuahuan and Sonoran Deserts reveal that mixed-MOF beds can be more effective than single-MOF beds, with optimal compositions varying by location and time.
+
 ## 10 Apr 2025  
 
 - [Mitochondria-targeting abasic site-reactive probe (mTAP) enables the manipulation of mitochondrial DNA repair and turnover](https://dx.doi.org/10.26434/chemrxiv-2025-0nstw?rft_dat=source%3Ddrss)  
