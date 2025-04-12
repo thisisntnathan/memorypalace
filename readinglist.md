@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 12 Apr 2025  
+
+- [Molecular insights on the pre-reactive complex between SHAPE probe and RNA molecules and its role in the SHAPE reaction: a multiscale study](https://dx.doi.org/10.26434/chemrxiv-2025-2thnz?rft_dat=source%3Ddrss)  
+Elisa Frezza, Cécilia Hognon, Ameni Ben Abdeljaoued, Pierre Hardouin, Mélanie Etheve-Quelquejeu, Bruno Sargueil, Damien Laage  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;The paper investigates the interactions between SHAPE probes and RNA molecules using biased molecular dynamics and quantum mechanics/molecular mechanics simulations on the GAAA RNA tetraloop. It reveals how local structural environments influence SHAPE reactivity, emphasizing the pre-reactive complex's binding mode and the importance of accurate environmental conditions for effective SHAPE reaction accommodation.
+- [Role of Active Site Residues and Weak Noncovalent Interactions In Substrate Positioning in N,N-Dimethylformamidase](https://dx.doi.org/10.26434/chemrxiv-2025-mkrnn-v2?rft_dat=source%3Ddrss)  
+Clorice Reinhardt, David Kastner, Heather Kulik  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;The paper investigates the role of active site residues and noncovalent interactions in substrate positioning for the enzyme N,N-dimethylformamidase (DMFase) using molecular dynamics (MD) simulations and docking studies. Key findings include DMF binding stabilization through interactions with phenylalanine residues, identification of crucial active site residues, and insights into the structure of putative DMFases for bioremediation.
+- [Dual Organelle Targeting for Intra-Organelle Click: Mitochondria and Endoplasmic Reticulum-Directed Benzothiophene-Fused Cycloalkyne Probes](https://dx.doi.org/10.26434/chemrxiv-2025-hxm34-v2?rft_dat=source%3Ddrss)  
+Natalia A. Danilkina, Aleksandra A. Vidyakina, Sergey A. Silonov, Alexander Y. Ivanov, Elena A. Shpakova, Ekaterina P. Podolskaya, Mia D. Kim, Alexey S. Gladchuk, Irina A. Balova, Stefan Bräse  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;The paper presents dual organelle-targeted cycloalkyne probes for mitochondria and endoplasmic reticulum. The probes, based on benzothiophene-fused azacyclononyne, utilize a mitochondrial targeting group and a sulfonamide for ER delivery. Fluorescence microscopy confirmed their localization and intra-organelle click reactions with azides. The results highlight effective dual targeting for organelle studies and drug delivery.
+- [A Multi-Task Learning Approach for Data Imputation of Compound Bioactivity Values for the SLC Transporter Superfamily](https://dx.doi.org/10.26434/chemrxiv-2025-7vtgv-v2?rft_dat=source%3Ddrss)  
+Tarik Cerimagic, Sergey Sosnin, Gerhard Ecker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;The paper presents a multi-task deep neural network (MTDNN) designed for imputing missing compound-bioactivity values for SLC transporters, which have a data density of 2.53%. The model achieved an R² of 0.74, imputing values for 9,122 compounds across 54 targets, improving predictive accuracy compared to single-task learning methods.
+- [Structure-Based Discovery of a Cryptic Druggable Pocket in TP53 C238Y: Implications for Targeted Therapy](https://dx.doi.org/10.26434/chemrxiv-2025-29bnr-v2?rft_dat=source%3Ddrss)  
+hoosdally shakeel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;This paper discusses the discovery of a cryptic druggable pocket in the TP53 C238Y mutation through computational modeling and structural analysis. This structure change could allow for targeted cancer therapies that address specific TP53 mutations. The study sets the stage for future virtual screening and drug-binding validation, emphasizing the potential for personalized cancer treatments.
+- [Assessing Campylobacter jejuni Extracellular Vesicle-Host Interaction Using a Microfluidic Platform with Caco-2 Spheroides-on-Chip](https://dx.doi.org/10.26434/chemrxiv-2024-jf41x-v2?rft_dat=source%3Ddrss)  
+Silvia Tea Calzuola, Debora Pinamonti, Francesco Rizzotto, Jeanne Malet-Villemagne, Céline Henry, Christine Péchaux, Jean-Baptiste Blondé, Emmanuel Roy, Marisa Manzano, Goran Lakisic, Sandrine Truchet, Jasmina Vidic  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;This paper presents a microfluidic platform with an impedimetric sensor to study the interactions between Campylobacter jejuni extracellular vesicles (EVs) and Caco-2 intestinal epithelial cells. The platform demonstrated that 3D Caco-2 spheroids were more resistant to C. jejuni EVs compared to 2D cultures, suggesting improved physiological relevance for studying host-microbe interactions in gastroenteritis.
+- [Mechanism of Ag+-induced Folding of a Bacterial Peptide from Replica-Exchange Molecular Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-pfwmz?rft_dat=source%3Ddrss)  
+Florian E.C. Blanc, Maggy Hologne, Mélodie Demontrond, Henry Chermette, Olivier Walker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;The paper investigates how Ag+ induces folding in the B1 peptide from the SilE protein using molecular simulations, NMR, and deep learning. Methods included DFT for interaction parametrization and replica-exchange simulations. Results show Ag+ promotes helix formation by affecting entropy and electrostatic stabilization, enhancing understanding of metal-induced protein folding and implications for bacterial silver resistance.
+- [Generative protein design meets synthetic porphyrin assembly](https://dx.doi.org/10.26434/chemrxiv-2025-5xfm8?rft_dat=source%3Ddrss)  
+Hiroaki Inaba, Hiroki Onoda, Takayuki Uchihashi, Atsunori Oshima, Osami Shoji  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-11  
+&ensp;The paper presents BiPAD, a novel artificial protein assembly combining de novo protein design and synthetic supramolecular strategies. Utilizing generative protein design, BiPAD captures two synthetic porphyrins, achieving a metal-responsive cyclic assembly. High-speed atomic force microscopy demonstrated dynamic structural changes, showcasing new possibilities for functional protein assemblies.
+
 ## 11 Apr 2025  
 
 - [MolSculptor: a diffusion-evolution framework for multi-site inhibitor design](https://dx.doi.org/10.26434/chemrxiv-2025-v4758?rft_dat=source%3Ddrss)  
