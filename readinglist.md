@@ -12,6 +12,33 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 16 Apr 2025  
+
+- [Twenty-Five years of High-throughput Screening of Biological Samples with Mass Spectrometry: Current Platforms and Emerging Methods](https://dx.doi.org/10.26434/chemrxiv-2025-db46t?rft_dat=source%3Ddrss)  
+Perdita Barran, Michael Morris, Rachel Smith, Catherine Brookes  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-15  
+&ensp;The paper reviews 25 years of high-throughput screening (HTS) using mass spectrometry (MS), highlighting advances in automation and ionisation techniques that improve efficiency and sustainability. It discusses the challenges faced in MS adoption compared to optical methods, and reflects on lessons learned from the COVID-19 pandemic.  
+
+- [A Foundation Model for Accurate Atomistic Simulations in Drug Design](https://dx.doi.org/10.26434/chemrxiv-2025-f1hgn-v2?rft_dat=source%3Ddrss)  
+Jean-Philip Piquemal, Thomas Plé, Louis Lagardère, Olivier Adjoua, Evgeny Posenitskiy, Corentin Villot, Anouar Benali  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-15  
+&ensp;The paper discusses FeNNix-Bio1, a foundation model trained exclusively on synthetic quantum chemistry data for atomistic simulations in drug design. It outperforms traditional methods, addressing challenges like fast inference and model transferability, particularly for charged species. The model successfully simulates water properties, protein dynamics, and binding free energies, enhancing its applicability in drug design.  
+
+- [Accurate Electrostatics for Biomolecular Systems through Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-q2v9m?rft_dat=source%3Ddrss)  
+David van der Spoel, A. Najla Hosseini, Kristian Kriz  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-15  
+&ensp;The paper discusses a machine learning approach using the Alexandria Chemistry Toolkit (ACT) to improve electrostatic interaction modeling in biomolecular systems. It critiques traditional charge fitting methods and presents novel models for charged amino-acid side chain analogs, leading to enhanced prediction of electrostatic and induction energies, surpassing existing models in accuracy.  
+
+- [Comparative Analysis of Molecular Embeddings for Efficient Compound Similarity Search Using Vector Databases](https://dx.doi.org/10.26434/chemrxiv-2025-zvgwq?rft_dat=source%3Ddrss)  
+Krzysztof Baczyński, Anna Szymańska, Marcin Król  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-15  
+&ensp;The paper compares various molecular embedding models (autoencoders, GCNN, BERT-like, word2vec, and MAT) against traditional ECFP fingerprints for compound similarity search. Using vector databases, the study finds that Continuous Data-Driven Descriptors (CDDD) and MolFormer significantly improve search efficiency and speed, contributing to advancements in drug discovery methodologies.  
+
+
 ## 12 Apr 2025  
 
 - [Molecular insights on the pre-reactive complex between SHAPE probe and RNA molecules and its role in the SHAPE reaction: a multiscale study](https://dx.doi.org/10.26434/chemrxiv-2025-2thnz?rft_dat=source%3Ddrss)  
