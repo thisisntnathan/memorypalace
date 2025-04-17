@@ -12,6 +12,80 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 17 Apr 2025  
+
+- [Allostery Without Conformational Change: A Native Mass Spectrometry Perspective](https://dx.doi.org/10.26434/chemrxiv-2025-hhc53?rft_dat=source%3Ddrss)  
+David, Russell; He Mirabel, Sun; Kacie, Evans; Morgan, Powers; Zhenyu, Xi; Carter, Lantz; Arthur, Laganowsky; Hays, Rye  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper investigates the effects of variable temperature (vT)-nESI-MS and ion mobility spectrometry (IMS) on GroEL single ring mutant (SR1) ligand binding, using datasets with varying temperatures (2-100 °C) and three ESI buffers. Results showed differences in ADP binding cooperativity and thermodynamics, emphasizing the impact of buffer compositions on protein dynamics and conformations.
+
+- [Keep looking at the negative side: improved detection of drug-induced liver injury with non-hepatotoxicant data oversampling](https://dx.doi.org/10.26434/chemrxiv-2025-xdc1q?rft_dat=source%3Ddrss)  
+Olivier JM, BÉQUIGNON; Steven, Wink; Steven W., Hiemstra; J. E., Fokkelman-Klip; Wouter, den Hollander; Giulia, Callegaro; Bob, van de Water; Gerard J. P., van Westen  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper presents a novel oversampling strategy to enhance drug-induced liver injury (DILI) detection by integrating stress pathway activations and molecular data to address class imbalance. Results showed improved predictive accuracy without overfitting. However, challenges remain in identifying key biological markers and optimizing data acquisition for more reliable DILI models.
+
+- [A Multi-Task Learning Approach for Data Imputation of Compound Bioactivity Values for the SLC Transporter Superfamily](https://dx.doi.org/10.26434/chemrxiv-2025-7vtgv-v3?rft_dat=source%3Ddrss)  
+Tarik, Cerimagic; Sergey, Sosnin; Gerhard, Ecker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper presents a multi-task deep neural network (MTDNN) to impute missing compound-bioactivity values for the SLC transporter superfamily. Using a dataset with a 2.53% density, it generated 480,133 predictions for 9,122 compounds across 54 targets with an R² of 0.74, outperforming single-task learning approaches and demonstrating effective data imputation despite data limitations.
+
+- [Surface Hopping Molecular Dynamics Simulations for Photophysics and Photoreactions Involving Pyrene and CH3Cl](https://dx.doi.org/10.26434/chemrxiv-2025-d0v6x?rft_dat=source%3Ddrss)  
+Evgenii, Titov; Elham, Mazarei; Peter, Saalfrank  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper investigates the photophysics and photoreaction dynamics of pyrene (C16H10) and methyl chloride (CH3Cl) using non-adiabatic surface hopping molecular dynamics simulations. It employs semiempirical (AM1) methods and (time-dependent) density functional theory for structural optimizations and excited-state analysis, revealing insights into excited-state lifetimes and photochemical behavior of these compounds.
+
+- [Computationally-Guided Development of Sulfide Solid Electrolyte Powder Coatings for Enhanced Stability and Performance of Solid-State Batteries](https://dx.doi.org/10.26434/chemrxiv-2025-qwx8c?rft_dat=source%3Ddrss)  
+Justin, Connell; Aditya, Sundar; Taewoo, Kim; Francisco, Lagunas; Anil, Mane; Udochukwu, Eze; Sanja, Tepavcevic; Rajesh, Pathak; Jeffrey, Elam; Zachary, Hood; Peter, Zapol  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper presents a density functional theory-based protocol for identifying new oxide coatings to enhance sulfide solid-state electrolytes (SSEs) like Li6PS5Cl. It demonstrates that MgO coatings significantly improve stability and performance metrics. Key findings emphasize the importance of ionic and electronic conductivity at interfaces, paving the way for advancements in solid-state battery technology.
+
+- [Potential energy surfaces: Δ-machine learning from analytical functional forms](https://dx.doi.org/10.26434/chemrxiv-2025-wkdwg?rft_dat=source%3Ddrss)  
+Cipriano, Rangel; Joaquin, Espinosa-Garcia  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper presents delta-machine learning (Δ-ML) as an efficient method for creating high-level potential energy surfaces (PES) from low-level data. Utilizing the analytical PES-2008 and information from the PIP-NN surface, Δ-ML is applied to the H + CH4 reaction. Kinetic and dynamic studies affirm Δ-ML's accuracy, showing it can effectively describe complex polyatomic systems.
+
+- [OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-j207x?rft_dat=source%3Ddrss)  
+Pavlo O., Dral; Mikołaj, Martyka; Xin-Yu, Tong; Joanna, Jankowska  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;OMNI-P2x is a universal neural network potential developed for efficient excited-state simulations, achieving near time-dependent density functional theory accuracy at a lower cost. It outperforms traditional semiempirical quantum methods and is demonstrated in UV/Vis spectroscopy, real-time photodynamics, and designing visible-light-absorbing azobenzene. This method enhances high-throughput investigations of photo-active molecular systems in scientific applications.
+
+- [Theoretical kinetics study of the OH + CH3SH reaction based on an analytical full-dimensional potential energy surface](https://dx.doi.org/10.26434/chemrxiv-2025-wkhxn?rft_dat=source%3Ddrss)  
+Cipriano, Rangel; Joaquín, Espinosa-Garcia  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper studies the OH + CH3SH reaction using a newly developed potential energy surface (PES-2024) and three kinetic theories: VTST, QCT, and RPMD. It analyzes thermal rate constants from 200-1000 K, finding a V-shaped temperature dependence with discrepancies between methods. Kinetic isotope effects exhibited both normal and inverse behaviors depending on the reaction path.
+
+- [Reaction Discovery Using Bayesian Optimization: Lithium Salt Directed Stereoselective Glycosylations](https://dx.doi.org/10.26434/chemrxiv-2025-7bqjj?rft_dat=source%3Ddrss)  
+Natasha Videcrantz, Faurschou; Christian Marcus, Pedersen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper explores using Bayesian optimization for discovering new stereoselective glycosylation methods, treating the glycosylation reaction as a black box. By introducing lithium salts, novel methodologies were identified. The study demonstrates the utility of partial dependence plots for interpreting results, enhancing understanding of complex reaction spaces.
+
+- [Effect of Thermal Disorder on the Electronic Structure and the Charge Mobility of Acenes](https://dx.doi.org/10.26434/chemrxiv-2025-z67cw?rft_dat=source%3Ddrss)  
+Alessandro, Landi; Francesco, Ambrosio; Anna, Leo; daniele, Padula; Giacomo, Prampolini; Andrea, Peluso  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper investigates the impact of thermal disorder on the electronic structure and charge mobility of naphthalene and pentacene using molecular dynamics and ab initio calculations. Results indicate that thermal disorder reduces charge mobility due to polaronic energy level shifts and site energy fluctuations, aligning well with experimental data. Kinetic Monte Carlo simulations were utilized for evaluating charge mobilities.
+
+- [Development of Parallel On-the-Fly Crystal Algorithm for Reaction Discovery in Large and Complex Molecular Systems](https://dx.doi.org/10.26434/chemrxiv-2025-9hcdq-v3?rft_dat=source%3Ddrss)  
+Ruibin, Liang; Ankit, Pandey; Gustavo J., Costa; Alam, Mushfiq; Bill, Poirier  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper presents a parallel on-the-fly Crystal algorithm for efficient exploration of potential energy surfaces in complex molecular systems, applied to bilirubin and donor-acceptor Stenhouse adducts. An automated workflow facilitated the discovery of new minima and reaction pathways in vacuum and aqueous solutions, demonstrating the algorithm's effectiveness in uncovering kinetically accessible products and enhancing understanding of chemical reactivities in varied environments.
+
+- [Water-mediated interactions between glycans are weakly repulsive and unexpectedly long-ranged](https://dx.doi.org/10.26434/chemrxiv-2025-n2c32-v2?rft_dat=source%3Ddrss)  
+Sucheol, Shin; Mauro, Mugnai; Dave, Thirumalai  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-16  
+&ensp;The paper reveals through all-atom molecular dynamics simulations that water-mediated interactions between N-glycans are weakly repulsive and long-ranged, decaying logarithmically with increased separation. This finding links glycan interactions to star polymer behavior and highlights the role of electrostatic interactions and hydrogen bonds in mediating these effects.
+
 ## 16 Apr 2025  
 
 - [Twenty-Five years of High-throughput Screening of Biological Samples with Mass Spectrometry: Current Platforms and Emerging Methods](https://dx.doi.org/10.26434/chemrxiv-2025-db46t?rft_dat=source%3Ddrss)  
