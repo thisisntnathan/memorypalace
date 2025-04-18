@@ -12,6 +12,54 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 18 Apr 2025  
+
+- [WatCon: A Python Tool for Analysis of Conserved Water Networks Across Protein Families](https://dx.doi.org/10.26434/chemrxiv-2025-8526g?rft_dat=source%3Ddrss)  
+Shina Caroline Lynn, Kamerlin; Alfie-Louise R., Brownless; Travis, Harrison-Rawn  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper presents WatCon, an open-source Python tool for analyzing conserved water networks across protein families, utilizing dynamic and static structural data. It allows classification and characterization of water networks. Demonstrated through applications on proteins like PTP1B and TPI, WatCon aids in understanding biochemical systems and predicting water hotspots relevant to protein engineering. Available at GitHub.  
+- [Discovery of YTHDF2 ligands by fragment-based design](https://dx.doi.org/10.26434/chemrxiv-2025-qz0mn?rft_dat=source%3Ddrss)  
+Annalisa, Invernizzi; Francesco, Nai; Rajiv Kumar, Bedi; Pablo Andrés, Vargas-Rosales; Yaozong, Li; Elena, Bochenkova; Marcin, Herok; František, Zálešák; Amedeo, Caflisch  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper reports the discovery of six YTHDF2 ligands via fragment-based high-throughput docking, achieving a hit rate of 13%. A total of 28 analogues and 32 derivatives were synthesized, resulting in low-micromolar affinity compounds, with compound 23 showing IC50 values of 2 µM and 10 µM. Six crystal structures of YTHDF2-ligand complexes were also revealed.  
+- [Programmable Site-Selectivity: pH-Modulated Triazine-Thiol Exchange for Site- and Chemoselective Cysteine Labelling](https://dx.doi.org/10.26434/chemrxiv-2025-0h28q?rft_dat=source%3Ddrss)  
+Kevin, Neumann; Katerina , Gavriel; Daniel, Deißenbeck; Thomas J., Rutjes; Daniëlle W. T. , Geers; Jan , Meisner  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper presents a programmable strategy for site-selective cysteine modifications using pH-modulated triazine-thiol exchange. It achieves regulation of cysteine labelling at different pH levels, enabling modification of internal or N-terminal cysteines. The research employs molecular dynamics simulations and density functional theory to explain the site-selectivity mechanism, enhancing precision in peptide engineering.  
+- [Indirect Ubiquitination: Noncovalent Ubiquitin Tethering Independent of Endogenous Ubiquitination Machinery for Targeted Protein Degradation](https://dx.doi.org/10.26434/chemrxiv-2025-nfhz2?rft_dat=source%3Ddrss)  
+Akimitsu, Okamoto; Takafumi, Furuhata; Kazuki, Yoshida; Ryoka, Fujita; Jotaro, Miyamoto; Chiharu, Moriyama; Tokiha, Masuda-Ozawa; Hikaru, Tsuchiya; Yasushi, Saeki  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper discusses a novel method of indirect ubiquitination using heterobifunctional degrader molecules that enable non-covalent ubiquitin tethering, circumventing the need for endogenous ubiquitination machinery. This approach allows for the targeted degradation of proteins, including recombinant and endogenous types, and offers a solution to issues related to drug resistance and E3 ligase activity impairment.  
+- [DNA-Encoded Chemical Library Screening with Target Titration Analysis: DELTA](https://dx.doi.org/10.26434/chemrxiv-2025-tqmnj?rft_dat=source%3Ddrss)  
+John C., Faver; Flora, Sundersingh; Lauren A., Viarengo-Baker; Ying-Chu, Chen; Katelyn, Billings; Patrick, Riley; Ching-Hsuan, Tsai; Christopher S., Kollmann  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper presents DELTA, a DNA-Encoded Library screening method that incorporates target titration analysis to improve binding affinity predictions for Bruton’s tyrosine kinase. It uses a split-sample strategy and a probabilistic model to enhance data quality, yielding better ranking of compounds compared to traditional metrics and successfully identifying potent members otherwise missed.  
+- [Nanoscale direct-to-biology optimization of Cdk2 inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-4fr3l?rft_dat=source%3Ddrss)  
+James L., Douthwaite; Damian J., Houde; Eneida H., Pardo; Mark S., Moran; Jason, Baird; Sophia R., Meyer; Qiyuan, Zhao; Jay F., Larrow; Babak, Mahjour; Yu-Pu, Juang; Calvin K., Han; Brian, Kelley; David R., Dunstan; Katelyn J., Billings; Mary M., Mader; Alexander M., Taylor; Jonathan Z., Sexton; Alessandro A., Boezio; Tim, Cernak  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper presents a miniaturized workflow for optimizing Cdk2/CycE inhibitors using direct-to-biology (D2B) methods with ultrahigh-throughput experimentation (ultraHTE) in 1,536 well plates. Assays included functional biochemical assessments and phenotypic cell painting, revealing effective lead inhibitors that induced cell cycle arrest at G0. This approach streamlines optimization by integrating multiple steps in one experiment.  
+- [Understanding the Mechanism of CO2 to CH4 Conversion and Hydrogen Evolution Reaction on Mg Nanoparticles in Water under ambient conditions: A DFT Perspective](https://dx.doi.org/10.26434/chemrxiv-2025-w09zf?rft_dat=source%3Ddrss)  
+Amit, Mondal; Munia, Sultana; Ankan, Paul  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper explores CO2 conversion to methane and hydrogen using magnesium nanoparticles at ambient conditions through Density Functional Theory (DFT). It identifies reaction pathways involving Mg clusters (Mg22 and Mg56), revealing key processes such as the formation of Mg-H and Mg-OH bonds. Notable activation barriers for methanol formation (16.9 kcal/mol) and CH4 release are discussed.  
+- [Introducing PolySea: An LLM-Based Polymer Smart Evolution Agent](https://dx.doi.org/10.26434/chemrxiv-2025-zw65g?rft_dat=source%3Ddrss)  
+Haoke, Qiu; Zhao-Yan, Sun; Jichun, Zhao; Enzhe, Jing; Weilong, Hu; Yurun, Lv; Xuefeng, Li  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper introduces PolySea, a domain-specific LLM for polymer informatics, trained on a curated dataset combining high-fidelity polymer properties and expert knowledge. It achieves an R² score of 0.97 in regression and 79% accuracy in thermal stability classification. Comparative results show PolySea outperforms general-purpose LLMs, generating novel polymer structures validated for real-world synthesis.  
+- [Large-Scale Ab Initio Molecular Dynamics for Assessing Stabilities of Near-Surface NV Centers](https://dx.doi.org/10.26434/chemrxiv-2025-bmsjj?rft_dat=source%3Ddrss)  
+Bryan, Wong; Kamal, Sharkas; Gabriel, Phun; Sohag, Biswas  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-17  
+&ensp;The paper investigates the stability of near-surface nitrogen vacancy (NV) centers using ab initio molecular dynamics. The study finds that NV centers near the 111 surface are more stable than deeper defects and can withstand temperatures up to 1000°C. Techniques like Crystal Orbital Hamilton Population analyses are used to analyze electronic properties, essential for developing quantum sensors.
+
 ## 17 Apr 2025  
 
 - [Allostery Without Conformational Change: A Native Mass Spectrometry Perspective](https://dx.doi.org/10.26434/chemrxiv-2025-hhc53?rft_dat=source%3Ddrss)  
