@@ -12,6 +12,56 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 19 Apr 2025  
+
+- [Finding Drug Candidate Hits With a Hundred Samples: Ultra-low Data Screening With Active Learning](https://dx.doi.org/10.26434/chemrxiv-2025-jlml5?rft_dat=source%3Ddrss)  
+Jan H., Jensen; Jacob M., Nielsen; Maria H., Rasmussen; Casper, Steinmann; Nicolai, Ree; Michael , Gajhede; Jan, Stenvang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The paper explores active learning (AL) for drug discovery using minimal data, specifically 110 affinity evaluations from the DTP and DDS-10 datasets. The study identifies the optimal combination of Continuous and Data-Driven Descriptors with a Multi-Layer Perceptron and PADRE data augmentation, achieving a 97% success rate for top hits. Enriching datasets with known hits enhances results, showcasing AL's potential in resource-limited settings.  
+
+- [Application of vision transformers to protein-ligand affinity prediction](https://dx.doi.org/10.26434/chemrxiv-2025-qcxq1?rft_dat=source%3Ddrss)  
+Pawel, Siedlecki; Jakub, Poziemski  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The paper explores using Vision Transformers for predicting protein-ligand binding affinity from 3D structural data. Evaluating on two benchmark datasets, the approach shows competitive results, surpassing state-of-the-art models in some instances. The study highlights the importance of hyperparameter tuning and data augmentation, demonstrating the model's ability to capture key interaction features and suggesting its broader applicability.  
+
+- [Sustainable Optimization of Extraction Techniques for Bioactive Compounds in Drug Discovery: Principles, Innovations, and Case Studies](https://dx.doi.org/10.26434/chemrxiv-2025-j62x5?rft_dat=source%3Ddrss)  
+Marvellous, Eyube; Anita, Ohwoevwo; Susan, Babayanju; Frances, Okechukwu; Eden, Osadolor; Favour, Boco; Marvellous , Alimikhena; Etinosa, Agbonghae  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The paper discusses sustainable optimization of extraction techniques for bioactive compounds in drug discovery. It evaluates methods like Supercritical Fluid Extraction and Microwave-Assisted Extraction through case studies, including curcuminoids and phenolics extraction, showcasing improved purity and yield with AI integration. It highlights challenges in scaling and recommends best practices for enhancing the efficiency and sustainability of drug discovery processes.  
+
+- [Keep looking at the negative side: improved detection of drug-induced liver injury with non-hepatotoxicant data oversampling](https://dx.doi.org/10.26434/chemrxiv-2025-xdc1q-v2?rft_dat=source%3Ddrss)  
+Olivier JM, BÉQUIGNON; Steven, Wink; Steven W., Hiemstra; J. E., Fokkelman-Klip; Wouter, den Hollander; Giulia, Callegaro; Bob, van de Water; Gerard J. P., van Westen  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The paper presents an improved method for detecting drug-induced liver injury (DILI) by using a custom oversampling strategy to address class imbalance in datasets. It integrates stress pathway activations with molecular descriptors and bioactivity data, enhancing predictive accuracy. Results indicate improved specificity, yet challenges remain in identifying key biomarkers and optimizing data acquisition for better predictive models.  
+
+- [Optimizing Bio-Imaging with Computationally Designed Polymer Nanoparticles](https://dx.doi.org/10.26434/chemrxiv-2025-8f24j?rft_dat=source%3Ddrss)  
+Anupom, Roy; Connard Giresse, Tetssassi Feugmo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The paper examines poly(p-phenylene ethyny-lene) nanoparticles (PPE-NPs) for bio-imaging using molecular dynamics simulations and time-dependent density functional theory (TD-DFT) to analyze their structural and optical properties. Findings include strong fluorescence and efficient electronic behavior, with the M05 functional predicting absorption wavelengths accurately. This research enhances the potential of PPE-NPs as fluorescent probes for biomedical applications.  
+
+- [Accelerating the Structure Exploration of Diverse Bi–Pt Nanoclusters via Physics-Informed Machine Learning Potential and Particle Swarm Optimization](https://dx.doi.org/10.26434/chemrxiv-2025-9h7dn?rft_dat=source%3Ddrss)  
+Carine, Clavaguera; Nguyen-Thi, Van-Oanh; Raphaël, Vangheluwe; Dominik, Domin; Mihai-Cosmin, Marinica; Minh-Tue, Truong; Cong Huy, Pham  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The paper presents a physics-informed machine learning approach combined with particle swarm optimization to classify 34 Bi-Pt nanoclusters, achieving 87% accuracy. Utilizing DFT data and techniques like PCA and K-means clustering, the study explores structural motifs, cohesive energy trends, and vibrational properties, contributing to an automated method for analyzing bimetallic nanoclusters' stability and functionality.  
+
+- [Enabling in-silico Hit Discovery Workflows Targeting RNA with Small Molecules](https://dx.doi.org/10.26434/chemrxiv-2025-3f4g4?rft_dat=source%3Ddrss)  
+Yuqi, Zhang; Nikita, Chopra; Ara, Abramyan; Zeineb, Si Chaib; Wei, Chen; Yeyue, Xiong; David, Rinaldo; Steven, Jerome; Anna, Bochicchio  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The study enhances in-silico hit discovery for RNA-targeted drug design using the Schrödinger Suite. It improves RNA binding site prediction accuracy to 65.3% using an enhanced SiteMap on the HARIBOSS dataset and achieves a 73.7% accuracy in pose prediction with revamped Glide. The absolute binding free energy perturbation method shows a 1.10 kcal/mol RMSE for 5 RNA-ligand systems, highlighting the potential for RNA-target drug discovery.  
+
+- [Strong field quantum control of bimolecular reactions](https://dx.doi.org/10.26434/chemrxiv-2025-stbjv-v2?rft_dat=source%3Ddrss)  
+Jyotirmoy, Ray; Tamar , Seideman  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-18  
+&ensp;The paper presents a quantum control strategy for polyatomic bimolecular reactions using moderate-intensity laser fields, addressing challenges from complex dynamics and thermal averaging. By manipulating spatially nonuniform Stark shifts via a polarized field, the researchers enhance reaction rates in the CH + N2 system, supported by quantum mechanical theory and ab-initio calculations. Results suggest new control opportunities in bimolecular reactions.
+
 ## 18 Apr 2025  
 
 - [WatCon: A Python Tool for Analysis of Conserved Water Networks Across Protein Families](https://dx.doi.org/10.26434/chemrxiv-2025-8526g?rft_dat=source%3Ddrss)  
