@@ -12,6 +12,24 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 22 Apr 2025  
+
+- [AI0Driven Integrative Design of ADAMTS Partial Agonists within a Multi0Hallmark Therapeutic Framework for Neurodegenerative Disorders](https://dx.doi.org/10.26434/chemrxiv-2025-4n2nb-v4?rft_dat=source%3Ddrss)  
+David , Ferguson, RSci MRSB MRSC  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-21  
+&ensp;The paper presents an AI-driven framework for designing ADAMTS partial agonists targeting neurodegenerative disorders. It utilizes large language models, AlphaFold2 structures, and MolGPT for retrosynthesis and candidate optimization. The approach evaluates compounds based on in silico metrics like binding energy and solvation profile, aiming to restore ECM integrity and mitigate neuroinflammation in diseases such as Alzheimer0s and Parkinson0s.  
+- [Choline-Geranate (CAGE) Ionic Liquids Potentiate The Anticancer Activity Of Platinum-Based Drugs](https://dx.doi.org/10.26434/chemrxiv-2025-xl55b?rft_dat=source%3Ddrss)  
+Luca, Salassa; Marta, Costa Verdugo; Giulia , Sierri; Laura , Hernandez-Fernandez; Elena , Formoso; Jos0 I. , Miranda; Francesco Saverio , Sica; Alba , Gonz0lez; Elixabete,  Rezabal; Francesca , Re  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-21  
+&ensp;The paper investigates the effect of choline-geranate ionic liquids (CAGE ILs) on platinum-based anticancer drugs. Hydro-solubility increased, with notable stability in one Pt(IV) complex. In U87 glioblastoma cells, CAGE ILs enhanced cytotoxicity, particularly for one complex, which significantly decreased cell viability. Methods included NMR analysis and cell viability assays.  
+- [Finding the Dark Matter: Large Language Model-based Enzyme Kinetic Data Extractor and Its Validation](https://dx.doi.org/10.26434/chemrxiv-2025-pb73x?rft_dat=source%3Ddrss)  
+Xinchun, Ran; Galen, Wei; Runeem, Al-Abssi; Zhongyue, Yang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-21  
+&ensp;The paper presents EnzyExtract, a large language model-based pipeline that automates the extraction of enzyme kinetic data from 137,892 publications, resulting in 218,810 structured entries. This effort significantly expands enzymology datasets, yielding 94,576 unique entries missing from BRENDA. The curated data enhances predictive modeling, as evidenced by improved performance of kcat predictors.
+
 ## 19 Apr 2025  
 
 - [Finding Drug Candidate Hits With a Hundred Samples: Ultra-low Data Screening With Active Learning](https://dx.doi.org/10.26434/chemrxiv-2025-jlml5?rft_dat=source%3Ddrss)  
