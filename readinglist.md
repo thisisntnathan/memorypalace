@@ -12,6 +12,45 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 23 Apr 2025  
+
+- [Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-zsk6d?rft_dat=source%3Ddrss)  
+Michael Backenküehler, Joschka Groß, Andrea Volkamer  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-22  
+&ensp;The paper discusses a novel approach to machine learning in drug discovery, emphasizing evaluation aligned with real experimental contexts. It leverages data from ChEMBL, proposing a method that splits data by entire assays and focuses on intra-assay ranking. Results show improved performance of ranking models compared to traditional methods, especially with minimally curated data.  
+
+- [Activity-Based Chemoproteomic Profiling Reveals the Active Kinome of Leishmania](https://dx.doi.org/10.26434/chemrxiv-2025-zg4jj?rft_dat=source%3Ddrss)  
+Exequiel O. J. Porta, Karunakaran Kalesh, Patrick G. Steel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-22  
+&ensp;The paper explores the active kinome of Leishmania mexicana using activity-based protein profiling (ABPP) with custom ATP-directed probes. The study identifies 48 active kinases across major families, including 9 essential protein kinases with no human orthologs. The findings suggest these kinases as promising drug targets, paving the way for next-generation therapies against leishmaniasis.  
+
+- [CACHE: Utilizing Ultra-Large Library Screening in Rosetta to Identify Novel Binders of the WD-Repeat Domain of Leucine-Rich Repeat Kinase 2](https://dx.doi.org/10.26434/chemrxiv-2025-7v2ts?rft_dat=source%3Ddrss)  
+Fabian Liessmann, Paul Eisenhuth, Alexander Fürll, Oanh Vu, Rocco Moretti, Jens Meiler  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-22  
+&ensp;The study presents a novel pipeline for identifying ligands targeting LRRK2's WDR40 domain, crucial for Parkinson's research, using an ultra-large library screening (ULLS) with RosettaEvolutionaryLigand (REvoLd). The method yielded five potential binders, emphasizing the approach's efficiency despite limitations noted in the scoring function. Key datasets included the Enamine REAL space library.  
+
+- [Chemistry of Scorpion Venom and its Medicinal Potential](https://dx.doi.org/10.26434/chemrxiv-2024-32wws-v2?rft_dat=source%3Ddrss)  
+Shreerang Joshi, Khetal Surana, Shashwat Singh, Aditya Lade, Nitin Arote  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-22  
+&ensp;The paper reviews scorpion venom's chemical composition, categorizing toxins into groups such as α-toxins and KTxs, and discusses their pharmacological effects and potential therapeutic applications in cancer treatment and antimicrobial therapies. It highlights challenges like toxicity and non-selectivity, emphasizing the need for further research to maximize its medicinal potential.  
+
+- [Investigation of Effective Molecular Dynamics-derived Properties on Drug Solubility via Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-dvrzs?rft_dat=source%3Ddrss)  
+Zeinab Sodaei, Saeid Ekrami, Seyed Majid Hashemianzadeh  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-22  
+&ensp;The paper explores the use of machine learning to analyze the impact of ten molecular dynamics (MD)-derived properties and LogP on drug solubility. Utilizing a dataset of 199 drugs, the study identifies seven key properties influencing solubility. The Gradient Boosting algorithm achieved an R² of 0.87 and RMSE of 0.537, showcasing the integration of MD simulations and machine learning in enhancing solubility predictions.  
+
+- [COARSE-GRAINED MOLECULAR DYNAMICS SIMULATIONS OF SOFT MATTER RELEVANT TO THE PHARMACEUTICAL INDUSTRY](https://dx.doi.org/10.26434/chemrxiv-2025-j2nbj?rft_dat=source%3Ddrss)  
+Meenakshi Dutt, Rishabh K. Singh, Yiwei Shao, Het Patel, Mason Hooten  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-22  
+&ensp;The paper discusses coarse-grained molecular dynamics simulations of soft materials relevant to the pharmaceutical industry, highlighting their role in formulation and drug delivery. It emphasizes using CG models alongside MD simulations to explore various soft matter applications and provides examples of simulations for different molecular chemistries.  
+
+
 ## 22 Apr 2025  
 
 - [AI0Driven Integrative Design of ADAMTS Partial Agonists within a Multi0Hallmark Therapeutic Framework for Neurodegenerative Disorders](https://dx.doi.org/10.26434/chemrxiv-2025-4n2nb-v4?rft_dat=source%3Ddrss)  
