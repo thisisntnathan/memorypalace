@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 24 Apr 2025  
+
+- [Single-Pot Mechanochemically-Enabled Fluorine Atom Closed- Loop Economy Using PFASs as Fluorinating Agents](https://dx.doi.org/10.26434/chemrxiv-2025-02hh7?rft_dat=source%3Ddrss)  
+Georgina, Kirby; Hao, Long; Lutz, Ackermann  
+*Organic Chemistry on ChemRxiv*  
+2025-04-23  
+&ensp;The paper presents a sustainable, single-pot mechanochemical method for defluorinating PFASs, allowing efficient fluorine transfer to organic molecules. The approach requires minimal solvent filtration, making it user-friendly and scalable. It can also degrade everyday fluoroplastics, addressing environmental concerns associated with 'forever chemicals.'  
+
+- [Small Molecule Activation by Metallylenes and Their Follow-up Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-9qhmg-v2?rft_dat=source%3Ddrss)  
+Trevor, Hamlin; Eveline, Tiekink; Matthijs , Kragtwijk  
+*Organic Chemistry on ChemRxiv*  
+2025-04-23  
+&ensp;The paper reviews the role of metallylenes, heavy analogs of carbenes, in activating small molecules for sustainable chemistry. It discusses their mechanisms, the impact of ligand design, and recent computational and experimental advances. It also covers follow-up reactions like hydrogenation and hydroboration, highlighting metallylenes' catalytic potential and versatility in chemical transformations.  
+
+- [Compounds reducing human sperm motility as potential non hormonal contraceptives identified using a high-throughput phenotypic screening platform](https://dx.doi.org/10.26434/chemrxiv-2025-gp9k9?rft_dat=source%3Ddrss)  
+Anthony, Richardson; Franz, Gruber; David, Day; Irene, Georgiou; Zoe, Johnston; Sarah, Martins da Silva; Rachel, Myles; Neil, Norcross; Halimatu, Joji; Darren, Edwards; Kevin, Read; Jason, Swedlow; Caroline, Wilson; Christopher, Barratt; Ian, Gilbert  
+*Organic Chemistry on ChemRxiv*  
+2025-04-23  
+&ensp;The paper explores the identification of potential non-hormonal contraceptive compounds that reduce human sperm motility through a high-throughput phenotypic screening of 88,773 compounds from nine libraries. Using an automated robotic platform, researchers identified nine chemical series with selective sperm motility reduction and minimal cytotoxicity to HepG2 cells, indicating their potential for further contraceptive research.  
+
+- [Generality-driven optimization of enantio- and regioselective catalysis by high-throughput experimentation and machine learning](https://dx.doi.org/10.26434/chemrxiv-2025-n3gff?rft_dat=source%3Ddrss)  
+Do Hyun, Ryu; Hyunwoo, Kim; Joonsuk, Huh; Terim, Seo; Donghun, Kim; Shinwon, Ham; You Kyoung, Chung; Inho, Jeong  
+*Organic Chemistry on ChemRxiv*  
+2025-04-23  
+&ensp;This paper presents a high-throughput experimentation and machine learning approach for optimizing enantio- and regioselective catalysis of unsymmetrical 1,2-dicarbonyl compounds. The method combines quantitative 1H and 19F NMR to screen 31 chiral oxazaborolidinium ion variants, yielding chiral alpha-silyloxy ketones with >99% yield and selectivity. The ARMS system enhances data efficiency for catalyst screening and enables new substrate exploration.  
+
+- [AI-Driven Antimicrobial Peptide Discovery: Mining and Generation](https://dx.doi.org/10.26434/chemrxiv-2025-93wkh?rft_dat=source%3Ddrss)  
+Paulina, Szymczak; Wojciech, Zarzecki; Jiejing, Wang; Yiqian, Duan; Jun, Wang; Luis Pedro , Coelho; Cesar , de la Fuente-Nunez; Ewa, Szczurek  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-23  
+&ensp;The paper discusses the role of AI in discovering antimicrobial peptides (AMPs) to combat antimicrobial resistance (AMR). It highlights strategies of AMP mining and generation for identifying and creating novel peptides with optimal properties. The integration of diverse data sources and advanced algorithms has led to successful identification and validation of promising candidates, showcasing AI's transformative potential in drug discovery.  
+
+- [One To Rule Them All: A Universal Interatomic Potential Learning Across Quantum Chemical Levels](https://dx.doi.org/10.26434/chemrxiv-2024-ng3ws-v2?rft_dat=source%3Ddrss)  
+Pavlo O., Dral; Yuxinxin, Chen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-23  
+&ensp;The paper presents OMNI-P1, a universal interatomic potential that learns across multiple quantum chemical levels, overcoming challenges associated with heterogeneous datasets. OMNI-P1 achieves comparable performance to GFN2-xTB and DFT methods while being significantly faster. Additionally, the delta-learning model OMNI-P1d offers superior accuracy by providing corrections to lower-level predictions.
+
 ## 23 Apr 2025  
 
 - [Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-zsk6d?rft_dat=source%3Ddrss)  
