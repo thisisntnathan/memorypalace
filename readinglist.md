@@ -12,6 +12,80 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 25 Apr 2025  
+
+- [Visualizing biomolecules within living microglia in complex environments using a clickable small fluorogenic compound](https://dx.doi.org/10.26434/chemrxiv-2024-kq3lz-v2?rft_dat=source%3Ddrss)  
+Wonju Kim, Beomsue Kim, Young-Tae Chang, Yeongran Hwang, Xiao Liu, Minkyo Jung, Ji-Young Mun, Srikanta Sahu  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper presents the development of the fluorescent probe CDr20-CO1 for visualizing biomolecules in live microglia. It reveals that microglia in mixed cultures showed reduced responses to neuroinflammatory stimuli, highlighting the importance of their environment. The probe also functions in live mouse embryos, enhancing the potential for in vivo studies of microglial dynamics in neurodegenerative diseases.  
+
+- [Characterizing RNA Tetramer Conformational Landscape Using Explainable Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-xhhvb?rft_dat=source%3Ddrss)  
+Dhiman Ray, Sompriya Chatterjee  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper presents a simulation framework combining explainable AI with the OPES algorithm to sample RNA tetramer conformational landscapes. It captures states like stacked and intercalated structures efficiently with reduced computational effort. The model identifies key torsion angles affecting transitions, facilitating improvements in nucleic acid force fields. Results highlight the method's effectiveness in uncovering metastable states in RNA simulations.  
+
+- [Advancing Density Functional Tight-Binding method for Large Organic Molecules through Equivariant Neural Networks](https://dx.doi.org/10.26434/chemrxiv-2025-z3mhh?rft_dat=source%3Ddrss)  
+Leonardo Rafael Medrano Sandonas, Mirela Puleva, Ricardo Parra Payano, Martin Stöhr, Gianaurelio Cuniberti, Alexandre Tkatchenko  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper introduces the EquiDTB framework, utilizing equivariant neural networks to enhance the density functional tight-binding (DFTB) method for larger organic molecules. It replaces standard pairwise potentials, improving accuracy for non-covalent systems and expanding applications to larger molecules. The method shows superior performance in calculating atomic forces and interaction energies compared to standard TB methods, demonstrating DFT-PBE0 level accuracy efficiently.  
+
+- [Deep Learning Methods for 2D Material Electronic Structures](https://dx.doi.org/10.26434/chemrxiv-2025-xz82x?rft_dat=source%3Ddrss)  
+Artem Mishchenko, Anupam Bhattacharya, Xiangwen Wang, Henry Pentz, Yihao Wei, Qian Yang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper reviews the application of deep learning techniques in predicting electronic structures of 2D materials, addressing challenges related to these materials. It highlights methods like physics-aware models and generative AI, which enhance predictions of electronic properties. Case studies demonstrate accelerated discoveries in quantum phenomena, with a call for improved data standardization and integrated frameworks.  
+
+- [Enhancing deep chemical reaction prediction with advanced chirality and fragment representation](https://dx.doi.org/10.26434/chemrxiv-2025-jl6l9?rft_dat=source%3Ddrss)  
+FABRIZIO MASTROLORITO, Fulvio Ciriaco, Orazio Nicolotti, Francesca Grisoni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper introduces fragSMILES, a fragment-based chemical representation that enhances deep learning for reaction prediction. It outperformed established methods (SMILES, SELFIES, SAFE) in both forward and retro-synthesis, particularly in recognizing stereochemical information. The findings show that incorporating chirality and fragment representation significantly improves synthesis planning capabilities.  
+
+- [Data-driven discovery of chemical reaction mechanisms from limited concentration profiles](https://dx.doi.org/10.26434/chemrxiv-2025-2cw0z?rft_dat=source%3Ddrss)  
+Shun Hayashi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper presents a method for discovering chemical reaction mechanisms using sparse identification with limited concentration profiles. This approach, which avoids overfitting, was validated in the autocatalytic reduction of manganese oxide ions, revealing 11 elementary steps involving 8 species. The method's capability for automated discovery without heuristic models suggests broader applications in scientific research with limited data.  
+
+- [Condensed phase properties and transferable neural network potentials](https://dx.doi.org/10.26434/chemrxiv-2025-wvgg0?rft_dat=source%3Ddrss)  
+Stefan Boresch, Anna Katharina Picha, Marcus Wieder  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper evaluates the performance of two transferable neural network potentials (ANI-2x, MACE-OFF23-(S/M)) in predicting condensed phase properties such as density and heat capacity for several pure liquids (e.g., water, benzene). Results indicate current models have weaknesses affecting their accuracy in this context, highlighting the need for incorporating condensed phase property validation in NNP training.  
+
+- [QC-Augmented GNNs for Few-Shot Prediction of Amorphous Polymer Properties via Multi-Scale Microstructures](https://dx.doi.org/10.26434/chemrxiv-2025-nt0jx-v2?rft_dat=source%3Ddrss)  
+Yiwen Zhang, Zihao YE, Dejun HU, Shutao QI, Zuobang SUN, Junfeng YANG, Yan MA, Yi ZHANG, Junliang ZHANG, Zhiming LI  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper presents Locluster, a novel model that utilizes "local clusters" derived from quantum chemistry to predict properties of amorphous polymers. It integrates these descriptors with graph convolutional networks, requiring only 2-5 descriptors and about 20 training samples. Results show Locluster achieves comparable accuracy to larger datasets, addressing data scarcity in polymer informatics for properties like density and glass transition temperature.  
+
+- [Bioinspired Design Rules for Flipping across the Lipid Bilayer from Systematic Simulations of Membrane Protein Segments](https://dx.doi.org/10.26434/chemrxiv-2025-3r3n8?v=1&rft_dat=source%3Ddrss)  
+Reid Van Lehn, ByungUk Park  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper investigates the flipping behavior of the membrane protein EmrE using molecular dynamics simulations. Key findings show that a charged glutamate residue significantly lowers the energetic barrier for flipping. The study establishes design principles for synthetic materials, suggesting that marginally hydrophobic helices and modulating protonation states can enhance flipping, relevant for drug delivery and protein design.  
+
+- [Towards a Theoretical Understanding of Excitonic Properties of Pthalocyanine Thin Films I Low-Temperature Exciton Absorption Spectra](https://dx.doi.org/10.26434/chemrxiv-2025-xczd9-v2?rft_dat=source%3Ddrss)  
+Yihan Shao, Sanghita Sengupta, Zheng Pei, Chance Lander, Yu Zhang, Madalina Furis, Carly Wickizer, Yu Homma, Pengfei Huo, Hadi Afashari, Sergei Tretiak, Lloyd Bumm  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper investigates the excitonic properties of phthalocyanine thin films, modeling low-temperature absorption spectra using the Frenkel Hamiltonian. It highlights the effects of dimensionality and coupling distances on exciton behavior, particularly for octabutoxy phthalocyanine. Results indicate that accurate modeling requires considering 2D or 3D configurations and various exciton couplings, warning against overestimation from dipole-dipole approximations.  
+
+- [Enabling in-silico Hit Discovery Workflows Targeting RNA with Small Molecules](https://dx.doi.org/10.26434/chemrxiv-2025-3f4g4-v2?rft_dat=source%3Ddrss)  
+Yuqi Zhang, Nikita Chopra, Ara Abramyan, Zeineb Si Chaib, Wei Chen, Yeyue Xiong, David Rinaldo, Steven Jerome, Anna Bochicchio  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper discusses advancements in computational tools for RNA-small molecule interaction modeling within the Schrödinger Suite. Enhanced SiteMap improved binding site prediction accuracy to 65.3% on the HARIBOSS dataset, while Glide achieved 73.7% pose prediction accuracy. Additionally, absolute binding free energy perturbation showed a good correlation with experimental affinities (RMSE of 1.10 kcal/mol). Further refinements are needed for targeting RNA.  
+
+- [Electron Density Transport During Chemical Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-7xpv7?rft_dat=source%3Ddrss)  
+Jackson Elowitt, Aurora Clark, Nathan May, Yihui Wei, Biswajit Sadhu, Enrique Alvarado, Bala Krishnamoorthy  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-24  
+&ensp;The paper investigates electron density transport during reactions using Optimal Transport (OT) and Multiresolution Dynamic Mode Decomposition (MrDMD). It applies these methods to the Bergman cyclization reaction, demonstrating OT's chemical insight and MrDMD's effective reconstruction of density evolution. The study highlights datasets and processes useful for high-throughput analysis in complex environments.
+
 ## 24 Apr 2025  
 
 - [Single-Pot Mechanochemically-Enabled Fluorine Atom Closed- Loop Economy Using PFASs as Fluorinating Agents](https://dx.doi.org/10.26434/chemrxiv-2025-02hh7?rft_dat=source%3Ddrss)  
