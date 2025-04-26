@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 26 Apr 2025  
+
+- [Improving ADME Prediction with Multitask Graph Neural Networks and Assessing Explainability in Lead Optimization](https://dx.doi.org/10.26434/chemrxiv-2025-ls77r?rft_dat=source%3Ddrss)  
+Takuto Koyama, Shoma Ito, Shigeyuki Matsumoto, Ryosuke Kojima, Yuji Okamoto, Masataka Kuroda, Hitoshi Kawashima, Reiko Watanabe, Tomoki Yonezawa, Takaaki Sumiyoshi, Kazuyoshi Ikeda, Kenji Mizuguchi, Hiroaki Iwata, Yasushi Okuno  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper presents an AI model using multitask graph neural networks for predicting ten ADME parameters, addressing challenges in traditional methods. It utilizes fine-tuning and integrated gradients to assess feature contributions from a dataset of compounds. The model outperformed conventional methods for seven parameters and provided interpretable explanations aligned with chemical insights, enhancing drug development efficiency.  
+
+- [Bayesian Illumination: Inference and Quality-Diversity Accelerate Generative Molecular Models](https://dx.doi.org/10.26434/chemrxiv-2024-tqf0x-v4?rft_dat=source%3Ddrss)  
+Jonas Verhellen  
+*Organic Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper presents "Bayesian Illumination," a new generative model that combines Bayesian optimization with quality-diversity archives to enhance molecule generation. It outperforms traditional genetic algorithms and deep learning methods in diversity and search efficiency. The study builds on previous work and utilizes bespoke kernels for small molecules.  
+
+- [Explaining Blood-Brain Barrier Permeability by Synergistic Effect on Molecular Substructures](https://dx.doi.org/10.26434/chemrxiv-2025-0l2hx?rft_dat=source%3Ddrss)  
+Hyun Woo Kim, Hyeok Jae Lee, Ikhyeong Jun  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper presents an interpretable machine learning algorithm to explain blood-brain barrier permeability (BBBP) through the synergistic effects of molecular substructures. By conducting relative importance analysis, the study identifies groups of substructures that influence BBBP positively or negatively, aiding in the design of drug candidates. The approach offers both interpretability and predictive capabilities for drug development.  
+
+- [Fractionation of Lignin with Aqueous Organic Solvents: A Step Closer to Sustainable Wood Biorefinery](https://dx.doi.org/10.26434/chemrxiv-2025-pn17c?rft_dat=source%3Ddrss)  
+Henry Vider, Kait Kaarel Puss, Nikolai Treiberg, Siim Salmar, Mart Loog  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper discusses a method for purifying and fractionating hydrolysis lignin (HL) from birch using aqueous organic solvents, specifically water-ethanol (EtOH) and water-tetrahydrofuran (THF) mixtures. The highest lignin solubility (81 wt%) was achieved with a 70 wt% THF mixture, resulting in a 95 wt% purity with water-washing. The study also includes molecular dynamics simulations to explain solvation effects, improving HL valorisation opportunities.  
+
+- [Capturing Excited State Proton Transfer Dynamics with Reactive Machine Learning Potentials](https://dx.doi.org/10.26434/chemrxiv-2025-vcbcz?rft_dat=source%3Ddrss)  
+Umberto Raucci  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper explores excited state proton transfer using machine learning-driven molecular dynamics simulations. An active learning framework with enhanced sampling constructs a training set for excited state potentials. Applying this to 10-hydroxybenzo[h]quinoline, it finds barrierless transfer in ~50 fs and a 1 eV emission energy red shift, illustrating the method's efficiency over ab initio approaches.  
+
+- [Metallaaromaticity Reimagined: Metallaaromatic Cobalt Macrocycles Through Metal-Ligand Coordination Chemistry](https://dx.doi.org/10.26434/chemrxiv-2025-pg6sw?rft_dat=source%3Ddrss)  
+Renana Gershoni-Poranne, Sakthi Raje, Katarzyna Młodzikowska-Pieńko, Amnon Stanger, Graham de Ruiter  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper discusses the synthesis of metallaaromatic cobalt macrocycles using a new carbene analog of the PyBOX ligand named CarBOX. The synthesis leads to complexes exhibiting strong diatropic currents, supported by 1H NMR shifts and DFT analysis. These findings provide a novel approach to metallaaromaticity in coordination chemistry, enhancing the design of electronic materials.  
+
+- [From short-sighted to far-sighted: A comparative study of recursive machine learning approaches for open quantum systems](https://dx.doi.org/10.26434/chemrxiv-2025-1rlxr-v2?rft_dat=source%3Ddrss)  
+Arif Ullah  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper compares four physics-informed neural network architectures for modeling open quantum systems: SR-PINN, PSR-PINN, MR-PINN, and PMR-PINN. Using the spin-boson model and Fenna-Matthews-Olson complex, results show that multi-RDM models outperform single-RDM models in accuracy and stability for long-term predictions, while the inclusion of extra simulation parameters does not consistently enhance performance.  
+
+- [KGG: Knowledge-Guided Graph Self-Supervised Learning to Enhance Molecular Property Predictions](https://dx.doi.org/10.26434/chemrxiv-2025-0c3rz?rft_dat=source%3Ddrss)  
+Tuyen Truong, Tieu-Long Phan, Van-Thinh To, Phuoc-Chung Van-Nguyen, Gia-Bao Truong, Tuyet-Minh Phan, Rolf Fagerberg, Peter Stadler  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper introduces the Knowledge-Guided Graph (KGG) framework for molecular property prediction, addressing data scarcity and inadequate feature representation. It employs self-supervised learning with orbital-level features, utilizing approximately 250,000 molecules from the ZINC15 dataset. Results show significant improvements over state-of-the-art methods, validated through extensive evaluations and complementary analyses.  
+
+- [Physics-Informed Machine Learning Enables Rapid Macroscopic pKa Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-t8s9z?rft_dat=source%3Ddrss)  
+Corin Wagen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper introduces Starling, a physics-informed neural network for predicting macroscopic pKa values using the Uni-pKa architecture. It resolves protonation and tautomeric microstates, outperforming commercial tools on benchmark datasets. Starling supports accurate predictions of isoelectric points and drug properties, offering rapid microstate ensemble generation while maintaining thermodynamic consistency.  
+
+- [Quantum QSAR for drug discovery](https://dx.doi.org/10.26434/chemrxiv-2025-l2t8v?rft_dat=source%3Ddrss)  
+Mariano Caruso, Alejandro Giraldo, Daniel Ruiz, Guido Bellomo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-25  
+&ensp;The paper proposes using Quantum Support Vector Machines (QSVMs) to enhance Quantitative Structure-Activity Relationship (QSAR) modeling in drug discovery. This method addresses classical QSAR limitations in high-dimensional data and complex molecular interactions by utilizing quantum data encoding and kernel functions for improved predictive accuracy and efficiency.
+
 ## 25 Apr 2025  
 
 - [Visualizing biomolecules within living microglia in complex environments using a clickable small fluorogenic compound](https://dx.doi.org/10.26434/chemrxiv-2024-kq3lz-v2?rft_dat=source%3Ddrss)  
