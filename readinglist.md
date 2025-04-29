@@ -12,6 +12,62 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 29 Apr 2025  
+
+- [Evaluation Beyond Goodness of Fit: Biophysical Alignment of AI Models for Kinase-Centric Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-qsw7v?rft_dat=source%3Ddrss)  
+Joschka Groß, Michael Backenköhler, Andrea Volkamer, Paula Linh Kramer, Verena Wolf  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;This paper evaluates ML models for predicting kinase binding affinity, emphasizing the need for explainability beyond mere predictive accuracy. It highlights the use of three-dimensional structural data, showing that models incorporating this information achieve better alignment with known biophysical mechanisms.
+
+- [Generative deep learning pipeline yields potent Gram-negative antibiotics](https://dx.doi.org/10.26434/chemrxiv-2025-s418c?rft_dat=source%3Ddrss)  
+Maximilian G. Schuh, Martin F. Köllen, Robin Kretschmer, Junhong Chen, Annkathrin I. Bohne, Dominik P. Halter, Stephan A. Sieber  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;The paper presents a deep learning pipeline for discovering novel Gram-negative antibiotics, trained on diverse chemical datasets. The method generated structurally unique candidates, with a lead compound D8 showing potent activity against methicillin-resistant Staphylococcus aureus and Escherichia coli.
+
+- [Direct N–SF5 and N–SF4CF3 Bond Formation through Strain-Release Functionalization of 3-Substituted [110]Azabicyclobutanes](https://dx.doi.org/10.26434/chemrxiv-2025-68s1q?rft_dat=source%3Ddrss)  
+Cody Ross Pitts, Yannick Kraemer, Soojun Park, Wang-Yeuk Kong, Yongxin Chen, Anthony J. Witt, Jón Atiba Buldt, Abbey N. Ragan, Lauren M. Holder, Dean J. Tantillo  
+*Organic Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;This paper presents a method for direct N–SF5 and N–SF4CF3 bond formation using 3-aryl [1.1.0]azabicyclobutanes and SF5Cl or CF3SF4Cl. The resulting azetidines exhibit chemical stability and undergo various synthetic modifications. DFT calculations support the proposed mechanisms.
+
+- [Strain-Release-Driven Synthesis of Pentafluorosulfanylated Four-Membered Rings under Energy Transfer Photocatalysis](https://dx.doi.org/10.26434/chemrxiv-2025-6z4c6?rft_dat=source%3Ddrss)  
+Anis Tlili, Lulu Han, Yi Yang, lOUIS CANAVERO, LIZA BRETTNACHER, Lhoussain Khrouz, Cyrille Monnereau, MAURICE MEDEBIELLE  
+*Organic Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;The paper discusses a method for synthesizing SF5-containing four-membered rings using a shelf-stable reagent, imine-SF5, via energy-transfer photocatalysis. This strain-release approach allows for selective reactions under mild conditions and provides insights into the reaction mechanism.
+
+- [Advanced Synthetic Strategies toward Ginkgolide Diterpenoids: Total Synthesis of (±)-Ginkgolide C and Formal Syntheses of (±)-Ginkgolides A and B](https://dx.doi.org/10.26434/chemrxiv-2025-ppm63?rft_dat=source%3Ddrss)  
+Louis Barriault, Martin Hébert, Gabriel Bellavance  
+*Organic Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;The paper details the total synthesis of ginkgolide C and formal syntheses of ginkgolides A and B, utilizing a 26-step process. Key methods include diastereoselective carbon–carbon bond formations and selective oxidations.
+
+- [Enhanced Reactivity at the Oil-Water Interface Accelerates the Synthesis of Zymonic Acid in Microemulsions](https://dx.doi.org/10.26434/chemrxiv-2025-24l9d?rft_dat=source%3Ddrss)  
+Kevin Wilson, Brandon Wallace, Musarrat Makhnun, Rana Bachnak, Pyeongeun Kim, Musahid Ahmed, Cari Dutcher, Ashok Ajoy  
+*Organic Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;The paper investigates the accelerated synthesis of zymonic acid (ZA) from pyruvic acid (PA) at the oil-water interface using microfluidics and Raman spectroscopy. Results show that the rate coefficient at this interface is 1.8 x 10^-2 M^-1 s^-1, which is significantly faster than bulk solutions.
+
+- [Room-Temperature Phosphorescence Vapochromism Through Conformational Control](https://dx.doi.org/10.26434/chemrxiv-2025-t8ggf?rft_dat=source%3Ddrss)  
+Andrea Fermi, Sapna Gahlot, Eric Jorand, Simone d'Agostino, Yasi Dai, Fabrizia Negri, Corinne Moustrou, Marc Gingras, Paola Ceroni  
+*Organic Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;The paper demonstrates reversible room-temperature phosphorescence switching in a persulfurated benzene due to conformational changes from solvent inclusion. Quantum-chemical calculations indicate emission from differing triplet states, providing insights for designing luminescent sensors.
+
+- [Bile Acids-Amino Acids Conjugates and Bile Acids Amino Derivatives as Organocatalysts for Direct Asymmetric Aldol Reactions in Aqueous Media](https://dx.doi.org/10.26434/chemrxiv-2025-jtnt4-v2?rft_dat=source%3Ddrss)  
+Venanzio Raglione, Federica Palmeri, Fabrizio Vetica, Andrea D'Annibale  
+*Organic Chemistry on ChemRxiv*  
+2025-04-28  
+&ensp;The paper reports the synthesis and use of bile acids-amino acids conjugates and derivatives as organocatalysts for asymmetric aldol reactions in water, achieving up to 99% yields and promoting environmental sustainability.
+
+- [Quantum QSAR for drug discovery](https://dx.doi.org/10.26434/chemrxiv-2025-l2t8v-v2?rft_dat=source%3Ddrss)  
+Mariano Caruso, Alejandro Giraldo, Daniel Ruiz, Guido Bellomo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper proposes enhancing Quantitative Structure-Activity Relationship (QSAR) modeling for drug discovery by utilizing Quantum Support Vector Machines (QSVMs) to address limitations in high-dimensional data handling and complex molecular interactions.
+
 ## 26 Apr 2025  
 
 - [Improving ADME Prediction with Multitask Graph Neural Networks and Assessing Explainability in Lead Optimization](https://dx.doi.org/10.26434/chemrxiv-2025-ls77r?rft_dat=source%3Ddrss)  
