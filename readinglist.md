@@ -12,6 +12,98 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 30 Apr 2025  
+
+- [Penicillium Brefeldianum: Insights into its Secondary Metabolites, Pharmacological Active Compounds and Biotechnological Potential](https://dx.doi.org/10.26434/chemrxiv-2025-2c82d?rft_dat=source%3Ddrss)  
+Waqas, Haider; Sobia, Chashman; Waqas, Niaz; Yasothamani, Vellingiri; Muhammad, Fayaz; Muhammad, Rafiq; Muhammad, Rizwan; Hailin, Cong; Bing, Yu; Wei, Pan; Mengyuan, Xu  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper reviews the secondary metabolites of Penicillium brefeldianum, highlighting 90 compounds including alkaloids and polyketides with notable pharmacological activities like anticancer and antimicrobial effects. It analyzes literature from 1963-2024 using databases like Google Scholar. The fungus also shows biotechnological potential through enzyme production. The review calls for further research on its genetic and cultivation factors.  
+
+- [CH-pi Interactions Confer Orientational Flexibility in Protein-Carbohydrate Binding Sites](https://dx.doi.org/10.26434/chemrxiv-2025-5n9m1-v2?rft_dat=source%3Ddrss)  
+Allison M., Keys; David W., Kastner; Heather J., Kulik; Laura L., Kiessling  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper investigates CH-pi stacking interactions in protein-carbohydrate binding, highlighting their role in orientational flexibility. Using well-tempered metadynamics simulations on protein-b-D-galactoside complexes, results indicate that hydrogen bond locations influence CH-pi orientations. Extended ligands lead to specific orientations, while fewer hydrogen bonds yield broader landscapes, supporting enzymatic dynamics. This cooperative interaction can impact ligand recognition and movement.  
+
+- [Enhanced Flow Battery Electrolyte Solubility and Stability via Synergistic Anthraquinone Interactions](https://dx.doi.org/10.26434/chemrxiv-2025-k697f?rft_dat=source%3Ddrss)  
+Marc-Antoni, Goulet; Meysam, Maleki  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper reveals that combining Alizarin and Alizarin Red S enhances their solubility in aqueous organic redox flow batteries by 40%, achieving 0.7 M. This mixture also reduces the capacity fade rate by 40% compared to predictions. An extended mixture with 2,6-DHAQ reached a total concentration of 1 M, showcasing the benefits of molecular synergy for stability and energy density.  
+
+- [Homoleptic Copper(I)-bisphosphine complexes as photoredox catalysts](https://dx.doi.org/10.26434/chemrxiv-2025-0vzm5?rft_dat=source%3Ddrss)  
+Dennis Chung-Yang, Huang; Priya, Saha; Ryunosuke, Tomita; Takao, Tsuneda; Tetsuya, Taketsugu; Mingoo, Jin  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper explores homoleptic copper(I)-bisphosphine complexes as new photoredox catalysts. It details the preparation and investigation of their absorption, emission, and electrochemical properties, demonstrating their photocatalytic activity in coupling reactions. No specific datasets or methods are mentioned in the provided text.  
+
+- [Iridium(III)-Catalyzed Ionic Hydrogenation of Pyridines to Multi-Substituted Piperidines](https://dx.doi.org/10.26434/chemrxiv-2025-78q6b?rft_dat=source%3Ddrss)  
+Nicolai, Cramer; Arthur, Despois  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper presents an iridium(III)-catalyzed ionic hydrogenation method for converting pyridines to functionalized piperidines, overcoming challenges related to catalyst stability. This approach allows for high yields, low catalyst loadings, and broad substrate compatibility, including sensitive groups. Successfully applied in late-stage synthesis of FDA-approved drugs, it offers significant potential for expanding chemical space in pharmaceutical development.  
+
+- [Solvation free energies of anions: from curated reference data to predictive models](https://dx.doi.org/10.26434/chemrxiv-2025-8bj2t-v3?rft_dat=source%3Ddrss)  
+Jonathan, Zheng; Thomas, Nevolianis; Simon, Müller; Matthias, Baumann; Sofja, Tshepelevitsh; Ivari, Kaljurand; Ivo, Leito; Irina, Smirnova; William, Green; Kai, Leonhard  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper presents three databases and predictive models for solvation free energies of anions, including 8,241 pKa data points, 5,536 gas-phase acidities, and 6,090 solvation free energies. Utilizing graph neural network models, it achieved low mean absolute errors for pKa (0.58), gas-phase acidity (just above 3 kcal/mol), and anionic solvation free energy (less than 3 kcal/mol). All datasets and models are publicly accessible.  
+
+- [Blue-Light-Promoted Sulfenylnitrenes for Late-Stage Skeletal Editing of N-Heterocycles: Application to Tethered C-Glycosides and N-Nucleosides](https://dx.doi.org/10.26434/chemrxiv-2025-vkfzx?rft_dat=source%3Ddrss)  
+Indrajeet, Sharma; Prakash, Kafle; Prabhat, Kharel; Daniel, Nilson; Shuhei, Yasuda  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper presents a blue-light-activated method for late-stage nitrogen insertion into N-heterocycles using stable sulfenylnitrene precursors, generating diverse compounds like pyrimidines and quinazolines. The technique operates in aqueous environments and accommodates various functional groups, enhancing scaffold diversity for drug discovery. It highlights scalability and compatibility, making it a practical tool for functionalization in complex bioactive compounds.  
+
+- [Chemical Recycling of Hydrofluorocarbons by Transfer Fluorination](https://dx.doi.org/10.26434/chemrxiv-2025-frf8j?rft_dat=source%3Ddrss)  
+Mark, Crimmin; Niko, Jenek; Sarah, Patrick; Andreas, Phanopoulos; Jiahuang, Mao  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper discusses a method for recycling hydrofluorocarbons (HFCs) using potassium bases to achieve rapid defluorination, yielding potassium fluoride. This approach allows for the recycling of various fluorochemicals, including HFCs, hydrofluoroolefins, and others, which can then be utilized to synthesize a range of new fluorinated compounds.  
+
+- [Urea-based anion transporters](https://dx.doi.org/10.26434/chemrxiv-2025-nc9sh?rft_dat=source%3Ddrss)  
+Philip Alan, Gale; William, Ryder; Aviva, Levina; Elizabeth, New; Mai, Nielsen; William, Lewis  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper discusses the development of urea-based anion transporters with integrated fluorescent motifs, resulting in a library of receptors demonstrating enhanced anion binding and potent H+/Cl- activity. In vitro tests indicate low toxicity to tumorigenic cells and the ability to induce unique phenotypes related to synthetic anion transporters.  
+
+- [Synthesis and physical properties of [N]Cycloparaphenylene Ketone (N = 6, 7, 8, and 10)](https://dx.doi.org/10.26434/chemrxiv-2025-qsmgv?rft_dat=source%3Ddrss)  
+Shigeru, Yamago; Eiichi, Kayahara; Ryota, Okahara; Amiri, Shibata; Manabu, Abe  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper discusses the synthesis of [N]cycloparaphenylene ketones (N = 6, 7, 8, 10) through a coupling reaction. Analysis via X-ray diffraction, IR spectroscopy, and theoretical calculations revealed structural strain in the carbonyl group and unique photophysical properties, including fluorescence and oxidation susceptibility. The study found significant alterations in electronic properties compared to typical aromatic ketones.  
+
+- [Induced-Fit in Rhodium-Catalysis: How t-butyls influence selectivity through ligand NCI networks](https://dx.doi.org/10.26434/chemrxiv-2025-r1w1c?rft_dat=source%3Ddrss)  
+Vy, Dong; Jan, Riedel  
+*Organic Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper investigates the role of the 3,5-di-t-butyl benzene motif in enhancing selectivity in Rhodium-catalyzed reactions. Using a modified distortion/interaction strain model, it reveals that the DTB ligand creates a unique binding pocket, leading to improved catalyst performance. This mechanism of induced-fit through ligand non-covalent interactions is presented as a novel approach in transition-metal catalysis.  
+
+- [Explainable GNNs in Chemistry: Combining Attribution and Uncertainty Quantification](https://dx.doi.org/10.26434/chemrxiv-2025-bz7tj?rft_dat=source%3Ddrss)  
+Leonid, Komissarov; Nenad, Manevski; Katrin, Groebke Zbinden; Lisa, Sach-Peltason  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper discusses integrating feature attribution methods with uncertainty quantification in Graph Neural Networks for chemistry. It evaluates approaches on datasets related to aqueous solubility and molecular weight, highlighting the effectiveness of Feature Ablation and Shapley Value Sampling. The results show improved interpretability of models, aiding in understanding prediction confidence and identifying data gaps.  
+
+- [Deep Supramolecular Language Processing for Co-crystal Prediction](https://dx.doi.org/10.26434/chemrxiv-2024-vgvhk-v4?rft_dat=source%3Ddrss)  
+Rıza, Özüçelik; Rebecca, Birolo; Andrea, Aramini; Roberto, Gobetto; Michele Remo, Chierotti; Francesca, Grisoni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper presents DeepCocrystal, a deep learning model for predicting co-crystal formation, addressing the challenge of identifying viable molecular pairs that improve drug properties. Achieving a balanced accuracy of 78%, it outperforms existing models and reveals its decision-making process. The study successfully identified two novel co-crystals of diflunisal, demonstrating the potential of chemical language processing in drug development.  
+
+- [Practical quantum advantage in drug discovery and development on today’s quantum resources](https://dx.doi.org/10.26434/chemrxiv-2025-r9kv4?rft_dat=source%3Ddrss)  
+Richard, Hong; Yifei Michelle, Liu; Anirban, Mukherjee; Ananthakrishna, Gopal; Ritam, Banerjee; Ahmad, Sheikh; Yuxi, Chen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper discusses leveraging quantum computing for drug discovery, emphasizing the qubitized downfolding algorithm through three case studies: polymorphic stability of ROY, the macrocyclic drug Paritaprevir, and differences in HCV protease inhibitors. Results show improved quantum resource efficiency over conventional methods, indicating the method's applicability for contemporary quantum resources in drug development.  
+
+- [Quantum QSAR for drug discovery](https://dx.doi.org/10.26434/chemrxiv-2025-l2t8v-v2?rft_dat=source%3Ddrss)  
+Mariano, Caruso; Alejandro, Giraldo; Daniel, Ruiz; Guido, Bellomo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-29  
+&ensp;The paper proposes enhancing QSAR modeling in drug discovery using Quantum Support Vector Machines (QSVMs) to address limitations of classical methods in handling high-dimensional data. It utilizes quantum data encoding and quantum kernel functions for improved accuracy and efficiency in predictive modeling.
+
 ## 29 Apr 2025  
 
 - [Evaluation Beyond Goodness of Fit: Biophysical Alignment of AI Models for Kinase-Centric Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-qsw7v?rft_dat=source%3Ddrss)  
