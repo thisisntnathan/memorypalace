@@ -12,6 +12,39 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 01 May 2025  
+
+- [Benchmark of approximate quantum chemical and machine learning potentials for biochemical proton transfer reactions](https://dx.doi.org/10.26434/chemrxiv-2025-xt41p?rft_dat=source%3Ddrss)  
+Guilherme Menegon, Arantes; Jan , Řezáč  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-30  
+&ensp;The paper benchmarks various approximate quantum chemical methods and machine learning (ML) potentials for biochemical proton transfer reactions against high-level MP2 reference data. It evaluates relative energies, geometries, and dipole moments, finding that while traditional DFT methods excel, ML-corrected models like PM6-ML significantly improve accuracy across all properties, unlike standalone ML potentials.  
+- [GoFlow: Efficient Transition State Geometry Prediction with Flow Matching and E(3)-Equivariant Neural Networks](https://dx.doi.org/10.26434/chemrxiv-2025-bk2rh?rft_dat=source%3Ddrss)  
+Esther, Heid; Leonard, Galustian; Konstantin, Mark; Johannes, Karwounopoulos; Maximilian P.-P., Kovar  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-30  
+&ensp;The paper presents GoFlow, a method for predicting transition state geometries of chemical reactions using E(3)-equivariant neural networks and flow matching. It improves inference speed over existing diffusion models by over a hundredfold while enhancing geometric accuracy. GoFlow facilitates efficient deep learning applications in high-throughput chemistry for larger systems, advancing computational chemistry methodologies.  
+- [Accelerating the Design of Cu(I) Complexes with Near-Infrared Absorption by Interpretable Machine Learning Approaches](https://dx.doi.org/10.26434/chemrxiv-2025-pcrnp?rft_dat=source%3Ddrss)  
+Bakhtiyor, Rasulev; Gerardo, Casanola-Martin; Grace,  Tiffany; Omolola,  Eniodunmo; Tori, Oas; Mohammed, Jabed; Wenfang, Sun; Dmitri, Kilin; Svetlana, Kilina  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-30  
+&ensp;The paper presents a machine learning-based Quantitative Structure-Property Relationship (ML/QSPR) model for predicting the absorption wavelength and oscillator strength of Cu(I) complexes using a dataset derived from quantum chemical and cheminformatics approaches. The model achieved squared correlation coefficients of 0.82 (training) and 0.85 (validation), indicating its reliability for designing novel Cu(I) complexes with desirable optical properties.  
+- [Evaluating Taniborbactam as an Inhibitor of the SDS-Hydrolyzing Enzyme SdsA1 via Structural and Docking Analysis](https://dx.doi.org/10.26434/chemrxiv-2025-v027k?rft_dat=source%3Ddrss)  
+Janeice , Henderson  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-30  
+&ensp;The paper evaluates taniborbactam as a potential inhibitor of the SDS-hydrolyzing enzyme SdsA1 from Pseudomonas aeruginosa. Structural and molecular docking analyses demonstrate strong binding affinities of taniborbactam at SdsA1's catalytic site, indicating its potential to impair SDS degradation and improve disinfectant efficacy in healthcare settings.  
+- [Automated Reaction Exploration of Ozonation Processes for Model Olefins in Water](https://dx.doi.org/10.26434/chemrxiv-2025-cf5pg-v2?rft_dat=source%3Ddrss)  
+Thomas B., Hofstetter; Enric, Petrus; Livia A., Hunkeler; Urs, von Gunten; Markus, Reiher  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-30  
+&ensp;The paper discusses using high-throughput computational chemistry for evaluating ozonation processes of olefins, specifically ethene and tetramethylethene, in aqueous solutions. Using the SCINE software, it generated chemical reaction networks (CRNs) revealing hundreds of compounds and thousands of reactions, accurately predicting reaction mechanisms and product formation, though some limitations were noted in exploration depth and the solvation model.  
+- [A Fragment Based Approach Towards Curating, Comparing and Developing Machine Learning Models Applied in Photo-chemistry](https://dx.doi.org/10.26434/chemrxiv-2025-l6pb4?rft_dat=source%3Ddrss)  
+Sabari, Kumar; Raúl, Pérez-Soto; Mihai, Popescu; Leticia, Adao Gomes; Changyeob, Lee; Elijah, Shore; Steven, Lopez; Robert, Paton; Seonah, Kim  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-04-30  
+&ensp;The paper presents a fragment-based strategy for enhancing machine learning models in photo-chemistry. It utilizes a new dataset, ALFAST-DB, comprising 46,432 adiabatic S0-T1 energy gaps, to address exciton localization issues. The proposed method improves model generalizability and matches the accuracy of existing message passing graph neural networks.
+
 ## 30 Apr 2025  
 
 - [Penicillium Brefeldianum: Insights into its Secondary Metabolites, Pharmacological Active Compounds and Biotechnological Potential](https://dx.doi.org/10.26434/chemrxiv-2025-2c82d?rft_dat=source%3Ddrss)  
