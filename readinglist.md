@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 03 May 2025  
+
+- [Protein-ligand data at scale to support machine learning](https://dx.doi.org/10.26434/chemrxiv-2025-b009c?rft_dat=source%3Ddrss)  
+Aled Edwards, Dafydd Owen, Target 2035 Working Group, SGC Working Group  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper discusses the Target 2035 initiative, aiming to create extensive datasets of protein-small molecule binding data using affinity-selection mass spectrometry (AS-MS) and DNA-encoded library (DEL) screening. It encourages the machine learning community to develop predictive models for discovering chemical probes, with goals of identifying hits for thousands of human proteins by 2030.  
+
+- [Predicting Plasma Concentration–Time Profiles of Complex Drugs with Double Peaks Using Machine Learning: A Case Study with Veralipride](https://dx.doi.org/10.26434/chemrxiv-2025-sqvzk?rft_dat=source%3Ddrss)  
+Hiroaki Iwata, Koichi Handa, Yuki Umemori, Michiharu Kageyama  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The study constructs machine learning models to predict the plasma concentration-time profiles of veralipride, characterized by double peaks, using clinical trial data from 12 participants collected at 189 time points. Random forest and gradient boosting models showed discrepancies of 34.7% and 33.0% respectively, outperforming traditional population pharmacokinetic models, which had discrepancies of up to 58.4%.  
+
+- [Novel Stability-Indicating Assay for Palbociclib: A Breakthrough in Anti-Breast Cancer Therapy](https://dx.doi.org/10.26434/chemrxiv-2025-6g1w7?rft_dat=source%3Ddrss)  
+Althaf hussain shaik, Ramakrishna reddy kotanka, Kirankumar Nalla  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper presents a novel reverse-phase high-performance liquid chromatography (RP-HPLC) method for accurately quantifying Palbociclib, crucial for breast cancer therapy. Using an ODS-3 C18 column, the method shows excellent validation metrics, including linearity and specificity, ensuring reliable quality control. This cost-effective approach enhances therapeutic consistency and patient safety.  
+
+- [Engineering Polymeric Hydrogels, Nanogels, and Microgels for Next-Generation Tissue Regeneration: Materials, Mechanisms, and Translational Perspectives](https://dx.doi.org/10.26434/chemrxiv-2025-qkt7j?rft_dat=source%3Ddrss)  
+Ishita Mukherjee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper reviews advancements in polymeric hydrogels, nanogels, and microgels for tissue engineering, emphasizing their properties and applications. It discusses innovative synthetic methods such as click chemistry and 3D printing. The study analyzes performance metrics like biocompatibility and therapeutic efficacy, highlighting the integration of these materials for multifunctional scaffolds, with an aim to enhance regenerative medicine applications.  
+
+- [An Efficient Machine Learning-Based Prediction Model for JAK2 Inhibitor pIC50](https://dx.doi.org/10.26434/chemrxiv-2025-3v3gw-v2?rft_dat=source%3Ddrss)  
+Shengyao Liang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper presents an XGBoost-based model predicting pIC50 values for JAK2 inhibitors using 5546 compounds sourced from the ChEMBL database. Key methods include calculating molecular fingerprints, optimizing hyperparameters with GridSearchCV, and employing 5-fold cross-validation. The model achieved R2=0.7184 and RMSE=0.5968 on the test set, indicating strong predictive performance for drug discovery applications.  
+
+- [Lightweight Crystal Graph Neural Networks for Activation Energy Prediction in Organic Molecular Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-cdcdb?rft_dat=source%3Ddrss)  
+Naoki Kitamura  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper presents lightweight Crystal Graph Convolutional Neural Networks (CGCNN) for predicting activation energies in organic and heterogeneous reactions. Utilizing the Transition1x and Open Catalyst Project datasets, the Kronecker product model outperformed others, achieving a coefficient of determination (R²) of 0.45 on Transition1x. This model is significantly less parameter-heavy than existing methods.  
+
+- [Structure-Dependent Microkinetic Modeling of the CO2 Desorption with Surface Diffusion](https://dx.doi.org/10.26434/chemrxiv-2025-l7135?rft_dat=source%3Ddrss)  
+Bjarne Kreitz, Gandhali Kogekar, Raffaele Cheula, Franklin Goldsmith  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper presents a structure-dependent microkinetic model for CO2 desorption on Ni catalysts, using DFT and single-crystal data. It enhances the Cantera toolkit to include surface diffusion, leading to improved simulation-experiment agreement for Ni/SiO2 catalysts. Results indicate that Ni(110) significantly influences desorption patterns, emphasizing the role of surface diffusion. The method is applicable to other metal systems.  
+
+- [Energy Transfer Mechanisms in Large Low-Bandgap Polymers from Time-Resolved Experiments and Nonadiabatic Molecular Dynamics Calculations](https://dx.doi.org/10.26434/chemrxiv-2025-xn04j?rft_dat=source%3Ddrss)  
+Bryan Wong, Gabriel Phun, Dana Kern, Jason Azoulay, Matthew Sfeir  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper investigates energy transfer in low-bandgap conjugated polymers using time-resolved spectroscopy and nonadiabatic molecular dynamics. A 260-atom hexamer of a cyclopentadithiophene-benzothiadiazole polymer was studied, yielding a S5 --> S1 lifetime of 34.75 fs. Findings indicate that vibronic motions in cyclopentadithiophene contribute to nonradiative transitions, enhancing insights for future polymer applications.  
+
+- [Enabling Reliable Data-Driven Tafel Analysis](https://dx.doi.org/10.26434/chemrxiv-2025-m0tvc?rft_dat=source%3Ddrss)  
+Koki Muraoka, Ken Sakaushi, Akira Nakayama  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper presents a Bayesian optimization method for identifying optimal Tafel regimes in electrocatalysis, addressing issues with current-voltage measurements. It analyzes 379 experimental datasets, providing open-source software for broader usage. This approach improves reliability in Tafel analysis, fostering consistency and supporting green energy technology development.  
+
+- [Modeling CO2 Adsorption in Flexible MOFs with Open Metal Sites via Fragment-Based Neural Network Potentials](https://dx.doi.org/10.26434/chemrxiv-2025-c85xt?rft_dat=source%3Ddrss)  
+Omer Tayfuroglu, Seda Keskin  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-02  
+&ensp;The paper presents a neural network potential (NNP) developed for simulating CO2 adsorption in the flexible Mg-MOF-74 framework with open metal sites. Trained on DFT data, it integrates with molecular dynamics and grand canonical Monte Carlo simulations. Results underscore the importance of framework flexibility in adsorption processes, showcasing a powerful method for accurate modeling in metal-organic frameworks.  
+
 ## 01 May 2025  
 
 - [Benchmark of approximate quantum chemical and machine learning potentials for biochemical proton transfer reactions](https://dx.doi.org/10.26434/chemrxiv-2025-xt41p?rft_dat=source%3Ddrss)  
