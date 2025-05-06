@@ -12,6 +12,50 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 06 May 2025  
+
+- [Cryopreservation and Post-Thaw Differentiation of Monocytes Enabled by Macromolecular Cryoprotectants which Restrict Intracellular Ice Formation](https://dx.doi.org/10.26434/chemrxiv-2025-p0hwb?rft_dat=source%3Ddrss)  
+Matthew, Gibson; natalia, Gonzalez-Martinez; Ruben M. F. , Tomás; Akalabya, Bissoyi; Agnieszka, Nagorska; Alexandru, Ilie  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-05  
+&ensp;The paper presents improved cryopreservation methods for the THP-1 monocytic cell line using macromolecular cryoprotectants, resulting in doubled post-thaw recovery and enhanced differentiation into macrophages. Cryo-Raman microscopy revealed reduced intracellular ice formation. This approach enables 'assay-ready' THP-1 cells, facilitating immunological research by eliminating extensive post-thaw culturing steps.  
+
+- [Structure–activity relationships of fenarimol analogues with potent in vitro and in vivo activity against Madurella mycetomatis, the main causative agent of eumycetoma](https://dx.doi.org/10.26434/chemrxiv-2025-kj5x1?rft_dat=source%3Ddrss)  
+Matthew, Todd; Hung Phat, Duong; Dmitrij, Melechov; Wilson, Lim; Jingyi, Ma; Kymberley, Scroggie; Luxsika, Rajendra; Ben, Perry; Luiza, Cruz; Peter, Rutledge; Alice, Motion; Wendy, van de Sande  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-05  
+&ensp;The paper evaluates 185 fenarimol analogues against Madurella mycetomatis, linking efficacy to lipophilicity (logD). Among the analogues, 22 showed potent in vitro activity (MIC50 < 9 μM), with five exhibiting promising in vivo results related to larval survival. Insights into structure-activity relationships indicated optimal substituents for fenarimol's core rings.  
+
+- [Depleting autoreactive B-cells using targeted photodynamic therapy](https://dx.doi.org/10.26434/chemrxiv-2025-88r80?rft_dat=source%3Ddrss)  
+Kimberly, Bonger; Kevin, Venrooij; Daphne, Dorst; Theogiannis , Papadimitriou  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-05  
+&ensp;The paper presents targeted photodynamic therapy (tPDT) to selectively deplete autoreactive B cells in autoimmune diseases like Rheumatoid Arthritis. A construct (diCCP4) was developed to bind autoreactive B cell receptors and included the photosensitizer IRDye700DX. Testing on Ramos 3F3 cells showed selective elimination with minimal effect on non-autoreactive cells, indicating tPDT's potential for targeted treatment.  
+
+- [Novel bivalent albumin binder for enhanced tumor retention of fibroblast activation protein-targeted radioligand](https://dx.doi.org/10.26434/chemrxiv-2025-4sqmw?rft_dat=source%3Ddrss)  
+Masahiro, Ono; Kazuma, Nakashima; Hiroyuki, Watanabe; Kosuke, Saito; Keisei, Yamaguchi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-05  
+&ensp;The study presents a novel FAP-targeting radioligand, [111In]In-FAPI-46-I2, enhanced with a bivalent albumin binder, (Lys-IPBA)2. It demonstrates significantly improved tumor retention, with high biodistribution in FAP-expressing tumors for up to 192 hours post-injection, and successful tumor visualization in SPECT/CT studies, indicating its potential for cancer diagnosis and therapy.  
+
+- [Hybrid antibiotics targeting the bacterial ribosome](https://dx.doi.org/10.26434/chemrxiv-2025-bxcn7?rft_dat=source%3Ddrss)  
+Ian B., Seiple; Seul Ki, Yeon; Jenna, Pellegrino; Tushar, Raskar; Minh L. N., Tran; Mohamad, Dandan; François, Guérin; Manuel, Einsiedler; Vincent, Cattoir; James S., Fraser  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-05  
+&ensp;The paper discusses the design and characterization of hybrid antibiotics targeting the bacterial ribosome, specifically combining azithromycin, tedizolid, and chloramphenicol. Using cryo-electron microscopy, five hybrids were analyzed, revealing one effective against resistant Gram-positive bacteria. This research suggests a promising direction for developing next-generation antibiotics to combat antimicrobial resistance.  
+
+- [Regioisomeric Engineering of Sterically Hindered Bright Near-Infrared Paraptosis Agents for Chemo-Photodynamic Therapy](https://dx.doi.org/10.26434/chemrxiv-2025-j2mgt?rft_dat=source%3Ddrss)  
+Guangle, Niu; Xiang , Wang; Xiaowan , Han; Xiaoyuan , Tian; Hosoowi, Lee; Caihong , Xiang; Chaorui , Wang; Liang, Luo; Hai-Yu, Hu; Juyoung, Yoon  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-05  
+&ensp;The paper presents the development of two regioisomeric fluorescent paraptosis agents (m-TSX and p-TSX) using tetraphenylethylene functionalization on xanthene dyes for targeted chemo-photodynamic therapy. The meta-substituted m-TSX demonstrated superior near-infrared emission and enhanced reactive oxygen species generation, effectively inducing multiple cancer cell death pathways, including paraptosis. In vivo results indicate successful tumor growth inhibition.  
+
+- [MLMD: Machine Learning Velocities to Propagate Molecular Dynamics Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-ds2pb?rft_dat=source%3Ddrss)  
+Guy, Dayhoff; Sameer, Varma  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-05  
+&ensp;The paper presents MLMD, a method for updating particle velocities in molecular dynamics (MD) simulations using machine learning, specifically stacked long short-term memory networks. This approach simplifies the process by eliminating force calculations, enhancing simulation speed. Results show over 99.9% prediction accuracy, while demonstrating methods to manage error accumulation and maintain stability. Initial tests used harmonic oscillators as a proof-of-concept.
+
 ## 03 May 2025  
 
 - [Protein-ligand data at scale to support machine learning](https://dx.doi.org/10.26434/chemrxiv-2025-b009c?rft_dat=source%3Ddrss)  
