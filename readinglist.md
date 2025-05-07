@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 07 May 2025  
+
+- [Accelerated Development of Energy Materials through Automation and Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-tg9rn?rft_dat=source%3Ddrss)  
+Abhishek Soni, Shipeng Jia, Corson Chao, Iwnetim Abate  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-06  
+&ensp;This paper discusses the use of self-driving laboratories (SDLs) enhanced by computation, automation, and AI to accelerate the discovery of solid-state inorganic materials for energy applications like batteries and fuel cells. It highlights the efficiency of SDLs in navigating chemical spaces and their ability to overcome traditional experimental limitations, while also addressing challenges such as costs and automation complexity.  
+
+- [Enhancing Molecular Structure Elucidation with Reasoning-Capable LLMs](https://dx.doi.org/10.26434/chemrxiv-2025-8l64w?rft_dat=source%3Ddrss)  
+Martin Priessner, Anna Tomberg, Jon Paul Janet, Richard Lewis, Magnus Johansson, Jonathan Goodman  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-06  
+&ensp;This paper presents a workflow that enhances molecular structure determination using reasoning-capable language models (LLMs) combined with nuclear magnetic resonance spectroscopy. It generates diverse molecular candidates and evaluates them via a reasoning process, improving top-ranked identification accuracy by 26.4% and 35.3% in noisy conditions. The study focuses on HSQC data, proposing a flexible framework for future tools.  
+
+- [Kinetic predictions for SN2 reactions using the BERT architecture: Comparison and interpretation](https://dx.doi.org/10.26434/chemrxiv-2025-0ln4g-v3?rft_dat=source%3Ddrss)  
+Chloe Wilson, María Calvo, Stamatia Zavitsanou, James Somper, Ewa Wieczorek, Tom Watts, Jason Crain, Fernanda Duarte  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-06  
+&ensp;This paper investigates using a BERT model to predict logk values for SN2 reactions, comparing its performance to Random Forest models. Both methods achieved nearly experimental accuracy (RMSE = 1.1 logk units) on test data. While they identified key reaction centers and known effects, each had limitations in extrapolating logk and recognizing aromatic effects.  
+
+- [QC-Augmented GNNs for Few-Shot Prediction of Amorphous Polymer Properties via Multi-Scale Microstructures](https://dx.doi.org/10.26434/chemrxiv-2025-nt0jx-v3?rft_dat=source%3Ddrss)  
+Yiwen Zhang, Zihao YE, Dejun HU, Shutao QI, Zuobang SUN, Junfeng YANG, Yan MA, Yi ZHANG, Junliang ZHANG, Zhiming LI  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-06  
+&ensp;This paper presents Locluster, a multi-scale predictive model integrating quantum chemistry-derived descriptors with graph convolutional networks (GNNs) for few-shot prediction of amorphous polymer properties. It requires only 2-5 descriptors and around 20 training samples to accurately predict critical properties like density and refractive index, achieving performance similar to models trained on larger datasets.  
+
+- [A Foundation Model for Accurate Atomistic Simulations in Drug Design](https://dx.doi.org/10.26434/chemrxiv-2025-f1hgn-v3?rft_dat=source%3Ddrss)  
+Jean-Philip Piquemal, Thomas Plé, Louis Lagardère, Olivier Adjoua, Evgeny Posenitskiy, Corentin Villot, Anouar Benali  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-06  
+&ensp;This paper presents FeNNix-Bio1, a foundation model for atomistic simulations in drug design, trained on synthetic quantum chemistry data. It enables accurate predictions for molecular dynamics simulations including properties of water, ions, small molecules, and protein dynamics. The model excels in fast inference, transferability for charged species, and reduces human effort in parametrization, showing potential to significantly impact drug design.  
+
+- [An Efficient Machine Learning-Based Prediction Model for JAK2 Inhibitor pIC50](https://dx.doi.org/10.26434/chemrxiv-2025-3v3gw-v3?rft_dat=source%3Ddrss)  
+Shengyao Liang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-06  
+&ensp;This paper presents an XGBoost-based model for predicting JAK2 inhibitor pIC50 values using a dataset of 5546 compounds sourced from the ChEMBL database. The model achieved R² of 0.7184 and RMSE of 0.5968 on the test set, indicating strong predictive performance. It serves as a valuable tool for JAK2 inhibitor discovery and optimization.
+
 ## 06 May 2025  
 
 - [Cryopreservation and Post-Thaw Differentiation of Monocytes Enabled by Macromolecular Cryoprotectants which Restrict Intracellular Ice Formation](https://dx.doi.org/10.26434/chemrxiv-2025-p0hwb?rft_dat=source%3Ddrss)  
