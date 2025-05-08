@@ -12,6 +12,14 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 08 May 2025  
+
+- [Enhanced Prediction of Absorption and Emission Wavelengths of Organic Compounds through Hybrid Graph Neural Network Architectures](https://dx.doi.org/10.26434/chemrxiv-2025-rcwxh?rft_dat=source%3Ddrss)  
+Tin V.T. Nguyen, Dat P. Nguyen, Quyet M. Le, Hoa T.P. Tran, Phuc T. Le  
+*Organic Chemistry on ChemRxiv*  
+2025-05-07  
+&ensp;The paper demonstrates the use of hybrid graph neural networks (GNNs) to enhance predictions of absorption and emission wavelengths of organic compounds. By integrating molecular graphs and fingerprints, the method improves accuracy and reduces computational costs compared to traditional density functional theory (DFT). This showcases GNNs as a transformative tool for molecular design and materials science.
+
 ## 07 May 2025  
 
 - [Accelerated Development of Energy Materials through Automation and Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-tg9rn?rft_dat=source%3Ddrss)  
