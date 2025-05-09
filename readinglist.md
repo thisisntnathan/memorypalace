@@ -12,6 +12,21 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 09 May 2025  
+
+- [Structure and activity of conopressins: Insights into in silico oxytocin/V2 receptor interactions, anti-inflammatory potential, and behavioural studies](https://dx.doi.org/10.26434/chemrxiv-2025-404tn?rft_dat=source%3Ddrss)  
+Pooja, Dhurjad; Rabi, Bazaz; Satyam, Pati; Manoj, Dandekar; Chandraiah, Godugu; Rajesh, Sonti  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-08  
+&ensp;The paper investigates conopressins, which share similarities with vasopressin and oxytocin, focusing on their structural and functional properties. Utilizing NMR for 3D structures and molecular dynamics for receptor interactions, findings indicate that truncations Tr-Mo976 and Tr-Mo977 show enhanced binding to the OT receptor, anti-inflammatory effects in macrophages, and distinct behavioral impacts in mice.  
+
+- [Evaluating SIRAH Force Field for Modeling Spontaneous and Redox-Responsive Peptide Self-Assembly](https://dx.doi.org/10.26434/chemrxiv-2025-1lthl?rft_dat=source%3Ddrss)  
+Yuanming, Song  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-08  
+&ensp;The paper evaluates the SIRAH force field for simulating spontaneous and redox-responsive peptide self-assembly, using experimentally characterized sequences and comparisons with MARTINI simulations. Results indicate SIRAH has significant limitations, showing overly high aggregation tendencies and poor discrimination between aggregating and non-aggregating peptides, highlighting the need for further refinement for effective application in peptide system design.  
+
+
 ## 08 May 2025  
 
 - [Enhanced Prediction of Absorption and Emission Wavelengths of Organic Compounds through Hybrid Graph Neural Network Architectures](https://dx.doi.org/10.26434/chemrxiv-2025-rcwxh?rft_dat=source%3Ddrss)  
