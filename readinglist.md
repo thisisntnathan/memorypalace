@@ -12,6 +12,14 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 10 May 2025  
+
+- [Organic Solubility Prediction at the Limit of Aleatoric Uncertainty](https://dx.doi.org/10.26434/chemrxiv-2024-93qp3-v2?rft_dat=source%3Ddrss)  
+Attia Lucas, Jackson W. Burns, Patrick S. Doyle, William H. Green  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-09  
+&ensp;The paper introduces fastsolv, two models based on fastprop and chemprop, trained on the BigSolDB dataset for organic solubility prediction. These models achieve 2-3 times greater accuracy than current methods and approach the aleatoric limit of 0.5-1 logS. Fastsolv is open source, faster than alternatives, and demonstrates the need for improved datasets for further accuracy.
+
 ## 09 May 2025  
 
 - [Structure and activity of conopressins: Insights into in silico oxytocin/V2 receptor interactions, anti-inflammatory potential, and behavioural studies](https://dx.doi.org/10.26434/chemrxiv-2025-404tn?rft_dat=source%3Ddrss)  
