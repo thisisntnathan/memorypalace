@@ -12,6 +12,98 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 14 May 2025  
+
+- [Affinity-based protein profiling of the antiviral natural product Nanchangmycin](https://dx.doi.org/10.26434/chemrxiv-2025-rlkss?rft_dat=source%3Ddrss)  
+Emmanuelle, Thinon; Santiago, Leiva; Chloé, Freyermuth; Daniele, Mantione; Stéphane, Claverol  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The study investigates the antiviral properties of Nanchangmycin against the Zika virus through an affinity-based approach using a clickable probe and chemical proteomics. The research identifies SEC11A as a key protein target involved in Zika virus protein processing. Nanchangmycin inhibits Zika virus infection by blocking polyprotein cleavage, revealing a new mechanism of action.  
+
+- [Toward high-density streptavidin arrays on DNA origami nanostructures](https://dx.doi.org/10.26434/chemrxiv-2025-0c9hr?rft_dat=source%3Ddrss)  
+Adrian, Keller; Lukas, Rabbe; Emilia, Tomm; Guido, Grundmeier  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The paper investigates high-density streptavidin (SAv) arrays on biotin-modified DNA origami nanostructures (DONs). It identifies optimal design factors for achieving a binding density of 0.008 nm-2 and a SAv-Bt binding yield of 70%. The study reveals that molecular crowding limits binding yields in 2D arrays compared to 1D arrays.  
+
+- [DFT-Assisted Evolution of In-Cell Protein-Acetylation Catalyst](https://dx.doi.org/10.26434/chemrxiv-2025-8lqpq?rft_dat=source%3Ddrss)  
+Shigehiro, Kawashima; Misuzu , Habazaki; Mayo , Yamazaki; Kohei , Watanabe; Ryo , Takita; Kenzo , Yamatsugu; Motomu , Kanai  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper discusses the development of a hydroxamic acid-thiol conjugated catalyst, mHXA-pOMe, for efficient in-cell protein acetylation, improving the yield from 2.5% to 20%. It employs Density Functional Theory (DFT) calculations to identify the rate-determining step involving proton shuttling. The findings enhance the understanding and application of synthetic protein acetylation catalysts in cellular processes.  
+
+- [Method and theory of genome profiling (GP) developed for identification and classification of organisms](https://dx.doi.org/10.26434/chemrxiv-2024-n9q36-v3?rft_dat=source%3Ddrss)  
+Koichi, Nishigaki  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper presents the Genome Profiling (GP) method for organism identification and classification, involving random PCR, micro-temperature gradient gel electrophoresis (μTGGE), and extraction of species identification dots (spiddos). It highlights the significance of spiddos, which contain sequence information obtained without sequencing (SIOWS), enabling efficient species classification. The study caters to various scientific fields, promoting broader applications of GP.  
+
+- [Mechanistic and Kinetic Insights into Nucleobase Oxidation: Detection of Radical Intermediates in Thymine Oxidation Using SH2′ Radical Trapping](https://dx.doi.org/10.26434/chemrxiv-2025-241v9?rft_dat=source%3Ddrss)  
+Peter, Williams; Daniel, Gugan; Andrew, Rickard; Victor, Chechik  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;This study utilizes SH2′ radical trapping and mass spectrometry to explore the hydroxyl radical-initiated oxidation of thymine, revealing radical intermediates related to DNA damage. The method successfully characterizes various isomeric structures, including thymine dimer radicals. Findings suggest SH2' radical trapping is effective for understanding radical events in biological systems.  
+
+- [Functionalized 1H-benzo[d]imidazoles that Confer Protective Effects in a Phenotypic CLN3 Disease Patient-Derived iPSC Model](https://dx.doi.org/10.26434/chemrxiv-2025-hn6sj?rft_dat=source%3Ddrss)  
+Paul, Trippier; Princess, Simeon; Ramu, Venkatesan; Xiaoyu, Hao; Angelica, Carmona; Sohel, Daria; Yazen, Alnouti  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper reports on the development of functionalized 1H-benzo[d]imidazoles with protective effects in a CLN3 patient-derived iPSC model. The researchers synthesized analogues of non-opioid analgesics, revealing that compounds 9b and 38b activate autophagy and mitigate mitochondrial ATP synthase accumulation, showing promise for treating CLN3 disease with favorable pharmacokinetics.  
+
+- [From Inert to Active: Charge-Compensated Metallacarboranes with High Toxicity and Anticancer Potential](https://dx.doi.org/10.26434/chemrxiv-2025-06dqc?rft_dat=source%3Ddrss)  
+Tomasz M., Goszczyński; Waldemar, Goldeman; Mateusz, Psurski; Anna, Boguszewska-Czubara; Joanna, Wietrzyk; Michalina, Gos  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper presents iodinated, charge-compensated derivatives of cobalt bis(dicarbollide) [CoSAN]−, which exhibit significant anticancer activity, showing low-nanomolar IC₅₀ values in various human cancer cell lines. The study also evaluates their effects in Danio rerio embryos, highlighting potential for therapeutic development by modifying chemical structures to enhance bioactivity in previously inert compounds.  
+
+- [An Alternative Strategy for Albumin Binding in Therapeutics Proof-of-Concept Synthesis of Metallacarborane–Insulin Conjugates](https://dx.doi.org/10.26434/chemrxiv-2025-sp2rt?rft_dat=source%3Ddrss)  
+Tomasz M., Goszczyński; Krzysztof,  Fink; Waldemar, Goldeman; Beata, Filip-Psurska; Michalina, Gos; Zbigniew J.,  Leśnikowski; Janusz, Boratyński; Jakub, Cebula  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper presents a novel strategy for enhancing albumin binding in insulin therapeutics by synthesizing insulin-metallacarborane conjugates (INS-MC) through reductive aminations. INS-MC exhibited a tenfold increase in albumin binding compared to existing insulins, detemir and degludec, while maintaining biological properties in vitro. This method suggests metallacarboranes as a promising alternative to fatty acid conjugation.  
+
+- [Structure-activity relationships of inactive-conformation binding EGFR inhibitors: Linking the ATP and allosteric pockets](https://dx.doi.org/10.26434/chemrxiv-2025-2cdjb?rft_dat=source%3Ddrss)  
+David E., Heppner; Surbhi P., Chitnis; Florian, Wittlinger; Mareike, Möllers; Tyler J., Hartman; Marcel, Günther; Michael J., Eck; Stefan A., Laufer  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper investigates new EGFR inhibitors targeting inactive conformations, emphasizing ATP-site imidazole scaffolds. It identifies meta-substituted amide linkers with specific fluorine and hydroxy substitutions as the most potent. The findings provide structural insights for optimizing inhibitors against resistance mutations in non-small cell lung cancer, aiming to guide future drug development.  
+
+- [Green Fluorescent Protein SELEX: Immobilization Chemistry and His-tag Epitope Bias](https://dx.doi.org/10.26434/chemrxiv-2025-xwnb7?rft_dat=source%3Ddrss)  
+Juewen, Liu; Stefen, Stangherlin; Anthony, Clarke; Tyler, Malloch  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper explores the selection of DNA aptamers for green fluorescent protein (GFP) using different immobilization methods. Three selections were performed with non-tagged and His-tagged GFP, revealing that only the GFP/NHS system yielded aptamers binding to unmodified GFP, while His-tagged selections led to epitope bias. Fluorescence polarization assays confirmed this bias, impacting prior aptamer studies.  
+
+- [Computational Exploration of Ni-P Bulk Metallic Glasses via Machine Learning Potentials](https://dx.doi.org/10.26434/chemrxiv-2025-grvb3?rft_dat=source%3Ddrss)  
+Md Sharif, Khan; Nongnuch, Artrith; Oliviero, Andreussi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper develops a machine learning interatomic potential for Ni-P bulk metallic glasses using an artificial neural network. A dataset from atomistic simulations was used, validated against density functional theory. The study uncovers the impact of phosphorus concentration on structural stability and explores the maximum phosphorus content for maintaining amorphous properties in Ni-P BMGs.  
+
+- [Weighted Ensemble Simulation: Advances in methods, software, and applications](https://dx.doi.org/10.26434/chemrxiv-2025-jtppp?rft_dat=source%3Ddrss)  
+Daniel, Zuckerman; Lillian, Chong  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper reviews advancements in weighted ensemble (WE) path sampling methods and software for simulating rare events efficiently while maintaining kinetics accuracy. Applications include QM/MM simulations of chemical reactions and processes like drug permeation and virus spike protein dynamics. Despite progress, current limitations and challenges in WE strategies are also noted.  
+
+- [Towards a complete mechanistic understanding of the CO2 hydrogenation to methanol with the Ru-MACHO catalyst](https://dx.doi.org/10.26434/chemrxiv-2025-wgxdt?rft_dat=source%3Ddrss)  
+Ainara, Nova; Mohamed E. A., Safy; Raquel J., Rama; Niklas F. , Both; Kathrin, Junge; Matthias , Beller  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper investigates CO2 hydrogenation to methanol using the Ru-MACHO-Ph catalyst. Employing GFN2-xTB, DFT, and DLPNO-CCSD(T) methods, it explores catalyst resting states and pathways, finding Ru-formate as the primary state. Microkinetic modeling predicts methanol turnover number, aligning with experiments, and highlights a dominant pathway through metal-ligand cooperation, enhanced by higher DMA concentrations.  
+
+- [Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-gnf13?rft_dat=source%3Ddrss)  
+Pavlo O., Dral; Jinming, Hu; Hassan, Nawaz; Yuting, Rui; Lijie, Chi; Arif, Ullah  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper introduces Aitomia, an AI-powered platform designed to assist with atomistic and quantum chemical simulations. Utilizing fine-tuned large language models, rule-based agents, and a retrieval-augmented generation system, Aitomia aids experts and non-experts alike. It integrates with existing online services and aims to simplify simulation processes, thereby accelerating research in computational chemistry.  
+
+- [Librarian of Alexandria: An Extensible LLM-based Chemical Data Extraction Pipeline](https://dx.doi.org/10.26434/chemrxiv-2025-fb8hj?rft_dat=source%3Ddrss)  
+Alice R. , Walker; Mark A. , Hix; Morgan, Grougan  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-13  
+&ensp;The paper presents "Librarian of Alexandria" (LoA), an open-source tool for generating large chemical datasets by extracting data from scientific literature using large-language models (LLMs). LoA supports customizable LLMs and achieves ~80% accuracy in data extraction, facilitating the creation of vast datasets efficiently. It is available on GitHub with example materials and automated collection from open-access journals.
+
 ## 10 May 2025  
 
 - [Organic Solubility Prediction at the Limit of Aleatoric Uncertainty](https://dx.doi.org/10.26434/chemrxiv-2024-93qp3-v2?rft_dat=source%3Ddrss)  
