@@ -12,6 +12,50 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 15 May 2025  
+
+- [Computational Studies Reveal Insights on a Light-Harvesting System with Phycocyanobilin](https://dx.doi.org/10.26434/chemrxiv-2025-6jzqt?rft_dat=source%3Ddrss)  
+Subhasish Chatterjee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The paper investigates the structural complexity of protein-pigment complexes with phycocyanobilin using AI methods and density functional theory. It reveals structural similarities in protein scaffolds and differing spectroscopic characteristics of pigments, emphasizing the link between structural biology and systems chemistry for bio-inspired energy harvesting technologies.  
+
+- [Artificial Intelligence Based in silico Clinical Trials for Vaccines](https://dx.doi.org/10.26434/chemrxiv-2025-3nh8w?rft_dat=source%3Ddrss)  
+Palak Gupta, Akshita Singh, Debaprasad Mukherjee  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The paper discusses the use of Artificial Intelligence (AI) in in silico clinical trials (ISCTs) for vaccine development, highlighting its ability to automate trial design and optimize patient selection. It reviews AI applications in antigen discovery and safety prediction, pointing to improved efficiency and diversity in trials. Challenges remain around model validation and regulatory issues, but AI's potential to transform vaccine R&D is emphasized.  
+
+- [Identification of Effective Cyclin-Dependent Kinase 3/Cyclin E Inhibitors Using Multi-Level Computational Screening and Simulation](https://dx.doi.org/10.26434/chemrxiv-2025-hf452?rft_dat=source%3Ddrss)  
+Srutishree Sarma, Dikshita Dowerah, Shilpa Neog, Nishant Biswakarma, Priyanka Dutta, Gaurisankar Phukan, Ramesh Chandra Deka  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The study identifies potential inhibitors of cyclin-dependent kinase 3 (CDK3) through a multi-level computational approach, screening 204 derivatives from five known inhibitors. Molecular docking and simulations highlighted CID_25211747 as a leading candidate, with stable interactions and strong binding affinity. Results point to its promise for developing effective CDK3 antagonists in cancer therapy.  
+
+- [Mucin 1 Antigen Mimetic Functionalized Mannosylated Peptide Nanofibers for Antigen Uptake and Immune Modulation](https://dx.doi.org/10.26434/chemrxiv-2025-r5ptl?rft_dat=source%3Ddrss)  
+Cristina Nativi, Silvia Fallarini, Andrea Sodini, Filippo Susini, Gaia Lesca, Silvia Scaglione, Elisabetta Federica Palamà, Francesca Maestrelli, Maria Cristina Salvatici, Federica Cefalì, Mustafa O. Guler, Ayse Begun Tekinay  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The paper explores immune modulation using mannosylated peptide nanofibers functionalized with MUC1 TnThr mimetic (Tn-MIM) to enhance dendritic cell (DC) maturation. Results from in vitro and organ-on-chip models show effective antigen presentation and lymphocyte recruitment, particularly towards a Th1 immune response, aiding in immunotherapy development.  
+
+- [p-Alkoxy Substituted Anisomycins with Potent Anti-Trypanosomiasis Activity and Expanded Modes of Action](https://dx.doi.org/10.26434/chemrxiv-2025-j90fr?rft_dat=source%3Ddrss)  
+Kajumee Bora Bhowal, Anh Minh Thao Nguyen, Ana Victoria Ibarra-Meneses, Andressa Brito Lira, K. Shanmugha Rajan, Anat Bashan, Jesus D Castaño, Francis Beaudry, William D. Lubell, Christopher Fernandez-Prada, Martin Olivier, Ada Yonath  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The paper reports the development of p-alkoxy substituted anisomycin with enhanced anti-trypanosomiasis activity. The study utilized cryo-electron microscopy and thermal proteomic profiling to demonstrate that the O-propargyl anisomycin analog effectively targets the ribosome and glycosome-associated proteins. Notably, these analogs exhibit potent activity against resistant Leishmania strains, indicating their potential for novel therapeutic applications.  
+
+- [Affinity-based protein profiling of the antiviral natural product Nanchangmycin](https://dx.doi.org/10.26434/chemrxiv-2025-rlkss?rft_dat=source%3Ddrss)  
+Emmanuelle Thinon, Santiago Leiva, Chloé Freyermuth, Daniele Mantione, Stéphane Claverol  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The paper explores the antiviral properties of Nanchangmycin, revealing its action against Zika virus through a newly developed photoreactive probe and chemical proteomics methods. The study identifies SEC11A as a key target, showing that Nanchangmycin inhibits the cleavage of Zika virus polyproteins. Results indicate a novel mechanism of Nanchangmycin in combating Zika virus infection.  
+
+- [Q-DFTNet: A Chemistry-Informed Neural Network Framework for Predicting Molecular Dipole Moments via DFT-Driven QM9 Data](https://dx.doi.org/10.26434/chemrxiv-2025-8j3km?rft_dat=source%3Ddrss)  
+Dennis Delali Kwesi Wayo, Mohd Zulkifli Bin Mohamad Noor, Masoud Darvish Ganji, Camila Martins Saporetti, Leonardo Goliatt  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-14  
+&ensp;The paper introduces Q-DFTNet, a framework for predicting molecular dipole moments using seven graph neural network (GNN) architectures trained on the QM9 dataset. GraphConv showed the best performance with an MSE of 0.8514. The study includes clustering quality assessments and latent space visualizations, emphasizing Q-DFTNet's utility in neural architecture selection for quantum machine learning.
+
 ## 14 May 2025  
 
 - [Affinity-based protein profiling of the antiviral natural product Nanchangmycin](https://dx.doi.org/10.26434/chemrxiv-2025-rlkss?rft_dat=source%3Ddrss)  
