@@ -12,6 +12,15 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 16 May 2025  
+
+- [UMAP-based clustering split for rigorous evaluation of AI models for virtual screening on cancer cell lines](https://dx.doi.org/10.26434/chemrxiv-2024-f1v2v-v2?rft_dat=source%3Ddrss)  
+Pedro Ballester, Saiveth Hernandez, Qianrong Guo  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-15  
+&ensp;The paper presents a study on effective data splitting methods for AI models in virtual screening of cancer compounds. Using 60 datasets of 33,000 to 54,000 molecules each, the authors compared UMAP clustering to traditional methods, revealing UMAP provides more realistic benchmarks. They evaluated 8,400 AI models and recommend UMAP splits for better performance assessment. Datasets and code are publicly accessible.
+
+
 ## 15 May 2025  
 
 - [Computational Studies Reveal Insights on a Light-Harvesting System with Phycocyanobilin](https://dx.doi.org/10.26434/chemrxiv-2025-6jzqt?rft_dat=source%3Ddrss)  
