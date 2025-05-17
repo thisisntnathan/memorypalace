@@ -12,6 +12,27 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 17 May 2025  
+
+- [Designer Frankenproteins that Halt the Proliferation of Myc-driven Cancer Cells](https://dx.doi.org/10.26434/chemrxiv-2025-7x8hg?rft_dat=source%3Ddrss)  
+Jumi, Shin; Maryam, Ali; Raneem, Akel; Francine, He; Micheline, Piquette-Miller  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-16  
+&ensp;The paper discusses the engineering of frankenproteins MEF and MEF/C93, designed to inhibit Myc-driven cancer cells. These proteins showed strong E-box binding and effectively disrupted Myc-dependent pathways in MDA-MB-231 cells, with IC50 values of 1-2 µM. The study indicates a potential therapeutic route for targeting Myc-driven cancers, particularly in higher-risk populations.  
+
+- [Cracking the Undruggable: Discovery of a Mutation-Induced Cryptic Pocket in TP53 C238Y for Precision Oncology](https://dx.doi.org/10.26434/chemrxiv-2025-6z80k?rft_dat=source%3Ddrss)  
+hoosdally, shakeel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-05-16  
+&ensp;The study identifies a cryptic binding pocket in the mutant TP53 C238Y, previously considered undruggable, using flexible docking, molecular dynamics, and machine learning rescoring. The small molecule umbrasilib was found to bind selectively to this pocket. This discovery offers a new direction for precision oncology by establishing a structure-based approach to target mutant p53.  
+
+- [NOCTIS: open-source toolkit that turns reaction data into actionable graph networks](https://dx.doi.org/10.26434/chemrxiv-2025-t20lz?rft_dat=source%3Ddrss)  
+Nataliya, Lopanitsyna; Marco, Stenta; Marta, Pasquini  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-05-16  
+&ensp;The paper presents NOCTIS, an open-source Python toolkit designed to construct and analyze Networks of Organic Chemistry (NOCs) using reaction data. It utilizes Neo4j technology for efficient graph processing, demonstrates capabilities with the MIT USPTO dataset, and facilitates AI-driven decision-making in synthetic route optimization, supporting large-scale datasets and parallel processing.  
+
+
 ## 16 May 2025  
 
 - [UMAP-based clustering split for rigorous evaluation of AI models for virtual screening on cancer cell lines](https://dx.doi.org/10.26434/chemrxiv-2024-f1v2v-v2?rft_dat=source%3Ddrss)  
