@@ -12,6 +12,15 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 26 Jul 2025  
+
+- [Learning Crystallographic Disorder: Bridging Prediction and Experiment in Materials Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-f52qs?rft_dat=source%3Ddrss)  
+Johannes T., Margraf; Konstantin, Jakob; Aron, Walsh; Karsten, Reuter  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-07-25  
+&ensp;The paper discusses introducing crystallographic disorder in materials discovery using machine learning classification models trained on the Inorganic Crystal Structure Database (ICSD). This approach aims to enhance predictions from high-throughput screenings and generative models, enabling more accurate experimental realizations of predicted materials by addressing kinetic effects and defects.  
+
+
 ## 25 Jul 2025  
 
 - [Biosynthesis of the Biphenomycin Family of Potent Antibiotics](https://dx.doi.org/10.26434/chemrxiv-2025-vkzfb?rft_dat=source%3Ddrss)  
