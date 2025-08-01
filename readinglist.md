@@ -12,6 +12,33 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 01 Aug 2025  
+
+- [Beyond Venetoclax: A Machine-Guided Pipeline for Drugging Mutant-Specific Cryptic Pockets in Undruggable Cancer Targets](https://dx.doi.org/10.26434/chemrxiv-2025-5vz5r?rft_dat=source%3Ddrss)  
+hoosdally, shakeel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-07-31  
+&ensp;The paper presents a machine-guided pipeline for targeting cryptic pockets in mutant cancer proteins like KRAS, MYC, TP53, and SRC. Using methods including molecular dynamics, Markov State Modeling, and a Cryptic Dynamic Druggability Score (CDDS), this framework dynamically predicts druggable pockets, revealing novel binding sites for designed compounds while discarding false positives. The approach promises advancements in precision oncology.  
+
+- [Cu/Ir-Cooperative Catalysis for the Enantioselective Borylallylation of Electron Deficient Alkenes](https://dx.doi.org/10.26434/chemrxiv-2025-4xjpv?rft_dat=source%3Ddrss)  
+M. Kevin, Brown; Suman, Das; Stanna, Dorn  
+*Organic Chemistry on ChemRxiv*  
+2025-07-31  
+&ensp;The paper presents a Cu/Ir-catalyzed method for borylallylation of electron-deficient alkenes, achieving high stereocontrol and enabling stereodivergent synthesis of acyclic products with three stereogenic centers. The resulting products feature C-B, ester, and alkene functionalities, allowing for a diverse array of synthetically valuable compounds.  
+
+- [Redox-neutral photoredox catalytic Csp-H carboxylation with CO2 using Visible Light](https://dx.doi.org/10.26434/chemrxiv-2025-6vzbc?rft_dat=source%3Ddrss)  
+Tatsushi, Imahori; Shuhei, Uno; Kenji, Hori  
+*Organic Chemistry on ChemRxiv*  
+2025-07-31  
+&ensp;The paper presents a redox-neutral photoredox catalytic method for C-H carboxylation of terminal alkynes with CO2, using a cyanoarene photocatalyst and visible light. It highlights the importance of a secondary amine, yielding diverse propiolic acid derivatives. The method is efficient, sustainable, and does not require harmful conditions, confirmed through mechanistic studies.  
+
+- [An exploration of dataset bias in single-step retrosynthesis prediction](https://dx.doi.org/10.26434/chemrxiv-2025-5fcj6?rft_dat=source%3Ddrss)  
+Fernanda, Duarte; Sara, Tanovic; Ewa, Wieczorek  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-07-31  
+&ensp;The paper investigates dataset bias in single-step retrosynthesis prediction, analyzing how training set size and diversity (1k to 10k templates) influence model performance across architectures like LocalRetro, MEGAN, and RootAligned. Results show that increased diversity enhances top-5 accuracy, while common templates yield higher top-k accuracy. The findings highlight class imbalance issues and limited generalization to unseen templates.  
+
+
 ## 31 Jul 2025  
 
 - [Decoding Chemical Resonance in c0-Conjugated Systems](https://dx.doi.org/10.26434/chemrxiv-2025-m80qm-v3?rft_dat=source%3Ddrss)  
