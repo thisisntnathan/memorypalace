@@ -12,6 +12,29 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 02 Aug 2025  
+
+- [SmarTSzyme: biasing the mutational landscape in enzymes with QM/MM and chemical dynamics to manipulate catalytic activity](https://dx.doi.org/10.26434/chemrxiv-2025-0g7l5?rft_dat=source%3Ddrss)  
+Pedro Alejandro, Sánchez-Murcia, Daniel, Platero-Rochart  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-01  
+&ensp;The paper presents SmarTSzyme, a Python-based tool for optimizing enzyme catalytic properties through mutation. It identifies key residues affecting energetics using graph representation of interaction networks. The method is validated on two enzymes, demonstrating its effectiveness in pinpointing important mutation sites to enhance catalysis, ultimately reducing the reliance on trial and error experiments.  
+- [Total Synthesis of Photoswitchable Latrunculin B Enables Reversible Inhibition of Actin Polymerization and Cell Migration](https://dx.doi.org/10.26434/chemrxiv-2025-1grsk?rft_dat=source%3Ddrss)  
+Bastien, Nay, Antoine, Gamet, Ismaila, Ciss, Arthur, Courtois, Benjamin, Joyeux, Alexis M., Gautreau, Stéphane, Romero, Christophe, Le Clainche  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-01  
+&ensp;The paper describes the synthesis of a photoswitchable latrunculin B to enable reversible inhibition of actin polymerization and cell migration. The modified latrunculin, featuring a light-responsive azobenzene, demonstrated excellent photophysical properties, effectively halting actin filament growth in vitro and locally in migrating cells, with reversible effects upon light exposure at 440 nm.  
+- [Semisynthetic, multicolor probes for bioluminescence imaging](https://dx.doi.org/10.26434/chemrxiv-2025-gvgv1?rft_dat=source%3Ddrss)  
+Colin, Rathbun, Suong, Tran, Kat, Usavage, Claire, Choplick, Grace, Helton, Lila, Halbers, Brenden, Young, Jennifer, Prescher  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-01  
+&ensp;The paper presents a modular system for multicolor bioluminescence imaging using semisynthetic probes derived from NanoLuc and NanoBiT. By chemically labeling HiBiT with fluorescent probes, it enables red-shifted emission detectable through spectral phasor analysis. The method also extends emissions into the near-infrared with quantum dot conjugation, promoting versatile applications in biological imaging.  
+- [AI-Driven Electrocatalysis: Adaptive Control of the Glycerol Oxidation Reaction via Reinforcement Learning](https://dx.doi.org/10.26434/chemrxiv-2025-kxg13?rft_dat=source%3Ddrss)  
+Vladislav, Mints, Kanyapat, Plub-in, Maria-Magdalena,  Titirici, Anna, Hankin, Ifan, Stephens  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-01  
+&ensp;The paper discusses the use of reinforcement learning to optimize the glycerol oxidation reaction in electrocatalysis. An AI-controller developed in a closed-loop setup discovered a pulsing strategy enhancing performance. Analysis revealed three deactivation mechanisms. A recurrent neural network digital twin facilitated rapid hypothesis testing. Overall, the study showcases AI's potential in automating design and offering mechanistic insights in electrocatalytic research.
+
 ## 01 Aug 2025  
 
 - [Beyond Venetoclax: A Machine-Guided Pipeline for Drugging Mutant-Specific Cryptic Pockets in Undruggable Cancer Targets](https://dx.doi.org/10.26434/chemrxiv-2025-5vz5r?rft_dat=source%3Ddrss)  
