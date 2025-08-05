@@ -12,6 +12,50 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 05 Aug 2025  
+
+- [Profiling Biological Effects of Microbiome Metabolites via Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-15mw9?rft_dat=source%3Ddrss)  
+Hong A., Chung; Zachary, Fralish; Tiffany, Tu; Daniel, Reker  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-04  
+&ensp;The paper presents a machine learning platform that analyzes microbiome-derived metabolites' biological effects by training on drug development data. It predicts various chemical properties and validated findings through experiments, revealing new effects, such as Interleukin-8 stimulation by spermine and spermidine. This approach enhances understanding of microbiome metabolites, aiding biomarker discovery and therapeutic innovation.  
+
+- [MARPLE: A Proximity-Triggered CRISPR-Cas13 Platform for Ultrasensitive Antibody Detection](https://dx.doi.org/10.26434/chemrxiv-2025-00sm2?rft_dat=source%3Ddrss)  
+Alessandro, Bertucci; Elena, Spezzani; Luca , Capelli; Denise, Di Lena; Alejandro, Chamorro-Garcia; Rudy, Ippodrino; Alessandro, Porchetta  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-04  
+&ensp;The paper presents MARPLE, a CRISPR-Cas13 platform for ultrasensitive antibody detection, achieving detection at femtomolar concentrations. It utilizes a proximity-triggered reaction to amplify signals via Cas13. MARPLE showed versatility across various antibodies and performed well in complex matrices like human serum, positioning it as a valuable tool for immunodiagnostics in clinical settings.  
+
+- [Underexplored Catalysts as General Structures: Application of Machine Learning Techniques for Reaction-Specific Datasets](https://dx.doi.org/10.26434/chemrxiv-2025-wftzz?rft_dat=source%3Ddrss)  
+Jolene, Reid; Jiajing , Li; Isaiah, Betinol; Junshan, Lai; Soresu, Juyo  
+*Organic Chemistry on ChemRxiv*  
+2025-08-04  
+&ensp;The paper discusses using machine learning (ML) to identify underexplored catalysts from limited datasets. It highlights a new catalyst, an imidazolidinone with a benzyl-protected indole, showcasing broad applicability across eight reaction types. The study demonstrates ML's ability to predict catalyst popularity using historical data, streamlining the catalyst discovery process.  
+
+- [Single-step Tyrosine-selective Pseudo-glycosylation of Aggregation-Prone Native Proteins Enhances Aggregation Resistance](https://dx.doi.org/10.26434/chemrxiv-2025-68w7z?rft_dat=source%3Ddrss)  
+Shusuke, Tomoshige; Rin, Higuchi; Satsuki, Obara; Tomoko, Kikuchi; Saori, Yasuda; Tatsuya, Ikenoue; Yusuke, Ohsaki; Hitoshi, Shirakawa; Shinichi, Sato; Minoru, Ishikawa  
+*Organic Chemistry on ChemRxiv*  
+2025-08-04  
+&ensp;The paper presents a single-step method for tyrosine-selective pseudo-glycosylation that improves aggregation resistance in proteins like amyloid β1-40 and human insulin. Using a laccase-catalyzed reaction with sugar-conjugated 1-methylurazoles, the study shows enhanced resistance and reduced cytotoxicity, suggesting potential applications in neurodegenerative treatments and protein therapeutic stability.  
+
+- [AIMNet2-NSE: A Transferable Reactive Neural Network Potential for Open-Shell Chemistry](https://dx.doi.org/10.26434/chemrxiv-2025-kdg6n?rft_dat=source%3Ddrss)  
+Bhupalee, Kalita; Olexandr, Isayev; Roman, Zubatyuk; Dylan M., Anstine; Maike, Bergeler; Volker, Settels; Conrad, Stork; Sebastian, Spicher  
+*Organic Chemistry on ChemRxiv*  
+2025-08-04  
+&ensp;AIMNet2-NSE is a neural network potential designed for open-shell chemistry, addressing the limitations of existing models in accurately modeling radical reactions. It is trained on a dataset of 20 million closed-shell molecules, 13 million open-shell radicals, and 200,000 radical reactions. AIMNet2-NSE provides near-DFT accuracy with a fivefold computational speedup, enhancing the study of complex chemistry where traditional methods fail.  
+
+- [Autonomous Materials Synthesis Laboratories: Integrating Artificial Intelligence with Advanced Robotics for Accelerated Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-fk3r7?rft_dat=source%3Ddrss)  
+Yuze, Hao; Lan, Duo; Jinlu, He  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-04  
+&ensp;The paper reviews the evolution of autonomous materials synthesis laboratories, integrating AI with robotics to reduce development timelines from 10-20 years to 1-2 years. It details methods involving robotic architecture, AI-driven decision-making, and closed-loop systems, citing successful case studies in nanomaterials and electrocatalysts. The integration of large language models and standardized data formats enhances knowledge extraction and reproducibility.  
+
+- [ChemBERTa-3: An Open Source Training Framework for Chemical Foundation Models](https://dx.doi.org/10.26434/chemrxiv-2025-4glrl-v2?rft_dat=source%3Ddrss)  
+Riya, Singh; Aryan Amit, Barsainyan; Rida, Irfan; Connor Joseph, Amorin; Stewart, He; Tony, Davis; Arun, Thiagarajan; Shiva, Sankaran; Seyone, Chithrananda; Walid, Ahmad; Derek, Jones; Kevin, McLoughlin; Hyojin, Kim; Shreyas Vinaya, Sathyanarayana; Jonathan E., Allen; Bharath, Ramsundar; Anoushka, Bhutani; Venkat, Viswanathan  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-04  
+&ensp;The paper presents ChemBERTa-3, an open-source framework for training chemical foundation models, tackling challenges in molecular property prediction. It evaluates various architectures on datasets from MoleculeNet, showing effective classification and regression after pre-training on the ZINC20 dataset. Scalability is achieved via AWS and high-performance computing, with all models being open-sourced for reproducibility.
+
 ## 02 Aug 2025  
 
 - [SmarTSzyme: biasing the mutational landscape in enzymes with QM/MM and chemical dynamics to manipulate catalytic activity](https://dx.doi.org/10.26434/chemrxiv-2025-0g7l5?rft_dat=source%3Ddrss)  
