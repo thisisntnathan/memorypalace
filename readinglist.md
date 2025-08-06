@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 06 Aug 2025  
+
+- [Web-Based Molecular Docking Identifies Microbial Natural Products as Potential Dual Inhibitors of Host SARS-CoV-2 Entry Factors ACE2 and TMPRSS2](https://dx.doi.org/10.26434/chemrxiv-2025-vlnlp?rft_dat=source%3Ddrss)  
+Yathu Krishna ,  Y K  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper presents a web-based in silico method for identifying microbial natural products that inhibit SARS-CoV-2 entry factors ACE2 and TMPRSS2. Using RDKit and CB-Dock2, researchers screened nine metabolites, identifying Staurosporine, Rapamycin, and Dactinomycin as strong dual binders. The findings support the potential of microbial compounds as broad-spectrum antiviral agents, accessible for researchers with limited coding skills.  
+- [Glioblastoma immunotherapy adjuvants for glial cell polarization reprogramming](https://dx.doi.org/10.26434/chemrxiv-2025-m0mdn?rft_dat=source%3Ddrss)  
+Sung Joong, Lee; Jun Seo, Park; Donggeon, Lee; Dal-Hee,  Min  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper reviews strategies for reprogramming glial cells in glioblastoma (GBM) to enhance antitumor immunity. It examines signaling networks and mechanisms of pattern-recognition receptor agonists and discusses preclinical and early clinical data. Targeting glial cell phase modulation may improve the efficacy of personalized vaccines and convert cold GBM into inflamed tumors, offering a promising immunotherapy approach.  
+- [Molecular deep learning at the edge of chemical space](https://dx.doi.org/10.26434/chemrxiv-2025-qj4k3-v2?rft_dat=source%3Ddrss)  
+Derek, van Tilborg; Luke, Rossen; Francesca, Grisoni  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper presents a joint modeling approach combining molecular property prediction with reconstruction to enhance machine learning's generalizability in bioactive molecule predictions. An introduced metric, unfamiliarity, was assessed using over 30 datasets, showing effectiveness in identifying out-of-distribution molecules and predicting classifier performance. The method was experimentally validated by discovering novel compounds with low micromolar potency.  
+- [Ultrafast Transversal CISS Effect Observed in a Chiral Photoswitching Molecule](https://dx.doi.org/10.26434/chemrxiv-2025-1jsz7-v2?rft_dat=source%3Ddrss)  
+Jia Hao, Soh; Anna, Krylov; Christopher, Seibel; Shmuel, Zilberg  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper introduces a simple chiral photoswitching molecule to study the chirality-induced spin-selectivity (CISS) effect. Using time-dependent simulations and an effective Hamiltonian based on equation-of-motion coupled-cluster calculations, it demonstrates that optical excitation induces transverse spin-polarization on a sub-picosecond timescale, suggesting the potential for a purely electronic CISS effect without charge transfer.  
+- [SAMTI: Sampling Adaptive Thermodynamic Integration for Alchemical Free Energy Calculations](https://dx.doi.org/10.26434/chemrxiv-2025-mk6k4?rft_dat=source%3Ddrss)  
+Tai-Sung, Lee; Omid , Jahanmahin; Saikat, Pal  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper presents SAMTI, a novel framework for alchemical free energy calculations that integrates Serial Tempering, Variance Adaptive Resampling, Replica Exchange, and Alchemical Enhanced Sampling. Evaluated on eight complex molecular systems, SAMTI reduces statistical error by 4075% and achieves chemical accuracy (σΔG < 0.1 kcal/mol) within 10 ns, outperforming conventional methods while ensuring efficient resource allocation and automated pathway optimization.  
+- [A density based machine learning force field for molecule-molecule nonbonded interactions](https://dx.doi.org/10.26434/chemrxiv-2025-83grg?rft_dat=source%3Ddrss)  
+Lin-Wang, Wang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper introduces a new machine learning force field (DB-ML-FF) for calculating molecule-molecule nonbonded interactions, utilizing charged density and a traditional atomic-structure model. The method includes evaluating Coulomb interactions, polarization, and other components based on electron charge density and shows accuracy in representing intermolecular interactions, enabling large system molecular dynamics simulations.  
+- [Efficient fine-tuning of foundation atomistic models for reversible polymorphic phase transitions in organic molecular crystals](https://dx.doi.org/10.26434/chemrxiv-2025-499st?rft_dat=source%3Ddrss)  
+Linjiang, Chen; Muyu, Lu; Siyu, Hu; Chengxi, Zhao; Chen, Wang; Weile, Jia; Guangming, Tan; Jun, Jiang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper evaluates the fine-tuning of four machine learning interatomic potentials for simulating reversible polymorphic phase transitions in 2,4,5-triiodo-1H-imidazole. Initial models failed to capture the transition, but the ELoRA fine-tuning method successfully simulated the full dynamics. Results indicate that targeted fine-tuning is crucial for effective modeling of complex molecular systems.  
+- [The surface chemistry of Au(111) and Au(100) electrodes under oxygen reduction and evolution potentials](https://dx.doi.org/10.26434/chemrxiv-2025-13r9v-v2?rft_dat=source%3Ddrss)  
+Marko, Melander; Kayvan, Moradi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-05  
+&ensp;The paper investigates the surface chemistry of Au(111) and Au(100) electrodes during oxygen reduction and evolution using grand canonical ensemble density functional theory (GCE-DFT). Key findings include moderate OḢ coverage during ORR, the instability of OOḢ intermediates, and the transition to (hydr)oxides at high potentials, which impacts electrocatalytic effectiveness and stability.
+
 ## 05 Aug 2025  
 
 - [Profiling Biological Effects of Microbiome Metabolites via Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-15mw9?rft_dat=source%3Ddrss)  
