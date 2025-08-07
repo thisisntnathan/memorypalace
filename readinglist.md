@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 07 Aug 2025  
+
+- [Orthogonal and reversible control of duplex DNA formation harnessing the self-sorting abilities of cucurbit[n]urils](https://dx.doi.org/1026434/chemrxiv-2025-9qx61?rft_dat=source%3Ddrss)  
+Hidenori Okamura, Takeyuki Yao, Yosuke Taniguchi, Fumi Nagatsugi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-06  
+&ensp;The study explores the use of cucurbit[n]urils (CB[n]) for reversible and orthogonal control of DNA formation. Utilizing two N6-guest-modified adenosines with CB[7] and CB[8], the authors demonstrated successful manipulation of DNA activity, including control of two 10–23 DNAzymes and in vitro transcription. This approach highlights potential advancements in DNA-based molecular systems.  
+
+- [Computational Drug Likeness Profiling and Chemical Space Analysis of Bioactive Microbial Secondary Metabolites via RDKit, PCA, and Tanimoto-Based Fingerprint Clustering](https://dx.doi.org/10.26434/chemrxiv-2025-qdp8w?rft_dat=source%3Ddrss)  
+Yathu Krishna, Y K  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-06  
+&ensp;The study evaluates nine microbial secondary metabolites for drug-likeness and structural similarity using RDKit, PCA, and Tanimoto fingerprint clustering. Five compounds met drug-likeness criteria per Lipinski's and Veber's rules. PCA revealed chemical space distribution, while clustering methods displayed structural differences. The approach emphasizes accessible cheminformatics tools for natural product assessment, suitable for low-resource settings.  
+
+- [Engineering Protein Scaffold-Assisted C10-C35 Terpene Precursors Overproduction System for Efficient Biosynthesis Studies](https://dx.doi.org/10.26434/chemrxiv-2025-b1wj2?rft_dat=source%3Ddrss)  
+Baofu Xu, Lijun Liu, Xiaoyu Shi, Bao Chen, Fangyan Chen, Nisha He, Jinzhong Tian  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-06  
+&ensp;The paper presents an efficient scaffold-assisted system for biosynthesis of terpenoids, addressing precursor supply and production platform limitations. Utilizing a self-assembling scaffold, it enhances precursor synthesis leading to gram-per-liter production of eunicellane diterpene. The method yields a 9-fold increase in lycopene production efficiency and facilitates the generation of C10–C35 precursors, enabling the discovery of new terpene synthases.  
+
+- [Function from complexity: chemical systems that achieve sensing using host-type molecules and complex equilibria](https://dx.doi.org/10.26434/chemrxiv-2025-k1hs8?rft_dat=source%3Ddrss)  
+Fraser Hof, Allison Selinger  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-06  
+&ensp;The paper discusses the development of host-based sensors utilizing macrocyclic molecules for detecting biologically relevant substances. It emphasizes noncovalent self-assemblies and multicomponent systems, highlighting the authors' contributions to improving sensing capabilities for complex analytes. The results suggest these advanced systems surpass conventional sensors in handling intricate detection tasks involving biomacromolecules and similar analytes.  
+
+- [Toxicity of Antisense Oligonucleotides is Determined by the Synergistic Interplay of Chemical Modifications and Nucleotide Sequences, Not by Either Factor Alone](https://dx.doi.org/10.26434/chemrxiv-2025-d2bhr?rft_dat=source%3Ddrss)  
+Sankha Pattanayak, Swagatam Mukhopadhyay, Jaspreet Bhamra, Mahati Krishna, George Samman  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-06  
+&ensp;The paper discusses the toxicity of antisense oligonucleotides (ASOs) and its dependence on the interplay between chemical modifications and nucleotide sequences. It presents data on hepatotoxicity, nephrotoxicity, and immunological responses from modified gapmer ASOs, emphasizing that both factors collectively influence toxicity. The findings suggest a need for rational design over traditional trial-and-error methods in ASO development.  
+
+- [SPACESHIP: synthesizable parameter acquisition via closed-loop exploration and self-directed, hardware-aware intelligent protocols for autonomous lab](https://dx.doi.org/10.26434/chemrxiv-2025-3lj65-v3?rft_dat=source%3Ddrss)  
+Nayeon Kim, Hyuk Jun Yoo, Daeho Kim, Heeseung Lee, Sang Soo Han  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-06  
+&ensp;The SPACESHIP framework enables dynamic exploration of chemical parameter spaces for material discovery. Utilizing probabilistic models, it adapts learning from experiments, achieving 90% accuracy in identifying synthesizable regions in gold nanoparticle synthesis within 23 tests. SPACESHIP outperformed traditional methods, expanding the synthesizable space significantly and enhancing discovery efficiency.
+
 ## 06 Aug 2025  
 
 - [Web-Based Molecular Docking Identifies Microbial Natural Products as Potential Dual Inhibitors of Host SARS-CoV-2 Entry Factors ACE2 and TMPRSS2](https://dx.doi.org/10.26434/chemrxiv-2025-vlnlp?rft_dat=source%3Ddrss)  
