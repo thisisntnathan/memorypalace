@@ -12,6 +12,30 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 08 Aug 2025  
+
+- [Integrated Life Cycle Assessment Guides Sustainability in Syn-thesis: Antiviral Letermovir as a Case Study](https://dx.doi.org/10.26434/chemrxiv-2025-s24s6?rft_dat=source%3Ddrss)  
+Carreira, Erick; Folkerts, Sander; Hoepfner, Maximilian G.; Guillen-Gosalbez, Gonzalo; Perez-Ramirez, Javier  
+*Organic Chemistry on ChemRxiv*  
+2025-08-07  
+&ensp;The paper discusses a method for enhancing sustainability in chemical synthesis using Life Cycle Assessment (LCA), focusing on the antiviral drug Letermovir. The approach combines production data and retrosynthesis, revealing sustainability challenges in asymmetric catalysis and metal-mediated couplings. The results aim to improve the accuracy of sustainability assessments in organic chemistry and highlight the need for better catalysts.  
+- [TorchANI 20: An extensible, high performance library for the design, training, and use of NN-IPs](https://dx.doi.org/10.26434/chemrxiv-2025-w0w7d?rft_dat=source%3Ddrss)  
+Roitberg, Adrian; Pickering, Ignacio; Xue, Jinze; Huddleston, Kate; Terrel, Nicholas  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-07  
+&ensp;TorchANI 2.0 is an enhanced, open-source library for training ANI deep learning models, featuring improved extensibility and performance. It incorporates a modular system for pairwise potentials, CUDA optimization, and batched processing. Benchmarks show significant speed improvements in training and inference, with new models demonstrating better physical constraints for chemical systems.  
+- [Bridging Scales in Drug Binding Kinetics: Residence Time Estimation via All-Atom and Coarse-Grained Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-9zzlc?rft_dat=source%3Ddrss)  
+Sinha, Souvik; Bagul, Chandrakant; Kohli, Mayank; Jegatheesan, Sooriya Kumar  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-07  
+&ensp;The paper proposes a new workflow for estimating drug residence time (RT) via all-atom (AA) and coarse-grained (CG) simulations. It combines Deep-LDA for reaction coordinate learning, Frequency Adaptive Metadynamics for simulation guidance, and a dynamic time-warping algorithm for unbinding pathway classification. Results show it accurately recovers experimental RTs and ranks congeneric ligands efficiently, balancing cost and accuracy.  
+- [Molecular LEGION: Latent Enumeration, Generation, Integration, Optimization and Navigation A case study of incalculably large chemical space coverage around the NLRP3 target](https://dx.doi.org/10.26434/chemrxiv-2025-h10tn?rft_dat=source%3Ddrss)  
+Zhavoronkov, Alex; Zagribelnyy, Bogdan; Aladinskiy, Vladimir; Bondarev, Nikita; Ilin, Ivan; Malkov, Maxim; Vasileva, Anna; Ding, Xiaoyu; Lin, Arkadii; Shayakhmetov, Rim; Aliper, Alex; Ren, Feng  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-07  
+&ensp;The paper introduces LEGION, an AI-enabled workflow that integrates generative AI and cheminformatics for extensive exploration of chemical space around the NLRP3 target. Leveraging ligand- and structure-based design, it identified over 34,000 unique scaffolds and generated 110 million molecular structures. The framework enhances drug discovery by enabling scalable virtual screening and de novo compound generation.  
+
+
 ## 07 Aug 2025  
 
 - [Orthogonal and reversible control of duplex DNA formation harnessing the self-sorting abilities of cucurbit[n]urils](https://dx.doi.org/1026434/chemrxiv-2025-9qx61?rft_dat=source%3Ddrss)  
