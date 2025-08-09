@@ -12,6 +12,14 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 09 Aug 2025  
+
+- [Ring Systems in Medicinal Chemistry: A Cheminformatics Analysis of Ring Popularity in Drug Discovery Over Time](https://dx.doi.org/10.26434/chemrxiv-2025-0g1xp?rft_dat=source%3Ddrss)  
+Peter Ertl, Eva Altmann, Rainer Wilcken  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-08  
+&ensp;The paper analyzes the role of ring systems in medicinal chemistry and their popularity in drug discovery over time, highlighting the significance of heterocycles in small-molecule drugs. It reviews the influence of synthetic methodologies and knowledge of molecular properties on the development of these ring systems. No specific datasets or quantitative results are provided in the abstract.
+
 ## 08 Aug 2025  
 
 - [Integrated Life Cycle Assessment Guides Sustainability in Syn-thesis: Antiviral Letermovir as a Case Study](https://dx.doi.org/10.26434/chemrxiv-2025-s24s6?rft_dat=source%3Ddrss)  
