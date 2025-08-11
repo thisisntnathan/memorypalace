@@ -12,6 +12,33 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 11 Aug 2025  
+
+- [Magnetite Nanodiscs as Vortex-Enhanced MRI Contrast Agents: A Novel Approach in Medical Imaging](https://dx.doi.org/10.26434/chemrxiv-2024-6zc3p-v4?rft_dat=source%3Ddrss)  
+Danijela Gregurec, Elif Koçar, Enza Di Gregorio, Syed Bilal Nizami, Vicente Durán Toro, Uzair Ali, Lorenzo Signorelli, Teresa Giannattasio, Franziska Wasner, René Stein, Rainer Tietze, Marianna Sorrentino, Alessia Corrado, Allegra Conti, Nicola Toschi, Giuseppe Ferrauto  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-10  
+&ensp;The paper presents magnetic nanodiscs (MNDs) as innovative MRI contrast agents with high longitudinal and transverse relaxivity across varying magnetic fields. Datasets from ex vivo and in vivo studies show enhanced anatomical localization and hepatic accumulation. MNDs exhibit prolonged circulation and potential for advanced medical imaging and therapy, indicating applicability in both low-field and high-resolution MRI systems.  
+
+- [Deconstructing Chirality: Probing Local and Non-local Effects in Azobenzene Derivatives with X-ray Circular Dichroism](https://dx.doi.org/10.26434/chemrxiv-2025-vp7qf?rft_dat=source%3Ddrss)  
+Ajay Khanna, Victor M. Freixas, Lei Xu, Jeremy R. Rouxel, Niranjan Govind, Marco Garavelli, Shaul Mukamel, Sergei Tretiak  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-10  
+&ensp;The paper investigates chirality in trans-azobenzene derivatives using site-specific X-ray Circular Dichroism (XCD) to analyze local and global effects on chiroptical signals. The study reveals that global distortions can overshadow local chiral contributions. It introduces a framework for tuning chiroptical activity and proposes strategies for unidirectional photoisomerization, advancing molecular design principles.  
+
+- [Transient interactions between cationic ionizable lipids and anionic lipids foster lamellar to hexagonal phase transition](https://dx.doi.org/10.26434/chemrxiv-2025-rwb18?rft_dat=source%3Ddrss)  
+Giovanni Settanni, David Noel Zimmer, Friederike Schmid  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-10  
+&ensp;The paper investigates the interactions between cationic ionizable lipids (ICLs) and anionic lipids during phase transitions in lipid-based nanoparticles (LNPs). Using equilibrium and nonequilibrium simulations with DODMA (ICL), DOPS (anionic lipid), and DOPE (helper lipid), it finds transient cone-shaped complexes form during lamellar-to-hexagonal transitions, accelerating the process, which enhances understanding of endosomal escape mechanisms for RNA therapies.  
+
+- [PharmacoForge: Pharmacophore Generation with Diffusion Models](https://dx.doi.org/10.26434/chemrxiv-2025-dz765-v2?rft_dat=source%3Ddrss)  
+Emma Flynn, Riya Shah, Ian Dunn, Rishal Aggarwal, David Koes  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-10  
+&ensp;The paper presents PharmacoForge, a diffusion model for generating valid 3D pharmacophores conditioned on protein pockets, enhancing structure-based drug design. Evaluated against automated methods using the LIT-PCBA benchmark and the DUD-E dataset, PharmacoForge outperformed existing generation techniques, yielding high-quality pharmacophores and ligands with lower strain energies compared to de novo methods.  
+
+
 ## 09 Aug 2025  
 
 - [Ring Systems in Medicinal Chemistry: A Cheminformatics Analysis of Ring Popularity in Drug Discovery Over Time](https://dx.doi.org/10.26434/chemrxiv-2025-0g1xp?rft_dat=source%3Ddrss)  
