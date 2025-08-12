@@ -12,6 +12,75 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 12 Aug 2025  
+
+- [Fluorescent Probes Derived from the Polyene Class of Antifungal Drugs Reveal Distinct Localization Patterns and Resistance-Associated Vacuolar Sequestration in Candida Species](https://dx.doi.org/10.26434/chemrxiv-2025-qc50x?rft_dat=source%3Ddrss)  
+Micha , Fridman, Melissa , Shbeta, Tal, Kopp, Ivan, Voronov, Adi, Yona, Rania Hasib, Afana, Shmuel , Carmeli  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper explores the development of fluorescent probes from polyene antifungal drugs to investigate their subcellular behavior and resistance mechanisms in Candida species. The probes enabled live-cell imaging, revealing distinct localization patterns and vacuolar accumulation in resistant strains. This study highlights the influence of polyene structure on intracellular distribution and provides a platform for analyzing antifungal resistance.  
+
+- [Promiscuous scaffolds: Friend or foe in fragment-based drug design?](https://dx.doi.org/10.26434/chemrxiv-2025-bmv1h?rft_dat=source%3Ddrss)  
+Oliver, Koch, Ann-Kathrin, Prinz, Philipp, Janssen, Fabiana, Rosini, Carlos, Montanari  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper explores promiscuous scaffolds in fragment-based drug design, analyzing bioactivity data from the ChEMBL database. A scaffold network identified 3,124 promiscuous scaffolds, including a phenylthiophene-like scaffold with diverse binding modes. A docking study revealed Cruzipain as a new target. Results suggest these scaffolds can serve as a valuable fragment library for drug design, depending on their classification.  
+
+- [Glide WS: Methodology and Initial Assessment of Performance for Docking Accuracy and Virtual Screening](https://dx.doi.org/10.26434/chemrxiv-2025-0s90h-v2?rft_dat=source%3Ddrss)  
+Steven, Jerome, Richard, Friesner, Yuqi, Zhang, Robert, Murphy, Pierre, Devlaminck, Ivan, Tubert-Brohman, Yeyue, Xiong  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-11  
+&ensp;The paper introduces Glide WS, a new virtual screening method that improves docking accuracy and enrichment in drug discovery by incorporating water structure into its scoring function. It reports a 92% self-docking accuracy on 1477 complexes, outperforming Glide SP (85%), and demonstrates enhanced virtual screening using a diverse dataset of 38 targets and decoy libraries, indicating higher hit rates.  
+
+- [Molecular deep learning at the edge of chemical space](https://dx.doi.org/10.26434/chemrxiv-2025-qj4k3-v3?rft_dat=source%3Ddrss)  
+Derek, van Tilborg, Luke, Rossen, Francesca, Grisoni  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-11  
+&ensp;The paper presents a novel joint modeling approach in molecular machine learning that combines property prediction with molecular reconstruction, introducing "unfamiliarity" as a metric for estimating model generalizability. Systematic analysis of over 30 datasets shows unfamiliarity effectively identifies out-of-distribution molecules and predicts classifier performance, leading to successful screening of novel compounds in the lab.  
+
+- [Impact of chirality on nanotube fracture strain: comprehensive machine learning potential calculations](https://dx.doi.org/10.26434/chemrxiv-2025-rzmm5?rft_dat=source%3Ddrss)  
+Sherif Abdulkader, Tawfik, Tri, Nguyen, Truyen, Tran, Sunil, Gupta, Svetha, Venkatesh  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper explores fracture strains in carbon nanotubes (CNTs) based on chirality using the DIEP machine learning potential. Analyzed 186 CNTs (476 to 5616 atoms) under quasi-static pulling, revealing trends in fracture behavior for armchair and zigzag types. The model's effectiveness was confirmed against empirical data, showcasing its potential for large-scale simulations in nanomaterials.  
+
+- [Protonation-Induced Electron Density Redistribution Facilitates Aggregation in PNNP Dicopper Hydride Complexes](https://dx.doi.org/10.26434/chemrxiv-2025-zsnkg-v2?rft_dat=source%3Ddrss)  
+Daniel L. J., Broere, Roel L. M., Bienenmann, Chattawat, Thangsrikeattigun, Alexandra J., Schanz, Martin, Lutz, Mu-Hyun, Baik  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper investigates how protonation affects the aggregation of PNNP dicopper hydride complexes. Using experimental and computational methods, it establishes a correlation between ligand protonation, electron density redistribution, and aggregation behavior. Findings indicate that while charged monomers typically hinder dimerization, ligand protonation facilitates aggregation by altering electron density distribution, underscoring the role of electronic structure in these complexes.  
+
+- [Engineering Nanoparticle Surface Amphiphilicity: An Integrated Computational and Laser Desorption Ionization Study of Controlled Ligand Self-Assembly](https://dx.doi.org/10.26434/chemrxiv-2025-qx7k2-v2?rft_dat=source%3Ddrss)  
+Zachary, LaFaver, Jacob, Kennedy, Marcus, Dupart Jr., Kateri H., DuBay, David L., Green  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper investigates the self-assembly of dodecanethiol (DDT) and PEG-thiol ligands on gold nanoparticles using MALDI-MS and configurationally biased Monte Carlo simulations. Results show that ligand phase separation leads to patchy Janus-like surfaces, with domain size increasing relative to ligand composition, highlighting method effectiveness in tuning nanoparticle surface amphiphilicity.  
+
+- [Localising Multiple Spin-Charge States in Bridgehead-to-peri Annulated Triptycenes](https://dx.doi.org/10.26434/chemrxiv-2025-trzcq?rft_dat=source%3Ddrss)  
+Iain, Wright, Stefan, Warrington, Antti-Pekka Miikael, Reponen, Tejas, Deshpande, Tamsin, Carolan, Eleanor, Dodd, Simon, Coles, Cate, Anstoter, Sascha, Feldmann  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper explores the design of molecular analogues of nitrogen-vacancy (NV) defects using triptycene as a scaffold. By modifying its structure, the authors created molecules that support multiple localized spin and charge states, which can be switched electrochemically under narrow potentials. This work represents a step towards developing modular molecular quantum materials.  
+
+- [Computational modeling of PROTAC ternary complexes as ensembles using SILCS-PROTAC](https://dx.doi.org/10.26434/chemrxiv-2025-jk9sn?rft_dat=source%3Ddrss)  
+Alex, MacKerell, Erik, Nordquist, Mingtian, Zhao, Wenbo, Yu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper presents SILCS-PROTAC, a novel method for modeling PROTAC ternary complexes using precomputed functional group affinity patterns (FragMaps) and putative PPI dimer structures. It employs a two-step SILCS-MC docking approach, demonstrating high correlation with cell DC50 values across diverse datasets, thereby aiding ligand optimization for targeted therapeutics.  
+
+- [TICT Caused Quenching in Organic Semiconductors](https://dx.doi.org/10.26434/chemrxiv-2025-vg2qh?rft_dat=source%3Ddrss)  
+Bei, Yang, Feng, Gao, Chunyang, Yin, Veaceslav, Coropceanu, Jianhui, Hou, Shaoqing, Zhang, Zhiguo, Zhang, Jun, Yuan  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-11  
+&ensp;The paper investigates the photoluminescence quantum yield (PLQY) in nearly 100 non-fullerene acceptors (NFAs) with emission peaks from 550-1000 nm. It identifies the twisted intramolecular charge transfer (TICT) state as a key quenching pathway, using experimental spectroscopy and quantum calculations. The findings highlight strategies for enhancing emission intensity in organic semiconductors and suggest implications for NFA-based technologies.  
+
+- [DeepFit: physically and chemically informed XAS-Structure fitting made simple](https://dx.doi.org/10.26434/chemrxiv-2025-xn5zb-v2?rft_dat=source%3Ddrss)  
+Kirill, Kulaev, Bogdan, Protsenko, Weiren, Cheng, Qinghua, Liu, Dmitry, Gorbunov, Mikhail, Lifar, Valery, Vlasenko, Anatolii, Burlov, Sergey, Guda  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-11  
+&ensp;The paper presents DeepFit, a deep learning method for XANES spectroscopy analysis. It utilizes a dataset of 67,000 atomic environments with K-edge XAS spectra for transition metals to improve prediction speed and accuracy. The method incorporates physical constraints and enables chemically informed atomic structure refinement for 3D structure prediction, overcoming limitations of traditional approaches in computational demand and specificity.  
+
+
 ## 11 Aug 2025  
 
 - [Magnetite Nanodiscs as Vortex-Enhanced MRI Contrast Agents: A Novel Approach in Medical Imaging](https://dx.doi.org/10.26434/chemrxiv-2024-6zc3p-v4?rft_dat=source%3Ddrss)  
