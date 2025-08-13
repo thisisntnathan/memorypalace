@@ -12,6 +12,62 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 13 Aug 2025  
+
+- [MTAN-ADMET: A Multi-Task Adaptive Neural Network for Efficient and Accurate Prediction of ADMET Properties](https://dx.doi.org/10.26434/chemrxiv-2025-zhrsk?rft_dat=source%3Ddrss)  
+Suman, Chakrabarty, Shaheerah, Shahid, Dibyendu, Maity  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper introduces MTAN-ADMET, a Multi-Task Adaptive Neural Network for predicting ADMET properties directly from SMILES representations. It uses pretrained molecular embeddings and adaptive learning techniques. Evaluated on 24 ADMET endpoints, MTAN-ADMET performs comparably or better than state-of-the-art graph-based models, excelling in challenging toxicity predictions while managing sparse and imbalanced datasets effectively.  
+
+- [Single File Injections (SFI) Enable Thousand-Sample-per-Day Analysis by Liquid Chromatography-Mass Spectrometry](https://dx.doi.org/10.26434/chemrxiv-2025-3qx3t?rft_dat=source%3Ddrss)  
+Miao, Yu, Shujian, Zheng, Vivek, Philip  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper introduces Single File Injections (SFI), a method enabling the analysis of up to 1000 samples per day via liquid chromatography-mass spectrometry. By using pooled samples as references and fixed injection intervals, SFI enhances throughput without instrument changes. An open-source software for SFI data analysis is also developed and available online.  
+
+- [Bismuth Paper as a Lead-Free Alternative to High-Throughput Colorimetric Detection Method for Hydrogen Sulfide](https://dx.doi.org/10.26434/chemrxiv-2025-1r058?rft_dat=source%3Ddrss)  
+Vijay, Krishna, Alan, Chen  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper evaluates bismuth acetate paper as a safe, lead-free alternative for colorimetric detection of hydrogen sulfide (H₂S). It compares bismuth acetate and copper acetate, optimizing paper preparation parameters. Results show bismuth acetate papers have consistent performance and comparable detection range to lead acetate. Practical tests with HepG2 cells confirm its suitability for biological assays.  
+
+- [Ortho-Hydroxyanilides: Slow-Acting, Selective HDAC1/HDAC2 Inhibitors Suitable for Photocaging Applications](https://dx.doi.org/10.26434/chemrxiv-2025-llrnl?rft_dat=source%3Ddrss)  
+Finn Kristian, Hansen, Irina, Honin, Tao, Sun, Linda, Schäker-Hübner  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper identifies ortho-hydroxyanilide ST13 as a selective, slow-binding inhibitor of HDAC1/HDAC2 with notable antiproliferative effects, compared to vorinostat and Cpd 60. Additionally, ST13 was developed into a light-activated prodrug ST17, which releases ST13 upon irradiation, facilitating controlled epigenetic therapy in oncology applications.  
+
+- [Synthesis of 3-dehydroxy-5-epi-collinoketone and its cognitive benefits by reducing aggregates of amyloid-β and tau](https://dx.doi.org/10.26434/chemrxiv-2025-cqswq?rft_dat=source%3Ddrss)  
+Sunkyu, Han, YoungSoo, Kim, Woo Youn, Kim, Seongrok, Heo, Minhae, Cha, Wonho, Zhung, Sirisuk, Keereewan, Soljee, Yoon, JiMin, Kim, Illhwan, Cho, Suhyun, Ye, Jae-Kyung, Heo, Hayoung , Hwang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper discusses the synthesis of 3-dehydroxy-5-epi-collinoketone, a derivative of collinolactone, which exhibits improved pharmacokinetics for Alzheimer's treatment. Utilizing a stereoselective transannular [6+4] cycloaddition, the compound showed enhanced binding to amyloid-β and tau aggregates. In vitro and in vivo studies demonstrated its ability to inhibit Aβ and tau fibrils, improving cognitive functions in AD mouse models.  
+
+- [Using Multiple Isotope-Labeled Infrared Spectra for the Structural Characterization of an Intrinsically Disordered Peptide](https://dx.doi.org/10.26434/chemrxiv-2025-zg815?rft_dat=source%3Ddrss)  
+Andrei, Tokmakoff, Ian Jef, Bongalonta, Aaron, Dinner  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper discusses the structural characterization of the disordered peptide GVGVPGVG using multiple isotope-labeled and unlabeled infrared spectra. It emphasizes the integration of simulations to interpret IR data, highlighting how specific labels and frequency regions enhance structural insights while reducing simulation errors.  
+
+- [Computational modeling of PROTAC ternary complexes as ensembles using SILCS-PROTAC](https://dx.doi.org/10.26434/chemrxiv-2025-jk9sn?rft_dat=source%3Ddrss)  
+Alex, MacKerell, Erik, Nordquist, Mingtian, Zhao, Wenbo, Yu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper presents SILCS-PROTAC, a computational modeling method for designing PROTAC ternary complexes. It employs precomputed ensembles of Functional group affinity patterns (FragMaps) and a two-step SILCS-MC docking method, achieving accurate docking with a diverse set of crystal structures. The method correlates well with DC50 values, demonstrating its effectiveness in optimizing PROTAC ligand design.  
+
+- [Fluorescent Probes Derived from the Polyene Class of Antifungal Drugs Reveal Distinct Localization Patterns and Resistance-Associated Vacuolar Sequestration in Candida Species](https://dx.doi.org/10.26434/chemrxiv-2025-qc50x?rft_dat=source%3Ddrss)  
+Micha , Fridman, Melissa , Shbeta, Tal, Kopp, Ivan, Voronov, Adi, Yona, Rania Hasib, Afana, Shmuel , Carmeli  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper investigates the relationship between the structures of polyene antifungals (amphotericin B, nystatin, natamycin) and their localization in Candida species. Using fluorescent probes developed from these drugs, the study examines subcellular distribution, demonstrating that resistant strains show increased vacuolar accumulation. This suggests that vacuolar sequestration may be a mechanism of resistance, and the probes provide a platform for further analysis.  
+
+- [Promiscuous scaffolds: Friend or foe in fragment-based drug design?](https://dx.doi.org/10.26434/chemrxiv-2025-bmv1h?rft_dat=source%3Ddrss)  
+Oliver, Koch, Ann-Kathrin, Prinz, Philipp, Janssen, Fabiana, Rosini, Carlos, Montanari  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-12  
+&ensp;The paper analyzes promiscuous scaffolds in fragment-based drug design using a scaffold network derived from the ChEMBL database. A Python workflow identified 3124 promiscuous scaffolds linked to different protein targets. Notably, a phenylthiophene-like scaffold was highlighted for its selective interactions, with Cruzipain identified as a new target. The findings suggest both potential and caution in using such scaffolds.
+
 ## 12 Aug 2025  
 
 - [Fluorescent Probes Derived from the Polyene Class of Antifungal Drugs Reveal Distinct Localization Patterns and Resistance-Associated Vacuolar Sequestration in Candida Species](https://dx.doi.org/10.26434/chemrxiv-2025-qc50x?rft_dat=source%3Ddrss)  
