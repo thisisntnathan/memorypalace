@@ -12,6 +12,24 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 14 Aug 2025  
+
+- [A Gold-PROTAC degrades the oncogenic tyrosine kinase MERKT: insights into the degradome from a steady-state system](https://dx.doi.org/10.26434/chemrxiv-2025-s8wbv?rft_dat=source%3Ddrss)  
+Angela Casini, Samuel Meier-Menches, Sophie Thomas, Thomas Iellici, Mihyun Park, Elisabeth Klaus, Andrea Bileck, Christopher Gerner  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-13  
+&ensp;The paper describes the development of a gold-based PROTAC (AuPROTAC) that targets the oncogenic kinase MERTK, utilizing a cyclometalated Au(III) warhead linked to a cereblon binding moiety. The degradome was characterized using a cycloheximide chase assay in HL-60 cells, confirming the selective degradation of 95 proteins by AuPROTAC, compared to 221 by ACBI2. This method can further study degradomes of other PROTACs.  
+- [NMR-Challenge for LLMs: Evaluating Chemical Reasoning in Humans and AI](https://dx.doi.org/10.26434/chemrxiv-2025-x8h36-v2?rft_dat=source%3Ddrss)  
+Tyler Josephson, Samiha Sharlin, Fariha Agbere, Kevin Ishimwe, Zuzana Osifová, Ondřej Socha, Martin Dračínski  
+*Organic Chemistry on ChemRxiv*  
+2025-08-13  
+&ensp;The paper evaluates the reasoning capabilities of large language models (LLMs) in solving Nuclear Magnetic Resonance (NMR) spectral problems, based on 115 tasks from NMR-Challenge.com. Seven LLMs were compared, showing that certain models outperform undergraduate students. While LLMs made similar mistakes to humans, they occasionally provided unique answers. Results indicate potential for LLMs in chemistry education.  
+- [DNA-Scaffolded Ultrahigh-Throughput Reaction Screening](https://dx.doi.org/10.26434/chemrxiv-2025-lm981?rft_dat=source%3Ddrss)  
+Jeffrey Martell, Caleb Cox, Edward Pimentel, Beck Miller, Daniel Nesbitt, Justice LeMonds, Ethan Hartman, Tate Hancock, Robert Kennedy, Joshua Coon, Matthew Sigman  
+*Organic Chemistry on ChemRxiv*  
+2025-08-13  
+&ensp;The paper presents a DNA-encoded combinatorial screening platform that allows a researcher to conduct 504,000 reactions in under 3 days, significantly enhancing reaction screening throughput. This method uses DNA sequencing for analysis and employs data science to create a targeted chemical library. A machine learning model trained on the results aids in reaction development and mechanistic studies.
+
 ## 13 Aug 2025  
 
 - [MTAN-ADMET: A Multi-Task Adaptive Neural Network for Efficient and Accurate Prediction of ADMET Properties](https://dx.doi.org/10.26434/chemrxiv-2025-zhrsk?rft_dat=source%3Ddrss)  
