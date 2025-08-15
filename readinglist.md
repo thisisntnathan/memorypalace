@@ -12,6 +12,39 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 15 Aug 2025  
+
+- [DNA-programmed bispecific peptide assemblies for delivering cytotoxic payload to cells expressing EGFR and MET receptors](https://dx.doi.org/10.26434/chemrxiv-2025-l22xp?rft_dat=source%3Ddrss)  
+Oliver, Seitz; Pritam, Ghosh; Huyen, Dinh  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-14  
+&ensp;The paper presents a strategy for optimizing bispecific peptide agents targeting EGFR and MET receptors using DNA hybridization. Methods included DNA peptide conjugates and template strands, with optimal interactions observed using specific nucleotide spacings. The approach demonstrated potent cytotoxicity with a cleavable payload, emphasizing DNA scaffolding for enhanced, selective cancer therapies.  
+- [In Silico Design of Blinatumomab: A conventional Bispecific T Cell Engager for Targeted Immunotherapy](https://dx.doi.org/10.26434/chemrxiv-2025-25vw8?rft_dat=source%3Ddrss)  
+Nisarg, Shah; Gargi , Sharma; Vihaan , Patel; Gia Bao, Le; Melinda, Wu; Anishreddy,  Mummadi; Anya, Taneja; Moksh, Shah; Madhav, Krishna; Harman, Brah  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-14  
+&ensp;The paper presents an in silico design of Blinatumomab, a bispecific T cell engager for B-cell acute lymphoblastic leukemia. The study employs computational modeling and molecular dynamics simulations to evaluate structural stability and interactions, utilizing crystal structures of anti-CD3 and anti-CD19 scFvs. Energy minimization, MD simulations, and free energy calculations assess the molecule’s properties, facilitating future improvements in BiTE immunotherapy.  
+- [GPT like transformer based conditional molecule generator and a high drug-likeness (QED) dataset generation](https://dx.doi.org/10.26434/chemrxiv-2024-tq75v-v3?rft_dat=source%3Ddrss)  
+Wen, Xing; Juan , Yang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-14  
+&ensp;The paper presents a GPT-like conditional molecule generator that optimizes chemical compound synthesis by incorporating six physicochemical properties, including QED. It generated a high-QED dataset of approximately 2 million molecules, all with a QED over 0.9, highlighting the model's effectiveness in producing viable drug candidates and accelerating drug discovery.  
+- [The Role of Quantum Tunneling in Metal-Ligand Proton Tautomerism](https://dx.doi.org/10.26434/chemrxiv-2025-m8xb2?rft_dat=source%3Ddrss)  
+Daniel L. J., Broere; Stanislav, Melnikov; Vishal , Chugh; Donghun, Hwang; Mu-Hyun, Baik  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-14  
+&ensp;The paper demonstrates metal-ligand proton tautomerism (MLPT) in a ruthenium complex via quantum mechanical tunneling (QMT). Using isotopic labeling, kinetic studies, and computational analysis, it reveals diverse reactivity between tautomers. The findings suggest QMT may be common in pincer-type systems, offering insights into proton dynamics and implications for catalyst design.  
+- [A Restriction-based Configuration Interaction Approach based on LC-DFTB: A Scalable Method for Field-Induced Charge Transfer in Molecular Systems](https://dx.doi.org/10.26434/chemrxiv-2025-sj381?rft_dat=source%3Ddrss)  
+Ji, Huang; Tim, Kowalczyk; Yoshio, Nishimoto; Daisuke, Yokogawa  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-14  
+&ensp;The paper introduces a restriction-based configuration interaction method (RCI-LC-DFTB) for studying field-induced charge transfer in molecular systems. This method extends LC-DFTB and maintains its cost-effectiveness while accurately modeling electron localization and transfer. The approach is validated on benzene assemblies and polyfluorene, demonstrating its scalability and effectiveness in molecular electronic design.  
+- [Discovery of new salt hydration reactions for thermochemical heat storage: from deep-learning predictions to experimental validation](https://dx.doi.org/10.26434/chemrxiv-2025-1814n?rft_dat=source%3Ddrss)  
+Alberto, Pérez de Alba Ortíz; Alexander, Korotkevich; Noushine, Shahidzadeh; Sander, Woutersen; Paul, Tinnemans; Hugo, Meekes; Zuzanna M., Czarnobil  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-14  
+&ensp;The paper presents a deep learning framework for predicting thermodynamic properties of salt hydration reactions, covering over 10^8 possible reactions. With state-of-the-art accuracy on a dataset of (de)hydration reactions, the models were used for large-scale screening and experimentally validated candidates through differential scanning calorimetry, showcasing a robust method for advancing thermal energy storage materials.
+
 ## 14 Aug 2025  
 
 - [A Gold-PROTAC degrades the oncogenic tyrosine kinase MERKT: insights into the degradome from a steady-state system](https://dx.doi.org/10.26434/chemrxiv-2025-s8wbv?rft_dat=source%3Ddrss)  
