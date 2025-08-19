@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 19 Aug 2025  
+
+- [The Artificial Intelligence Guided Search for New CHIPs Comonomers](https://dx.doi.org/10.26434/chemrxiv-2025-kp25m-v2?rft_dat=source%3Ddrss)  
+Thomas, Purcell; Maliheh Shaban, Tameh; Veaceslav, Coropceanu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-18  
+&ensp;The paper investigates Chalcogenide Hybrid Inorganic/Organic Polymers (CHIPs) for IR optics, identifying new comonomers via a gradient boosted tree model. Using data from 960,966 molecules in the GDB dataset, the study predicts 2,942 comonomers with superior optical properties compared to Stillene, analyzing their characteristics both in gas phase and as polymer films.
+
+- [Predicting Supramolecular Stability: A Validated Framework Combining Orthogonal Topological and Electrostatic Descriptors](https://dx.doi.org/10.26434/chemrxiv-2025-737cq?rft_dat=source%3Ddrss)  
+Prasanna, Kulkarni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-18  
+&ensp;The paper presents a multi-scale computational framework to predict supramolecular stability, introducing two descriptors: SNCI for localized interaction strength and SCDI for surface potential homogeneity. Analyzing nearly 3,000 Deep Eutectic Solvent complexes, it classifies them into archetypes, providing insights for designing complex liquids and offering a scalable screening methodology.
+
+- [Machine Learning–Accelerated Design of Near-Infrared TADF Emitters Beyond Conventional Scaffolds](https://dx.doi.org/10.26434/chemrxiv-2025-7lkh7?rft_dat=source%3Ddrss)  
+Anirban, Mondal; Nikhitha, R  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-18  
+&ensp;The paper presents a machine learning-guided strategy for designing near-infrared thermally activated delayed fluorescence (NIR-TADF) emitters. A dataset of 1849 candidate structures was generated, and an ML model screened for low singlet-triplet gaps (ΔEST) and long-wavelength emissions. Eighteen new molecules were discovered, demonstrating enhanced efficiency beyond conventional limits, with potential applications in optoelectronics.
+
+- [Capturing Electron Correlation with Machine Learning through a Data-Driven CASPT2 Framework](https://dx.doi.org/10.26434/chemrxiv-2025-dl4sb?rft_dat=source%3Ddrss)  
+Grier, Jones; Konstantinos, Vogiatzis  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-18  
+&ensp;The paper presents a data-driven CASPT2 (DDCASPT2) method to capture electron correlation using features from lower-level methods like Hartree-Fock and CASSCF. It analyzes system size, basis set size, and excitations on a diverse molecular dataset, employing SHAP for feature insights. The DDCASPT2 method aims to achieve near-CASPT2 accuracy, providing a machine learning alternative to traditional methods.
+
+- [Revolutionizing Scientific Figure Decoding: Benchmarking LLM Data Extraction Performance](https://dx.doi.org/10.26434/chemrxiv-2025-pcq8d?rft_dat=source%3Ddrss)  
+Ivan, Turan; Taylor, Sparks  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-18  
+&ensp;The paper evaluates the performance of large language models (LLMs) in extracting data from scientific figures in materials science. Using a benchmark dataset of published figures, the study reveals both strengths and limitations of LLMs in interpreting visual data, highlighting the potential for AI-assisted data extraction in the field.
+
+- [Generative AI-Driven Discovery of Next-Generation Electrolytes for Alkali Metal Batteries](https://dx.doi.org/10.26434/chemrxiv-2025-5dfpj?rft_dat=source%3Ddrss)  
+Rafiuzzaman, Pritom; Md Mahbubul, Islam  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-18  
+&ensp;The paper explores AI-driven methods for discovering new electrolytes for alkali metal batteries, integrating generative AI and machine learning with quantum mechanical calculations. Utilizing a GAN trained on the GDB-11 database, it generated 30,000 molecules, and properties were predicted using a Message Passing Neural Network with the QM9 dataset. After screening, 26 promising candidates with excellent electrochemical characteristics were identified.
+
 ## 15 Aug 2025  
 
 - [DNA-programmed bispecific peptide assemblies for delivering cytotoxic payload to cells expressing EGFR and MET receptors](https://dx.doi.org/10.26434/chemrxiv-2025-l22xp?rft_dat=source%3Ddrss)  
