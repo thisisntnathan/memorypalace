@@ -12,6 +12,29 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 20 Aug 2025  
+
+- [ReactionSeek: LLM-Powered Literature Data Mining and Knowledge Discovery in Organic Synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-t110q?rft_dat=source%3Ddrss)  
+Sanzhong Luo, Jiawei Li, Minzhou Li, Qi Yang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-19  
+&ensp;The paper presents ReactionSeek, a framework that utilizes large language models (LLMs) to automate data mining from organic synthesis literature, validated on the Organic Syntheses collection. Achieving over 95% precision and recall, ReactionSeek generates an AI-ready dataset, enables a synthetic chatbot for querying, and analyzes catalysis trends, addressing data curation challenges in chemical discovery.  
+- [Leveraging Condensed Graphs of Multi-step Reaction Routes for Clustering Retrosynthetic Pathways](https://dx.doi.org/10.26434/chemrxiv-2025-lnkz6?rft_dat=source%3Ddrss)  
+Alexandre Varnek, Almaz Gainullin, Tagir Akhmetshin, Dmitry Zankov, Olga KLIMCHUK, Dragos Horvath, Timur Madzhidov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-19  
+&ensp;The paper introduces a novel clustering method for retrosynthetic pathways using Strategic Bond Patterns (SBPs) and the RouteCGR formalism in the SynPlanner tool. This two-level strategy achieves more interpretable clusters than existing methods (ASKCOS, AiZynthFinder), aligning better with chemists' intuition, revealing diverse synthetic strategies, and enhancing exploration efficiency. Results indicate faster and meaningful clustering outcomes.  
+- [Assigning the Stereochemistry of Natural Products by Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v3?rft_dat=source%3Ddrss)  
+Jean-Louis Reymond, Markus Orsi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-19  
+&ensp;The paper explores the automatic assignment of stereochemistry in natural products using a language model, NPstereo, trained on the COCONUT database. It achieves 80.2% accuracy for full stereocenter assignments and 85.9% for partial assignments across various natural product classes, such as alkaloids and terpenes, facilitating the correct identification of stereochemistry in newly discovered compounds.  
+- [Machine Learning Intermolecular Electronic Couplings: Opportunities and Challenges](https://dx.doi.org/10.26434/chemrxiv-2025-w0q5r?rft_dat=source%3Ddrss)  
+Nicholas Jackson, Chun-I Wang, Aidan Lindsay  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-19  
+&ensp;The paper reviews the use of machine learning to predict intermolecular electronic couplings (IECs), crucial for charge transfer theories. It highlights challenges in evaluating IECs due to computational costs and discusses advancements that make larger systems analyzable. The authors demonstrate IEC prediction through a case study and outline future directions for improving ML accuracy and interpretability.
+
 ## 19 Aug 2025  
 
 - [The Artificial Intelligence Guided Search for New CHIPs Comonomers](https://dx.doi.org/10.26434/chemrxiv-2025-kp25m-v2?rft_dat=source%3Ddrss)  
