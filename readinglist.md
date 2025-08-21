@@ -12,6 +12,80 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 21 Aug 2025  
+
+- [B3clf: A Resampling-Integrated Machine Learning Framework to Predict Blood-Brain Barrier Permeability](https://dx.doi.org/10.26434/chemrxiv-2025-xschc?rft_dat=source%3Ddrss)  
+Fanwang, Meng; Jitian, Chen; Juan Samuel, Collins-Ramirez; Paul W., Ayers  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents B3clf, a machine learning framework aimed at predicting blood-brain barrier permeability by addressing class imbalance through resampling techniques. It utilizes 24 machine learning models, optimized through hyperparameter tuning. An external BBB dataset is provided, along with access to the tool as open-source software and a web app, enhancing prediction accuracy and confidence reporting.  
+
+- [c0-Conjugated Blatter Radicals: Molecular Structure-Driven Modulation of Optoelectronic Properties and Electrical Conductivity](https://dx.doi.org/10.26434/chemrxiv-2025-qwnzh?rft_dat=source%3Ddrss)  
+Venkata Suresh, Mothika; Prakash C, Mondal; Saurabh K, Rajput; Rajwinder, Kaur; Monika, Yadav; Abantika, Sahoo; Victor, Chechik; Pralok K, Samanta  
+*Organic Chemistry on ChemRxiv*  
+2025-08-21  
+&ensp;The paper investigates the optoelectronic properties and electronic conductivity of c0-conjugated Blatter radicals. Utilizing various substituents, they synthesized radicals 1N to 3N, achieving reduced optical band gaps and increased conductivity, particularly in 1N (7.5 x 10^-6 S m^-1). Time-dependent DFT calculations supported the findings on absorption shifts and spin interactions, highlighting their potential in organic electronics.  
+
+- [General Access to Chiral Piperidines via Enantioselective Catalytic C(sp3)-H Oxidation using Manganese Catalysts](https://dx.doi.org/10.26434/chemrxiv-2025-3l55k?rft_dat=source%3Ddrss)  
+Arnau, Call; Sethuraman, Muthuramalingam; Quentin, Lefebvre; Matthew S., Sigman; Miquel, Costas  
+*Organic Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents a catalytic method for synthesizing chiral piperidines via enantioselective C(sp3)-H oxidation using manganese catalysts and hydrogen peroxide. The reaction yields chiral N,O-acetal products with up to 86% yield and 98% enantioselectivity. The method shows broad functional group compatibility and is supported by mechanistic studies and statistical models for future reaction development.  
+
+- [Host-guest design for stretchable light-emitting polymers reaching an EQE of 20%](https://dx.doi.org/10.26434/chemrxiv-2025-h2k0p?rft_dat=source%3Ddrss)  
+Cheng, Zhang; Wei, Liu; Zhiming, Zhang; Heyi, Liang; Naisong, Shan; Riccardo, Alessandri; Benjamin, Diroll; Bowen, Li; Glingna, Wang; Tianda, Fu; Junyi, Yin; Wonbeom, Lee; Yang, Li; Ruizhe, Yang; Peijun, Guo; Juan, de Pablo; Sihong , Wang  
+*Organic Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents a novel host–guest design for stretchable OLEDs, achieving an external quantum efficiency (EQE) of 20.3%. It utilizes TADF small-molecules integrated within a stretchable host polymer to enhance exciton transfer and reduce triplet–triplet annihilation (TTA). This approach also improves stretchability beyond 150%, advancing the commercial potential of soft optoelectronics.  
+
+- [Stable BF0 Boracycles as Versatile Reagents for Selective Ortho C–H Functionalization](https://dx.doi.org/10.26434/chemrxiv-2025-53g4l?rft_dat=source%3Ddrss)  
+Henrik, Sundén; Ganesh , Shinde; Jonatan, Babiker; Anaïs, Prigent; Gauthier, Foucras; Francoise M. Amombo, Noa; Magnus J, Johansson; Thomas, Cailly  
+*Organic Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents a metal-free, scalable protocol for synthesizing stable BF0 boracycles without column chromatography. These boracycles serve as versatile reagents for selective C–H functionalization and exhibit reactivity in Suzuki–Miyaura cross-coupling, yielding various derivatives. The method enhances organic synthesis efficiency and demonstrates significant potential for complex pharmaceutical molecule construction.  
+
+- [Single-crystalline Poly(disulfide)s Enabled by Photo-Triggered Topochemical Ring-Opening Polymerization of an 1,2-Dithiolane](https://dx.doi.org/10.26434/chemrxiv-2025-0xscj?rft_dat=source%3Ddrss)  
+Qi, Zhang; Zhengbin, Zhu; Xiaoming, Li; Ling, Liu; Yikai, Xu; Da-Hui, Qu; He, Tian  
+*Organic Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents a method for creating single-crystalline poly(disulfide) using photo-triggered topochemical ring-opening polymerization of 1,2-dithiolane. By controlling the monomer's spatial arrangement, UV/visible light or X-ray initiated polymerization achieved superior thermostability and solvent resistance. The dynamic nature of the resulting poly(disulfide) allows for polymer regeneration, representing a step towards dynamic molecular crystals and innovative materials.  
+
+- [Machine learning driven advances in molecular dynamics of aqueous, interfacial systems](https://dx.doi.org/10.26434/chemrxiv-2025-6vdl2?rft_dat=source%3Ddrss)  
+Ruiyu, Wang; Vanessa J. , Meraz; Pratyush , Tiwary  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;This paper reviews the integration of machine learning (ML) in molecular dynamics (MD) simulations of aqueous and interfacial systems, addressing challenges like force field accuracy and simulation constraints. It highlights ML force fields for quantum-level accuracy in large-scale simulations, ML-enhanced sampling for exploring complex configurations, and applications in proton transfer and catalysis. Key insights include enhanced free energy calculations and solvent dynamics impact.  
+
+- [Scalable Low-Energy Molecular Conformer Generation with Quantum Mechanical Accuracy](https://dx.doi.org/10.26434/chemrxiv-2025-k4h7v?rft_dat=source%3Ddrss)  
+Olexandr, Isayev; Filipp, Nikitin; Dylan M. , Anstine; Roman , Zubatyuk; Saee Gopal , Paliwal  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents LoQI, a stereochemistry-aware diffusion model for generating molecular conformers with high accuracy. Utilizing the ChEMBL3D dataset, which includes over 250 million geometries, the model achieves significant enhancements in energy accuracy and conformer recovery. Benchmark tests demonstrate efficient low-energy conformer searches, surpassing traditional methods. Code and dataset are accessible via GitHub.  
+
+- [Identifying Dynamic Metal–Ligand Coordination Modes with Ensemble Learning](https://dx.doi.org/10.26434/chemrxiv-2025-7t9st?rft_dat=source%3Ddrss)  
+Jacob, Toney; Roland, St. Michel; Aaron, Garrison; Ilia, Kevlishvili; Heather, Kulik  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents a method for identifying metal-ligand coordination modes using ensemble learning and graph neural networks, trained on curated datasets of hemilabile and nonhemilabile ligands from the Cambridge Structural Database. The method accurately predicts coordination modes and generates novel transition metal complexes, showing strong agreement with experimental benchmarks. Open-source workflows are proposed to enhance TMC screening.  
+
+- [TorchANI-Amber: Bridging neural network potentials and classical biomolecular simulations](https://dx.doi.org/10.26434/chemrxiv-2025-j0b7s?rft_dat=source%3Ddrss)  
+Adrian, Roitberg; Ignacio, Pickering; Jonathan, Semelak; Jinze, Xue  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents TorchANI-Amber, an interface integrating ANI-style machine learning potentials into the Amber molecular dynamics software. It supports various ANI models and allows for extensions to other potentials, optimizing simulations for large biomolecular systems. Results demonstrate system stability and energy conservation in MD simulations on proteins like ubiquitin, showcasing enhanced sampling techniques.  
+
+- [Integrating Equivariant Architectures and Charge Supervision for Data-Efficient Molecular Property Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-fmlp5?rft_dat=source%3Ddrss)  
+Xian, Kong; Zixiao, Yang; Hanyu, Gao  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents the Molecular Equivariant Transformer (MET), which integrates an Equivariant Graph Neural Network with a Transformer to improve molecular property predictions using quantum-derived atomic charge data. It shows enhanced performance in low-data scenarios and interpretable relationships in structure-property analyses. MET's effective pretraining allows for efficiency in applications across computational chemistry and drug discovery.  
+
+- [In Silico Design of Blinatumomab: A conventional Bispecific T Cell Engager for Targeted Immunotherapy](https://dx.doi.org/10.26434/chemrxiv-2025-25vw8-v2?rft_dat=source%3Ddrss)  
+Nisarg, Shah; Gargi , Sharma; Vihaan , Patel; Gia Bao, Le; Melinda, Wu; Anishreddy,  Mummadi; Anya, Taneja; Moksh, Shah; Madhav, Krishna; Harman, Brah  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-20  
+&ensp;The paper presents an in silico design of Blinatumomab, a bispecific T Cell engager, using computational modeling and molecular dynamics simulations. It involved engineering the structure using crystal data of scFvs and analyzing stability through metrics like RMSD and SASA. This approach aims to enhance BiTE immunotherapy testing and optimization cost-effectively, prior to in vivo synthesis.
+
 ## 20 Aug 2025  
 
 - [ReactionSeek: LLM-Powered Literature Data Mining and Knowledge Discovery in Organic Synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-t110q?rft_dat=source%3Ddrss)  
