@@ -12,6 +12,34 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 22 Aug 2025  
+
+- [MITE: the Minimum Information about a Tailoring Enzyme database for capturing specialized metabolite biosynthesis](https://dx.doi.org/10.26434/chemrxiv-2024-78mtl-v2?rft_dat=source%3Ddrss)  
+Mitja M., Zdouc, David, Meijer, Friederike, Biermann, Jonathan, Holme, Aleksandra, Korenskaia, Jorge C., Navarro-Muñoz, Giang-Son, Nguyen, Adriano, Rutz, Judith, Szenei, Barbara, Terlouw, Marc, Feuermann, Alan J., Bridge, Justin J. J., van der Hooft, Tilmann, Weber, Nadine, Ziemert, Kai, Blin, Marnix H., Medema, Daniel, Probst, César, Aguilar, Daniel Y., Akiyama, Fabrizio, Alberti, Hannah E., Augustijn, Nicole E., Avalon, Christine, Beemelmanns, Hellen, Bertoletti Barbieri, Esteban, Charria Girón, Russell, Cox, Max, Crüsemann, Paul M., D'Agostino, Jennifer, Gerke, Karina, Gutiérrez García, Ji-Yeon, Hwang, Riccardo, Iacovelli, Júliano C., Jeronimo Barbosa, Navneet, Kaur, Martin, Klapper, Anna M., Köhler, Noel, Kubach, Byung T., Lee, Catarina, Loureiro, Shrikant, Mantri, Simran, Narula, Sunaina, Paliyal, Mohit, Panghal, Latika, Rao, Simon, Sieber, Nika, Sokolova, Sven T., Sowa, Heiner G., Weddeling, Jingwei, Yu  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-21  
+&ensp;The paper introduces MITE, a database designed to capture information about tailoring enzymes involved in specialized metabolite biosynthesis. It uses the SMARTS pattern language for annotation and is intended for in silico biosynthesis and machine learning applications. MITE is community-driven, openly accessible, and integrates with existing resources. It supports ongoing data curation and expert review.  
+- [Computational Study on Data Integration in Chiral Catalyst Design: Case Study Using Michael Addition Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-qg5z5-v2?rft_dat=source%3Ddrss)  
+Shigeru, Yamaguchi  
+*Organic Chemistry on ChemRxiv*  
+2025-08-21  
+&ensp;The paper presents a study on chiral catalyst design using regression analysis based on integrated datasets of 718 transition-state structures derived from DFT methods. It covers seven reaction types, including Michael addition. The results show improved enantioselectivity for designed catalysts, accompanied by a web platform for data-driven design and access to the TS database.  
+- [aims-PAX: Parallel Active eXploration for the automated construction of Machine Learning Force Fields](https://dx.doi.org/10.26434/chemrxiv-2025-kzrjn?rft_dat=source%3Ddrss)  
+Tobias, Henkes, Shubham, Sharma, Alexandre, Tkatchenko, Mariana, Rossi, Igor, Poltavskyi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-21  
+&ensp;The paper introduces AIMS-PAX, an active learning framework for machine learning force fields (MLFF). It emphasizes efficient modeling of complex systems and integrates seamlessly with existing codes. Tested on a flexible peptide and CsPbI3 perovskite, AIMS-PAX showed up to 100x reduction in reference calculations and over 20x faster active learning cycle times, enhancing resource efficiency in simulations.  
+- [Identification of TBK1 inhibitors using a combination of pharmacophore- and machine learning-based approaches](https://dx.doi.org/10.26434/chemrxiv-2025-l6kff?rft_dat=source%3Ddrss)  
+Shozeb, Haider, Tanuj, Sharma, Venu Venkatarame Gowda, Saralamma, Yun Seong, Jo, Chang Joong, Kim, Mohammad Hassan, Baig, Jae-June, Dong  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-21  
+&ensp;The paper identifies TBK1 inhibitors using pharmacophore screening and machine learning methods applied to the Korean Chemical Database. Seven compounds showed significant antiproliferative activity (IC50 < 5 μM) in MDA-MB-231 breast cancer cells. These findings can guide the design of new TBK1 inhibitors and establish benchmarks for future research on small molecules targeting TBK1.  
+- [New Insights into how Electrolyte pH affects the Oxygen Reduction Reaction](https://dx.doi.org/10.26434/chemrxiv-2025-qg2sr?rft_dat=source%3Ddrss)  
+Jay, Bender, Rohan, Sanspeur, Nicolas, Bueno Ponce, Angel, Valles, Alyssa, Uvodich, John, Kitchin, Delia, Milliron, Joaquin, Resasco  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-21  
+&ensp;The paper explores how electrolyte pH influences the oxygen reduction reaction (ORR) through changes in binding energies of reaction intermediates. The study finds that ORR rates are weakly pH-dependent for strongly binding metals like Pt, while weakly binding metals like Au exhibit significant pH sensitivity. The findings are supported by experimental kinetics and atomistic simulations.
+
 ## 21 Aug 2025  
 
 - [B3clf: A Resampling-Integrated Machine Learning Framework to Predict Blood-Brain Barrier Permeability](https://dx.doi.org/10.26434/chemrxiv-2025-xschc?rft_dat=source%3Ddrss)  
