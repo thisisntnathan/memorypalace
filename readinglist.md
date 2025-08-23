@@ -12,6 +12,26 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 23 Aug 2025  
+
+- [Investigation of the Anti-Obesity Potential of Caffeine, Caffeic Acid, and Chlorogenic Acid from Green Coffee Beans Using Network Pharmacology and Molecular Docking](https://dx.doi.org/10.26434/chemrxiv-2025-s7wbr?rft_dat=source%3Ddrss)  
+Son, Nguyen Manh; Hoan, Nguyen Duc; Phong, Nguyen Duc; Vang, Pham Huu; Ha, Manh Nguyen; Thao, Ta Thi; Thanh, Nguyen Duc  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-08-22  
+&ensp;The paper investigates the anti-obesity effects of caffeine, caffeic acid, and chlorogenic acid using network pharmacology and molecular docking. It identifies 11,398 obesity-related targets and highlights 27 proteins relevant for treatment. Key targets include MMP2 and MMP9, with chlorogenic acid showing the strongest binding. The findings may guide new drug development for obesity.  
+
+- [Fingerprint-Based Machine Learning for SARS-CoV-2 and MERS-CoV Mpro Inhibition: Highlighting the Potential of Bayesian Neural Networks](https://dx.doi.org/10.26434/chemrxiv-2025-rv352?rft_dat=source%3Ddrss)  
+Valerij, Talagayev; Niklas Piet, Doering; Sijie, Liu; Gerhard, Wolber  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-08-22  
+&ensp;The paper investigates the effectiveness of Bayesian Neural Networks (BNNs) in predicting inhibitors for SARS-CoV-2 and MERS-CoV main proteases using datasets from the ASAP Discovery Consortium. Comparing BNNs with traditional models like random forest and XGBoost, results demonstrate that BNNs significantly outperform these models, highlighting their potential in low-data scenarios.  
+
+- [Polaris Challenge: Data-driven Priors to Improve Docking for Pose Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-fv3c3?rft_dat=source%3Ddrss)  
+Teresa, Head-Gordon; Kunyang, Sun; Yingze, Wang; Justin, Purnomo  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-08-22  
+&ensp;The paper presents a method for predicting ligand binding poses using crystallographic training structures in the ASAP-Polaris-OpenADMET competition. Leveraging Vina-GPU for docking and fragment-derived priors, the approach achieved over 50% success in pose prediction for SARS-CoV-2 and MERS-CoV proteases, demonstrating the effectiveness of transferable fragment knowledge in enhancing accuracy while remaining open-source.
+
 ## 22 Aug 2025  
 
 - [MITE: the Minimum Information about a Tailoring Enzyme database for capturing specialized metabolite biosynthesis](https://dx.doi.org/10.26434/chemrxiv-2024-78mtl-v2?rft_dat=source%3Ddrss)  
