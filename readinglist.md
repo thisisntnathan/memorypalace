@@ -12,6 +12,24 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 24 Aug 2025  
+
+- [Protein self-assembly in crowded environments](https://dx.doi.org/10.26434/chemrxiv-2025-zhb2l?rft_dat=source%3Ddrss)  
+Nadia A., Erkamp; Max C.M., Martens; Zexiang, Han; Tuomas P.J., Knowles; Remco, Tuinier  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-08-23  
+&ensp;This paper presents an analytical mean-field model to predict protein self-assembly in crowded environments, focusing on depletion and electrostatic interactions. The model demonstrates high accuracy by comparing its predictions with 18 experimental phase diagrams of protein-polymer mixtures, confirming its relevance in disease prevention and material science.  
+- [Deep learning vs classical methods in potency & ADME prediction: Insights from the Polaris Antiviral Challenge](https://dx.doi.org/10.26434/chemrxiv-2025-64fcb?rft_dat=source%3Ddrss)  
+Ruel, Cedeno; Yaëlle, Fischer; Dhoha, Triki  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-08-23  
+&ensp;The paper evaluates deep learning versus classical methods in predicting compound potency and ADME profiles using data from the 2025 ASAP-Polaris-OpenADMET Antiviral Challenge. The team ranked first in pIC50 prediction for SARS-CoV-2 and fourth in ADME. Findings reveal deep learning outperforms classical methods for ADME, highlighting the significance of data curation and future modeling opportunities.  
+- [ML-assisted Computational Workflow to the Robust Modeling of Supramolecular Metallacages in Solution](https://dx.doi.org/10.26434/chemrxiv-2025-zt4jf?rft_dat=source%3Ddrss)  
+Iñigo, Iribarren; Julia A., Stebani; Gohar A., Siddiqui; Darren, Wragg; Alessio, Gagliardi; Angela, Casini  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470ce*  
+2025-08-23  
+&ensp;This paper presents a computational workflow for studying self-assembled [Pd2L4]4+ metallacages in water and DMSO, utilizing classical force field and machine learning interatomic potential molecular dynamics simulations. It benchmarks performance against computational costs, providing a framework for screening supramolecular systems, vital for drug delivery applications.
+
 ## 23 Aug 2025  
 
 - [Investigation of the Anti-Obesity Potential of Caffeine, Caffeic Acid, and Chlorogenic Acid from Green Coffee Beans Using Network Pharmacology and Molecular Docking](https://dx.doi.org/10.26434/chemrxiv-2025-s7wbr?rft_dat=source%3Ddrss)  
