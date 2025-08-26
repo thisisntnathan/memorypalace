@@ -12,6 +12,64 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 26 Aug 2025  
+
+- [Construction of an Interpretable Machine Learning Model for Yield Prediction and Mechanistic Elucidation Enabled by Global Reaction Route Mapping](https://dx.doi.org/10.26434/chemrxiv-2025-0qr26?rft_dat=source%3Ddrss)  
+Takahiro Doba, Yu Harabuchi, Yuuya Nagata, Satoshi Maeda  
+*Organic Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper presents a machine learning model for yield prediction and mechanistic elucidation using an energy descriptor derived from the SC-AFIR method, which identifies reaction intermediates. The linear models achieved an RMSE of less than 7% for hold-out samples, demonstrating that energy descriptors can enhance mechanistic interpretability in chemical predictions.  
+- [EquiNet: Modeling Vapor-Liquid Equilibrium Using Simultaneous Neural-Network Predictions for Activity Coefficient and Vapor Pressure](https://dx.doi.org/10.26434/chemrxiv-2025-wmxtm-v2?rft_dat=source%3Ddrss)  
+Charles McGill, M. Zaher Alam, Abdullah Alqallaf  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper introduces EquiNet, a neural network model for predicting vapor-liquid equilibrium in binary systems by estimating activity coefficients and vapor pressures. It leverages molecule SMILES, liquid composition, and temperature data as inputs and outperforms existing models like UNIFAC and HANNA. The results demonstrate enhanced accuracy and usability, supported by a public benchmark dataset.  
+- [Unified Mechanistic Framework for DDQ-promoted Transformation of Electron-deficient Alkenes: the Addition-Coupled Electron Transfer (ACET) Perspective](https://dx.doi.org/10.26434/chemrxiv-2025-2xwpq?rft_dat=source%3Ddrss)  
+Yumiao Ma, Dongtian Xu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper presents a mechanistic framework for DDQ-promoted transformations of electron-deficient alkenes, utilizing high-level computations and experimental methods like kinetics measurements and isotopic effects. It introduces the addition-coupled electron transfer (ACET) mechanism alongside traditional electrophilic addition. The study identifies reaction dynamics based on substrate properties, significantly refining understanding of DDQ reactions and establishing ACET as a general principle in organic chemistry.  
+- [Revealing Competing Kinetic Pathways in Amphiphilic Pt(II) Complex Self-Assembly via Deep Learning with Graph Neural Networks](https://dx.doi.org/10.26434/chemrxiv-2025-qwd69-v2?rft_dat=source%3Ddrss)  
+Xuhui Huang, Zige Liu, Bojun Liu, Siqin Cao  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper explores the self-assembly of amphiphilic Pt(II) complexes using GraphVAMPnet, a deep learning framework incorporating graph neural networks. By analyzing extensive molecular dynamics simulations, three slow collective variables governing self-assembly processes are identified, revealing competing kinetic pathways: an incremental growth mechanism and a hopping growth mechanism. The study highlights the preference for incremental growth towards ordered nanosheet structures.  
+- [The AI Revolution in Chemistry: Shaping the Future of Materials and Biomedical Sciences](https://dx.doi.org/10.26434/chemrxiv-2025-8lrf0?rft_dat=source%3Ddrss)  
+Qiongqiong zhou, Bhuvaneshwari S Baranwal, Ankush Maind, Umesh T Balande, Hina Z Goyal, Leighton O Jones, Leilani M Lotti Diaz, Julian M Ivanov, Dipratn G Khandare  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper reviews AI's impact on chemistry, analyzing over 310,000 articles and patents from the CAS Content Collection (2015–2025). Notable findings include a surge in AI publications since 2020, the use of traditional machine learning and advanced neural networks, and growth in industrial contributions. Challenges in data privacy and model interpretability persist, highlighting AI's evolving role in scientific research.  
+- [An Adapted Similarity Kernel and Generalised Convex Hull for Molecular Crystal Structure Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-2tt4c?rft_dat=source%3Ddrss)  
+Graeme Day, Jennie Martin, Michele Ceriotti  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper presents an adaptation of the Generalised Convex Hull (GCH) for predicting molecular crystal structures by modifying the SOAP kernel for better similarity assessment. The approach was tested on various organic molecular crystal landscapes, leading to enhanced interpretability and improved lattice energy predictions using Gaussian process regression, emphasizing the importance of kernel construction in landscape analysis methods.  
+- [Selective Manipulation of Low-Frequency Modes in Conjugated Polymers via Chirped Optical Frequency Combs](https://dx.doi.org/10.26434/chemrxiv-2025-nm4r1?rft_dat=source%3Ddrss)  
+Elisa Palacino-González, Richard Hildner, Xinpeng Xu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper demonstrates control over low-frequency vibronic dynamics in poly(3-hexylthiophene) using a photoluminescence-detected chirp-dependent double-pump approach. The study reveals that chirping one pump pulse can manipulate quantum beats and initial coherence, highlighting unique symmetry properties. The research suggests that chirp-dependent spectroscopy offers a new tool for exploring low-frequency dynamics in conjugated polymers.  
+- [TorchANI-Amber: Bridging neural network potentials and classical biomolecular simulations](https://dx.doi.org/10.26434/chemrxiv-2025-j0b7s-v2?rft_dat=source%3Ddrss)  
+Adrian Roitberg, Ignacio Pickering, Jonathan Semelak, Jinze Xue  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper presents TorchANI-Amber, an interface that integrates ANI-style machine learning potentials into the Amber molecular dynamics suite, enabling simulations with enhanced accuracy. It supports various ANI models and extends to other energy potentials, including AIMNet2 and Nutmeg. The implementation uses Amber's neighborlists and an optimized CUDA for efficiency.  
+- [Reaction-Based De Novo Design of Synthetically Accessible Competitive Inhibitors Targeting Glutathione S-Transferase Theta 1 (GSTT1)](https://dx.doi.org/10.26434/chemrxiv-2025-j05sk?rft_dat=source%3Ddrss)  
+Andrey Zhivnov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper presents a reaction-based de novo design for synthesizing competitive inhibitors targeting GSTT1, an anti-cancer target. Using Synopsis software and commercial libraries, eight inhibitors were designed with 1-4 synthetic steps. Molecular docking predicted strong binding free energies. Three top candidates demonstrated favorable pharmacokinetics, with limitations noted in static protein structure reliance. Future work should incorporate molecular dynamics and machine learning for optimization.  
+- [Scalable Force Fields for Metal-Mediated DNA Nanostructures](https://dx.doi.org/10.26434/chemrxiv-2025-l24qq-v2?rft_dat=source%3Ddrss)  
+William Livernois, M. P. Anantram, Olaiyan Alolaiyan, Arpan De  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;The paper presents developed force fields for metal-mediated DNA (mmDNA) structures, parameterized using ab initio methods for Ag and Hg coordination. Validation of the framework indicated enhanced stability in the metallated base pairs, with findings consistent with prior experimental data. The results suggest applications in studying long metallated DNA nanowires and focus on three mmDNA base pairs.  
+- [Dye-sensitized solar cells: A study of natural pigments and their potential](https://dx.doi.org/10.26434/chemrxiv-2025-3fcxf?rft_dat=source%3Ddrss)  
+John Mitchell, Kian Sturrock  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-25  
+&ensp;This study evaluates natural pigments like pelargonidin, betanin, lutein, quercetin, and copper chlorophyllin A for dye-sensitized solar cells (DSSCs) using DFT and TD-DFT methods. Results show copper chlorophyllin A as the most effective candidate, with strong absorption and good compatibility with TiO₂. Quercetin also shows promise, suggesting the potential for natural dyes and co-sensitisation in DSSC applications.
+
 ## 24 Aug 2025  
 
 - [Protein self-assembly in crowded environments](https://dx.doi.org/10.26434/chemrxiv-2025-zhb2l?rft_dat=source%3Ddrss)  
