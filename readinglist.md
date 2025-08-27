@@ -12,6 +12,59 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 27 Aug 2025  
+
+- [Room temperature structures of solvated organic molecules enabled by liquid cell electron diffraction](https://dx.doi.org/10.26434/chemrxiv-2025-8ppz1?rft_dat=source%3Ddrss)  
+Jose Rodriguez, Niko Vlahakis, Krzysztof Konieczny, Cameron Flowers, Miguel Garcia-Garibay  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper presents a method to determine room-temperature structures of solvated organic molecules using MicroED techniques with liquid cell setups. It introduces simple grid sandwiches for holding microcrystals in solvent. The approach utilizes fast data collection and direct detectors to minimize radiation damage, enabling the analysis of molecular conformations critical for pharmaceutical research.  
+- [Paraisariamides, cycloheptapeptide toxins from entomopathogenic fungi that inhibit total protein synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-x4f35?rft_dat=source%3Ddrss)  
+Kerry McPhail, Richard Tehan, Daphne Mattos, Takumi Arai, Rikito Suzuki, Anja Paatero, Dale Tranter, Connor Dooley, Gisele Rodriguez, Joseph Spatafora, Ville Paavilainen, Shinya Oishi, Jane Ishmael  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper reports the discovery of paraisariamides A-H, N-methylated cyclic heptapeptides from the entomopathogenic fungus Paraisaria, which inhibit protein synthesis in human cancer cells. The study utilized molecular cartography for spatial distribution visualization in infected beetle larvae. Paraisariamides E-H exhibited high cytotoxicity, indicating potential risks associated with consuming infected edible insects.  
+- [Interpretable Machine Learning Unveils Carbonic Anhydrase Inhibition via Conformal and Counterfactual Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-m69tw?rft_dat=source%3Ddrss)  
+Milad Rayka, Masoumeh Shams Ghamsary, S. Shahab Naghavi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper presents an interpretable machine learning framework to predict selective inhibition of human carbonic anhydrase isoforms II, IX, and XII. Using Support Vector Machines and integrating conformal prediction and counterfactual analysis, the framework enhances activity estimation and molecular interpretability. The approach emphasizes the tail region's role in selectivity and introduces CAInsight software for virtual screening and inhibitor design.  
+- [Discovery of macrocyclic peptide binders, covalent modifiers, and degraders of a structured RNA by mRNA display](https://dx.doi.org/10.26434/chemrxiv-2025-1t0k8?rft_dat=source%3Ddrss)  
+Bryan Dickinson, Xiyuan Yao, Kanokpol Aphicho, Shubhashree Pani, Anuchit Rupanya, Tong Lan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper presents a method for discovering macrocyclic peptide binders targeting structured RNA through mRNA display. Utilizing genetically encoded thioether cyclic peptide libraries, high-affinity covalent and non-covalent binders for the SNCA 5' UTR IRE were identified. Enhanced specificity was achieved using a stringent counterselection strategy, resulting in selective RNA degraders with improved potency for therapeutic applications in neurodegenerative diseases.  
+- [First report: Tagetes erecta inhibits quorum-sensing in Pseudomonas aeruginosa](https://dx.doi.org/10.26434/chemrxiv-2025-xh4td?rft_dat=source%3Ddrss)  
+Jorge Almeida, Gabriel Martínez Gonzalez, Denisse Alejandra Lugo Gutierrez, Cristian S Lopez Santos  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper reports that Tagetes erecta extract significantly inhibits quorum-sensing regulated virulence factors in Pseudomonas aeruginosa strains PaO1, Pa14, and ATCC 27853. Tested at 500, 750, and 1000 µg/mL, it achieved over 95% inhibition of pyocyanin production. Elastase response varied among strains. The study underscores T. erecta's potential as an antivirulence agent. Further research is recommended.  
+- [Deciphering Asymmetric Induction in Photoredox Catalysis by Chiral Counteranions](https://dx.doi.org/10.26434/chemrxiv-2025-dt6qq?rft_dat=source%3Ddrss)  
+Giovanni Bistoni, Lorenzo Baldinelli, Frank Neese, Riya Kayal, Filippo De Angelis, Sofia Lerda  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper explores asymmetric counteranion-directed photoredox catalysis (ACPC) using a chiral IDPi counteranion. Through DFT calculations and multiscale modeling, it reveals that diastereoselectivity stems from aryl–aryl interactions, while enantioselectivity is due to the chiral environment of the counteranion. The study offers insights into designing asymmetric photoredox transformations based on van der Waals interactions.  
+- [A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data](https://dx.doi.org/10.26434/chemrxiv-2025-zd9mr-v2?rft_dat=source%3Ddrss)  
+Jenke Scheen, Hugo MacDermott-Opeskin, Cas Wognum, Joshua T. Horton, Devany West, Alexander Matthew Payne, Maria A. Castellanos, Sean Colby, Edward Griffen, David Cousins, Jessica Stacey, Lauren Reid, Jasmin Cara Aschenbrenner, Daren Fearon, Blake Balcomb, Peter Marples, Charles W.E. Tomlinson, Ryan Lithgo, Max Winokan, Haim Barr, Noa Lahav, Michael Lavi, Shirley Duberstein, Galit Cohen, Gwendolyn Fate, Bruce Lefker, Ralph Robinson, Tamas Szommer, Nick Lynch, Mallory Tollefson, Cynthia Xu, Jonny Hsu, Julien St-Laurent, Honore Etsmoberg, Lu Zhu, Andrew Quirke, Mohamed Iliyas Abdul Haleem, Irfan Alibay, Gunjan Baid, Benjamin Birnbaum, Kevin P. Bishop, Hugo Bohorquez, Ashmita Bose, C.J. Brown, Jackson Burns, Lianjin Cai, Ruel Cedeno, Vladimir Chupakhin, Finlay Clark, Daniel J. Cole, Carles Corbi-Verge, Muhammad Danial, Alec Davi, Wim Dehaen, Niklas Piet Doering, Alexis Dougha, Bryce Eakin, Anatol Ehrlich, Rokas Elijosius, Jozef Fülöp, Anthony Gitter, Yaowen Gu, Teresa Head-Gordon, Ellena Jiang, Benjamin Kaminow, Sina Khosravi, Asma Feriel Khoualdi, Eelke Bart Lenselink, Zhirong Liu, Yue Liu, Sijie Liu, Yizhou Ma, Patrick Maher, Imke Mayer, Antonia Mey, Floriane Montanari, Taoyu Niu, Ryusei Ogino, Ashok Palaniappan, Xiaolin Pan, Auro Patnaik, Long-Hung Pham, Luis Pinto, Justin Purnomo, Alexander Rich, Lars Schaaf, Christoph Schran, Satya Pratik Srivastava, Kunyang Sun, Zhaoxi Sun, Valerij Talagayev, Balamurugan Thirukonda Subramanian Balakrishnan, Alexandre Tkatchenko, Wojtek Treyde, Austin Tripp, Nopsinth Vithayapalert, Yingze Wang, Azmine Toushik Wasi, Steffen Wedig, Bofei Xu, Weijun Zhou, Frank von Delft, Alpha Lee, Karla Kirkegaard, Peter Sjö, James Fraser, John D. Chodera, Gerhard Wolber, Laurent Hoffer, Oscar Mendez-Lucio, Kate Huddleston, Mounika Srilakshmi, Ida Titus, Stephane de Cesco, Marie-Pierre Drénanic, Johan Hofmans, Giovanni Tricarico, Kenneth Goossens, Julien Michel, Rajeev Kumar Singh  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper discusses outcomes from a community blind challenge in pan-coronavirus drug discovery, utilizing lead optimization data from the ASAP Discovery Consortium. Participants developed computational methods to predict the potency and poses of molecules against SARS-CoV-2 and MERS-CoV. The challenge created leaderboards, evaluated methodologies, and provided insights for best practices and future initiatives in drug discovery.  
+- [The Atroposelective Iodination of 2-Amino-6-arylpyridines Catalyzed by Chiral Disulfonimides Actually Proceeds via Brønsted Base Catalysis:  A Combined Experimental and Computational Study](https://dx.doi.org/10.26434/chemrxiv-2025-hk0d9?rft_dat=source%3Ddrss)  
+Scott E. Denmark, Karnjit S. Parmar, Seth Bawel, Mihai V. Popescu, Binh Khanh Mai, Jacob C. Timmerman, Bilal Altundas, Robert S. Paton  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper investigates the atroposelective iodination of 2-amino-6-arylpyridines using chiral disulfonimides and N-iodosuccinimide. It proposes that the DSI acts as a Brønsted base, facilitating enantioselective deprotonation. The study combines experimental data and density functional theory (DFT) analysis to confirm this mechanism and explores catalyst structure through a chemoinformatics approach.  
+- [Assessment of Strong-Correlation Corrected Range-Separated Local Hybrid Functionals for Metalloenzyme Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-4v6r0?rft_dat=source%3Ddrss)  
+Robin Grotjahn, Andrew M. M. Kai, Tiffany T. Nguyen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper evaluates strong-correlation corrected range-separated local hybrid functionals (scRSLHs) for modeling metalloenzyme reactions using the MME55 dataset. The best-performing functional, scRSLH ωLH23tdB-D4, achieves a mean absolute error (MAE) of 2.46 kcal/mol. The study also examines the ENZYMES22 and ECR20 sets, reporting MAEs of 1.45 kcal/mol and 0.63 kcal/mol, respectively, while analyzing computational implementation efficiency.  
+- [Integrating machine learning interatomic potentials with batched optimization for crystal structure prediction](https://dx.doi.org/10.26434/chemrxiv-2025-fqs7n?rft_dat=source%3Ddrss)  
+Linjiang Chen, Chengxi Zhao, Zhaojia Ma, Dingrui Fan, Siyu Hu, Leping Wang, Weile Jia, En Shao, Guangming Tan, Jun Jiang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-26  
+&ensp;The paper presents BOMLIP-CSP, an open-source Python framework that combines machine learning interatomic potentials (MLIPs) with a batched optimization strategy for efficient molecular crystal structure prediction (CSP). Testing with 34 experimental structures, it achieved over 50% recovery of experimental crystals, increasing to over 70% with optimal MLIPs. The framework accelerates searches by ~2.1–2.3×.  
+
 ## 26 Aug 2025  
 
 - [Construction of an Interpretable Machine Learning Model for Yield Prediction and Mechanistic Elucidation Enabled by Global Reaction Route Mapping](https://dx.doi.org/10.26434/chemrxiv-2025-0qr26?rft_dat=source%3Ddrss)  
