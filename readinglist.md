@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 29 Aug 2025  
+
+- [Graph-based prediction of reaction barrier heights with on-the-fly prediction of transition states](https://dx.doi.org/10.26434/chemrxiv-2025-w2kgt-v4?rft_dat=source%3Ddrss)  
+Esther, Heid, Johannes, Karwounopoulos, Jasper, De Landsheere, Leonard, Galustian, Tobias, Jechtl  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper presents a hybrid approach that combines directed message-passing neural networks (D-MPNNs) with generative models to predict reaction barrier heights while also generating transition state geometries on-the-fly. The approach, tested on two datasets (RDB7 and RGD1), enhances accuracy without needing extensive additional input, showing reduced error in predictions compared to traditional methods.  
+
+- [Enhancing Electrostatic Embedding for ML/MM Free Energy Calculations](https://dx.doi.org/10.26434/chemrxiv-2025-ktjh4-v2?rft_dat=source%3Ddrss)  
+João, Morado, Kirill, Zinovjev, Lester O., Hedges, Daniel J., Cole, Julien, Michel  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper presents the electrostatic machine learning embedding (EMLE) method, enhancing ML/MM free energy calculations by incorporating electrostatic interactions. The authors compute absolute hydration free energies for small organic molecules, establish training methodologies using quantum data, and introduce empirical adjustments, improving accuracy and competitiveness of ML/MM simulations versus conventional methods.  
+
+- [ChemAI: A Symbolically Informed Neural Network for Physicochemical Modeling of Reaction Systems](https://dx.doi.org/10.26434/chemrxiv-2025-2hp4c?rft_dat=source%3Ddrss)  
+Souad, Tayane, Jaafar, GABER  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper presents ChemAI, a neural network that models chemical reactions through symbolic representations without requiring extensive experimental data. It formulates chemical equations into differential systems guided by physicochemical laws and includes loss functions to maintain kinetic and thermodynamic principles. ChemAI predicts reaction outcomes, enhancing both interpretability and physical consistency, thus advancing computational chemistry.  
+
+- [Molecular Dynamics of Water Hexamer Anions at Cryogenic Temperatures](https://dx.doi.org/10.26434/chemrxiv-2025-55nsw?rft_dat=source%3Ddrss)  
+László, Turi, Ákos, Galvács, Krisztán, Golobits, Ádám, Madarász, Daniel, Laria  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper investigates water hexamer anions ((H2O)−6) at cryoscopic temperatures using MP2 level ab initio molecular dynamics simulations. It reports vertical electron detachment energies (150-550 meV), highlights significant nuclear quantum effects, and employs neural network-based potential energy surfaces and smoothed trajectory analysis. Findings show enhanced isomer stability and larger quantum distributions compared to classical results.  
+
+- [One To Rule Them All: A Universal Interatomic Potential Learning Across Quantum Chemical Levels](https://dx.doi.org/10.26434/chemrxiv-2024-ng3ws-v3?rft_dat=source%3Ddrss)  
+Pavlo O., Dral, Yuxinxin, Chen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper presents OMNI-P1, a universal interatomic potential that simultaneously learns across multiple quantum chemical levels, addressing the challenge of disparate datasets. This model demonstrates performance comparable to semi-empirical GFN2-xTB and common DFT methods while being significantly faster. It also offers a streamlined way to generate corrections for DFT methods without needing separate models.  
+
+- [Towards the ‘Gold Standard’ in Bootstrap Embedding](https://dx.doi.org/10.26434/chemrxiv-2025-xf3qq-v2?rft_dat=source%3Ddrss)  
+Yi, Sun  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper presents a scalable implementation of CCSD(T) within the Bootstrap Embedding (BE2) framework, achieving significant cost reductions while maintaining accuracy. Benchmark calculations on annulene systems demonstrate near-linear scaling and successful application to complex systems. The BE2-CCSD(T) method outperforms traditional methods and expands the potential for fragment-based correlated wavefunction techniques.  
+
+- [A Closed-Loop Deep Generative Model for the Inverse Design of Radiation-Resistant Polymers](https://dx.doi.org/10.26434/chemrxiv-2025-0w5mv?rft_dat=source%3Ddrss)  
+Nived , Nandakumar  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper presents a closed-loop generative AI framework for designing radiation-resistant polymers using a dataset of SMILES representations. It employs 17 RDKit molecular descriptors and random forest surrogate models to predict glass transition temperatures (Tg) and mass attenuation coefficients (MAC), achieving high accuracy. The framework explores chemical space iteratively, identifying polymers with Tg near 215 °C and MAC above 0.0569 cm²/g.  
+
+- [Defect-Driven Polaron Localization in π-Conjugated Systems: The Role of Spatial Correlation and Coulomb Binding](https://dx.doi.org/10.26434/chemrxiv-2025-491wk-v2?rft_dat=source%3Ddrss)  
+Raja , Ghosh, Abhradeep , Sarkar, Amiya, Paul  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper investigates hole-polaron transport in π-conjugated materials using a Holstein-style Hamiltonian, focusing on defects and dopant-induced Coulomb binding. By analyzing mid-infrared signatures of doped P3HT films, the study reveals how the spatial correlation of defects influences polaron delocalization. The findings offer insights for optimizing polaron transport, with strong theoretical-experimental agreement.  
+
+- [Application of Clar’s Rule for Assessing the Effect of an Epoxy Group on the Stability and Band Gap of Graphene Quantum Dots: a Coronene-Based DFT Study](https://dx.doi.org/10.26434/chemrxiv-2025-t6hgc-v4?rft_dat=source%3Ddrss)  
+Dmitry, Romanov, Igor, Ershov, Anatoly, Lavrentyev  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;This paper utilizes Clar's rule to predict stability and band gap changes in graphene quantum dots (GQDs) with epoxy group attachment, using coronene as a model. Density functional theory (DFT) calculations demonstrate that Clar's rule effectively identifies reactive sites and band gap alterations, offering insights for studying GQDs of varying sizes.  
+
+- [Mining Chemical Space with Generative Models for Battery Materials](https://dx.doi.org/10.26434/chemrxiv-2025-q48jr-v2?rft_dat=source%3Ddrss)  
+Arghya, Bhowmik, Chiku, Parida, Diptendu, Roy, Juan Maria, Garcia Lastra  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-28  
+&ensp;The paper explores the use of the MatterGen generative model to discover novel lithium-ion battery (LIB) materials. A dataset of generated crystalline structures was evaluated based on stability and compared to the Materials Project (MP) data through clustering analysis. The study identified 91 stable Li-containing materials, highlighting two novel cathodes with potential based on Open Circuit Voltage and capacity calculations.
+
 ## 27 Aug 2025  
 
 - [Room temperature structures of solvated organic molecules enabled by liquid cell electron diffraction](https://dx.doi.org/10.26434/chemrxiv-2025-8ppz1?rft_dat=source%3Ddrss)  
