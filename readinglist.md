@@ -12,6 +12,29 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 30 Aug 2025  
+
+- [Predicting the thermodynamics and kinetics of protein-protein interaction from spontaneous association simulations](https://dx.doi.org/10.26434/chemrxiv-2025-cc60b-v2?rft_dat=source%3Ddrss)  
+Line, Mouaffac; Karen, Palacio Rodriguez; Alessandro, Barducci; Peter, Bolhuis; Isabelle, Callebaut; Fabio, Pietrucci  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-29  
+&ensp;This paper predicts thermodynamics and kinetics of protein-protein interactions using all-atom molecular dynamics simulations of barnase and barstar. It identifies three binding pathways and utilizes Langevin models for free-energy and diffusion landscape analysis, yielding robust dissociation rate predictions. The method is data-efficient, needing only tens of sub-microsecond simulations, facilitating detailed studies in biomedical applications.  
+- [A Rhodamine B hydrazide based Cu2+ selective turn-on fluorescent sensor for detection in living cells](https://dx.doi.org/10.26434/chemrxiv-2025-jlbzl?rft_dat=source%3Ddrss)  
+Marlies Roswitha, Körber; Andriy, Mokhir; Dina, Attia; Elisabeth, Kohlbauer-Masson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-29  
+&ensp;The paper introduces EM21, a rhodamine B hydrazide-based sensor for selective Cu(II) detection in living cells. The sensor, modified for cell permeability via n-alkylation, effectively measures Cu(II) concentrations in both cancer and normal human cells under physiological conditions.  
+- [Transient metabolon dynamics tune enzyme specificity](https://dx.doi.org/10.26434/chemrxiv-2025-npkrm?rft_dat=source%3Ddrss)  
+Toru, Nakayama; Riki, Imaizumi; Toshiyuki, Waki; Yoshikazu, Hattori; Kohei, Takeshita; Miru, Sumita; Kazutomo, Kawaguchi; Hiroyuki, Kumeta; Kenichi, Umeda; Kyohei , Sato; Taro , Yanai; Hiroaki, Matsuura; Takeshi, Yokoyama; Risa, Omura; Kayo, Nakatani; Naoki, Sakai; Yukimura, Kawagiwa; Yamato, Doi; Aoi, Yasuda; Takuya, Nakano; Kaichi, Uno; Kunihiro, Yoshida; Misato, Tsunashima; Tomohide, Saio; Yoshikazu, Tanaka; Seiji, Takahashi; Noriyuki, Kodera; Kunishige, Kataoka; Masaki, Yamamoto; Satoshi, Yamashita  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-29  
+&ensp;The paper explores the dynamic interactions between chalcone synthase (CHS) and chalcone isomerase-like protein (CHIL) within flavonoid metabolons. It reveals that transient binding regulates enzyme specificity by modifying the CHS active site, enhancing catalysis while reducing byproducts. These findings advance our understanding of metabolons and suggest implications for synthetic biology and metabolic engineering.  
+- [Quantitative Food Biomarkers Enable Dietary Ontology Referencing Across 500 Foods and Human Plasma](https://dx.doi.org/10.26434/chemrxiv-2025-rkjhd?rft_dat=source%3Ddrss)  
+Julius, Agongo; Harsha , Gouda; Aubreyana  E., McMaugh; Celeste, Allaband; Seyedeh Mehrnaz, Aghili; Marta, Sala-Climent; Shipei, Xing; Mingxun , Wang; Jennifer , Cao; Jasmine, Zemlin; Kathleen, Dorrestein; Tiffany, Holt; Rob, Knight; Brigid S., Boland; Monica, Guma; Pieter C., Dorrestein  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-29  
+&ensp;The paper presents a validated LC-MS/MS method for quantifying 200 food biomarkers across 500 foods and human plasma, achieving high accuracy and reliability. The study identified 102 biomarkers linked to food sources, demonstrating their dietary specificity, particularly in an IBD cohort. This method enhances objective dietary assessments and supports future research in clinical nutrition.
+
 ## 29 Aug 2025  
 
 - [Graph-based prediction of reaction barrier heights with on-the-fly prediction of transition states](https://dx.doi.org/10.26434/chemrxiv-2025-w2kgt-v4?rft_dat=source%3Ddrss)  
