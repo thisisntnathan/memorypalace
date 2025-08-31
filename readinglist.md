@@ -12,6 +12,38 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 31 Aug 2025  
+
+- [Optimizing Drug Activity Using Docking-Informed Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-vg35z?rft_dat=source%3Ddrss)  
+James Proudfoot, Toby Lewis-Atwell, Matthew Grayson  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper presents a method that combines Bayesian optimization (BO) with docking scores to optimize drug activity more efficiently. Using 14 ChEMBL datasets and 4 challenging LIT-PCBA datasets, the approach requires 24-77% fewer data points and achieves 32-159% improvements in enrichment factors compared to traditional methods. It enhances structure-based and ligand-based virtual screening synergy.  
+
+- [Data-driven Design of PROTAC Linkers to Improve PROTAC Cell Membrane Permeability](https://dx.doi.org/10.26434/chemrxiv-2025-24kkf?rft_dat=source%3Ddrss)  
+Yuki Murakami, Shoichi Ishida, Nobuo Cho, Hitomi Yuki, Masateru Ohta, Teruki Honma, Yosuke Demizu, Kei Terayama  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper presents PROTAC-TS, a linker generative model utilizing a chemical language model and reinforcement learning to enhance the cell membrane permeability of PROTACs. A prediction model for permeability was developed, achieving R² = 0.710. The study demonstrates the effective design of PROTAC linkers with improved permeability, advancing PROTAC therapeutic applications.  
+
+- [Distinguishing Isomeric Caffeine Metabolites through Protomers and Tautomers using Cryogenic Gas-Phase Infrared Spectroscopy](https://dx.doi.org/10.26434/chemrxiv-2025-7xjpx?rft_dat=source%3Ddrss)  
+Niklas Geue, Gurpur Rakesh D. Prabhu, Eleonora Renzi, Caitlin Walton-Doyle, Gerard Meijer, Gert von Helden, Kevin Pagel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper investigates the gas-phase structures of caffeine and its metabolites using cryogenic gas-phase infrared spectroscopy and density functional theory. It highlights variations in protonation and tautomerism among metabolites, enabling their distinction through spectroscopy. The findings support improved identification of caffeine metabolites in metabolomics, crucial for analyzing drug interactions.  
+
+- [A bioactive nanocarbon that targets cross-species protein–protein interactions](https://dx.doi.org/10.26434/chemrxiv-2025-x2xsw?rft_dat=source%3Ddrss)  
+Kenichiro Itami, Hayato Yamada, Ryuto Kojo, Takafumi Shiraogawa, Daisuke Shimizu, Daiki Imoto, Nghia Minh Le, Ayato Sato, Atsushi Usami, Jun-ya Hasegawa, Lawrence T. Scott, Kazuma Amaike  
+*Organic Chemistry on ChemRxiv*  
+2025-08-30  
+&ensp;The paper introduces clionene, a molecular nanocarbon that effectively inhibits cross-species protein-protein interactions (PPIs) in insect and human signaling. It demonstrates superior potency and selectivity over cyanidin. Structural modeling reveals clionene's binding mechanism, suggesting that nanocarbons can broaden the chemical space for drug discovery, addressing traditional limitations in therapeutic development.  
+
+- [Green Organocascades: Sustainable Strategies for Metal-Free Asymmetric Organic Synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-qj7r3?rft_dat=source%3Ddrss)  
+Saddam Hussain  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-30  
+&ensp;The paper discusses sustainable strategies in metal-free asymmetric organic synthesis using organocatalysts, which are eco-friendly and cost-effective. It categorizes organocatalysts by structure and activation modes and highlights their applications in one-pot tandem reactions. It emphasizes reactions in sustainable mediums, improving yields and simplifying product isolation through methods like microwaves and ultrasound.
+
 ## 30 Aug 2025  
 
 - [Predicting the thermodynamics and kinetics of protein-protein interaction from spontaneous association simulations](https://dx.doi.org/10.26434/chemrxiv-2025-cc60b-v2?rft_dat=source%3Ddrss)  
