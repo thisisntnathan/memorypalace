@@ -12,6 +12,56 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 01 Sep 2025  
+
+- [Polypharmacology Browser PPB3: A Web-based Deep Learning Tool for Target Prediction Using ChEMBL Data](https://dx.doi.org/10.26434/chemrxiv-2025-rlgq5?rft_dat=source%3Ddrss)  
+Jean-Louis Reymond, Maedeh Darsaraee, Sacha Javor  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper introduces the Polypharmacology Browser PPB3, a web-based tool using deep neural networks trained on ChEMBL 34 data, comprising 2,496,555 interactions between 1,187,089 molecules and 7,546 targets. This approach outperforms previous models in predicting polypharmacology, demonstrating high recall and precision across various target types. The tool is accessible online.
+
+- [MolEncoder: Towards Optimal Masked Language Modeling for Molecules](https://dx.doi.org/10.26434/chemrxiv-2025-h4w9d?rft_dat=source%3Ddrss)  
+Fabian Per Krüger, Nicklas Österbacka, Mikhail Kabeshov, Ola Engkvist, Igor Tetko  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper presents MolEncoder, a BERT-based model for predicting molecular properties in drug discovery. It investigates the effects of masking ratio, pretraining dataset size, and model size on performance, finding better results with higher masking ratios. MolEncoder outperforms existing models while being more computationally efficient. The authors release MolEncoder to promote accessible molecular representation learning.
+
+- [Reaction-Based De Novo Design of Synthetically Accessible Competitive Inhibitors Targeting Glutathione S-Transferase Theta 1 (GSTT1)](https://dx.doi.org/10.26434/chemrxiv-2025-j05sk-v2?rft_dat=source%3Ddrss)  
+Andrey Zhivnov  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;This paper presents a reaction-based de novo design of novel competitive inhibitors targeting GSTT1, a potential anti-cancer target. Using Synopsis software and libraries like Chemspace and Enamine, eight inhibitors were designed with one to four synthetic steps. Molecular docking predicted strong binding energy, and in silico pharmacokinetics indicated favorable profiles for three top candidates, though some had concerns regarding permeability and metabolism.
+
+- [Optimizing Drug Activity Using Docking-Informed Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-vg35z?rft_dat=source%3Ddrss)  
+James Proudfoot, Toby Lewis-Atwell, Matthew Grayson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper discusses optimizing drug activity using Bayesian optimization (BO) enhanced by machine learning (ML) with pre-computed docking scores as features. It reports a significant reduction in data points needed (24% to 77%) and improved enrichment factors (32% to 159%) when using docking features over traditional methods. The approach was tested on 14 ChEMBL and 4 LIT-PCBA datasets.
+
+- [Data-driven Design of PROTAC Linkers to Improve PROTAC Cell Membrane Permeability](https://dx.doi.org/10.26434/chemrxiv-2025-24kkf?rft_dat=source%3Ddrss)  
+Yuki Murakami, Shoichi Ishida, Nobuo Cho, Hitomi Yuki, Masateru Ohta, Teruki Honma, Yosuke Demizu, Kei Terayama  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper presents PROTAC-TS, a generative model that combines a chemical language model and reinforcement learning to design PROTAC linkers with improved cell membrane permeability. A prediction model achieved R² = 0.710 for cell membrane permeability, enabling the design of linkers that enhance both permeability and PROTAC likeness, thereby accelerating PROTAC development.
+
+- [RouteWise – An Integration Friendly Platform for Interactive Synthesis Routes](https://dx.doi.org/10.26434/chemrxiv-2025-9n358?rft_dat=source%3Ddrss)  
+Gergely Zahoránszyk-Kőhalmi, Ilia Vorontcov, Nathan Miller, Brandon Walker, Brett Yang, Jeyaraman Soundararajan, Jennifer King, Dhatri V. L. Penna, Sridhar Vuyyuru, Laura Brovold, Ivan Grishagin, Rob Gill, Tim Palmer, Uladzimir Pryshchep, Alexander Litvinov, Oleg Stroganov, Darya Liashchynskaya, Stefaniya Yanovich, Tania Khasanova, William Cole, Samuel G. Michael, Carleen Klumpp-Thomas, Thierry Masquelin, Alexander G. Godfrey  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;RouteWise is a web application designed for effective visualization of complex synthesis routes in computer-aided synthesis planning (CASP). It features a modular architecture for easy integration, accepts JSON inputs for synthesis graphs, and allows simultaneous visualization of evidence-based and predicted routes. The platform supports multiple users and ensures data privacy, addressing key limitations in current solutions.
+
+- [Multiconfigurational electronic structure explains the role of ligands in g-tensor anisotropy for Ru(III) complexes](https://dx.doi.org/10.26434/chemrxiv-2025-jj345?rft_dat=source%3Ddrss)  
+Pavel Pokhilko, Yulia Pushkar  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper analyzes the g-tensor anisotropy of Ru(III) complexes using multiconfigurational electronic structure methods on twelve reactive intermediates relevant for water oxidation. It highlights ligand effects on electronic states and spin-orbit coupling, providing a theoretical basis that aligns with experimental results. The findings suggest adjustments to existing computational practices.
+
+- [Teaching chemists to code with diversity in mind: a pedagogy of belonging for end-user conditions](https://dx.doi.org/10.26434/chemrxiv-2025-sbhws-v2?rft_dat=source%3Ddrss)  
+Marie van Staveren  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-08-31  
+&ensp;The paper addresses the equity implications of teaching coding to chemistry students, focusing on enhancing chemistry identity for historically excluded groups. It recommends interactive pedagogies like Live Coding and tailored instruction based on prior knowledge to foster inclusivity. The aim is to help all students feel they belong in the field of chemistry.
+
 ## 31 Aug 2025  
 
 - [Optimizing Drug Activity Using Docking-Informed Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-vg35z?rft_dat=source%3Ddrss)  
