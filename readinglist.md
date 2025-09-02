@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 02 Sep 2025  
+
+- [Refining genetic circuit design for enhanced type II polyketide biosynthesis in Escherichia coli](https://dx.doi.org/10.26434/chemrxiv-2025-t3whv?rft_dat=source%3Ddrss)  
+S. Eric, Nybo; Zeynab, Aghabayli; Isabel, Henige; Megan, Ley; Courtney L., Brown; Oona, Nieminen; Kendall, Paige; Alicia, Brock; Hope, McGillis; Hope, Flowers; Alexis, Bruglio; Nicole , Richards; Christopher, Nostrant; Xuechen, Zhu; Mikko, Metsä-Ketelä  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-02  
+&ensp;The paper explores enhancing type II polyketide biosynthesis in E. coli by refining genetic circuits from Photorhabdus luminescens PKS. Through promoter engineering and ribosome binding site optimization, they achieved production titers of 181 mg/L SEK4 and 392 mg/L SEK4b. Further refinements and metabolic reprogramming boosted yields by 25%, demonstrating E. coli’s potential for scalable natural product biosynthesis.
+- [iEDDA-assisted Proximity Labeling for Dynamic Analysis near Nuclear Lamina](https://dx.doi.org/10.26434/chemrxiv-2025-4vx6x?rft_dat=source%3Ddrss)  
+Ying, Li; Xueqing, Kong; Jinghua, Han; Kaiyun, Zhao; Han, Jia  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-01  
+&ensp;The paper introduces iEDDA-assisted proximity labeling to enhance RNA localization studies by enabling efficient differentiation of RNAs across different locations and time points. The integration of iEDDA with copper-catalyzed methods allows for improved biomolecular dynamics monitoring. The study addresses limitations in current RNA localization techniques and highlights the biological impact of proximity labeling.
+- [Efficient Decoy Selection to Improve Virtual Screening Using Machine Learning Models](https://dx.doi.org/10.26434/chemrxiv-2025-2hh8z-v2?rft_dat=source%3Ddrss)  
+Oliver, Koch; Janosch, Menke; Felipe, Victoria-Munoz; Norberto, Sanchez-Cruz  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-01  
+&ensp;The paper evaluates decoy selection strategies to improve machine learning models for drug discovery, specifically using Protein per Atom Score Contributions Derived Interaction Fingerprint (PADIF). It employs decoys from databases such as ZINC15, high-throughput screening, and docking results with active compounds from ChEMBL. Results indicate that random and dark chemical matter selections yield models with performance akin to those trained on actual non-binders, enhancing molecular docking's screening power.
+- [Leveraging Condensed Graphs of Multi-step Reaction Routes for Clustering Retrosynthetic Pathways](https://dx.doi.org/10.26434/chemrxiv-2025-lnkz6-v2?rft_dat=source%3Ddrss)  
+Alexandre, Varnek; Almaz, Gilmullin; Tagir , Akhmetshin; Dmitry , Zankov; Olga, KLIMCHUK; Dragos , Horvath; Timur , Madzhidov  
+*Organic Chemistry on ChemRxiv*  
+2025-09-01  
+&ensp;The paper presents a new clustering methodology for retrosynthetic pathways using Strategic Bond Patterns (SBPs) and a two-level clustering strategy implemented in the SynPlanner tool. By extending Condensed Graphs of Reactions (CGR) to multi-step pathways, the method yields more interpretable clusters compared to existing tools like ASKCOS and AiZynthFinder, enhancing synthetic strategy exploration and decision-making.
+- [Generation of Enantiospecific Monoclonal Antibodies Against (2R,6R)-Hydroxynorketamine](https://dx.doi.org/10.26434/chemrxiv-2025-v2pvg?rft_dat=source%3Ddrss)  
+Cody J., Wenthur; Natalie M., Gonzalez-Velazquez; Uriel Matthew, Enriquez; Mohammad Mosharraf, Hossain; Jillian L., Kyzer; Ilia A., Guzei  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-01  
+&ensp;The paper details the development of enantiospecific monoclonal antibodies against (2R,6R)-hydroxynorketamine. Using a bioconjugate system with hapten generation through reductive amination and amide coupling, the study achieved strong antibody titers in mice. The identified antibody 6F11-HC1-LC2 showed sub-nanomolar affinity and over 150-fold selectivity for (2R,6R)-hydroxynorketamine, demonstrating its potential for further antidepressant studies.
+- [Do Amino-Oxetanes Resemble Amides? A Matched Molecular Pairs Property and Structural Comparison](https://dx.doi.org/10.26434/chemrxiv-2025-hkhlq?rft_dat=source%3Ddrss)  
+James A, Bull; Hikaru, Ishikura; Callum S, Begg; Luka, Blagojevic; Juan J, Rojas; Gavin J, Smith; Joyce, Luk; Rosemary A., Croft; Charles, Romain; Chulho, Choi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-01  
+&ensp;The paper investigates the viability of amino-oxetanes as isosteric replacements for amides through a matched molecular pair study of twelve pairs. It finds that amino-oxetanes have comparable physicochemical properties, better solubility, and lower barriers to rotation than amides, but resembles sulfonamides more closely in topology. The research supports the potential of amino-oxetanes in drug design.
+- [FAIRSpec-Ready Spectroscopic Data Collections – Advice for Researchers, Authors, and Data Managers (IUPAC Technical Report)](https://dx.doi.org/10.26434/chemrxiv-2025-vqhnd-v3?rft_dat=source%3Ddrss)  
+Henry, Rzepa; Mark, Archibald; Ian, Bruno; Antony, Davies; Robert, Hanson; Stefan, Kuhn; Robert, Lancashire; Stuart, Chalk  
+*Organic Chemistry on ChemRxiv*  
+2025-09-01  
+&ensp;The paper proposes guidelines for creating FAIRSpec-ready spectroscopic data collections, enhancing findability and usability of data. It emphasizes systematic data organization throughout the research process, ensuring metadata extraction for IUPAC FAIRSpec Data Collection. Key methods include associating datasets with chemical structures and promoting automated metadata creation. The report urges researchers to maintain data in an accessible format for better reuse.
+- [SynKit: A Graph-Based Python Framework for Rule-Based Reaction Modeling and Analysis](https://dx.doi.org/10.26434/chemrxiv-2025-0rhb9?rft_dat=source%3Ddrss)  
+Tieu-Long, Phan; Marcos E. Gonzalez  , Laffitte; Klaus , Weinbauer; Daniel , Merkle; Jakob L. , Andersen; Rolf , Fagerberg; Thomas, Gatter; Peter F., Stadler  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-01  
+&ensp;SynKit is an open-source Python framework designed for modeling and analyzing chemical reactions. It includes tools for reaction canonicalization, transformation classification, and a Mechanistic Transition Graph for detailed representation of reaction mechanisms. SynKit integrates with RDKit and NetworkX, enhancing accessibility and compatibility with existing workflows, and can coordinate with specialist packages for advanced analyses.
+
 ## 01 Sep 2025  
 
 - [Polypharmacology Browser PPB3: A Web-based Deep Learning Tool for Target Prediction Using ChEMBL Data](https://dx.doi.org/10.26434/chemrxiv-2025-rlgq5?rft_dat=source%3Ddrss)  
