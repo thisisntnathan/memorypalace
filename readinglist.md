@@ -12,6 +12,34 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 03 Sep 2025  
+
+- [Optimizing Drug Activity Using Docking-Informed Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-vg35z-v2?rft_dat=source%3Ddrss)  
+James, Proudfoot; Toby, Lewis-Atwell; Matthew, Grayson  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-02  
+&ensp;The paper presents a method that combines Bayesian optimization (BO) with pre-computed docking scores and features to optimize drug activity more efficiently. It reports a 24-77% reduction in data points needed and a 32-159% improvement in enrichment factors from traditional methods. The approach was tested on 14 ChEMBL datasets and 4 challenging LIT-PCBA datasets, demonstrating enhanced efficiency in drug discovery.  
+- [Major Depressive Disorder Diagnosis with miRNA-Based Quantum Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-hrhgq?rft_dat=source%3Ddrss)  
+Igor, Tsigelny; Saanvi, Dogra; Valentina, Kouznetsova  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-02  
+&ensp;The paper presents a quantum machine learning approach to diagnose Major Depressive Disorder (MDD) using a dataset of 108 miRNAs, including 54 dysregulated in MDD. The quantum classifier achieved 90% accuracy, while a Multilayer Perceptron model reached 87%. This work highlights the potential of quantum computing in mental health diagnostics, especially for identifying complex patterns.  
+- [MolSculptor: an adaptive diffusion-evolution framework enabling generative drug design for multi-target affinity and selectivity](https://dx.doi.org/10.26434/chemrxiv-2025-v4758-v2?rft_dat=source%3Ddrss)  
+Yanheng, Li; Xiaohan, Lin; Yize, Hao; Jun, Zhang; Yi Qin, Gao; Yundong, Wu  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-02  
+&ensp;The paper presents MolSculptor, an adaptive diffusion-evolution framework for generative drug design targeting multiple proteins. It integrates a 3D-aware surrogate model and active learning to optimize inhibitor design without requiring extensive datasets or expert knowledge. Results demonstrate its superior performance in creating high-quality candidates, outperforming existing methods, and yielding compounds with better predicted affinities than validated references.  
+- [Identification of Spirodioxolane nsP2 Helicase Inhibitors with Antialphaviral Activity](https://dx.doi.org/10.26434/chemrxiv-2025-mfts7?rft_dat=source%3Ddrss)  
+Timothy, Willson; Hans, Oh; John, Sears; Muthu Bose, Ramalingam; Rahman Shah Zaib, Saleem; Zachary , Davis-Gilbert; Mohammed Anwar , Hossain; Stella,  Moorman; Durbadal, Ojha; Sabian, Martinez; Jane, Burdick; Rafael, Couñago; Nathaniel, Moorman; Mark, Heise; Matthew, Todd  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-02  
+&ensp;This paper reports the design and synthesis of spirodioxolane inhibitors targeting the alphavirus nsP2 helicase, demonstrating antiviral activity against Chikungunya virus and Venezuelan equine encephalitis virus. The spirodioxolanes showed no enantioselectivity and maintained efficacy against resistant viral mutants, highlighting their potential as new broad-spectrum antialphaviral agents.  
+- [Refining genetic circuit design for enhanced type II polyketide biosynthesis in Escherichia coli](https://dx.doi.org/10.26434/chemrxiv-2025-t3whv?rft_dat=source%3Ddrss)  
+S. Eric, Nybo; Zeynab, Aghabayli; Isabel, Henige; Megan, Ley; Courtney L., Brown; Oona, Nieminen; Kendall, Paige; Alicia, Brock; Hope, McGillis; Hope, Flowers; Alexis, Bruglio; Nicole , Richards; Christopher, Nostrant; Xuechen, Zhu; Mikko, Metsä-Ketelä  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-02  
+&ensp;The paper investigates enhancing type II polyketide biosynthesis in E. coli by refining genetic circuits from Photorhabdus luminescens. Methods included promoter engineering and ribosome binding site optimization, resulting in production titers of 181 mg/L SEK4 and over 200 mg/L of other polyketides. The study demonstrates E. coli's potential for scalable production of valuable natural products.
+
 ## 02 Sep 2025  
 
 - [Refining genetic circuit design for enhanced type II polyketide biosynthesis in Escherichia coli](https://dx.doi.org/10.26434/chemrxiv-2025-t3whv?rft_dat=source%3Ddrss)  
