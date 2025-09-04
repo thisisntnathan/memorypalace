@@ -12,6 +12,51 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 04 Sep 2025  
+
+- [Structure-Based Design and Development of 2-Oxindole Derivatives as Next Generation Ku-DNA Binding Inhibitors (Ku-DBi’s) for Cancer Therapy](https://dx.doi.org/10.26434/chemrxiv-2025-bp68g?rft_dat=source%3Ddrss)  
+Navnath S., Gavande; Narva Deshwar , Kushwaha; Dineshsinha , Chauhan; Pamela L.,  Mendoza-Munoz; Joseph , Engel; Hariprasad , Aruri; Ladislau C. , Kovari; John J. , Turchi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-03  
+&ensp;The paper discusses the development of 2-oxindole derivatives as next-generation Ku-DNA binding inhibitors (Ku-DBi’s) for cancer therapy, targeting the Ku70/Ku80 interaction. Using structure-activity relationship optimization, lead compounds showed potent inhibitory activity (1-4 µM) and enhanced solubility and permeability. Key findings highlight candidates with improved cellular uptake, supporting their potential as adjuvant therapies for DNA damage-related cancers.  
+
+- [Antileishmanial and Antitoxoplasmal Activities of Acetone-Derived Monoketone Curcuminoids](https://dx.doi.org/10.26434/chemrxiv-2025-41gsj?rft_dat=source%3Ddrss)  
+Antônio, Crotti; Yan, Robles; Tatiana, Vieira; Waleed, Koko; Tarik, Khan; Ismail, Daoud; Seyfeddine, Rahali; Noureddine, Amdouni; Ridha, Ben Said; Ibrahim, Al Nasr  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-03  
+&ensp;The paper investigates the antileishmanial and antitoxoplasmal activities of eight acetone-derived monoketone curcuminoids synthesized via Claisen-Schmidt condensation. Compounds 4 and 5 demonstrated strong efficacy against Leishmania major and Toxoplasma gondii, with IC50 values of 6.9 µM and 15.8 µM, respectively. Additionally, halogen presence enhances activity and both compounds meet drug-likeness criteria.  
+
+- [A bioactive nanocarbon that targets cross-species protein–protein interactions](https://dx.doi.org/10.26434/chemrxiv-2025-x2xsw-v2?rft_dat=source%3Ddrss)  
+Kenichiro, Itami; Hayato, Yamada; Ryuto, Kojo; Takafumi, Shiraogawa; Daisuke, Shimizu; Daiki, Imoto; Nghia Minh, Le; Ayato, Sato; Atsushi, Usami; Jun-ya, Hasegawa; Lawrence T., Scott; Kazuma, Amaike  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-03  
+&ensp;The paper reveals a new bioactive nanocarbon, clionene, that inhibits protein–protein interactions in both insect and human systems, outperforming the flavonoid cyanidin. Structural models and molecular dynamics simulations show clionene binds effectively at key interfaces. This discovery expands the chemical space for drug design and suggests novel therapeutic strategies across different species.  
+
+- [LightChem: A Lightweight Domain-Specific Language Model for Molecular Property and Reaction Prediction in Chemistry](https://dx.doi.org/10.26434/chemrxiv-2025-wd80w?rft_dat=source%3Ddrss)  
+Guoqiang, Wang; Jing , Ma; Wei , Li; Hao , Dong; Xin , Chen; Yinghuan , Shi; Yu , Zhang; Jian , Zhang; Yuming , Gu; Qiantu , Tao; Linke , He; Daojing , Li; Junhui  , Sun; Dingwen , Fan; Yijie , Gao; Jiawei , Chen; Rongxin , Shi; Ziyang , Wu; Yuchuan, Chen; Dong , Zheng; Zhaopeng , Gu; Yijian, Zhang; Qingqing , Jia; Lifeng , Zheng; Shihao , Yuan; Fujian , Yang; Yilin , Liu; Yiling , Cai; Cheng , Zhang; Bingcai , Cai; Guoao , Li; Tianyu , Zhang; Yang , Zhou; Yuang , Liu; Tianyue,  Zhang; Sihan , Xing; Zekun, Li; Xiaoshi , Su; Dong , Fan; Hongyu , Qian; Xuehan , Li; Boyuan , Zhang; Yewei , Xiao; Xu , Liu; Yan,  Zhu; Qiang , Zhu; Qian , Liu; Shuang , Chen; Jin , Wen; Ziyi , Yu; Guixiang, Zeng; Yong , Liang; Yi , Wang; Weigao, Xu; Jianyi , Wang; Yang , Gao; Shuhua , Li; Manyi , Yang  
+*Organic Chemistry on ChemRxiv*  
+2025-09-03  
+&ensp;The paper presents LightChem, a lightweight domain-specific language model for predicting molecular properties and reactions in chemistry. It utilizes retrieval-augmented generation and features a three-layer architecture, integrating RAPTOR for real-time updates. Case studies validate its effectiveness in predicting lipophilicity and binding energies, while a user-friendly interface enhances accessibility for researchers. However, challenges in predicting HOMO–LUMO gaps remain.  
+
+- [Theory Meets Experiment in Ammonia Decomposition on Li14Cr2N8O: From Order to Disorder Under Reaction Conditions](https://dx.doi.org/10.26434/chemrxiv-2025-1fx3j?rft_dat=source%3Ddrss)  
+Umberto, Raucci; Francesco , Mambretti; Oscar , Gómez-Capiro; Mirabbos, Hojamberdiev; Stefan, Berendts; Holger , Ruland; Martin , Lerch; Michele , Parrinello  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-03  
+&ensp;The paper investigates the dynamic behavior of the Li14Cr2N8O catalyst for ammonia decomposition using machine learning-accelerated molecular dynamics, in situ X-ray diffraction, and catalytic activity measurements. It reveals significant structural transformations and increased reactivity under reaction conditions, emphasizing that catalytic activity emerges from the catalyst's evolving properties rather than fixed sites.  
+
+- [Transient Microkinetic Modeling of Electrochemical Reactions: Capturing Unsteady Dynamics of CO Reduction and Oxygen Evolution](https://dx.doi.org/10.26434/chemrxiv-2025-rggk3-v2?rft_dat=source%3Ddrss)  
+Ananth, Govind Rajan; Shivam, Chaturvedi; Amar Deep, Pathak; Nishant, Sinha  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-03  
+&ensp;The paper presents an unsteady-state microkinetic modeling (USS-MKM) framework for electrochemical reactions like CO reduction and oxygen evolution. It utilizes potential sweeping to capture transient dynamics and validates findings against steady-state data and experimental current density results. This automated approach enhances the study of complex electrocatalytic mechanisms, facilitating analysis under dynamic conditions.  
+
+- [Comparing Force Field Treatments in QM/MM Studies of the SARS-CoV-2 RNA-Dependent RNA Polymerase (RdRp) Mechanism](https://dx.doi.org/10.26434/chemrxiv-2025-bcbpz?rft_dat=source%3Ddrss)  
+Yazdan, Maghsoud; Maite, Roca; G. Andrés, Cisneros; Katarzyna, Świderek; Vicent , Moliner  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-03  
+&ensp;The paper investigates the molecular mechanism of SARS-CoV-2 RNA-dependent RNA polymerase (RdRp) using QM/MM simulations with fixed-charge (cFF) and polarizable force fields (pFF). The free energy perturbation (FEP) method reveals a three-step, exergonic mechanism, with the rate-determining step's free energy barrier at 15.2 kcal mol−1. pFF offers a more accurate description of the electronic environment.  
+
+
 ## 03 Sep 2025  
 
 - [Optimizing Drug Activity Using Docking-Informed Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-vg35z-v2?rft_dat=source%3Ddrss)  
