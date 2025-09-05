@@ -12,6 +12,34 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 05 Sep 2025  
+
+- [epiGPTope: A machine learning-based epitope generator and classifier](https://dx.doi.org/10.26434/chemrxiv-2025-hjjjb?rft_dat=source%3Ddrss)  
+Aitor, Manteca; Natalia , Flechas Manrique; Alberto , Martínez; Elena , López-Martínez; Luc,  Andrea; Román , Orus; Aitziber , L. Cortajarena; Llorenç , Espinosa-Portalés  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-04  
+&ensp;The paper introduces epiGPTope, a machine learning model that generates and classifies linear epitopes to aid in immunotherapy development. It utilizes a large language model pre-trained on protein data and fine-tuned on epitopes. The model generates novel sequences and employs classifiers to identify bacterial or viral origins, enhancing epitope discovery efficiency.  
+- [Activity Descriptors of Mo2C-based Catalysts for C-OH Bond Activation](https://dx.doi.org/10.26434/chemrxiv-2025-pg52l?rft_dat=source%3Ddrss)  
+Raghavendra, Meena; Michael J., Purcell; Wouter, Kluijtmans; Han, Zuilhof; Johannes H., Bitter; Runhai, Ouyang; Guanna, Li  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-04  
+&ensp;The paper investigates Mo2C-based catalysts for C-OH bond activation using machine learning and density functional theory (DFT). It finds the 101 facet most active and Zr/Nb doping enhances catalytic activity. Ridge Regression predicts activation energy (Ea) with RMSE of 0.21 eV, identifying d-band center and reaction energy (ΔE) as key features. SISSO validates the results.  
+- [CrystalNets: a web app for topology determination of crystalline structures](https://dx.doi.org/10.26434/chemrxiv-2025-bmthz?rft_dat=source%3Ddrss)  
+François-Xavier, Coudert; Lionel, Zoubritzky  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-04  
+&ensp;The paper presents CrystalNets, a web application for determining and visualizing the topology of crystalline structures from CIF format atomic data. It offers customizable options for bonding detection and clustering models, with a default mode utilizing advanced heuristics. Additionally, improvements were made to the CrystalNets.jl library for handling unstable nets effectively.  
+- [Mapping Antibiotic Photocatalytic Transformation and Resistance Risks with a DFT-Informed Machine Learning Workflow](https://dx.doi.org/10.26434/chemrxiv-2025-qwcm6?rft_dat=source%3Ddrss)  
+Chen-Chen, Zhao; Sihan, Xing; Cheng, Fu; Lifeng, Zheng; Shujuan, Zhang; Jing, Ma  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-04  
+&ensp;The paper presents a DFT-informed machine learning framework for mapping antibiotic degradation and its associated resistance risks. Using tetracycline, it constructed a network of over 120 steps and 9,533 reactions. The ML model predicts Gibbs free energy changes, revealing certain transformation products, notably hydroxylated and amide ketone species, heighten antibiotic resistance risks. The study integrates pathways' Diversity, Ecotoxicity, Biodegradability, and Feasibility for ecological assessment.  
+- [Synergistic Catalytic Modulation of CO₂ Reactivity Toward C₈ Hydrocarbon](https://dx.doi.org/10.26434/chemrxiv-2025-2t4f5?rft_dat=source%3Ddrss)  
+Shuma, Otsuka; Boon, Presley; Edison, Zhu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-04  
+&ensp;The paper discusses converting atmospheric CO₂ into octane through a multi-step process involving hydrogenation, reverse water-gas shift, Fischer-Tropsch Synthesis, and oligomerization. The studies focus on optimizing octane production by transforming linear forms into branched forms through isomerization, enhancing fuel performance. Specific datasets and methods are not detailed in the abstract.
+
 ## 04 Sep 2025  
 
 - [Structure-Based Design and Development of 2-Oxindole Derivatives as Next Generation Ku-DNA Binding Inhibitors (Ku-DBi’s) for Cancer Therapy](https://dx.doi.org/10.26434/chemrxiv-2025-bp68g?rft_dat=source%3Ddrss)  
