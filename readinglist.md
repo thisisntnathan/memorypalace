@@ -12,6 +12,19 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 06 Sep 2025  
+
+- [Exploring the Potential of an End-to-End AI Design Framework for Photoresponsive Drug Delivery](https://dx.doi.org/10.26434/chemrxiv-2025-9dgq3?rft_dat=source%3Ddrss)  
+Junjie Hu, Peng Wu, Xiangyu Li, Qi Li, Yingying Fang, Shiyi Wang, Fenglei Cao, Alan Qi, Lulu Cai, Guang Yang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-05  
+&ensp;The paper presents an end-to-end reinforcement learning fine-tuning framework, Explanation CPO (XCPO), for designing photoresponsive drug delivery materials. Utilizing a preference dataset generated from AI outputs and XAI tools, XCPO outperformed traditional methods by over 27% while aligning with chemical intuition, demonstrating an advanced, fully AI-driven design process that reduces human bias.  
+- [RinQ: Towards predicting central sites in proteins on current quantum computers](https://dx.doi.org/10.26434/chemrxiv-2025-zmd2s-v3?rft_dat=source%3Ddrss)  
+Shah Ishmam Mohtashim  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-05  
+&ensp;The paper presents RinQ, a hybrid quantum-classical framework for identifying critical residues in proteins using a Quadratic Unconstrained Binary Optimization (QUBO) approach. It models protein structures as residue interaction networks and employs D-Wave's simulated annealing. Tests on various proteins show RinQ's findings align closely with classical benchmarks, proving its accuracy and robustness.  
+
 ## 05 Sep 2025  
 
 - [epiGPTope: A machine learning-based epitope generator and classifier](https://dx.doi.org/10.26434/chemrxiv-2025-hjjjb?rft_dat=source%3Ddrss)  
