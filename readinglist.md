@@ -12,6 +12,79 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 09 Sep 2025  
+
+- [Excited State Dynamics in 1,8-Naphthalimide Derivatives Mediated by Vibronic Coupling  between Locally Excited and Charge Transfer States](https://dx.doi.org/10.26434/chemrxiv-2025-pgpn8?rft_dat=source%3Ddrss)  
+Ajeet Singh, Lucy Weatherill, Annu Agarwal, Sridevi M, Claire Tonnele, David Casanova, Rajiv Singh, Fernando Dias, Inamur Laskar  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper resolves ambiguity regarding the excited state dynamics of alkyl-1,8-naphthalimide derivatives, revealing that the first excited singlet state (S1) has charge transfer character. It employs UV/vis absorption spectra, time-resolved measurements, and ultrafast spectroscopy to explore vibrational coupling. Results show differing emissions in solution versus solid state, crucial for enhancing OLED applications.  
+- [Quantum Computing for Chemical Applications: Variational Algorithms and Beyond](https://dx.doi.org/10.26434/chemrxiv-2025-7vwrj?rft_dat=source%3Ddrss)  
+Sharma S. R. K. C. Yamijala, Sumit Kumar, Kalpak Ghosh, Seung-Cheol Lee  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper discusses the use of quantum computing, specifically Variational Quantum Eigen-solver (VQE) and its variants, for simulating complex quantum systems in chemistry and materials science. It highlights the limitations of classical methods and current quantum devices, while showcasing successful applications of VQE in quantum chemistry, emphasizing its potential for more accurate simulations.  
+- [Redox Potential Prediction of  Fe(II)/Fe(III)  Complexes: A Density Functional Theory and Graph Neural Network Approach](https://dx.doi.org/10.26434/chemrxiv-2025-t9kmf?rft_dat=source%3Ddrss)  
+Álvaro Vázquez-Mayagoitia, Fakhrul Bhuiyan, Hassan Harb, Rajeev Assary  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper presents a computational method using tight-binding DFT and standard DFT to predict the redox potential of 2,267 micro-solvated iron complexes. A graph neural network (GNN) framework was developed to model redox potentials, achieving a root mean squared error of $0.26~V\pm0.01~V$. This approach enhances predictive accuracy and provides chemical insights for optimizing transition metal complexes.  
+- [Automating Reasoning in Chemical Science and Engineering](https://dx.doi.org/10.26434/chemrxiv-2025-q9bb1?rft_dat=source%3Ddrss)  
+Tyler Josephson  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper discusses automating reasoning in chemical sciences through seven reasoning categories: inductive, deductive, abductive, probabilistic, causal, analogical, and informal. It explores methods for implementing these reasoning types in computational settings, identifies their applications, and highlights opportunities for advancements such as bug-free software and automated hypothesis generation, particularly within large language models.  
+- [EffiChem : Efficient Adaptation of Chemical Language Models for Molecular Property Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-2lljt?rft_dat=source%3Ddrss)  
+Raghvendra Mall, Harsha Harod, Kavya Agrawal, Ines Simeone, Michele Ceccarelli, Sukrit Gupta  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper introduces EffiChem, which integrates Low-Rank Adapters (LoRA) into chemical language models (CLMs) like ChemBERTa and Molformer, reducing trainable parameters by 62-96%. It improves AUC metrics by 3-5% for tasks like toxicity and permeability across three datasets, achieving MCC scores of 0.80 to 0.90, thus enabling efficient molecular property prediction in resource-limited scenarios.  
+- [Vibronic contributions to hyperfine-mediated spin kinetics](https://dx.doi.org/10.26434/chemrxiv-2025-6qbgm?rft_dat=source%3Ddrss)  
+Haibo Yu, Anjay Manian, Holden Paz  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper presents a framework that incorporates vibronic contributions to hyperfine interactions, enhancing spin kinetics modeling beyond the Born-Oppenheimer approximation. Using the FMNH•-Cys• radical pair in AsLOV2, it shows that second-order vibronic coupling can increase transition rates dramatically, facilitating nanosecond-range kinetics critical for biological photoadduct formation. The analysis also examines sensitivity to spectral profiles.  
+- [strainedSMILES2xyz: A Workflow for Reliable 3D Structures of Strained Molecules from SMILES](https://dx.doi.org/10.26434/chemrxiv-2025-30dqz?rft_dat=source%3Ddrss)  
+Dennis Svatunek, Tori Demuth, Julian Schnizer  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper presents strainedSMILES2xyz, a Python workflow for accurately generating 3D structures of strained molecules from SMILES. It improves conformer generation and error correction through RDKit adjustments and force-field refinement. Benchmarking demonstrates its superiority over existing tools for both strained and unstrained rings, achieving high accuracy. The workflow is available as a Python package and Jupyter notebook.  
+- [Ligand Field Tuning of Photoreactivity: Contrasting Low-spin and High-spin Fe(III)-Azido Complexes](https://dx.doi.org/10.26434/chemrxiv-2025-6xgg2?rft_dat=source%3Ddrss)  
+Vera Krewald, Frederik Scherz  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper investigates the photochemical behaviors of Fe(III)–azido complexes using DFT, TDDFT, and ligand field theory. Results show low-spin complexes exhibit wavelength-dependent reactions, while the high-spin complex shows different pathways. The findings reveal how ligand sterics influence electronic structure and reactivity, with low-spin complexes undergoing photooxidation and high-spin leading to decarboxylation.  
+- [Evaluating Docking Approaches for Prediction of  Cyclodextrin and Cucurbituril Host-Guest Complex  Structures](https://dx.doi.org/10.26434/chemrxiv-2025-qgpsj-v2?rft_dat=source%3Ddrss)  
+David Alonzo Poole III, Noëmi-Feline Ettema  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper evaluates eight docking scoring functions for predicting cyclodextrin (CD) and cucurbituril (CB) host-guest complex geometries, highlighting limitations in capturing orientation-sensitive interactions and conformational space sampling. It proposes a workflow combining approximate scoring for initial pose generation with further refinements. Results illustrate challenges related to electrostatics and multiple hydrogen-bond sites in these complexes.  
+- [Impact of the halogen PB radii in the estimation of protein-ligand binding energies using MM-PBSA calculations](https://dx.doi.org/10.26434/chemrxiv-2024-l32nf-v2?rft_dat=source%3Ddrss)  
+Paulo J. Costa, Andreia Fortuna  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;This study evaluates the impact of optimized radii (r_opt) and extra-points of charge (EPs) on protein-ligand binding energies (\dGbind{}) in MM-PBSA calculations for CK2 inhibitors. It finds that relaxed structures and configurational sampling improve correlations with experimental values, particularly with increased internal dielectric constants (\epsilon_in) and the use of EPs, enhancing predictions for halogen-containing systems.  
+- [Reaction-Based De Novo Design of Synthetically Accessible Competitive Inhibitors Targeting Glutathione S-Transferase Theta 1 (GSTT1)](https://dx.doi.org/10.26434/chemrxiv-2025-j05sk-v3?rft_dat=source%3Ddrss)  
+Andrey Zhivnov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;This study focuses on designing novel competitive inhibitors for the cancer target GSTT1 using computational methods. Utilizing reaction-based de novo design and commercial compound libraries, eight inhibitors were generated, demonstrating strong molecular docking binding energies (-10.1 to -11.2 kcal/mol). Three candidates showed the best balance of affinity and pharmacokinetics, though improvements in dynamic simulations and experimental validation are needed.  
+- [Mechanism of DNA Chemical Denaturation](https://dx.doi.org/10.26434/chemrxiv-2024-gstxb-v7?rft_dat=source%3Ddrss)  
+Mikhail V. Ostrovsky, Daniel A. Ostrovsky  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper investigates the influence of various forces on DNA chemical denaturation, developing a method to evaluate interactions within DNA using surrounding solution properties. Key findings indicate that hydrogen bonding plays a critical role, while the proton-donor effect significantly impacts denaturation. The study utilizes cohesive energy density methods and experimental data to support its conclusions, revealing distinct mechanisms in chemical versus thermal denaturation.  
+- [Predicting Supramolecular Stability: A Validated Framework Combining Orthogonal Topological and Electrostatic Descriptors](https://dx.doi.org/10.26434/chemrxiv-2025-737cq-v2?rft_dat=source%3Ddrss)  
+Prasanna Kulkarni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper presents a computational framework for predicting supramolecular stability, utilizing topological and electrostatic descriptors. It introduces the Non-Covalent Interaction Score (SNCI) and the COSMO Dimer Interaction Score (SCDI) to analyze nearly 3,000 Deep Eutectic Solvent complexes, creating a "Stability Phase Space" for classifying them into archetypes, aiding in liquid design.  
+- [Water-Guided Docking Improves Prediction of Protein–Glycan Complexes](https://dx.doi.org/10.26434/chemrxiv-2025-8qvgh-v2?rft_dat=source%3Ddrss)  
+Jorge Octavio Lannot, Esteban Luciano Rey, Marcelo Daniel Gamarra, Marcelo Adrián Martí, Carlos Pablo Modenutti  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-08  
+&ensp;The paper presents a guided docking protocol, WII Guided Approach (WIIGA), using Crystallographic Water Sites to improve the prediction of protein-glycan complexes. Tested on a curated dataset of 30 protein-oligosaccharide complexes, WIIGA outperformed conventional methods like AutoDock Vina, enhancing pose prediction accuracy and demonstrating effectiveness in cross-docking, making it applicable to diverse glycan-binding proteins.
+
 ## 06 Sep 2025  
 
 - [Exploring the Potential of an End-to-End AI Design Framework for Photoresponsive Drug Delivery](https://dx.doi.org/10.26434/chemrxiv-2025-9dgq3?rft_dat=source%3Ddrss)  
