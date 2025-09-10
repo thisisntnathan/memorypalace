@@ -12,6 +12,59 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 10 Sep 2025  
+
+- [Experiments with data-augmented modeling of ADME and potency endpoints in the ASAP-Polaris-OpenADMET Antiviral Challenge](https://dx.doi.org/10.26434/chemrxiv-2025-1tb2m?rft_dat=source%3Ddrss)  
+Ashok, Palaniappan; Ida, Titus; Mounika, Srilakshmi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper discusses participation in the ASAP-Polaris-OpenADMET Antiviral Challenge, enhancing predictive modeling for Potency and ADME endpoints using publicly available datasets. Methods included tree-based models and neural networks, with XGBoost outperforming other models for ADME endpoints. A fusion AttFP-GNN achieved an MAE of ~0.79 for Potency, highlighting effective modeling strategies and potential for further improvements.  
+- [In Silico Cavity Detection-Guided Docking Reveals Epigallocatechin Gallate as a Multitarget Phytochemical and Ursolic Acid as a Selective SGLT2/PPARγ Modulator in Type 2 Diabetes Mellitus Polypharmacology](https://dx.doi.org/10.26434/chemrxiv-2025-g13lq?rft_dat=source%3Ddrss)  
+Yathu Krishna , Y K  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;This study utilizes CB-Dock to analyze four phytochemicals (fisetin, baicalein, EGCG, and ursolic acid) for potential in treating Type 2 diabetes mellitus. Findings reveal ursolic acid as a selective SGLT2 binder, baicalein as a DPP-4 inhibitor, and EGCG as a multitarget binder for PPARγ and α-glucosidase. The methods combining docking and cavity detection prove effective for assessing natural compounds.  
+- [De Novo Discovery of Bicyclic Competitive Inhibitors of Zika Virus Protease from Peptide–Bismuth Phage Display Screening](https://dx.doi.org/10.26434/chemrxiv-2025-fdf53?rft_dat=source%3Ddrss)  
+Christoph, Nitsche; Upamali, Somathilake; Minghao, Shang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper reports a novel method for discovering inhibitors of Zika virus protease using peptide-bismuth phage display. An initial screening yielded limited inhibitory peptides, but a second screening with a boronate inhibitor enriched the pool, resulting in a potent peptide-bismuth bicycle with a unique sequence and an inhibition constant of 3.9 µM, demonstrating significant proteolytic stability.  
+- [Exploiting a Cryptic Pocket in DsbA Through Structure-Guided Parallel Synthesis and Direct-to-Biology Screening](https://dx.doi.org/10.26434/chemrxiv-2025-hzb0c?rft_dat=source%3Ddrss)  
+Martin, Scanlon; Yildiz, Tasdan; Gautham, Balaji; et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-09  
+&ensp;The paper discusses exploiting a cryptic pocket in the DsbA enzyme of Escherichia coli to develop potent inhibitors against bacterial resistance. Utilizing X-ray crystallography for structure-based design and parallel synthesis, the study identifies effective small molecules. The research highlights a novel approach for drug development targeting DsbA's structure with promising results.  
+- [End-to-End Workflows for Liquid Biopsy Biotyping Analysis Using Combined MALDI MS and Machine Learning Approach](https://dx.doi.org/10.26434/chemrxiv-2025-kr3z2?rft_dat=source%3Ddrss)  
+Lukáš, Pečinka; Jaromíra, Pantučková; Monika, Vlachová; et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-09  
+&ensp;The paper presents an open-source R-based workflow for liquid biopsy biotyping analysis using MALDI MS and machine learning. This customizable pipeline, validated on clinical plasma samples from hematological patients, enhances data reproducibility and establishes a clear end-to-end method for non-invasive disease screening and monitoring.  
+- [Self-supervised Domain Adaptation of Protein Language Model Based Solely on Positive Enzyme-reaction Pairs](https://dx.doi.org/10.26434/chemrxiv-2025-484c9?rft_dat=source%3Ddrss)  
+Tomoya, Okuno; Naoaki, Ono; Md., Altaf-Ul-Amin; Shigehiko, Kanaya  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-09  
+&ensp;The paper presents a self-supervised domain adaptation method for protein language models, focusing on positive enzyme-reaction pairs to improve predictive modeling of enzyme catalytic properties. The method outperforms existing models using synthetic negative examples in turnover number prediction and enzyme-substrate specificity tasks. This approach addresses limitations in public biochemical databases and supports future research leveraging enzyme activity data.  
+- [Micromap (μMap) Photoproximity Labeling for Integrated Phenotypic Screening and Accelerated Prioritization of Targeted Protein Degrader Compounds](https://dx.doi.org/10.26434/chemrxiv-2025-17wcq?rft_dat=source%3Ddrss)  
+David, MacMillan; Steve, Knutson; Danielle, Morgan; et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-09  
+&ensp;The paper presents a platform, μMap, integrating photoproximity labeling for phenotypic screening and characterizing targeted protein degraders. Using immunophotoproximity labeling (μMapX) and μMap TargetID, the approach prioritized compounds targeting BACH2. The platform accelerates drug discovery by triaging hits, discovering novel degradation mechanisms, and revealing therapeutically relevant biology.  
+- [A Streamlined Chemoenzymatic One-Pot Process for the Enantioselective Total Synthesis of Tenuipesone A/B](https://dx.doi.org/10.26434/chemrxiv-2025-rbj31-v2?rft_dat=source%3Ddrss)  
+Jan, Deska; Yu-Chang, Liu; Adam, O'Connell; et al.  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-09  
+&ensp;The paper presents a streamlined chemoenzymatic one-pot process for synthesizing tenuipesones A and B with high efficiency (60-72% yields) and exceptional enantioselectivity (>99% ee). The method involves careful biocatalyst selection to control the stereochemical configuration, allowing for the production of all four stereoisomers with confirmed absolute stereochemistry.  
+- [Mechanistic and Kinetic Insights into Rubiadin Phototoxicity: Linking Theory to Photodynamic Efficiency](https://dx.doi.org/10.26434/chemrxiv-2025-t61jj?rft_dat=source%3Ddrss)  
+Maciej, Spiegel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-09  
+&ensp;The paper investigates the phototoxicity of rubiadin in photodynamic therapy through first-principles excited-state dynamics and kinetic modeling. It reveals that neutral rubiadin promotes efficient triplet formation, enhancing phototoxicity, while the monoanion primarily undergoes nonproductive decay. The study employs ordinary differential equation models to analyze how photosensitizer loading and oxygen dynamics impact reactive oxygen species yield and phototoxicity, particularly under hypoxic conditions.  
+- [In Silico Design of Anthraquinone-Based Two-Photon Photosensitizers for NIR-Activated Photodynamic Therapy in Hypoxic Tumors](https://dx.doi.org/10.26434/chemrxiv-2025-539xw?rft_dat=source%3Ddrss)  
+Maciej, Spiegel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-09  
+&ensp;The paper presents a computational strategy for designing anthraquinone-based photosensitizers for two-photon photodynamic therapy targeting hypoxic tumors. Twelve derivatives were evaluated, identifying four lead compounds (Oxz, Tdz, Prd, Pmd) with optimal properties. A mechanistic profile analysis and SwissADME confirmed favorable characteristics for potential cancer treatment applications, showcasing the framework's generalizability for diverse scaffolds.
+
 ## 09 Sep 2025  
 
 - [Excited State Dynamics in 1,8-Naphthalimide Derivatives Mediated by Vibronic Coupling  between Locally Excited and Charge Transfer States](https://dx.doi.org/10.26434/chemrxiv-2025-pgpn8?rft_dat=source%3Ddrss)  
