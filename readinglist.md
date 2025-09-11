@@ -12,6 +12,92 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 11 Sep 2025  
+
+- [Total Synthesis and Anticancer Study of (+)-Verticillin A](https://dx.doi.org/10.26434/chemrxiv-2025-k6tgk?rft_dat=source%3Ddrss)  
+Mohammad , Movassaghi; Walker, Knauss; Xiuqi, Wang; Mariella, Filbin; Jun, Qi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper presents the first total synthesis of (+)-verticillin A, utilizing a novel protocol for disulfide introduction and radical dimerization. The synthesized compound and its derivatives show potent anti-cancer activity, regulating H3K27me3 levels, especially in EZHIP-expressing cell lines. Notably, binding assays confirm the interaction of N1-sulfonylated derivatives with EZHIP, potentially aiding pediatric cancer treatments.  
+
+- [Experiments with data-augmented modeling of ADME and potency endpoints in the ASAP-Polaris-OpenADMET Antiviral Challenge](https://dx.doi.org/10.26434/chemrxiv-2025-1tb2m?rft_dat=source%3Ddrss)  
+Ashok, Palaniappan; Ida, Titus; Mounika, Srilakshmi  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper explores predictive modeling of ADME and potency endpoints in the ASAP-Polaris-OpenADMET Antiviral Challenge, utilizing publicly available datasets. It employs cheminformatics for feature selection and builds tree-based, GNN, and transformer models. Key results include XGBoost models outperforming others for ADME endpoints and a fine-tuned transformer model achieving a MAE ~0.79 for potency evaluation.  
+
+- [In Silico Cavity Detection-Guided Docking Reveals Epigallocatechin Gallate as a Multitarget Phytochemical and Ursolic Acid as a Selective SGLT2/PPARγ Modulator in Type 2 Diabetes Mellitus Polypharmacology](https://dx.doi.org/10.26434/chemrxiv-2025-g13lq?rft_dat=source%3Ddrss)  
+Yathu Krishna , Y K  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The study utilized CB-Dock for in silico docking of four phytochemicals—fisetin, baicalein, epigallocatechin gallate (EGCG), and ursolic acid—against diabetes-related targets. Results indicated that EGCG is a multitarget binder, ursolic acid selectively binds SGLT2, and baicalein interacts with DPP-4. The methodology combines cavity detection, docking validation, and residue-level analysis for evaluating phytochemicals' therapeutic potential.  
+
+- [De Novo Discovery of Bicyclic Competitive Inhibitors of Zika Virus Protease from Peptide–Bismuth Phage Display Screening](https://dx.doi.org/10.26434/chemrxiv-2025-fdf53?rft_dat=source%3Ddrss)  
+Christoph, Nitsche; Upamali, Somathilake; Minghao, Shang  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The study presents a novel approach for discovering competitive inhibitors of the Zika virus protease NS2B-NS3 using peptide phage display and Bi(III)-mediated bicyclic peptides. Initial screenings yielded low inhibitory activity; however, a competitive elution strategy enriched for potent inhibitors. The most effective peptide-bismuth bicycle demonstrated an inhibition constant of 3.9 μM and notable stability.  
+
+- [A Physics-Informed Fingerprint for Generalizable Prediction of Supramolecular Stability](https://dx.doi.org/10.26434/chemrxiv-2025-9732l?rft_dat=source%3Ddrss)  
+Prasanna, Kulkarni  
+*Organic Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper presents the Kulkarni-NCI Fingerprint (KNF), a 9-feature, physics-informed descriptor for predicting supramolecular stability. Trained on 2,600 Deep Eutectic Solvent complexes, it achieved R² = 0.793, outperforming current models. The KNF also demonstrates generalization across diverse datasets, with R² ≈ 0.69 for DES and R² ≈ 0.96 for S66, aiding in rational materials design.  
+
+- [Sculpting with Sulfur: Programmed-Degradable Polythionoesters via Polyester Metamorphosis](https://dx.doi.org/10.26434/chemrxiv-2025-c3bn3?rft_dat=source%3Ddrss)  
+Jennifer, Garden; Max, Hill; Hatice, Mutlu; Janna, Jeschke  
+*Organic Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper presents a method for converting common biodegradable polyesters, such as PCL and PLA, into sulfur-rich polythionoesters using Lawesson’s reagent. The thionation process fine-tunes crystallinity and degradation, enhancing PCL's degradability. Compared to conventional materials, these polythionoesters degrade faster under acidic conditions, offering new applications in photochemistry and catalysis.  
+
+- [C6-ROMP: Structure-Guided Monomer Design for Chemically Recyclable Polymers](https://dx.doi.org/10.26434/chemrxiv-2025-pbmzg-v3?rft_dat=source%3Ddrss)  
+Soon Hyeok, Hong; Kyungmin, Choi; Wootae, Choi; Minjun, Chung; Byeongwoo, Im  
+*Organic Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper discusses a framework for designing cyclohexene-derived monomers to enhance ring-opening metathesis polymerization (ROMP) and enable recyclability. It employs DFT calculations to identify an ERSE threshold of 4.3 kcal/mol for effective polymerization and demonstrates polymers with tunable thermal properties and efficient depolymerization.  
+
+- [When Machine Learning Models Learn Chemistry II: Applying WISP to Real-World Examples](https://dx.doi.org/10.26434/chemrxiv-2025-zdqgr?rft_dat=source%3Ddrss)  
+Kerrin, Janssen; Jan M., Wollschläger; Jonny, Proppe; Andreas H., Göller  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper discusses WISP, a workflow for evaluating explainability in machine learning models applied to complex chemistry tasks, including yield prediction and mutagenicity assessments. It integrates SHAP and RDKit methods, demonstrating on Factor Xa and AMES datasets that models often rely on numerical correlations rather than chemical relationships, revealing insights for model improvement and data quality enhancements.  
+
+- [When Machine Learning Models Learn Chemistry I: Quantifying Explainability with Matched Molecular Pairs](https://dx.doi.org/10.26434/chemrxiv-2025-d57kp?rft_dat=source%3Ddrss)  
+Kerrin, Janssen; Jan M., Wollschläger; Jonny, Proppe; Andreas H., Göller  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper presents a Python-based Workflow for Interpretability Scoring using matched molecular pairs, applicable to any dataset with SMILES and model-agnostic. Evaluation on two physics-based datasets shows that explainability methods indicate model reliability when predictive accuracy is high. Additionally, it includes an atom attributor for generating model-independent atom-level attributions in chemical applications.  
+
+- [Pyreno-1,2,4-Triazines as Multifunctional Luminogenic Click Reagents](https://dx.doi.org/10.26434/chemrxiv-2025-lspff?rft_dat=source%3Ddrss)  
+Valery, Kozhevnikov; Hind, Alshaikh; Jonathan, Parsons; Gary, Askwith; Michael, Deary; Catherine, Nicholson; Mark, Sims  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper discusses the synthesis of pyreno-1,2,4-triazine derivatives with carboxylic acid groups for use in Inverse Electron Demand Diels-Alder reactions with bioorthogonal dienophiles. A model compound was prepared to study the effect of carbonyl substitution on reaction rates. Computational analysis highlighted the importance of conformer selection in predicting activation energies.  
+
+- [On the role of electronic correlation and state-specific environment polarization in Singlet–Triplet gap inversion](https://dx.doi.org/10.26434/chemrxiv-2025-cgx8x?rft_dat=source%3Ddrss)  
+Ciro Achille, Guido; Ester, Salvi; Giacomo, Agostini; Simone, Veglianti; Gustavo, Juliani Costa; Luca, De Vico; Daniele, Padula  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper explores the impact of electronic correlation and solvent polarization on inverted singlet-triplet gaps (ΔEST < 0) in molecules relevant for optoelectronics. It evaluates methods like RMS–CASPT2 and MRSF–TD-DFT, developing a protocol that combines them for accurate energy calculations. This approach successfully models emission rates of larger systems with negative ΔEST, aligning with experimental results.  
+
+- [Optimizing Molecular Glues Using Free Energy Perturbation and Cofolding Methods](https://dx.doi.org/10.26434/chemrxiv-2025-tb29n?rft_dat=source%3Ddrss)  
+Andrew, Potterton; Dominykas, Lukauskis; Naail, Kashif-Khan; Christopher, Tame  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper evaluates Free Energy Perturbation (FEP) and Boltz-2 methods for predicting binding affinities of 93 molecular glues across six protein complexes, yielding 140 measurements. FEP showed superior performance (RMSE 0.3-1.25 kcal/mol) compared to Boltz-2 (RMSE over 3 kcal/mol), thus highlighting the need for accurate methods in molecular glue optimization and the limitations of current speed-oriented models.  
+
+- [Self-assembly of unconventional frustrated amphiphiles in solutions](https://dx.doi.org/10.26434/chemrxiv-2025-l9qzc?rft_dat=source%3Ddrss)  
+Henrique Musseli, Cezar; Giacomo, Berton; Tommaso, Lorenzetto; Sandro, Zorzi; Cedrix J. Dongmo, Foumthuim; Szymon Mikołaj, Szostak; Pablo, Ballester; Claudia, Mondelli; Ralf, Schweins; Viviana, Cristiglio; Fabrizio, Fabris; Reidar, Lund; Alessandro, Scarso; Achille, Giacometti; Michele, Cascella  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper investigates the self-assembly of symmetric triphenylene-based amphiphilic derivatives with alternating hydrophobic and hydrophilic groups in various solutions. It employs NMR, AFM, DLS, SAXS, and neutron scattering, alongside molecular dynamics simulations. Results show that in water, they form stacked assemblies influenced by π-stacking, which is enhanced by NaCl, producing larger aggregates.  
+
+- [Designing hybrid materials of superalkali-complexed cyclo[18]carbon precursor, M3O@C18Br6 (M = Li, Na, and K), with advanced optical properties](https://dx.doi.org/10.26434/chemrxiv-2025-9bpl8?rft_dat=source%3Ddrss)  
+Zeyu, Liu; Tian, Lu; Wenwen, Zhao; Xiufen, Yan  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-10  
+&ensp;The paper presents the theoretical design of hybrid materials M3O@C18Br6 (M = Li, Na, K) for optical applications. Using time-dependent density functional theory (TD-DFT), the study found charge transfer from M3O to C18Br6, affecting polarizability and hyperpolarizability. Key results include red-shifted absorption spectra and distinct hyperpolarizability properties, suggesting potential for nonlinear optical devices.
+
 ## 10 Sep 2025  
 
 - [Experiments with data-augmented modeling of ADME and potency endpoints in the ASAP-Polaris-OpenADMET Antiviral Challenge](https://dx.doi.org/10.26434/chemrxiv-2025-1tb2m?rft_dat=source%3Ddrss)  
