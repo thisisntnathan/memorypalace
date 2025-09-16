@@ -12,6 +12,56 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 16 Sep 2025  
+
+- [Efficient Sampling of Protein Trajectories with Conditional Diffusion Models](https://dx.doi.org/10.26434/chemrxiv-2025-xq07m?rft_dat=source%3Ddrss)  
+Tao Peng, Chuanye Xiong, Zerui Ma, Eleanor Smith, Palanisamy Kandhan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper presents TSS-Pro, a conditional generative diffusion model for efficient sampling of protein conformational trajectories from initial frames. It employs two strategies: consecutive and parallel sampling. Validated on alanine dipeptide, ubiquitin, and Drosophila cryptochrome, TSS-Pro successfully reproduces free energy landscapes and reveals distinct conformational states, enhancing exploration of complex protein dynamics.  
+
+- [SQUIRREL: An Open-Source Software Suite for Quantum Dynamics Calculations on Complex Geometries with Time-dependent Electric/Magnetic Fields](https://dx.doi.org/10.26434/chemrxiv-2025-kxmzm?rft_dat=source%3Ddrss)  
+Bryan Wong, Simon Sandhofer, Mahmut Okyay  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper introduces SQUIRREL, an open-source software suite for time-dependent Schrödinger equation calculations on complex geometries with electric/magnetic fields. It implements efficient methods like a perturbation-based element-dropping algorithm to enhance performance. The software is evaluated through numerical benchmarks, showcasing its versatility in quantum dynamics, especially in complex nanoscale geometries with magnetic fields.  
+
+- [Consequences of Overtones in Raman Spectra for Structural Assignment Elucidated for NiOOH during Alkaline Oxygen Evolution](https://dx.doi.org/10.26434/chemrxiv-2025-jb73p?rft_dat=source%3Ddrss)  
+Albert Kilian Engstfeld, Justus Leist, Annika Neufischer, Timo Jacob  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper investigates the surface structure of NiOOH, a catalyst for the oxygen evolution reaction, using in situ surface-enhanced Raman spectroscopy (SERS) and D and 18-O isotope labeling. It employs Density Functional Theory (DFT) for structural assignments, concluding that NiOOH resembles Ni(IV)O2 without protons, redefining some Raman band assignments as overtone and combination modes.  
+
+- [Comparison of Theoretical Methods for Predicting Tunneling Rates: the Alanine + Hydrogen Atom Reactions at Low Temperatures](https://dx.doi.org/10.26434/chemrxiv-2025-81glw?rft_dat=source%3Ddrss)  
+Péter G. Szalay, Anita Schneiker, Dávid Jelenfi, György Tarczay, Attila Tajti  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper compares ring polymer instanton rate theory, classical transition state theory (TST), and semiclassical transition state theory (SCTST) for predicting tunneling rates in hydrogen atom abstraction reactions of alanine at low temperatures. It finds SCTST provides good results but diverges from instanton rates at very low temperatures, highlighting limitations and suggesting pathways for improvement.  
+
+- [Mechanism-Oriented Reaction Descriptors for Dispersity Prediction in Nitroxide-Mediated Radical Polymerization Considering Mediator Stability](https://dx.doi.org/10.26434/chemrxiv-2025-zbsh9?rft_dat=source%3Ddrss)  
+Tomoyuki Miyao, Tatsuya Mori, Shunsuke Mieda, Koharu Kodama  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper presents QSPR models for predicting dispersity in nitroxide-mediated radical polymerization, using a dataset from literature. It employs 17 reaction descriptors focused on mediator stability. Excluding unstable mediators enhances prediction accuracy for poly(n-butyl acrylate). The study finds that reaction path consistency improves model clarity, with cross-group predictions being feasible under similar conditions.  
+
+- [Enhancing Bioassay Annotations in ChEMBL with Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-h4hrr?rft_dat=source%3Ddrss)  
+Barbara Zdrazil, Ines Smit, Melissa F. Adasme, Emma Manners, Sybilla Corbett, Nicolas Bosc, Hoang-My-Anh Do, Andrew R. Leach, Noel M. O'Boyle  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper presents efforts to enhance bioassay annotations in ChEMBL using AI and manual curation. A 'perfect assay description' template guides consistent annotation, while natural language processing and a spaCy-based NER model improve parameter extraction and ASSAY_TYPE classification. Metadata extraction for ADME endpoints and organism annotations is also improved, enhancing the FAIRness of ChEMBL’s data for cheminformatics applications.  
+
+- [HyperGraph- and SuperHyperGraph-Based Molecular Models: Weighted, Rough, Neural, and Multipolar Frameworks](https://dx.doi.org/10.26434/chemrxiv-2025-gb6gq?rft_dat=source%3Ddrss)  
+Takaaki Fujita  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper presents a framework extending molecular graphs to hypergraphs and superhypergraphs. It develops four complements (Weighted, Rough, Neural, Multipolar) and proves inclusion results. Compact examples illustrate atom and bond representation, while providing message-passing rules for variable-arity interactions for property prediction in chemistry.  
+
+- [Chemprop v2: An Efficient, Modular Machine Learning Package for Chemical Property Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-4p1nr?rft_dat=source%3Ddrss)  
+Nathan K. Morgan, David E. Graff, Jackson W. Burns, Anna C. Doner, Brian Li, Shih-Cheng Li, Joel Manu, Angiras Menon, Hao-Wei Pang, Akshat Shirish Zalte, Haoyang Wu, Jonathan W. Zheng, Connor W. Coley, William H. Green, Kevin P. Greenman  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-15  
+&ensp;The paper presents Chemprop v2, a modular machine learning package for predicting chemical properties using a directed message-passing neural network (D-MPNN). It improves on the original version with enhancements in speed (twice as fast), memory usage (three times less), and user experience, while retaining predictive accuracy. New features include support for multiple GPUs and extensive documentation.
+
 ## 11 Sep 2025  
 
 - [Total Synthesis and Anticancer Study of (+)-Verticillin A](https://dx.doi.org/10.26434/chemrxiv-2025-k6tgk?rft_dat=source%3Ddrss)  
