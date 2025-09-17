@@ -12,6 +12,74 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 17 Sep 2025  
+
+- [Beyond conventional sequence-based encoding: a generalized Machine Learning pipeline for oligonucleotide property prediction](https://dx.doi.org/10.26434/chemrxiv-2025-nfs45?rft_dat=source%3Ddrss)  
+Maicol Bissaro, Margherita Lapillo, Iuni M. L. Trist, Enrico Gandini, Federico Sorana, Alfonso Pozzan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper presents a novel machine learning pipeline for oligonucleotide property prediction, utilizing chemical-based representations (SMILES notation, molecular fingerprints) applicable to natural and modified oligonucleotides. The study introduces a dataset of chemically modified oligonucleotides from patent literature and demonstrates predictive performance comparable to traditional sequence-based methods, enhancing the design of RNA therapeutics.  
+
+- [Exploring Backbone Chemistries in Morpholino Gapmers of Oblimersen: It’s Effect on Biophysical Parameters and RNaseH Activity](https://dx.doi.org/10.26434/chemrxiv-2025-39zft?rft_dat=source%3Ddrss)  
+SURAJIT Sinha, Atanu Ghosh, Swrajit Nath Sharma, Arnab Das  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper investigates the effects of replacing 2'-OMe-PS wings in the oligonucleotide Oblimersen with morpholino wings to enhance its therapeutic efficacy. Biophysical studies show that morpholino wings maintain duplex geometry, while the neutral PMO backbone improves duplex stability and biological efficacy compared to charged backbones, informing safer morpholino gapmer designs.  
+
+- [Structure Characterization with NMR Molecular Networking](https://dx.doi.org/10.26434/chemrxiv-2025-0nqfk?rft_dat=source%3Ddrss)  
+Cailum M. K. Stienstra, Jaegun Song, David Healey, Gennady Voronov, Abhishek Patel, Venkat Macherla, Christoph A. Krettler, Pieter C. Dorrestein, Daniel Domingo-Fernández  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper presents NMR molecular networking applied to HSQC spectra for structure determination. It introduces a modified Hungarian distance for peak matching, achieving ~70-80% structural similarity recovery. The framework enhances annotation propagation and dereplication, demonstrated through case studies on natural products, aiding in high-throughput identification and drug development.  
+
+- [Bridging Scales in Drug Binding Kinetics: Residence Time Estimation via All-Atom and Coarse-Grained Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-9zzlc-v2?rft_dat=source%3Ddrss)  
+Souvik Sinha, Chandrakant Bagul, Mayank Kohli, Sooriya Kumar Jegatheesan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper presents a workflow for estimating drug residence time (RT) using all-atom and coarse-grained simulations. It employs Deep-LDA for reaction coordinate learning, Frequency Adaptive Metadynamics for guiding simulations, and dynamic time-warping for unbinding pathway classification. This method successfully predicts experimental RTs and ranks relative RTs of ligands while reducing computational costs.  
+
+- [Machine Learning for Anticancer Activity Prediction of Transition Metal Complexes](https://dx.doi.org/10.26434/chemrxiv-2025-1nqvm-v2?rft_dat=source%3Ddrss)  
+Lev Krasnov, Dmitry Malikov, Marina Kiseleva, Ekaterina Nykhrikova, Sergei Tatarin, Stanislav Bezzubov  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper presents a data-driven method for predicting the anticancer activity of transition metal complexes using MetalCytoToxDB, a curated database with 26,500 IC50 values for 7,050 complexes. Machine learning models achieved ROC-AUC scores of 0.81 and 0.73, leading to over a 2x increase in hit rates. The study proposes a computational screening pipeline for ruthenium complexes.  
+
+- [Engineering cyanobacterial carbonic anhydrase surface mutations for fast CO2 hydration and capture](https://dx.doi.org/10.26434/chemrxiv-2025-0rnx8-v2?rft_dat=source%3Ddrss)  
+Peter Agbo  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper investigates engineering mutations in cyanobacterial carbonic anhydrases to accelerate CO2 hydration for efficient CO2 capture. It proposes modified cyanobacteria as a sustainable method to produce these enzymes using sunlight and nutrients. The results indicate enhanced CO2 hydration rates through surface display of carbonic anhydrases, addressing the challenge of mass-producing these enzymes economically.  
+
+- [Quantitative exposomics targeting over 200 toxicants and key biomarkers at picomolar concentrations](https://dx.doi.org/10.26434/chemrxiv-2025-sb0nl-v4?rft_dat=source%3Ddrss)  
+Yunyun Gu, Max Lennart Feuerstein, Caroline Helen Johnson, Benedikt Warth, Dillon T Lloyd, Chirag J Patel  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper presents a scalable method for quantitative exposomics, analyzing over 230 biomarkers in urine, plasma, and serum using LC-MS/MS. A workflow was validated with 200 urine samples from pregnant women, detecting over 140 analytes, some newly identified. Method showed high sensitivity and robustness, fulfilling requirements for large-scale exposome-wide association studies (ExWAS).  
+
+- [Strategies and Technologies for Sodium Reduction in Processed Foods](https://dx.doi.org/10.26434/chemrxiv-2025-tb82f-v2?rft_dat=source%3Ddrss)  
+Kyan Mui  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper discusses strategies for reducing sodium in processed foods to combat health risks like hypertension. It reviews methods including stealth reduction, salt alternatives (like KCl and MSG), and advanced flavor technologies. Real-world examples show that these approaches can achieve significant sodium reduction without compromising consumer acceptance, supporting public health goals and cardiovascular health improvements.  
+
+- [Refining chemicals from kraft mill waste for use in the food and pharmaceutical industries and in medical research](https://dx.doi.org/10.26434/chemrxiv-2025-nz4v9?rft_dat=source%3Ddrss)  
+Torsten Meyer  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper discusses refining chemicals from kraft mill waste for use in pharmaceuticals and food industries. It identifies and extracts bioactive compounds like stigmasterol and resibufogenin from waste deposits. A deep learning system was developed for discovering novel compounds, showing moderate success in predicting functionality. This approach highlights the sustainable potential of kraft mill deposits for high-value products.  
+
+- [Bioisosteric Replacement of Amides with 1,2,3-Triazoles Improves Dopamine D4 Receptor Ligand Pharmacokinetics](https://dx.doi.org/10.26434/chemrxiv-2025-0z6jk-v2?rft_dat=source%3Ddrss)  
+Thomas M. Keck, Comfort A. Boateng, Mohammad Alkhatib, Franziska M. Jacobs, John N. Hanson, Ashley N. Nilson, Tian Li, Afua B. Faibille, Lindsay A. Bourn, Peter A. Ramdhan, Chenglong Li, Joseph Ricchezza IV, Shannon Jordan, Diandra E. Panasis, Norman Nguyen, Nitish Kasarla, Bryant Wang, Sergio Sola Garcia, Julianna Saez, James Paule, Chae Bin Lee, Rana Rais, Barbara S. Slusher, David R. Sibley, Amy E. Moritz  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The study explores bioisosteric replacement of amide linkers with 1,2,3-triazoles in D4R ligands, improving their pharmacokinetics. Utilizing rat and human liver microsomes, findings indicate enhanced metabolic stability of triazole analogs. Four compounds showed promising pharmacokinetic profiles, particularly 17 and 18, suitable for rat behavioral studies to investigate D4R signaling further.  
+
+- [Design, synthesis and biological evaluation of novel [5,5]-fused thiazolidine/oxazolidine inhibitors for targeting prolyl oligopeptidase](https://dx.doi.org/10.26434/chemrxiv-2025-vs37x?rft_dat=source%3Ddrss)  
+Nicolas Moitessier, Thershan Satkunarajah, Stéphane De Cesco, Ho Ying Huang, Emmanuelle Nguyen-Renou, Anne Labarre, Anthony Mittermaier, Thomas Durcan  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-16  
+&ensp;The paper discusses the design and synthesis of novel [5,5]-fused thiazolidine-based inhibitors for prolyl oligopeptidase (POP), utilizing high-throughput screening and docking. The study produced inhibitors via a streamlined process and tested them in recombinant human POP and living neurons, aiming to overcome prior oxidation and isomerization challenges.
+
 ## 16 Sep 2025  
 
 - [Efficient Sampling of Protein Trajectories with Conditional Diffusion Models](https://dx.doi.org/10.26434/chemrxiv-2025-xq07m?rft_dat=source%3Ddrss)  
