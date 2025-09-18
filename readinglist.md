@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 18 Sep 2025  
+
+- [A new benchmark for deep learning based affinity prediction: Solving the inter-protein scoring noise problem](https://dx.doi.org/10.26434/chemrxiv-2025-sf3cs?rft_dat=source%3Ddrss)  
+Oliver Koch, Malte Grieswelle, Samuel Homberg, Philipp Janssen, Johannes Kaminski, Joana Massa, Stefan Georgiev  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper presents a new benchmark for evaluating deep learning models in protein-ligand affinity prediction, addressing the inter-protein scoring noise issue. Utilizing the LIT-PCBA dataset, the authors found that the Boltz-2 model, despite its potential, struggles to accurately identify correct protein targets compared to decoys, highlighting challenges in generalizing protein-ligand interactions.  
+
+- [Synthesis and Biological Study of Benzothiophene-Fused Azaenediyne Hybrids as Potential Anticancer Agents](https://dx.doi.org/10.26434/chemrxiv-2025-snv9r?rft_dat=source%3Ddrss)  
+Natalia Danilkina, Ekaterina Khmelevskaya, Sergey Silonov, Evgeny Tretyakov, Alexander Khlebnikov, Vladimir Melnikov, Anastasiia Nikitina, Andrey Rumyantsev, Mariya Kryukova, Irina Balova  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-17  
+&ensp;The paper describes the synthesis of benzothiophene-fused azaenediyne hybrids as potential anticancer agents using click chemistry. Two methods were developed: CuAAC for hybridization with azido-ligands and an amine-to-isothiocyanate addition for NCS-enediyne. Results showed a Hoechst-like ligand enhanced cytotoxicity, with the triazole-containing hybrid being particularly effective against HeLa cells.  
+
+- [Accurate Hydration Free Energy Calculations for Diverse Organic Molecules With a Machine Learning Force Field](https://dx.doi.org/10.26434/chemrxiv-2025-p7r0r?rft_dat=source%3Ddrss)  
+Leif D. Jacobson, Xiaowei Xie, John L. Weber, Mats Svensson, Ryne C. Johnston, Edward D. Harder  
+*Organic Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper presents a general workflow for hydration free energy (HFE) calculations using a machine learning force field, Organic_MPNICE, achieving sub-kcal/mol accuracy relative to experimental data. The method includes solute-tempering for improved sampling and outperforms classical force fields on 59 organic molecules, enhancing the accuracy of thermodynamic predictions in drug discovery.  
+
+- [Structural and Kinetic Analysis of Carboxyl-Metabolizing Enzymes Understanding Active Site Architecture and Environmental Adaptation in Marine Carbon Cycling](https://dx.doi.org/10.26434/chemrxiv-2025-r8h7p?rft_dat=source%3Ddrss)  
+Supaporn Klabklaydee, Manabu Fujii, Nopphakorn Subsa-ard  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-17  
+&ensp;The paper analyzes carboxyl-metabolizing enzymes in marine environments, focusing on decarboxylases, carboxylases, dioxygenases, and omega-oxidation enzymes. Methods include structural analysis via FPocket and kinetic modeling. Results show varying sensitivity to pH and ionic strength, oxygen adaptation, unique binding pockets, and efficient substrate channeling, enhancing understanding of marine carbon cycling and implications for climate change.  
+
+- [The Gated Quantum Resonator: An Evolved Bayesian Engine for Chemo-Mechanical Catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn?rft_dat=source%3Ddrss)  
+James R F SUTTON  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-17  
+&ensp;The paper introduces the Gated Quantum Resonator (GQR) model, describing enzymes as active quantum engines that process information non-equilibrium. This model challenges classical catalytic theories and offers a framework for understanding catalytic speed and precision through case studies of FAD and the Oxygen-Evolving Complex. It suggests an analogy between molecular kinetics and analog circuits for validation and scaling.  
+
+- [Connecting the concepts of quantum state tomography and molecular representations for machine learning](https://dx.doi.org/10.26434/chemrxiv-2025-653md?rft_dat=source%3Ddrss)  
+Luis Mantilla Calderón, Raul Ortega-Ochoa, Juan Bernardo Perez Sanchez, Mohsen Bagherimehrab, Abdulrahman Aldossary, Tejs Vegge, Tonio Buonassisi, Alán Aspuru-Guzik  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-17  
+&ensp;The paper connects quantum state tomography with molecular representations for machine learning, proposing that deep learning can create a "deep tomography" that captures the same information as a molecule's density matrix. It suggests that property prediction models trained on complete data can learn representations sufficient for predicting properties of unseen molecules.
+
 ## 17 Sep 2025  
 
 - [Beyond conventional sequence-based encoding: a generalized Machine Learning pipeline for oligonucleotide property prediction](https://dx.doi.org/10.26434/chemrxiv-2025-nfs45?rft_dat=source%3Ddrss)  
