@@ -12,6 +12,49 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 19 Sep 2025  
+
+- [Assessing the performance of quantum-mechanical descriptors in physicochemical and biological property prediction](https://dx.doi.org/10.26434/chemrxiv-2025-hj4dc?rft_dat=source%3Ddrss)  
+Leonardo, Medrano Sandonas; Alejandra, Hinostroza Caldas; Artem, Kokorin; Alexandre, Tkatchenko  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper introduces the QUED framework, which integrates quantum-mechanical (QM) and geometric descriptors for machine learning (ML) models predicting physicochemical and biological properties. It uses the QM7-X dataset for validation and TDCommons-LD50 and MoleculeNet for biological endpoints. Results show enhanced accuracy in property predictions by incorporating QM data, with key features identified through SHAP analysis.  
+- [A new benchmark for deep learning based affinity prediction: Solving the inter-protein scoring noise problem](https://dx.doi.org/10.26434/chemrxiv-2025-sf3cs?rft_dat=source%3Ddrss)  
+Oliver, Koch; Malte, Grieswelle; Samuel, Homberg; Philipp, Janssen; Johannes, Kaminski; Joana, Massa; Stefan, Georgiev  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper introduces a new benchmark for deep learning-based affinity prediction, addressing inter-protein scoring noise issues. Utilizing the LIT-PCBA dataset, it evaluates the Boltz-2 model's ability to identify correct protein targets. Results show that while Boltz-2 demonstrates potential, it struggles with accurate target identification, indicating challenges in generalizing protein-ligand interactions.  
+- [Accurate Hydration Free Energy Calculations for Diverse Organic Molecules With a Machine Learning Force Field](https://dx.doi.org/10.26434/chemrxiv-2025-p7r0r?rft_dat=source%3Ddrss)  
+Leif D., Jacobson; Xiaowei, Xie; John L., Weber; Mats, Svensson; Ryne C., Johnston; Edward D., Harder  
+*Organic Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper presents a robust workflow for hydration free energy (HFE) calculations using a broadly trained machine learning force field, Organic_MPNICE. By employing solute-tempering techniques, it achieves sub-kcal/mol average errors for 59 organic molecules, outperforming classical force fields and DFT methods. This approach enhances the accuracy of HFE predictions in computational drug discovery.  
+- [Electron Density Transport During Chemical Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-7xpv7-v3?rft_dat=source%3Ddrss)  
+Jackson , Elowitt; Aurora, Clark; Nathan, May; Yihui, Wei; Enrique, Alvarado; Bala, Krishnamoorthy  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper investigates the use of optimal transport (OT) methods to analyze electron density changes during chemical reactions, specifically using the Bergman cyclization as a case study. By comparing probability distributions via transport plans, it offers insights into electron density evolution without extensive computational demands, enhancing understanding beyond traditional wave-function analyses.  
+- [Prediction of Charged Small Molecule Conformations in Solution using a Balanced ML/MM Potential](https://dx.doi.org/10.26434/chemrxiv-2025-9hps8?rft_dat=source%3Ddrss)  
+Richard, Bryce; Christopher, Williams; Neil, Burton  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper presents a novel hybrid machine learning/molecular mechanics (ML/MM) potential for predicting the conformations of charged small organic molecules in solution. Using molecular dynamics simulations on 2-phenylethylamine scaffold ligands, the study shows significant improvement in accuracy (MAE reduced from 0.9 to 0.5 kcal/mol) by incorporating dynamic, solvent-polarized charges.  
+- [B5 Active-Site Design in Co–Cu–Fe–Mo–Ni High-Entropy Alloys for Ammonia Decomposition](https://dx.doi.org/10.26434/chemrxiv-2025-f5jsl?rft_dat=source%3Ddrss)  
+Liang, Cao; Cao, Wang; Xingyu, Li  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper presents a DFT-trained cluster expansion model for analyzing Co–Cu–Fe–Mo–Ni high-entropy alloys in ammonia decomposition. Using microkinetic volcano plots and Metropolis Monte Carlo methods, it reveals that reducing Cu content increases catalytic activity. The study identifies optimal B5 site compositions and offers design strategies, applicable to other alloys and reactions, while validating results through DFT on selected sites.  
+- [Multi-Scale Structural Taxonomy with HyperStructure and SuperHyperStructure](https://dx.doi.org/10.26434/chemrxiv-2025-368pz?rft_dat=source%3Ddrss)  
+Takaaki, Fujita  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper presents a framework using Hyperstructures and SuperHyperStructures to model multi-scale systems in materials and chemical sciences. It defines geometric confinement and employs measure-theoretic and set-theoretic methods to categorize structural descriptions. The framework facilitates scale-bridging analysis and design, unifying deterministic and multivalued representations, by introducing multivalued operations and closure theorems.  
+- [Three-Dimensional or Multi-Dimensional Molecular Hyperstructure and Molecular HyperGraph](https://dx.doi.org/10.26434/chemrxiv-2025-262qc?rft_dat=source%3Ddrss)  
+Takaaki, Fujita  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-18  
+&ensp;The paper presents a framework for representing molecular structures using geometry-aware labeled hypergraphs and Euclidean embeddings. It defines molecular hyperstructures and includes worked examples (e.g., ethane, benzene, water dimer) to demonstrate its efficacy. The approach supports various modeling techniques and machine learning, maintaining compatibility with traditional cheminformatics concepts.
+
 ## 18 Sep 2025  
 
 - [A new benchmark for deep learning based affinity prediction: Solving the inter-protein scoring noise problem](https://dx.doi.org/10.26434/chemrxiv-2025-sf3cs?rft_dat=source%3Ddrss)  
