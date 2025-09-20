@@ -12,6 +12,44 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 20 Sep 2025  
+
+- [The Modern Era of Multireference Methods for Chemistry and Materials Science](https://dx.doi.org/10.26434/chemrxiv-2025-h9c6z?rft_dat=source%3Ddrss)  
+Wardzala Jacob, Hennefarth Matthew, Agarawal Valay, Jangid Bhavnesh, Hermes Matthew, King Daniel, Seal Aniruddha, Gagliardi Laura  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-19  
+&ensp;The paper discusses advancements in multireference methods for chemistry and materials science, emphasizing automated active-space selection and efficient correlation energy recovery techniques. It highlights the application of these methods in modeling vertical excitations and reactivity, and their role in developing multiconfigurational band structures, suggesting a broader applicability in high-impact areas.  
+- [When Machine Learning Models Learn Chemistry I: Quantifying Explainability with Matched Molecular Pairs](https://dx.doi.org/10.26434/chemrxiv-2025-d57kp-v2?rft_dat=source%3Ddrss)  
+Kerrin Janssen, Jan M. Wollschläger, Jonny Proppe, Andreas H. Göller  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-19  
+&ensp;The paper introduces the Workflow for Interpretability Scoring using matched molecular pairs (WISP), a model-agnostic method for assessing explainability in machine learning applied to chemical datasets encoded in SMILES. Evaluated on two physics-based datasets, WISP demonstrates that explainability methods effectively reflect predictive accuracy, with a standalone atom attributor enhancing model interpretability.  
+- [CRISP: Enhancing ASE Workflows with Advanced Molecular Simulation Post-Processing](https://dx.doi.org/10.26434/chemrxiv-2025-dht8g-v2?rft_dat=source%3Ddrss)  
+Indranil Saha, Lukáš Grajciar, Daniel Willimetz  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-19  
+&ensp;The paper introduces CRISP, an open-source Python toolkit that enhances molecular simulation post-processing within the Atomic Simulation Environment (ASE). It offers customization, interactivity, and efficiency for large datasets, utilizing static analysis methods, 3D visualizations, and parallel processing. Case studies demonstrate CRISP's capabilities in zeolite simulations, machine learning subsampling, and atomic cluster stability analysis, streamlining research workflows.  
+- [Deep Residual Learning for Molecular Force Fields](https://dx.doi.org/10.26434/chemrxiv-2025-003lg-v3?rft_dat=source%3Ddrss)  
+Xinyu Jiang, Mingan Chen, Duanhua Cao, Jie Yu, Runze Zhang, Zunyun Fu, Zhehuan Fan, Jiacheng Xiong, Xutong Li, Xiaomin Luo, Dan Teng, Mingyue Zheng  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-19  
+&ensp;The paper presents ResFF, a hybrid machine learning force field utilizing deep residual learning to enhance molecular interaction modeling. By integrating learnable physics-based covalent terms with an equivariant neural network, ResFF achieves superior generalization, outperforming traditional and neural network force fields in accuracy (MAE as low as 0.32 kcal/mol) across multiple datasets. This approach improves energy minima reproduction and molecular dynamics stability.  
+- [Real-space machine learning of correlation density functionals](https://dx.doi.org/10.26434/chemrxiv-2024-zk6hp-v4?rft_dat=source%3Ddrss)  
+Elias Polak, Heng Zhao, Stefan Vuckovic  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-19  
+&ensp;This paper discusses advancements in machine learning (ML) for creating transferable density functional approximations (DFAs) in quantum chemistry. Using real-space ML and the Møller–Plesset adiabatic connection, the authors introduce the Local Energy Loss method to enhance data efficiency. They also propose a machine-learned extension of perturbation theory to address self-interaction errors in conventional DFAs.  
+- [Computational-aided Design of Neutral Chiral Bidentate Tellurium-Triazoles for Enantioselective Chalcogen-Bonding Catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-h42tq?rft_dat=source%3Ddrss)  
+Olga Garcia Mancheno, Lary Massold, James O'Brien, Cristina Trujillo, Kevin Fengler, Alica Keuper, Raquel Hidalgo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-19  
+&ensp;The paper presents a computational approach to design chiral bidentate tellurium-triazoles for asymmetric chalcogen-bonding catalysis. The study identified the (R,R)-1,3-diamino cyclohexane as an optimal chiral spacer, achieving moderate affinity to chloride (Ka ~50-60 M-1) and enantioselectivities of 11:89 (78% ee) in a Reissert-type reaction.  
+- [Deciphering the Molecular Mechanisms of Startle Disease: the Role of the Asn46Lys Mutation in the Glycine Receptor](https://dx.doi.org/10.26434/chemrxiv-2025-mr5rn-v2?rft_dat=source%3Ddrss)  
+Carla Molteni, Jacob Adam Clark, Guangpeng Xue  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-19  
+&ensp;The paper investigates the Asn46Lys (N46K) mutation in the glycine receptor (GlyR) associated with startle disease. Using molecular dynamics and metadynamics simulations of the GlyR's extracellular domain, the authors discovered that the mutation reduces neurotransmitter binding affinity by disrupting interactions with a key glutamic acid residue. This finding aligns with experimental data.
+
 ## 19 Sep 2025  
 
 - [Assessing the performance of quantum-mechanical descriptors in physicochemical and biological property prediction](https://dx.doi.org/10.26434/chemrxiv-2025-hj4dc?rft_dat=source%3Ddrss)  
