@@ -12,6 +12,74 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 23 Sep 2025  
+
+- [Modulating Fluorescence of Rhodamine through Molecular Rotor for Wash-free Living-cell Nanoscopy](https://dx.doi.org/10.26434/chemrxiv-2025-b8fjh?rft_dat=source%3Ddrss)  
+Pengfei Zhang, Yuan Luo, Lili Du, Ke Liu, Chunbai Xiang, Yuanyuan Wang, Daoyong Jiang, Xiangyang Lou, Xiaokang Zhang, Xiaoshuai Huang, Ping Gong, Ben Zhong Tang, Lintao Cai  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper presents a novel method for enhancing the fluorescence of water-soluble rhodamine probes (MG-Rho) using a molecular rotor system. This approach, which connects spirocyclization-free rhodamine dyes with malachite green, addresses performance issues due to nonfluorescent forms. The study employs photoluminescence and time-resolved absorption spectra to investigate mechanisms, offering a strategy for wash-free super-resolution imaging.  
+
+- [Proteome-Wide Target Identification Using Reactive Metallo-Scaffolds (r-mS): A Platform for Metallodrug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-gvz2g?rft_dat=source%3Ddrss)  
+Jeannine Hess, Jessica E. Waters, George S. Biggs, Harry Wilders, Emma E. Cawood, Jonathan Bailey, Mika Kintzel, Sarah Maslen, Yew Mun Yip, Mason Wakley, Joanna Redmond, J. Mark Skehel, David House, Jacob Bush  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper presents reactive metallo-scaffolds (r-mS) for mapping ligandable cysteines in the mammalian proteome, utilizing chemoproteomics in HEK293T lysate. r-mS-2 was identified as the most effective scaffold, targeting cysteine 119 in PRMT1 and inhibiting its activity. Integrative methods like intact protein LC-MS and structural modeling provided insights into binding mechanisms, suggesting r-mS as a new metallodrug discovery platform.  
+
+- [Bacterial Display of Genetically Encoded Macrocyclic Peptide Libraries using Cysteine-Reactive Unnatural Amino Acids](https://dx.doi.org/10.26434/chemrxiv-2025-c6vdg?rft_dat=source%3Ddrss)  
+Jeffery Tharp, Olabode Dawodu  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper presents a bacterial surface display method for generating cyclic peptide libraries using cysteine-reactive unnatural amino acids (uAAs). By incorporating uAAs into E. coli, the authors achieved efficient macrocyclic peptide formation, confirmed by mass spectrometry. They developed a naïve macrocyclic peptide library, identifying new ligands with conserved motifs, thus enhancing ligand discovery capabilities.  
+
+- [Data-guided rational design of additives for halogenation of highly fluorinated naphthalenes: Integrating fluorine chemistry and machine learning](https://dx.doi.org/10.26434/chemrxiv-2025-zmt33?rft_dat=source%3Ddrss)  
+Norie MOMIYAMA, Naoya OHTSUKA, Muhammad Zhafran MOHD ARIS, Toshiyasu SUZUKI  
+*Organic Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper presents a data-guided framework for designing additives to enhance halogenation of highly fluorinated naphthalenes at room temperature. By screening 25 additives, a chlorine-substituted additive (1-chloro-4-(ethoxymethyl)benzene) was identified, achieving 98% yield and 96% recovery. Machine learning models from DFT descriptors showed strong predictive performance (R2 = 0.90). This work shifts additive design from empirical to predictive methods.  
+
+- [Machine Learning-Guided Synthesis of Prospective Organic Molecular Materials: An Algorithm with Latent Variables for Understanding and Predicting Experimentally Unobservable Reactions](https://dx.doi.org/10.26434/chemrxiv-2023-bvvdb-v9?rft_dat=source%3Ddrss)  
+Norie MOMIYAMA, Kazuhiro TAKEDA, Naoya OHTSUKA, Toshiyasu SUZUKI  
+*Organic Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper presents a machine learning algorithm that utilizes latent variables to predict unobservable reactions and optimize synthetic conditions for perfluoro-iodinated naphthalene derivatives. The model, achieving an R2 value >0.99, was experimentally validated with high yield outcomes. This framework aims to enhance chemical decision-making and will be applied to catalyst discovery and organic semiconductor optimization.  
+
+- [High-energy resolution x-ray spectroscopy reveals long-sought bonding characteristics of La3+ homologues for radiopharmaceuticals](https://dx.doi.org/10.26434/chemrxiv-2025-xgd7l?rft_dat=source%3Ddrss)  
+Harry Ramanantoanina, Bianca Schacherl, Attila Kovács, Michelangelo Tagliavini, Emily Reynolds, Cedric Reitz, Ruwini Ekanayake, Martin Schäfer, Paul-Valentin von Massow, Jörg Göttlicher, Ralph Steininger, Kathy Dardenne, Maurits Haverkort, Martina Benešová-Schäfer, Tonya Vitova  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper investigates the interaction between remdesivir and SARS-CoV-2 RNA-dependent RNA polymerase (RdRp) using molecular dynamics (MD) simulations and fragment molecular orbital (FMO) calculations. It highlights that remdesivir's incorporation at the –3 position is crucial for RdRp inhibition, demonstrating MD and FMO as effective analytical methods for understanding molecular mechanisms.  
+
+- [UV Excitation of Uracil Results in the Formation of a Ground-State Intermediate in Less Than One Picosecond and Its Lifetime is Quenched by Nucleophilic Water Addition](https://dx.doi.org/10.26434/chemrxiv-2025-vkrxr?rft_dat=source%3Ddrss)  
+Carlos E. Crespo-Hernández, Reshma Mathew, Tazrin I. Tonny  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper investigates the excited state dynamics of uracil post-UV excitation at 267 nm in aqueous and deuterated solutions. Utilizing broadband transient absorption and quantum-chemical calculations, it identifies a ground-state intermediate formed in under 1 picosecond, with lifetimes of 22.7 ps and 30.8 ps in water and deuterated water, respectively, leading to 6-hydroxy-5,6-dihydrouracil photohydrates.  
+
+- [Dissecting Non-Radiative Decay in Donor-Functionalized Radicals with a Mode-Resolved Model](https://dx.doi.org/10.26434/chemrxiv-2025-nvz22?rft_dat=source%3Ddrss)  
+Robert Toews, Andreas Köhn  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper discusses a mode-resolved model for understanding non-radiative decay in donor-functionalized radicals used in optoelectronics. It emphasizes the importance of density functional modeling, solvation, and anharmonic effects. A sensitivity analysis of individual molecular vibrations reveals how a specific donor-acceptor arrangement reduces non-radiative decay, improving emitter performance.  
+
+- [Dynamical fragment molecular orbital interaction analysis of SARS-CoV-2 RNA-dependent RNA polymerase and remdesivir](https://dx.doi.org/10.26434/chemrxiv-2025-0l7pq?rft_dat=source%3Ddrss)  
+Kaori Fukuzawa, Shuhei Miyakawa, Koji Okuwaki, Yusuke Kawashima, Yuma Handa, Takayuki Furuishi, Estuo Yonemochi, Koichiro Kato  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper presents DUT-240, a peptide-based porous coordination polymer that selectively adsorbs water from methanol and ethanol mixtures, improving industrial alcohol purification. It demonstrates high water uptake, excellent selectivity, and recyclability at mild temperatures. Structural analysis shows ultramicroporous pockets enhance molecular sieving, making this approach more energy-efficient than conventional methods.  
+
+- [A Peptide-Based Porous Coordination Polymer with Ultrahigh Water-Alcohol Selectivity](https://dx.doi.org/10.26434/chemrxiv-2025-p3g44?rft_dat=source%3Ddrss)  
+Volodymyr Bon, Konstantinos Papadopoulos, Bartosz Mazur, Sebastian Ehrling, Antonia Mosberger, Bogdan Kuchta, Stefan Kaskel  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;The paper presents DUT-240, a peptide-based porous coordination polymer that selectively adsorbs water from methanol and ethanol mixtures, improving industrial alcohol purification. It demonstrates high water uptake, excellent selectivity, and recyclability at mild temperatures. Structural analysis shows ultramicroporous pockets enhance molecular sieving, making this approach more energy-efficient than conventional methods.  
+
+- [Observing Optically Dark States in the Photoswitchable Azobenzene with Resonant Inelastic X-ray Scattering](https://dx.doi.org/10.26434/chemrxiv-2025-x2hzr?rft_dat=source%3Ddrss)  
+Ambar Banerjee, Zhong Yin, Ivan Rajkovic, Emelie Ertan, Annette Pietzsch, Alexander Föhlisch, Simone Techert, Michael Odelius  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-22  
+&ensp;  
+
 ## 20 Sep 2025  
 
 - [The Modern Era of Multireference Methods for Chemistry and Materials Science](https://dx.doi.org/10.26434/chemrxiv-2025-h9c6z?rft_dat=source%3Ddrss)  
