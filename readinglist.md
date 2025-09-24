@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 24 Sep 2025  
+
+- [Unveiling BCL-xL-specific PROTAC Efficiency and Dissociation Mechanisms Using Native Mass Spectrometry](https://dx.doi.org/10.26434/chemrxiv-2025-zfjsj?rft_dat=source%3Ddrss)  
+Mohamed I., Gadallah; Kailyn, L. Nonhof; Digant, Nayak; Peiyi, Zhang; Olivia, Dioli; Guangrong, Zheng; Shaun, K. Olsen; Daohong, Zhou; Jennifer, S. Brodbelt  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper investigates BCL-xL-specific PROTACs using native mass spectrometry (MS) to analyze complex formations and stability with the VHL E3 ligase. The study reveals PROTAC binding affinities, dissociation mechanisms through CID and UVPD, and evaluates thermal stabilities via variable-temperature ESI-MS, highlighting the potential of native MS for PROTAC characterization.  
+
+- [Resistance Gene-Guided Discovery of a Fungal Spirotetramate as an Acetolactate Synthase Inhibitor](https://dx.doi.org/10.26434/chemrxiv-2025-2zn37?rft_dat=source%3Ddrss)  
+Yudai, Matsuda; Tsz Ki, Chan; Xingxing, Wei; Li, Ma; Hang, Wang; Pan, Liao  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper presents a genome mining tool for identifying fungal biosynthetic gene clusters (BGCs) containing resistance genes. Screening about 2,500 genomes revealed the pts cluster, leading to the discovery of pterrespiramide A (1), a spirotetramate acetolactate synthase (ALS) inhibitor with antifungal and herbicidal activities, demonstrating the efficacy of resistance gene-guided approaches in natural product discovery.  
+
+- [Quinone-Grafted Chitosan Polymers Enhance Microbial Extracellular Electron Transfer for Living Bioelectronic Devices](https://dx.doi.org/10.26434/chemrxiv-2025-ss6fz?rft_dat=source%3Ddrss)  
+Xinyuan, Zuo; Siliang, Li; Abdullah, Alazmi; Fiona, Chen; Ravindra, Saxena; Harsh, Vardhan; Caroline, Ajo-Franklin; Rafael, Verduzco  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper presents a novel bioelectronic device using naphthoquinone-grafted chitosan (NQ-Chit) to enhance extracellular electron transfer (EET) in Gram-positive bacteria, specifically Lactiplantibacillus plantarum. The NQ-Chit hydrogel improves EET current compared to other methods and maintains functionality after medium exchanges. The study demonstrates potential applications in environmental sensing and advances microbial bioelectronics.  
+
+- [Empowering Federated Learning for Robust Compound-Protein Interaction Prediction across Heterogeneous Cross-Pharma Domains](https://dx.doi.org/10.26434/chemrxiv-2025-nj6jd?rft_dat=source%3Ddrss)  
+Takuto, Koyama; Hiroaki, Iwata; Ryosuke, Kojima; Takao, Otsuka; Aki, Hasegawa; Hiroshi, Ueda; Toshiharu, Morimoto; Ryoko, Sasaki; Nao, Torimoto; Sei, Murakami; Manabu, Tojo; Teruki, Honma; Shigeyuki, Matsumoto; Yasushi, Okuno  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper evaluates federated learning (FL) for compound-protein interaction (CPI) prediction across heterogeneous pharmaceutical datasets. It reveals that FL improves out-of-domain predictions but underperforms with in-domain data. A new similarity-guided ensemble method was developed, combining global FL with local models, proving effective with data from a public database and 13 pharmaceutical companies, offering guidance for drug discovery applications.  
+
+- [ANNalog 1 Generation of MedChem-similar Molecules](https://dx.doi.org/10.26434/chemrxiv-2025-9c1v6?rft_dat=source%3Ddrss)  
+Wei, Dai; Jonathan D, Tyzack; Arianna, Fornili; Chris, de Graaf; Noel M, O’Boyle  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper presents ANNalog, a transformer-based model for generating drug-like molecule analogues, trained on pairs from the ChEMBL33 dataset. It uses SMILES encoding and Levenshtein distance for improved alignment. ANNalog effectively performs scaffold hopping and rediscovered 25% of known scaffolds in a case study, showcasing its capability for generating structurally similar and biologically relevant analogues.  
+
+- [Computational Design of a TCR-Based Bispecific Engager Targeting Cancerous KRAS G12V Mutations](https://dx.doi.org/10.26434/chemrxiv-2025-nqbk1?rft_dat=source%3Ddrss)  
+Gargi, Sharma; Nisarg, Shah; Vihaan, Patel; Melinda, Wu; Anishreddy, Mummadi; Anya, Taneja; Moksh, Shah; Gia Bao, Le; Madhav, Krishna; Harman, Brah  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The study presents the computational design of two TCR-BiTE structures targeting the KRAS G12V mutation. Utilizing AlphaFold, free-energy estimation, and molecular dynamics, the designs are validated for specific HLAs (HLA:03:01 and HLA:11:01). This work offers a potential pipeline for TCR-BiTE development against other mutations, addressing a gap in targeted therapy for KRAS G12V.  
+
+- [Multimodal mass spectrometry imaging for plaque- and region-specific neurolipidomics in Alzheimer’s disease mouse models](https://dx.doi.org/10.26434/chemrxiv-2024-2hbb7-v2?rft_dat=source%3Ddrss)  
+Timothy J., Trinklein; Stanislav S., Rubakhin; Samuel, Okyem; Seth W., Croslow; Marisa, Asadian; K.R., Sabitha; Orly, Lazarov; Fan, Lam; Jonathan V., Sweedler  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper describes a multimodal framework combining MALDI-2 mass spectrometry imaging, ion mobility spectrometry, and fluorescence microscopy to analyze plaque-associated lipids in Alzheimer's disease mouse models. The method reveals region-specific lipidomic changes, illustrating substantial heterogeneity among Aβ plaques. Integration with spatial transcriptomics data suggests lysosomal degradation drives ganglioside accumulation, providing new insights into the lipid microenvironment around plaques.  
+
+- [Experimentally derived charge density of halogen bonds to heavy pnictogens: revealing electronic structure and validating DFT approaches](https://dx.doi.org/10.26434/chemrxiv-2025-l1n8q?rft_dat=source%3Ddrss)  
+Mihails, Arhangelskis; Lavanya, Kumar; Sibananda G., Dash; Maura, Malinska; Dominik, Cinčić  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper investigates halogen-bonded cocrystals with heavy pnictogen acceptors, using high-resolution X-ray diffraction and multipole refinement to reveal charge density. It compares experimental results with various DFT methods, showing significant discrepancies in interaction geometries and charge density predictions. This underscores the necessity of choosing suitable DFT approaches for accurate modeling of halogen-bonded materials.  
+
+- [Benchmarking density functional approximations in nonadiabatic dynamics: trans-cis isomerization in retinal model](https://dx.doi.org/10.26434/chemrxiv-2025-s9zgq-v2?rft_dat=source%3Ddrss)  
+Lea M., Ibele; Carlo, Adamo; Davide, Avagliano  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper benchmarks density functional approximations (DFAs) for nonadiabatic dynamics in the trans-cis photoisomerization of the protonated Schiff base 3 (PSB3). It introduces a protocol for evaluation, comparing DFAs to RMS-CASPT2. Findings indicate local functionals can misrepresent dynamics, while double hybrid functionals show improved energy profiles, suggesting significant implications for nonadiabatic dynamics research.  
+
+- [A Computational Community Blind Challenge on Pan-Coronavirus Drug Discovery Data](https://dx.doi.org/10.26434/chemrxiv-2025-zd9mr-v4?rft_dat=source%3Ddrss)  
+Jenke, Scheen; Hugo, MacDermott-Opeskin; Cas, Wognum; Joshua T., Horton; Devany, West; Alexander Matthew, Payne; Maria A., Castellanos; Sean, Colby; Edward, Griffen; David, Cousins; Jessica, Stacey; Lauren, Reid; Jasmin, Cara Aschenbrenner; Daren, Fearon; Blake, Balcomb; Peter, Marples; Charles, W.E. Tomlinson; Ryan, Lithgo; Max, Winokan; Haim, Barr; Noa, Lahav; Michael, Lavi; Shirley, Duberstein; Galit, Cohen; Gwendolyn, Fate; Bruce, Lefker; Ralph, Robinson; Tamas, Szommer; Nick, Lynch; Mallory, Tollefson; Cynthia, Xu; Jonny, Hsu; Julien, St-Laurent; Honore, Etsmoberg; Lu, Zhu; Andrew, Quirke; Mohamed Iliyas, Abdul Haleem; Irfan, Alibay; Gunjan, Baid; Benjamin, Birnbaum; Kevin P., Bishop; Hugo, Bohorquez; Ashmita, Bose; C. J., Brown; Jackson, Burns; Lianjin, Cai; Ruel, Cedeno; Vladimir, Chupakhin; Finlay, Clark; Daniel J., Cole; Carles, Corbi-Verge; Muhammad, Danial; Alec, Davi; Wim, Dehaen; Niklas Piet, Doering; Alexis, Dougha; Bryce, Eakin; Anatol, Ehrlich; Rokas, Elijosius; Jozef, Fü löp; Anthony, Gitter; Yaowen, Gu; Teresa, Head-Gordon; Ellena, Jiang; Benjamin, Kaminow; Sina, Khosravi; Asma Feriel, Khoualdi; Eelke Bart, Lenselink; Zhirong, Liu; Yue, Liu; Sijie, Liu; Yizhou, Ma; Patrick, Maher; Imke, Mayer; Antonia, Mey; Floriane, Montanari; Taoyu, Niu; Ryusei, Ogino; Ashok, Palaniappan; Xiaolin, Pan; Auro, Patnaik; Long-Hung, Pham; Luis, Pinto; Justin, Purnomo; Alexander, Rich; Lars, Schaaf; Christoph, Schran; Satya Pratik, Srivastava; Kunyang, Sun; Zhaoxi, Sun; Valerij, Talagayev; Balamurugan, Thirukonda Subramanian Balakrishnan; Alexandre, Tkatchenko; Wojtek, Treyde; Austin, Tripp; Nopsinth, Vithayapalert; Yingze, Wang; Azmine Toushik, Wasi; Steffen, Wedig; Bofei, Xu; Weijun, Zhou; Frank, von Delft; Alpha, Lee; Karla, Kirkegaard; Peter, Sjö; James, Fraser; John D., Chodera; Gerhard , Wolber; Laurent, Hoffer; Oscar, Mendez-Lucio; Kate, Huddleston; Mounika, Srilakshmi; Ida, Titus; Stephane, de Cesco; Marie-Pierre, Dréanic; Johan , Hofmans; Giovanni, Tricarico; Kenneth, Goossens; Julien, Michel; Rajeev, Kumar Singh; W. Patrick, Walters; Andre, Schützer de Godoy  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-23  
+&ensp;The paper discusses a community blind challenge on pan-coronavirus drug discovery, using data from the ASAP Discovery Consortium. It focused on predicting the potency of small molecules against SARS-CoV-2 and MERS-CoV. Participants submitted methods that were evaluated to create performance leaderboards, revealing key insights and establishing best practices for machine learning in drug discovery.
+
 ## 23 Sep 2025  
 
 - [Modulating Fluorescence of Rhodamine through Molecular Rotor for Wash-free Living-cell Nanoscopy](https://dx.doi.org/10.26434/chemrxiv-2025-b8fjh?rft_dat=source%3Ddrss)  
