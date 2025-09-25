@@ -12,6 +12,64 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 25 Sep 2025  
+
+- [Decoding Regioselectivity in Cu-Catalyzed Borylation of Al-kynes: Insights from Machine Learning and Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-1b0jp-v2?rft_dat=source%3Ddrss)  
+Pablo Mauleon Perez, Ram3n G3mez Array1s, Guillermo Marcos-Ayuso, Sara Fernandez Moyano, Carlos Lendinez Sanchez, David Quesada, Marda Y. Cobos-Abad  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper discusses a machine learning model developed to improve regioselectivity in CuI-catalyzed borylation of alkynes, using a combined experimental/literature dataset. The Random Forest model showed high accuracy (R2 > 0.8) and identified key ligand descriptors influencing selectivity. ML-guided ligand screening enhanced hydroboration outcomes, showcasing the potential of this approach for related organocopper reactions.  
+- [Metal separation by mineral carbonation coupled with electromediated stripping and regeneration: toward sustainable metal extraction](https://dx.doi.org/10.26434/chemrxiv-2025-z41jq?rft_dat=source%3Ddrss)  
+Deborah Romito, Adrien Forot, Maxime Ducreux, Franck Ulm, Guillaume Erbland, Lisa Dajean, Kai-Jher Tan, Paola Brenni, Jin-Soo Kang, T. Alan Hatton, Julien Leclaire  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper presents a proof of concept for a novel method combining electromediated metal stripping with amine-assisted chelation and mineral carbonation for sustainable metal extraction. It effectively separates metals like Mn, Zn, Co, Ni, and Cu from liquid acid feeds, aiming to reduce environmental impact and reliance on harmful processes. The proposed approach utilizes only water, CO2, and electricity.  
+- [Discovery and development of inhibitors of heat shock factor 1 by a fluorescence polarization assay](https://dx.doi.org/10.26434/chemrxiv-2025-17854?rft_dat=source%3Ddrss)  
+Matthew Moschitto, Geoffrey H Chan  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper discusses the development of inhibitors for heat shock factor 1 (HSF1), a key protein in cancer cell survival, using a fluorescence polarization (FP) assay. The authors highlight that their FP assay is suitable for high-throughput screening, leading to the discovery of a new scaffold for HSF1 inhibition, which could be a promising cancer treatment strategy.  
+- [Syndirella: Synthesis-directed fragment elaboration enables extensive binding site exploration beyond catalog compounds](https://dx.doi.org/10.26434/chemrxiv-2025-0jd39?rft_dat=source%3Ddrss)  
+Kate K. Fieseler, Max Winokan, Joseph A. Morrone, Charlotte M. Deane, Frank von Delft, Warren Thompson  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper presents Syndirella, a novel approach for fragment elaboration in drug discovery that allows synthesizing hundreds to thousands of compounds through digitized routes. Tested on three viral proteins, it yielded 13 X-ray structures from 252 compounds, achieving an 84% cost reduction compared to traditional methods. This method enhances binding site exploration and pharmacophore diversity while maintaining budget constraints.  
+- [Fluoride Electrolyte Discovery via Reactivity Guided Genetic Algorithms](https://dx.doi.org/10.26434/chemrxiv-2025-h2rgp?rft_dat=source%3Ddrss)  
+Brett Savoie, Vignesh Sathyaseelan  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper presents a framework using genetic algorithms, quantum chemistry, and machine learning to discover stable fluoride electrolytes for fluoride-ion batteries. It identifies nitrogen-containing heteroaromatic rings as optimal structures, with pentafluoropyridine showing a 2.3-fold longer half-life than the benchmark organic solvent. The study establishes design principles for rational molecular engineering in electrolyte development.  
+- [Interpretable and Scalable Similarity Metrics for DNA-Encoded Library Design Using Generative Topographic Mapping](https://dx.doi.org/10.26434/chemrxiv-2025-v4183?rft_dat=source%3Ddrss)  
+Alexandre Varnek, Louis Plyer, Alexey Orlov, Erik Yeghyan, Tagir Akhmetshin, Fanny Bonachera, Dragos Horvath  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper discusses using Generative Topographic Mapping (GTM) for selecting DNA-encoded libraries (DELs) by evaluating their similarity to reference compounds and their internal diversity. Employing 100 DEL subsets and a reference set from ChEMBL against CDK2, GTM-derived metrics achieved strong correlations (0.6–0.7) with conventional methods and identified top DELs effectively, enhancing the design process through visual landscapes.  
+- [Towards robust databases: an ensemble-based workflow for error detection applied to chemical data](https://dx.doi.org/10.26434/chemrxiv-2025-6bh22?rft_dat=source%3Ddrss)  
+Mikhail Khrisanfov, Dmitriy Matyushin, Andrey Samokhin  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper proposes an ensemble-based "yellow cards" workflow for detecting errors in chemical data, using 5 predictive models to identify approximately 5% of erroneous entries. It validates five key hypotheses through computational datasets, demonstrating improved precision-recall metrics compared to simpler methods. The study provides a detailed guide for implementation, enhancing reliability in chemical data curation.  
+- [Exploring Lithium Diffusion in LiF with Machine Learning Potentials: From Point Defects to Collective Ring Diffusion](https://dx.doi.org/10.26434/chemrxiv-2025-fv0zl?rft_dat=source%3Ddrss)  
+Paolo De Angelis, Umberto Raucci, Francesco Mambretti, Matteo Fasano, Pietro Asinari, Eliodoro Chiavazzo, Michele Parrinello  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper explores lithium diffusion in LiF using a machine learning interatomic potential (MLIP) and large-scale Molecular Dynamics simulations. It identifies traditional vacancy and interstitial mechanisms and introduces a novel collective ring diffusion process involving six lithium ions. The study emphasizes the potential of MLIPs for multiscale modeling of the solid electrolyte interphase in lithium-ion batteries.  
+- [Unraveling the sources of broadening in UV-Visible spectra of crystalline oligoacenes using multiscale computational protocols](https://dx.doi.org/10.26434/chemrxiv-2025-32ckp?rft_dat=source%3Ddrss)  
+Maxime Hodée, Daniel Escudero, Filippo Brunetti, Federico Hernández  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper presents multiscale computational strategies to model UV-Vis absorption spectra broadening in crystalline oligoacenes. Using ab initio methods, it assesses contributions from static disorder, excitonic coupling, and vibronic interactions, successfully quantifying broadening in naphthalene and anthracene crystals. This framework aids in studying various organic molecular crystals relevant for photophysical applications.  
+- [Data-driven prediction of single-molecule magnets through spatial-electronic cooperation](https://dx.doi.org/10.26434/chemrxiv-2025-7r39c?rft_dat=source%3Ddrss)  
+Qian Peng, Qi Wang, Yuan Li, Xinyuan Wang, Si-Min Xu, Airu Yin  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper presents a method for predicting single-molecule magnets (SMMs) using a magneto-structural relationship based on a new theoretical dataset and spatial descriptors. It utilizes machine learning and multi-scale calculations, analyzing 132 structures. Results show effective energy barriers for 391 previously studied Dy-SMMs and 44 new complexes. The "SIMDAVIS" dataset indicates only 1.2% of complexes exceed 600 cm-1.  
+- [Transferable and Transparent Energy Decomposition-based Machine Learning Models for Computing Accurate Reaction Energetics](https://dx.doi.org/10.26434/chemrxiv-2025-tmv00-v2?rft_dat=source%3Ddrss)  
+Giovanni Bistoni, Loriano Storchi, Carlos R. Jacinto-Mejia  
+*Organic Chemistry on ChemRxiv*  
+2025-09-24  
+&ensp;The paper presents a machine-learning framework that improves the accuracy of DFT reaction energies using energy-decomposition descriptors. It employs linear regression models that reduce mean absolute percentage errors by up to 63% and a random forest classifier for optimal model selection, achieving up to 123% reduction in errors. Results remain robust on the WCCR10 dataset, demonstrating effective generalization.
+
 ## 24 Sep 2025  
 
 - [Unveiling BCL-xL-specific PROTAC Efficiency and Dissociation Mechanisms Using Native Mass Spectrometry](https://dx.doi.org/10.26434/chemrxiv-2025-zfjsj?rft_dat=source%3Ddrss)  
