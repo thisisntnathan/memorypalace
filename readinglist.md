@@ -12,6 +12,64 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 26 Sep 2025  
+
+- [Accurate Prediction of Drug Resistance for Intrinsically Disordered Protein Regions](https://dx.doi.org/10.26434/chemrxiv-2025-brzks?rft_dat=source%3Ddrss)  
+Audrius Kalpokas, Mark Mackey, Julien Michel  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper develops robust free energy perturbation (FEP) protocols to predict ligand binding affinities of MDM2 mutants, focusing on its intrinsically disordered region. It uses datasets from experimental affinities with ligands AM-7209 and Nutlin-3a. Results indicate that equilibrium FEP protocols significantly outperform non-equilibrium ones, offering a reliable method for analyzing mutation effects on binding affinities in flexible protein regions.  
+- [Unraveling Torsional Preferences: Comparative Analysis of Torsion Motif Angle Distributions Across Different Environments](https://dx.doi.org/10.26434/chemrxiv-2025-zm7x7?rft_dat=source%3Ddrss)  
+Sereina Riniker, Jessica Braun, Paul Katzberger, Gregory A. Landrum, Djahan Lamei  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper analyzes torsion motif angle distributions (TMADs) across crystal, vacuum, water, and hexane environments. It reveals that environmental factors significantly affect torsion distributions. The study includes a large-scale comparison and introduces an automated fitting procedure for rapid parameterization of TMADs, potentially enhancing solvent-specific conformer generation methods.  
+- [ELECTRUM: An Electron Configuration-based Universal Metal Fingerprint for Transition Metal Compounds](https://dx.doi.org/10.26434/chemrxiv-2024-vqktn-v2?rft_dat=source%3Ddrss)  
+Angelo Frei, Markus Orsi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper introduces ELECTRUM, an electron configuration-based fingerprint for transition metal compounds, addressing challenges in machine-readable formats. It utilizes a dataset from the Cambridge Structural Database, demonstrating effective structural diversity capture. The method supports machine learning models for predicting coordination numbers and metal oxidation states, highlighting its potential and inviting community validation.  
+- [Efficient Degradation of Per- and Polyfluoroalkyl Substances on Plasmonic Surfaces with Visible Light](https://dx.doi.org/10.26434/chemrxiv-2025-npllm?rft_dat=source%3Ddrss)  
+Bryan Wong, Qiang Xu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper presents a method for efficiently degrading perfluorooctanoic acid (PFOA) on a plasmonic Au(111) surface using visible light (530 nm). Utilizing a real-time electron-nuclear dynamics approach, the authors conducted large-scale simulations that revealed the importance of water molecules in the degradation process, demonstrating the potential for targeting environmental contaminants effectively.  
+- [Instrument-agnostic Machine Learning Framework for Accurate Prediction of Functional Groups from Tandem Mass Spectrometry](https://dx.doi.org/10.26434/chemrxiv-2025-px8nb?rft_dat=source%3Ddrss)  
+Gaurav Chopra, Connor Beveridge, Prageeth Wijewardhane, Matthew Muhoberac, Nicolas Morato, Andreas Kaerner, Li-Kang Zhang, Douglas Richardson, Ayanna Shoulds, Jeffrey Gilbert, Christopher Welch, Shane Tichy  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;This paper presents an instrument-agnostic machine learning framework for predicting functional groups from tandem mass spectrometry (MS/MS) spectra, using data from the Mass Bank of North America and a custom database. The models achieved average molecular F1 scores of 87% (MoNA) and 76% (DESI), showcasing robust performance across different instruments and facilitating database-free predictions.  
+- [The Gated Quantum Resonator: A Chemistry-Forward, Bayesian, Circuit–Hamiltonian Framework Complementing MD](https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v2?rft_dat=source%3Ddrss)  
+James R F, SUTTON  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper introduces the Gated Quantum Resonator (GQR), a framework aimed at improving molecular dynamics (MD) simulations in long-timescale catalysis and tunneling effects. It employs coupled vibronic-electronic resonators and Bayesian updates for effective coupling analysis, enhancing the exploration of parameter space. The study details methods, example netlists, and code, with potential applications in electrocatalysis and non-thermal plasma catalysis.  
+- [Coherent two dimensional electronic-X-ray spectroscopy](https://dx.doi.org/10.26434/chemrxiv-2025-wgx96?rft_dat=source%3Ddrss)  
+Jasper J., van Thor  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper proposes a coherent two-dimensional electronic-X-ray spectroscopy (2DEX) for analyzing valence-core dynamics in molecular systems, utilizing a modified optical pump-X-ray probe technique. It details theoretical evaluations of signals using a response function approach, highlighting contributions from various experimental parameters. Calculations include applications for vibrational monomers and electronic exciton states in the XANES spectral region.  
+- [Novel Kinase Ligand Generation Using Subpocket-Based Docking](https://dx.doi.org/10.26434/chemrxiv-2025-f9ctg?rft_dat=source%3Ddrss)  
+Paula Linh Kramer, Katharina Buchthal, Dominik Hubach, Gina Bach, Naemi Wagner, Johannes Krieger, Moritz Klöpper, Michael Daude, Wibke Diederich, Andrea Volkamer  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper showcases a deep learning approach that predicts self-energies using ab initio Dynamical Mean-Field Theory (DMFT), addressing limitations in DFT. By training on minimal datasets, the model demonstrates high accuracy for materials like SrVO3, CaVO3, and SrNbO3, utilizing transfer learning to make predictions for unseen materials, significantly reducing computational efforts and enhancing materials theory.  
+- [Deep Learning-based prediction of self-energies from ab initio Dynamical Mean-Field Theory for real materials with minimal data sets](https://dx.doi.org/10.26434/chemrxiv-2025-dp7rd?rft_dat=source%3Ddrss)  
+Hrishit Banerjee, Pragati Mitra  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper investigates hot electron transfer from silver nanoclusters (NCs) to perfluoroalkyl substances (PFAS), using time-dependent density functional theory. It finds that while direct hot electron transfer decreases with NC size, the net electron transfer is influenced by the electronic structure of both NCs and PFAS. Smaller NCs face oscillatory charge transfer, while larger NCs enable stable transfer, informing strategies for PFAS degradation.  
+- [A-type helicity controls efficient nonenzymatic template copying of nucleic acids](https://dx.doi.org/10.26434/chemrxiv-2025-bg9jl?rft_dat=source%3Ddrss)  
+Barbara Katarzyna Lech, Petr Jurečka, Rafał Szabla, Marie Zgarbová  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper investigates DNA self-replication on RNA templates, revealing that A-type helicity significantly impacts the efficiency of nonenzymatic primer extension. Structural analyses demonstrate how the RNA template's helicity influences this process, underscoring the relationship between helix type and replication efficiency.  
+- [Chemoselective Divergence via Substrate Control: Decarboxylative and Decarbonylative Coupling of 2-Oxoacids with Allylic Difluorides](https://dx.doi.org/10.26434/chemrxiv-2025-nclkk?rft_dat=source%3Ddrss)  
+Jean-Denys Hamel, Taylor Semeniuk, Austin Pounder, Dennis D. Toporkov, Stacey D. Wetmore  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-25  
+&ensp;The paper discusses a photocatalytic method for decarboxylative coupling of 2-oxoacids with allylic difluorides to form monofluoroalkenes. It highlights that product distribution is influenced by the substitution on 2-oxoacids, with computational studies indicating varying reaction pathways based on radical stability. No specific datasets were mentioned, but primary, secondary, and tertiary 2-oxoacids yielded different product mixtures.
+
 ## 25 Sep 2025  
 
 - [Decoding Regioselectivity in Cu-Catalyzed Borylation of Al-kynes: Insights from Machine Learning and Artificial Intelligence](https://dx.doi.org/10.26434/chemrxiv-2025-1b0jp-v2?rft_dat=source%3Ddrss)  
