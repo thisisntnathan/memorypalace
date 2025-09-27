@@ -12,6 +12,59 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 27 Sep 2025  
+
+- [Interpretable Machine Learning-based Automated HPLC/MS2 Platform](https://dx.doi.org/10.26434/chemrxiv-2025-qdpc8?rft_dat=source%3Ddrss)  
+Gaurav, Chopra; Armen, Beck; Ruth, Anyaeche; Prageeth, Wijewardhane; Sanjay, Iyer; Yue, Fu; Judy, Liu; Jifa, Zhang; Kawthar, Alzarieni; Erlu, Feng; Ryan, Hilger; Christopher, Welch; Hilkka, Kenttämä  
+*Organic Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper presents an interpretable machine learning approach for automating the identification of unknown compounds in complex mixtures via HPLC/MS2. It utilizes a chemical graph-based method for automatic functional group identification, selection of neutral reagents, and optimization of conditions. This advancement aims to streamline the traditionally manual and time-consuming analysis process in chemical science.  
+- [Deciphering the molecular mechanisms of phosphoester bond formation in abiotic conditions with reactive neural network potentials](https://dx.doi.org/10.26434/chemrxiv-2025-kbbj5?rft_dat=source%3Ddrss)  
+Guillaume, Stirnemann; Zakarya, Benayad; Rolf, David  
+*Organic Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper investigates phosphoester bond formation under abiotic conditions using machine-learned interatomic potentials (MLIPs) and various enhanced sampling methods. It focuses on the H2PO4^- and HPO4^2- states, analyzing solvent effects and reaction pathways. Results reveal molecular-level insights into reactivity differences between these phosphate forms, aiding non-biological catalytic strategy development for understanding RNA origins.  
+- [More Accurate Binding Free Energy Prediction Using Protein Homology and Ligand-Based Transfer Learning](https://dx.doi.org/10.26434/chemrxiv-2025-2v8j5?rft_dat=source%3Ddrss)  
+Teresa, Head-Gordon; Justin, Purnomo; Caitlin, Kim; Kunyang, Sun; Yingze, Wang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper presents UCBbind, a hybrid framework for predicting protein-ligand binding affinities using transfer learning. It combines a similarity-based module and a deep learning prediction module, benchmarked on datasets like PDBbind v2020, HiQBind, and COVID Moonshot. UCBbind shows state-of-the-art performance, especially for similar reference pairs, and aids in binding site prediction and classification tasks.  
+- [RIGR: Resonance Invariant Graph Representation for Molecular Property Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-qgfxp-v2?rft_dat=source%3Ddrss)  
+Akshat Shirish, Zalte; Hao-Wei, Pang; Anna C., Doner; William H., Green  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper introduces RIGR, a new molecular representation that addresses resonance variance in property prediction by mapping all resonance structures to a single graph representation. RIGR, implemented with a D-MPNN architecture, shows comparable or superior performance using 60% fewer features on a large dataset of resonance-exhibiting molecules, and is available as an open-source option in Chemprop.  
+- [Simulations enabled by machine learning potentials predict sulfide solid electrolyte with covalent network structure and glassy behavior](https://dx.doi.org/10.26434/chemrxiv-2024-w0d0p-v2?rft_dat=source%3Ddrss)  
+Gavin, Winter; Nathan, Walemba; Rafael, Gómez-Bombarelli  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper employs machine learning-accelerated molecular dynamics to simulate LiGa(SeS3)2, revealing a unique glassy sulfide solid electrolyte with enhanced ionic conductivity (~10^-2 S/cm) and low bulk modulus (0.7 GPa). A phase transition occurs between 325-350 K, leading to significant structural changes, while the electrochemical stability window is predicted to be narrow at a band gap of 1.45 eV.  
+- [Dynamic Charge Distribution as a Key Driver of Catalytic Reactivity in an Artificial Metalloenzyme](https://dx.doi.org/10.26434/chemrxiv-2024-xhlgh-v2?rft_dat=source%3Ddrss)  
+Heather, Kulik; David, Kastner; Clorice, Reinhardt; Husain, Adamji; Melissa, Manetsch; Yuriy, Roman-Leshkov; Angela, Lombardi; Linda, Leone; Alessandra, Esposito; Flavia, Nastri  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper investigates the electronic environment's role in the reactivity of artificial metalloenzymes (mimochromes) using classical and ab initio molecular dynamics simulations, analyzing compounds MC6, MC6*, and MC6*a. It identifies crucial residues influencing reactivity through machine learning, revealing that charge distribution dynamics significantly affect catalytic performance, evidenced by a seven-fold decrease in activity when disrupting a key salt bridge.  
+- [Photoswitchable Wnt Pathway Agonists: Molecular Docking and Dynamics Reveal Selective Binding of cis-Isomer to Frizzled Receptors](https://dx.doi.org/10.26434/chemrxiv-2025-vf9kn?rft_dat=source%3Ddrss)  
+P.K, Hashim; Pavel, Sidorov; Said, Byadi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper explores the molecular binding of BML-284 and its photoswitchable azo derivatives to Frizzled receptors in the Wnt signaling pathway. Using molecular docking and dynamics, the study reveals that only the cis isomer activates Wnt signaling, indicating its potential as a selective agonist. Findings suggest the FZD receptor as a target for these compounds.  
+- [Mechanochemical Route to High-Entropy 3D Halide Perovskites with Photoelectrocatalytic Activity](https://dx.doi.org/10.26434/chemrxiv-2025-lbz9t?rft_dat=source%3Ddrss)  
+Francisco, Palazon; Katherine, Jejen; Gonzalo, Escobar; Zeyu, Wang; Ji-Sang, Park; Florencio, Santos; Sergio, Marras; Mirko, Prato; Giorgio, Divitini; Enrique, Ortí; Joaquín, Calbo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper presents a solvent-free mechanochemical synthesis method for high-entropy 3D halide perovskites, addressing previous synthetic challenges. It details the resulting structural characteristics and non-linear optical properties, including full visible-range light absorption. Alongside theoretical calculations, these materials exhibit photocatalytic activity in electrochemical testing for oxygen evolution, demonstrating their potential applications.  
+- [Quantum Dynamics Simulations Reveal Ultrafast and Coherent Charge Transfer in the Lhca4 antenna of Photosystem I](https://dx.doi.org/10.26434/chemrxiv-2025-3mpnq?rft_dat=source%3Ddrss)  
+Lorenzo, Cupellini; Piermarco, Saraceno; Fabrizio, Santoro  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper investigates ultrafast coherent charge transfer in the Lhca4 antenna of Photosystem I using ML-MCTDH quantum dynamics simulations and first-principles Hamiltonians. The results show a ~50 fs population transfer influenced by the protein environment, revealing an adiabatic, coherent mechanism towards a mixed exciton-charge transfer state with bright emission potential.  
+- [Re-Organization of Water at Aqueous Aluminum Chloride (AlCl3) Interfaces: Vibrational Sum Frequency Generation and Molecular Dynamic Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-vk6rd-v2?rft_dat=source%3Ddrss)  
+Biswajit, Biswas; Mohammadhasan, Dinpajooh; Gwendolyn, Nieto; Narendra , Adhikari; Gregory, Schenter; Shawn, Kathmann; Christopher, Mundy; Heather, Allen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-26  
+&ensp;The paper investigates the behavior of Al3+ and Cl- ions in aqueous aluminum chloride (AlCl3) using vibrational sum frequency generation (SFG), Raman, infrared spectroscopies, and classical molecular dynamics (MD) simulations. It reveals significant interfacial effects and stratification with increasing concentrations. The findings suggest changes in water orientation and ion interactions, supported by spectral evidence of Al3+ hydration.
+
 ## 26 Sep 2025  
 
 - [Accurate Prediction of Drug Resistance for Intrinsically Disordered Protein Regions](https://dx.doi.org/10.26434/chemrxiv-2025-brzks?rft_dat=source%3Ddrss)  
