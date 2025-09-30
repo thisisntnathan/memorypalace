@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 30 Sep 2025  
+
+- [Badapple 20: An Empirical Predictor of Compound Promiscuity, Updated, Modernized, and Enhanced for Explainability](https://dx.doi.org/10.26434/chemrxiv-2025-xr5h2?rft_dat=source%3Ddrss)  
+Jeremy, Yang; John, Ringer; Christophe, Lambert; Steven, Bradfute; Cristian, Bologa  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents Badapple 2.0, a modernized tool for predicting compound promiscuity in drug discovery, enhancing on the original Badapple from 2012. It features a complete code rewrite, updated bioassay datasets, and improved explainability and scalability. The development was supported by an AI/ML anti-alphaviral discovery program, aiding various early-stage drug campaigns.  
+
+- [An Engineered Iron-Based MOF for siRNA Delivery Targeting Chemotherapy-Resistant Triple-Negative Breast Cancer](https://dx.doi.org/10.26434/chemrxiv-2025-3rsbr?rft_dat=source%3Ddrss)  
+Mathilde, Lepoitevin; Christian, Serre; Meng, Yu; Xin, Ma; Qiye, Xi; Fushan, Sun; Yutong, Li; Jean-Maurice, Mallet  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents a glutathione-responsive iron-based MOF (MIL-100(Fe)) functionalized with LPEI for delivering siRNA targeting drug-resistant triple-negative breast cancer (TNBC). The platform encapsulates gemcitabine and enables effective gene silencing, achieving 59.6% apoptotic cell death and 84% tumor growth inhibition in a murine model, showcasing its potential against TNBC.  
+
+- [Sustainable Synthesis of Acetylcholinesterase Reactivators: Can We Make Defense Chemistry Greener?](https://dx.doi.org/10.26434/chemrxiv-2025-gs65g?rft_dat=source%3Ddrss)  
+Denys, BONDAR  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper reviews sustainable synthesis methods for acetylcholinesterase (AChE) reactivators in the context of organophosphate poisoning. It evaluates conventional synthesis limitations and explores innovative techniques like mechanochemistry, microwave-assisted synthesis, and flow chemistry to promote greener production. The study addresses the challenge of aligning chemical defense needs with green medicinal chemistry objectives.  
+
+- [TabPFN Opens New Avenues for Small-Data Tabular Learning in Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-szk5s?rft_dat=source%3Ddrss)  
+Dongsheng, Cao; Dejun, Jiang; Woruo, Chen; Yao, Tian; Youchao, Deng  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-29  
+&ensp;The paper presents TabPFN, a transformer-based model for small-data tabular learning in drug discovery, addressing limitations of traditional GBDTs like XGBoost. Tested on various molecular datasets, TabPFN outperformed in regression tasks and maintained robustness under data scarcity and OOD shifts. It showed competitive results on QM7 but struggled with QM8, suggesting it provides a promising alternative for predictive modeling in drug discovery.  
+
+- [Understanding the Propagation Step in a Photoredox Cycloaddition Chain Reaction](https://dx.doi.org/10.26434/chemrxiv-2025-f87zc?rft_dat=source%3Ddrss)  
+John, Swierk; Annemarie, Lee; Nicole, Oo; Henry, Eaton; Cristabella , Fortna; Lisa, Fredin  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-09-30  
+&ensp;The paper investigates the photochemical chain mechanism of Ru(II)-catalyzed [4+2] Diels-Alder cycloaddition. Utilizing transient absorption spectroscopy and quantum yield measurements, it explores factors affecting chain propagation and the influence of electron upconversion on reaction efficiency. The study enhances understanding of photoredox catalysis for academic and industrial applications.  
+
+- [A Durable Metal–Organic Framework with a Hydrophobic sp3-Carbon-Rich Nanospace Constructed from Flexible Medium-Sized Ring Ligands](https://dx.doi.org/10.26434/chemrxiv-2025-w2dbg?rft_dat=source%3Ddrss)  
+Junichi, Usuba; Ryotaro, Matsuda; Yhu, Hijikata; Shinpei , Kusaka; Teppei, Takahara  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-09-30  
+&ensp;The paper presents a two-dimensional metal-organic framework (MOF) named CBoard, built using a flexible medium-sized ring ligand (dibenzocyclooctadiene). This design enhances stability and cyclic performance during guest adsorption-desorption, while its sp3-carbon-rich structure provides water resistance. CBoard effectively captures ethanol over water, indicating its potential for ethanol-water separation in dilute solutions.  
+
+- [Nickel-Catalyzed Regioselective Three Component Cyclotrimerization of Vinyl Sulfones with Terminal Aromatic Alkynes](https://dx.doi.org/10.26434/chemrxiv-2025-jznfg?rft_dat=source%3Ddrss)  
+Brian V., Popp; Stephen M., Long; Emily L. , Heller; Cody A. , Tolliver; Brian S. , Dolinar; Gregory B. , Dudley  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-09-30  
+&ensp;The paper discusses a nickel-catalyzed three-component cyclotrimerization (3CC) method for synthesizing meta-terphenyl derivatives using phenyl vinyl sulfone and terminal alkynes. The process achieves regioselectivity for the 1,3-arene substitution pattern, showcasing strong functional group tolerance and moderate to good yields. Mechanistic studies clarify the regioselectivity of the reaction.  
+
+- [A Switchable Platform for Divergent Skeletal Editing of Bicyclo[110]butanes Enabled by Monoatomic O/N Insertion](https://dx.doi.org/10.26434/chemrxiv-2025-g73tl?rft_dat=source%3Ddrss)  
+Jian, Zhang; Wei-Ping, Deng; Ling, Chen; Jun-Cheng, Jin; Hanliang, Zheng; Qi-Guo, Zheng  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-09-30  
+&ensp;This paper presents a switchable platform for skeletal editing of bicyclo[1.1.0]butanes via monoatomic O/N insertion. Four distinct molecular scaffolds are synthesized, including bioactive compounds like Esonarimod and Ralfuranone. The study highlights mechanistic insights on how leaving group positioning affects divergent outcomes, marking a significant advance in heteroatom-mediated skeletal editing strategies.  
+
+- [A Scalable Microservices Platform for Deploying Machine Learning Models in Drug Discovery and Beyond](https://dx.doi.org/10.26434/chemrxiv-2025-thhkd?rft_dat=source%3Ddrss)  
+Johannes, Kirchmair; Steffen, Hirte; Vincent-Alexander, Scholz  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-09-29  
+&ensp;The paper introduces the NERDD framework, a scalable microservices platform for deploying machine learning models in scientific fields like drug discovery. It utilizes Python and integrates technologies such as Apache Kafka and Kubernetes for robust deployment. NERDD supports chemistry-specific tasks and provides an accessible API. As an open-source solution, it promotes reproducibility and maintainability in research.  
+
+- [First Principles and Machine Learning-based Analysis of Sulfur Poisoning of High-Entropy Alloy Catalysts](https://dx.doi.org/10.26434/chemrxiv-2025-jsxvv?rft_dat=source%3Ddrss)  
+Gaurav, Deshmukh; Madison, Bird; Jeffrey, Greeley  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-09-29  
+&ensp;The paper presents a framework combining Density Functional Theory and a machine learning model (SlabGCN) to analyze sulfur poisoning in high-entropy alloy catalysts (Pt, Pd, Rh, Cu). It allows rapid screening of alloys to predict sulfur adsorption and surface energies, revealing how sulfur segregation impacts stability. An optimization workflow for discovering more sulfur-tolerant alloys is also introduced.
+
 ## 27 Sep 2025  
 
 - [Interpretable Machine Learning-based Automated HPLC/MS2 Platform](https://dx.doi.org/10.26434/chemrxiv-2025-qdpc8?rft_dat=source%3Ddrss)  
