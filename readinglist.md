@@ -12,6 +12,68 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 01 Oct 2025  
+
+- [Cavity-Based In Silico Screening and Interaction Profiling of Plant Phytochemicals Reveals Multi-Target Binding to Key Alzheimer’s Disease Proteins](https://dx.doi.org/10.26434/chemrxiv-2025-p00qn?rft_dat=source%3Ddrss)  
+Yathu Krishna , Y K; Fathima, Ali; Devananda, M P; Alfiyah , P A; Rana, N; Nofa , P H; Naishana , Najeeb  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;This study screened six phytochemicals (Withanolide A, Ginkgolide B, Epigallocatechin gallate, Huperzine A, Baicalein, and Fisetin) for their interactions with key Alzheimer's disease proteins (BACE1, γ-secretase, tau protein, AChE) using in silico methods and docking. Findings showed varying binding landscapes and multi-target potential, particularly for Epigallocatechin gallate and Withanolide A, highlighting the promise of phytochemicals in Alzheimer's treatment.  
+
+- [In Silico discovery and design of molecular glues as a new strategy for development of non-peptidic, small-molecule agonists of GLP-1 receptor](https://dx.doi.org/10.26434/chemrxiv-2025-k2gjf?rft_dat=source%3Ddrss)  
+Liang, Tang; Haiyan, Zhao  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;This paper reports the discovery of small-molecule agonists for the GLP-1 receptor using in silico methods. Virtual screening identified binding sites and candidate compounds that enhance affinity. A hybrid compound showed affinity comparable to orforglipron. The study suggests that these small molecules may act as molecular glues, potentially leading to superior GLP-1R therapies for metabolic disorders.  
+
+- [Efflux Resistance Breakers: A New Technology to Overcome Efflux-Mediated Resistance in Multidrug Resistant Bacteria](https://dx.doi.org/10.26434/chemrxiv-2025-gsw00?rft_dat=source%3Ddrss)  
+Khondaker Miraz, Rahman; Mark , Laws; Charlotte, Hind; Kazi, Nahar; Melanie, Clifford; Caleb, Marsh; Manming, Xu; Saleh, alyemni; Shozeb, Haider; Mushtaq, Hassan; Nupur, Gargate; Matthew, Wand; Mark, Sutton  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents a novel technology called "efflux-resistance breakers" (ERBs) to combat efflux-mediated resistance in multidrug-resistant bacteria. Using structural modeling, they developed ERB-modified fluoroquinolones, achieving a 512-fold MIC reduction, with lead compounds KSN-L22 and BL-7 showing effective activity against MRSA and other pathogens. In vivo testing demonstrated promising efficacy and safety profiles.  
+
+- [Beyond Prediction: Mechanistic Elucidation of Molecular Drivers for Aqueous Solubility Using Interpretable Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2025-xq8v3?rft_dat=source%3Ddrss)  
+Ali, Afshari  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents an interpretable machine learning framework for predicting aqueous solubility using a dataset of 9,982 compounds and 20 molecular descriptors. Utilizing LightGBM, the model achieved R² = 0.80 and identified LogP and TPSA as key factors affecting solubility. Interpretability analyses reveal significant mechanistic insights, enhancing guidance for medicinal chemistry toward improved solubility.  
+
+- [MTDL-GAN: De novo Design of Multi-Target Directed Ligands for Alzheimer’s Disease from Unpaired Sets of Target-Focused Chemical Library](https://dx.doi.org/10.26434/chemrxiv-2024-r7k45-v3?rft_dat=source%3Ddrss)  
+Taeyeub, Lee  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper introduces MTDL-GAN, a cycle-consistent adversarial network for designing multi-target directed ligands (MTDLs) for Alzheimer’s Disease, utilizing unpaired datasets from the ChEMBL database (69 AChE, 572 BACE1, 246 GSK3 inhibitors). Results show that generated MTDLs display superior binding affinities compared to existing clinical candidates, with 0.15% similarity to known bioactive molecules.  
+
+- [Droplet Microfluidics in the Antibiotic Discovery Pipeline: From Microbial Ecology to Resistance Mechanisms](https://dx.doi.org/10.26434/chemrxiv-2025-6lfdz-v2?rft_dat=source%3Ddrss)  
+Xiangpeng, Li; Hassan , Barakat; Makenzie , Bolton; Jingjing, Cheng  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper discusses the use of droplet microfluidics to enhance antibiotic discovery by addressing issues like low throughput and access to unculturable microbes. Key advances include high-throughput single-cell technologies, activating biosynthetic gene clusters, integrating mass spectrometry for metabolite discovery, and linking resistance genes to microbial hosts. These methods aim to combat antimicrobial resistance effectively.  
+
+- [Improving ADME Prediction with Multitask Graph Neural Networks and Assessing Explainability in Lead Optimization](https://dx.doi.org/10.26434/chemrxiv-2025-ls77r-v2?rft_dat=source%3Ddrss)  
+Takuto, Koyama; Shoma, Ito; Shigeyuki, Matsumoto; Ryosuke, Kojima; Yuji, Okamoto; Masataka, Kuroda; Hitoshi, Kawashima; Reiko, Watanabe; Tomoki, Yonezawa; Takaaki, Sumiyoshi; Kazuyoshi, Ikeda; Kenji, Mizuguchi; Hiroaki, Iwata; Yasushi, Okuno  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents a multitask graph neural network model for predicting ten ADME parameters, addressing challenges of limited data and lack of explainability in lead optimization. The model outperformed traditional methods for seven parameters. Integrated gradients were used to assess feature contributions, with results demonstrating alignment between model explanations and chemical knowledge.  
+
+- [Syndirella: Synthesis-directed fragment elaboration enables extensive binding site exploration beyond catalog compounds](https://dx.doi.org/10.26434/chemrxiv-2025-0jd39-v2?rft_dat=source%3Ddrss)  
+Kate K., Fieseler; Max, Winokan; Joseph A., Morrone; Charlotte M., Deane; Frank , von Delft; Warren, Thompson  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents Syndirella, a method for expanding compound diversity in drug discovery beyond traditional catalog limits, enabling the synthesis of hundreds to thousands of derivatives. Applied to three viral protein targets, it identified novel interactions and distinct chemical regions, yielding 13 X-ray structures from 252 compounds at an 84% cost reduction compared to standard procurement.  
+
+- [Badapple 20: An Empirical Predictor of Compound Promiscuity, Updated, Modernized, and Enhanced for Explainability](https://dx.doi.org/10.26434/chemrxiv-2025-xr5h2?rft_dat=source%3Ddrss)  
+Jeremy, Yang; John, Ringer; Christophe, Lambert; Steven, Bradfute; Cristian, Bologa  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents Badapple 2.0, an updated version of the BioAssay-Data Associative Promiscuity Pattern Learning Engine, designed to identify promiscuous compounds in drug discovery more effectively. It features a complete code rewrite, enhanced functionality, and expanded assay datasets, improving explainability and bioactivity analyses.  
+
+- [An Engineered Iron-Based MOF for siRNA Delivery Targeting Chemotherapy-Resistant Triple-Negative Breast Cancer](https://dx.doi.org/10.26434/chemrxiv-2025-3rsbr?rft_dat=source%3Ddrss)  
+Mathilde, Lepoitevin; Christian, Serre; Meng, Yu; Xin, Ma; Qiye, Xi; Fushan, Sun; Yutong, Li; Jean-Maurice, Mallet  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-09-30  
+&ensp;The paper presents an engineered iron-based MOF, MIL-100(Fe), functionalized with linear polyethyleneimine (LPEI) for delivering siRNA targeting vimentin in chemotherapy-resistant triple-negative breast cancer. The platform enhances stability and drug delivery, leading to simultaneous release of Fe ions, gemcitabine, and siVIM upon glutathione-triggered degradation, promoting synergistic chemo/gene therapy and ferroptosis.
+
 ## 30 Sep 2025  
 
 - [Badapple 20: An Empirical Predictor of Compound Promiscuity, Updated, Modernized, and Enhanced for Explainability](https://dx.doi.org/10.26434/chemrxiv-2025-xr5h2?rft_dat=source%3Ddrss)  
