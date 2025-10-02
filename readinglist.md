@@ -12,6 +12,64 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 02 Oct 2025  
+
+- [Total Synthesis of Photoswitchable Latrunculin B Enables Reversible Control of Actin Polymerization and Cell Migration](https://dx.doi.org/10.26434/chemrxiv-2025-1grsk-v2?rft_dat=source%3Ddrss)  
+Bastien, Nay; Antoine, Gamet; Ismaila, Ciss; Arthur, Courtois; Benjamin, Joyeux; Alexis M., Gautreau; St3;phane, Romero; Christophe, Le Clainche  
+*Organic Chemistry on ChemRxiv*  
+2025-10-02  
+&ensp;The paper presents a total synthesis of photoswitchable latrunculin B, enabling reversible control of actin polymerization and cell migration. The modified compound exhibited excellent photophysical properties and effectively inhibited actin filament growth in vitro and in migrating cells, demonstrating localized and photoinduced effects. Molecular docking rationalized the reversible behavior in actin dynamics.  
+- [Activation Energies Reveal Unusual Temperature Sensitivity in Mechanochemical Reactions](https://dx.doi.org/10.26434/chemrxiv-2025-lbwb9-v2?rft_dat=source%3Ddrss)  
+Sven, Gr3;tz; Carolina, Spula; Lars, Bei3;el; Christoph, Balk; Martin, Etter; Lars, Borchardt  
+*Organic Chemistry on ChemRxiv*  
+2025-10-02  
+&ensp;The paper challenges the assumption that temperature plays a minor role in mechanochemical reactions by determining activation energies (Ea) for organic reactions under various conditions. Using the Diels3;Alder reaction as a benchmark, it found significantly higher Ea values in solid state than in solution. The results indicate that mechanochemical reactions are more sensitive to temperature, particularly with liquid-assisted grinding (LAG).  
+- [Triplet nitrene-mediated photocatalytic azidation of tertiary C(sp3)–H bonds](https://dx.doi.org/10.26434/chemrxiv-2025-87kmx?rft_dat=source%3Ddrss)  
+Norihito, Arichi; Noriaki, Shimamoto; Hiroaki, Ohno  
+*Organic Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The paper presents a method for photocatalytic azidation of tertiary C(sp3)–H bonds using a triplet nitrene as a hydrogen abstractor. Generated via energy transfer from a sulfonyl azide, this method shows high selectivity for tertiary C–H bonds and is applicable to leucine-containing dipeptides, demonstrating its effectiveness in organic synthesis.  
+- [Late-Stage C(sp3)–H Functionalization of Bioactive Piperazines](https://dx.doi.org/10.26434/chemrxiv-2025-xb7h2?rft_dat=source%3Ddrss)  
+Masayuki, Wasa; Soichiro, Mori; Cunyuan, Zhao; Yuankai, Wang; Nathan, Jackson  
+*Organic Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The paper presents a late-stage C(sp3)–H functionalization strategy for piperazine-based pharmaceuticals, utilizing a photoexcited flavin analogue under blue-LED irradiation to achieve selective α- and β-C–H bond cleavage. This method allows for diverse derivatizations in mild conditions and is compatible with sensitive functionalities. Spectroscopic studies provide mechanistic insights into the reaction pathway.  
+- [Three Wrongs Can Make a Right: Concealing Antiaromaticity in π-Expanded [4n]–[4n]–[4n] Frameworks](https://dx.doi.org/10.26434/chemrxiv-2025-cjbft?rft_dat=source%3Ddrss)  
+Renana, Gershoni-Poranne; Judy I., Wu; Katarzyna , Młodzikowska-Pieńko; Muhammad Usama, Gul Khan  
+*Organic Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The paper investigates π-expanded [4n]–[4n]–[4n] frameworks, showing how they can mask antiaromaticity through computed nucleus independent chemical shifts and ring current plots. The study compares diborole-fused cyclobutadienes, pentalenes, s-indacenes, and cyclooctatetraenes with dibenzo-fused [4n+2]–[4n]–[4n+2] derivatives, highlighting their reduced paratropicity and narrow HOMO–LUMO gaps.  
+- [A Computational Framework for the Design and Development of Isoform Selective PI3Kα inhibitors as Novel Anticancer Agents](https://dx.doi.org/10.26434/chemrxiv-2025-5kh41-v2?rft_dat=source%3Ddrss)  
+Milan, Jovanović; Teodora, Djikic-Stojsic; Katarina, Nikolic  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-02  
+&ensp;The paper presents a computational framework using CADD methodologies to design isoform-selective PI3Kα inhibitors for cancer treatment. It employs molecular dynamics, ensemble docking, and 3D-QSAR studies to identify key structural features. Novel compounds, including benzoxazepine and thiazole derivatives, demonstrated selective inhibition potential, enhancing the development of targeted therapies with improved safety profiles.  
+- [MOSES: combining automated ontology construction with a multi-agent system for explainable chemical knowledge reasoning](https://dx.doi.org/10.26434/chemrxiv-2025-4nj4f?rft_dat=source%3Ddrss)  
+Linjiang, Chen; Yingkai, Sun; Feiyang, Xu; Huadong, Liang; Xianghui, Fan; Guozhu, Wan; Wenwan, Zhong; Jun, Jiang; Xin, Li  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The paper presents MOSES, a framework combining automated ontology construction and a multi-agent system for explainable chemical knowledge reasoning. Utilizing an ontology of over 10,000 classes from 52 publications in supramolecular chemistry, MOSES outperforms various LLMs on complex questions. It reveals transparent reasoning paths, but faces challenges in handling positive and negative knowledge claims.  
+- [LLM-Based AI Agents for Automated Data Extraction of Material Properties and Structural Features](https://dx.doi.org/10.26434/chemrxiv-2025-4h5k9?rft_dat=source%3Ddrss)  
+Abhishek, Tewari; Subham, Ghosh  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The paper presents a workflow utilizing a large language model (LLM) to autonomously extract thermoelectric and structural properties from around 10,000 scientific articles. It achieves high extraction accuracy (F1 ∼ 0.91) and creates a dataset of 27,822 records on thermoelectric properties. The methodology, which allows for scalable data extraction, is suitable for various functional materials beyond thermoelectrics.  
+- [The Heterogeneity Principle: Interaction Diversity as the Primary Driver of Supramolecular Stability](https://dx.doi.org/10.26434/chemrxiv-2025-h57gq?rft_dat=source%3Ddrss)  
+Prasanna, Kulkarni  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The paper introduces the "Heterogeneity Principle," asserting that supramolecular stability is chiefly influenced by interaction diversity rather than individual interaction strength. Through analysis of 2,649 molecular complexes, it reveals strong correlations between architectural diversity and local stability, offering methods for enhancing stability up to 295% by optimizing heterogeneity.  
+- [Empowering Urban Skies: Energy Storage Solutions with Batteries, Fuel Cells, and Supercapacitors for Advanced Air Mobility and Air Taxi Systems](https://dx.doi.org/10.26434/chemrxiv-2025-wcbc5?rft_dat=source%3Ddrss)  
+Ashish, Garg; Bhargav, Akkinepally; Dineshkumar, Harursampath; Jaesool, Shim  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The paper reviews energy storage technologies like batteries, supercapacitors, and fuel cells for Advanced Air Mobility (AAM) systems, highlighting their roles in urban air taxis. It emphasizes batteries' current maturity and limitations, supercapacitors' power density for transient loads, and fuel cells' potential for zero emissions. It discusses hybrid systems, integration challenges, and future directions for sustainable AAM solutions.  
+- [CACHE Challenge #3: Targeting the Nsp3 Macrodomain of SARS-CoV-2](https://dx.doi.org/10.26434/chemrxiv-2025-d1v7v?rft_dat=source%3Ddrss)  
+Dakota, Treleaven; Oleksandra, Herasymenko; Madhushika, Silva; Galen J., Correy; Abd Al-Aziz  A., Abu-Saleh; Suzanne, Ackloo; Cheryl, Arrowsmith; Fuqiang, Ban; Hartmut, Beck; Kevin P., Bishop; Hugo J., Bohórquez; Albina, Bolotokova; Marko, Breznik; Yu, Chen; Artem , Cherkasov; Wim, Dehaen; Dennis, Della Corte; Katrin, Denzinger; Kristina, Edfeldt; Darren, Fayne; Francesco, Gentile; Elisa, Gibson; Ozan, Gokdemir; Anders, Gunnarsson; Judith , Günther; Alexander, Hillisch; Laurent, Hoffer; Anders, Hogner; Jan Halborg, Jensen; Shubhangi, Kandwal; Andrea, Karlova; Irene , Chau; Aled, Edwards; John J., Irwin; Dima, Kozakov; Juyong, Lee; Soowon, Lee; Uta, Lessel; Sijie, Liu; Xuefeng, Liu; Peter, Loppnau; Jens, Meiler; Rocco, Moretti; Yurii S., Moroz; Charuvaka, Muvva; Tudor I., Oprea; Brooks, Paige; Amit, Pandit; Keunwan, Park; Gennady , Poda; Mykola V., Protopopov; Vera, Pütter; Rahul, Ravichandran; Didier, Rognan; Edina, Rosta; Yogesh, Sabnis; Thomas, Scott; Almagul, Seitova; Purshotam, Sharma; François, Sindt; Minghu, Song; Rick , Stevens; Valerij, Talagayev; Valentyna V., Tararina; Olga, Tarkhanova; Damon, Tingey; John, Trant; Alexander, Tropsha; Patrick, Walters; Jude, Wells; Yvonne, Westermaier; Gerhard , Wolber; Lars, Wortmann; Shuangjia, Zheng; James S., Fraser; Matthieu , Schapira; Rachel J, Harding; Ashley, Hutchinson; Casper, Steinmann  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-01  
+&ensp;The CACHE Challenge #3 focused on identifying novel ligands for the SARS-CoV-2 Nsp3 macrodomain. Twenty-three teams proposed 1739 candidates, with over 85% being chemically novel. Successful workflows combined machine learning with physics-based screening, revealing insights on structure-activity relationships that may aid future antiviral development. Notably, active molecules resembled ADP-ribose, showcasing effective convergence among diverse strategies.
+
 ## 01 Oct 2025  
 
 - [Cavity-Based In Silico Screening and Interaction Profiling of Plant Phytochemicals Reveals Multi-Target Binding to Key Alzheimer’s Disease Proteins](https://dx.doi.org/10.26434/chemrxiv-2025-p00qn?rft_dat=source%3Ddrss)  
