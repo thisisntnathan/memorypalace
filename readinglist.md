@@ -12,6 +12,20 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 06 Oct 2025  
+
+- [Selective Oxidation of Short-Chain Alcohols on Spinel CoFe2O4 (001) Surfaces: Mechanistic Insights from DFT](https://dx.doi.org/10.26434/chemrxiv-2025-9t7jk?rft_dat=source%3Ddrss)  
+Christof Hattig, Arjeta Rushiti  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-06  
+&ensp;The paper investigates selective oxidation of short-chain alcohols on CoFe2O4 (001) surfaces using density functional theory (DFT). It analyzes reactivity differences between A- and B-layer terminations, focusing on reactive oxygen species (ROS) and lattice oxygen. Key findings indicate that Fe-O oxyl species on the A-layer favor pathways, while B-layer is linked to lower deprotonation barriers.  
+
+- [Potassium Hydrogen Sulfate - Promoted One-Pot Synthesis of Bis(indolyl)alkanes from α-keto Carboxylic acids and Indole Derivatives: Experimental and Computational Studies](https://dx.doi.org/10.26434/chemrxiv-2025-4k8v6?rft_dat=source%3Ddrss)  
+Baby Viswambharan, Trinadh Ballanki, Anjali Devi Subramanian, Vaishnu Suresh Kumar, Mohit Garg, Pravin Chinnappa  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-05  
+&ensp;The paper presents a one-pot, metal-free method using potassium hydrogen sulfate to synthesize bis(indolyl)alkanes from α-keto carboxylic acids and indole derivatives, yielding excellent results. It also explores esterification and total synthesis of alkaloid products. Computational studies indicate strong binding affinities to EGFR, suggesting potential as anticancer agents.  
+
 ## 02 Oct 2025  
 
 - [Total Synthesis of Photoswitchable Latrunculin B Enables Reversible Control of Actin Polymerization and Cell Migration](https://dx.doi.org/10.26434/chemrxiv-2025-1grsk-v2?rft_dat=source%3Ddrss)  
