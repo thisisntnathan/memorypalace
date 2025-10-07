@@ -12,6 +12,32 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 07 Oct 2025  
+
+- [Data-centric training enables meaningful interaction learning in protein–ligand binding affinity prediction](https://dx.doi.org/10.26434/chemrxiv-2025-khbrl-v2?rft_dat=source%3Ddrss)  
+Laurent Dardenne, Matheus da Silva, Lincon Vidal, Isabella Guedes, Camila de Magalhães, Fábio Custódio  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-06  
+&ensp;The paper presents a CNN-based scoring function for predicting protein-ligand binding affinity that prioritizes data-centric training over complex architecture. It demonstrates that data augmentation via random rotation effectively reduces rotational sensitivity and enhances generalization. The model matches or outperforms state-of-the-art methods, revealing insights into model behavior through ablation studies and interpretability experiments.  
+
+- [Yeast display technology enables rapid discovery of low-nanomolar macrocyclic peptide inhibitors of human angiotensin-converting enzyme 2](https://dx.doi.org/10.26434/chemrxiv-2025-lsxkv?rft_dat=source%3Ddrss)  
+Alessandro Angelini, Zhanna Romanyuk, Giacomo Bettin, Paul Brear, Sara Linciano, Ylenia Mazzocato, Simone Bonadies, Ilaria Zanotto, Camilla Mazzucco, Gianfranco Pasut, Sara De Martin, Alessandro Scarso, Christian Heinis, Sylvia Rothenberger, Marko Hyvönen  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-06  
+&ensp;The paper presents the discovery of low-nanomolar macrocyclic peptide inhibitors of human angiotensin-converting enzyme 2 (hACE2) using yeast display technology. Screening millions of peptides led to a potent inhibitor with a KD of 16.1 nM and IC50 of 7.5 nM, showcasing a novel binding mode. This method demonstrates the potential of yeast display for therapeutic development.  
+
+- [Convergent Lead Discovery Strategies Yield Covalent and Non-covalent Inhibitors of Human UDP-Galactose-4-Epimerase](https://dx.doi.org/10.26434/chemrxiv-2025-96j43?rft_dat=source%3Ddrss)  
+Benjamin Schumann, Jacob Bush, David House, Stephane Mouilleron, Svend Kjaer, Francesca Zappacosta, Saskia Pieters, Ganka Bineva-Todd, Chloe Roustan, Simone Kunzelmann, Raveena Morar, Roksana Ogrodowicz, Louisa Penicaut, Sing Hei Lok, Andrew Purkiss, Teresa Weckwerth, Jonathan Pettinger, William Browne  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-06  
+&ensp;The paper presents a convergent workflow combining covalent and non-covalent fragment screening to discover inhibitors of human UDP-galactose-4-epimerase (GalE). The study identified a ligandable pocket yielding potent inhibitors, including a nanomolar covalent agent. Efficient methodologies allowed the identification of effective inhibitors, highlighting the potential for targeting non-cysteine residues in therapeutic applications.  
+
+- [CycloSELs – Massive Screening Platform of barcode-free macrocycle libraries enables the identification of cell-penetrating PPI inhibitors](https://dx.doi.org/10.26434/chemrxiv-2025-6brdd?rft_dat=source%3Ddrss)  
+J. Miguel Mata, Jingming Liu, Marije Havermans, Sean M. McKenna, Edith van der Nol, Ruud Delwel, Sebastian J. Pomplun  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-06  
+&ensp;The paper introduces CycloSEL, a barcode-free platform for discovering drug-like macrocycles, enabling the screening of a 16 million-member library. It utilizes affinity-based selection and mass spectrometry, successfully identifying inhibitors for the oncology target carbonic anhydrase IX and optimizing a macrocycle for WDR5 with 8 nM affinity. CycloSEL shows promise for targeting difficult intracellular proteins.  
+
 ## 06 Oct 2025  
 
 - [Selective Oxidation of Short-Chain Alcohols on Spinel CoFe2O4 (001) Surfaces: Mechanistic Insights from DFT](https://dx.doi.org/10.26434/chemrxiv-2025-9t7jk?rft_dat=source%3Ddrss)  
