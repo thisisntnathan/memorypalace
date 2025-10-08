@@ -12,6 +12,39 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 08 Oct 2025  
+
+- [Selective Binding of a Synthetic Peptoid Ligand to Cancer Stem Cells in Prostate Cancer: Implications for Drug Resistance and Therapeutic Targeting](https://dx.doi.org/10.26434/chemrxiv-2025-4trt8?rft_dat=source%3Ddrss)  
+Jiyong Lee, Chao Long, Maria Castaneda, Breanne McElderry, Evan Chen, Ricky Zhu, Eul Hyun Suh  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-07  
+&ensp;The study investigates the use of CL-1-19-1, a synthetic peptoid ligand, to isolate prostate cancer stem cells (CSCs) from the DU145 cell line. The ligand binds a CSC-enriched population (1-B) with markers linked to drug resistance. Targeting FOXC2 reduced 1-B cell viability and enhanced docetaxel effects, suggesting a new treatment strategy against CSC-related resistance.  
+- [Bioorthogonal gold-catalyzed carbonyl release and its adaptation for prodrug therapy using multivalent lectin-directed artificial metalloenzymes](https://dx.doi.org/10.26434/chemrxiv-2025-8zx0r?rft_dat=source%3Ddrss)  
+Kenward Vong, Jing Huang, Yiling Liu, Yufei Li, Jianghui Du, Xiao Han  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-07  
+&ensp;The paper presents a strategy for cancer-targeted prodrug therapy using multivalent lectin-directed artificial metalloenzymes (ArMs). It utilizes a Halotag-PduU-ACG lectin protein coupled with a gold catalyst for selective binding to cancer cells. The propargylbenzoxime (PBO) group was activated via gold-catalyzed hydroamination, releasing carbonyls. Cell assays validated the prodrug's effectiveness with HtPA-based ArMs.  
+- [A Permanently Porous Chalcogen-Bonded Organic Framework with an Unprecedented Ensemble of Adsorption, Assembly, Dynamics, and Electronic Properties](https://dx.doi.org/10.26434/chemrxiv-2025-wxkq0?rft_dat=source%3Ddrss)  
+Hannah R. Martin, Michael P. Moghadasnia, Brian J. Eckstein, Arijit Halder, Parker S. Brodale, Pierre Le Magueres, Patrick W. V. Butler, Katherine A. Forrest, Logan Ritter, Ryan A. Klein, Huyn June Moon, Cheng Li, Scott E. Massimi, Yongqiang Cheng, Christopher H. Hendon, Graeme M. Day, Brian Space, Craig M. Brown, C. Michael McGuirk  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-07  
+&ensp;The paper presents a new chalcogen-bonded organic framework (ChOF) made through noncovalent chalcogen bonding (Te···N contacts). Empirical and computational studies showcase its unique gas adsorption, structural healing, lattice dynamics, and electronic properties. This work highlights chalcogen bonding as a novel approach in material design, offering unprecedented functionality and attributes in permanently porous frameworks.  
+- [First Enantioselective Chalcogen Bonding Catalysis Controlled Solely by σ-Hole Interactions](https://dx.doi.org/10.26434/chemrxiv-2025-k0j5z?rft_dat=source%3Ddrss)  
+Tomáš Hodík, Pranav Kumar  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-07  
+&ensp;The paper presents the first instance of enantioselective organocatalysis using chalcogen bonding, specifically focusing on σ-hole interactions. A new class of chiral chalcogen-bond donors was developed for the asymmetric aza-Henry reaction, achieving up to 99:1 enantioselectivity. The study confirms σ-hole interactions' strength and significance in substrate binding, marking a novel approach in asymmetric synthesis.  
+- [Machine learning photodynamics reveal competing inversion paths of methylated cyclooctatetrathiophene](https://dx.doi.org/10.26434/chemrxiv-2025-5514n?rft_dat=source%3Ddrss)  
+Christian Salguero, Steven Lopez  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-07  
+&ensp;The paper investigates the stereochemical inversion of methylated cyclooctatetrathiophene (MeCOTh) using machine-learning nonadiabatic molecular dynamics. Key findings include two inversion pathways identified in simulations: a dominant "crown" structure (62% of trajectories) and a planar geometry (8%). Excited-state Baird aromaticity influences the mechanism, but closed-shell repulsions primarily drive the inversion process.  
+- [Kinetic Stabilization of [n]Cumulenes by Endgroup Design](https://dx.doi.org/10.26434/chemrxiv-2025-mv767-v2?rft_dat=source%3Ddrss)  
+Rik Tykwinski, Bozheng Sun, Matthew A. Johnson, Marc H. Garner, Dominik Wendinger, Yanwen Yang, Lanting Jiang, Michael J. Ferguson  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-07  
+&ensp;The paper explores the synthesis and stability of tetraaryl[n]cumulenes, highlighting that bulkier ortho-substituents enhance stability. Notably, odd [n]cumulenes ([n]otBu, n = 5, 7, 9, 11, 13) show unique optical properties. The study compares their electronic absorption with polyynes, revealing that [n]cumulenes exhibit an additional optical state (S1) and a lower fundamental energy gap.
+
 ## 07 Oct 2025  
 
 - [Data-centric training enables meaningful interaction learning in protein–ligand binding affinity prediction](https://dx.doi.org/10.26434/chemrxiv-2025-khbrl-v2?rft_dat=source%3Ddrss)  
