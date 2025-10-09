@@ -12,6 +12,62 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 09 Oct 2025  
+
+- [Near-infrared triggered anion transport induces cancer cell death](https://dx.doi.org/10.26434/chemrxiv-2025-qtt7h?rft_dat=source%3Ddrss)  
+Matthew Langton, Ahmad Manzoor, Devereux RÍona, Angela Russel  
+*Organic Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper presents BODIPY-based anionophores activated by 730 nm near-infrared (NIR) light, addressing limitations of current photo-activated ionophores. It describes successful NIR-triggered anion transport experiments in large unilamellar vesicles and cancer cells, resulting in improved transmembrane chloride transport and significant decreases in cell viability, showcasing potential applications in photodynamic therapy for cancer.  
+
+- [End-to-end integration of Density Functional Theory simulations and Machine Learning affords broad feasibility model for Nickel metallaphotoredox Csp2-Csp3 cross-coupling reactions](https://dx.doi.org/10.26434/chemrxiv-2025-vhdhm?rft_dat=source%3Ddrss)  
+Michele Assante, Sara Pahlen, Brenda Pijper, Giulia Bergonzini, Nadja Simeth, Alexei Lapkin, Clive Green, Mikhail Kabeshov, Ole Specht  
+*Organic Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper presents a QM-ML approach for predicting the feasibility of nickel/photoredox catalysis in Csp2-Csp3 cross-coupling reactions using random forest classifiers trained on DFT-computed descriptors and cheminformatics features. The study addresses challenges due to limited experimental data, demonstrating successful predictions across four reaction subtypes, facilitating rapid synthetic methodology adoption in pharmaceuticals.  
+
+- [Beyond Quantum Coherence: Sub-Femtosecond Lifetimes Underscore Classical Origins of Selectivity in Acid-Sensing Ion Channel 1](https://dx.doi.org/10.26434/chemrxiv-2025-dc7kc?rft_dat=source%3Ddrss)  
+Louie Slocombe, Cedric Vallee, Max Winokan, Brendan Howlin, Rebecca Lewis, Jim Al-Khalili, Marco Sacchi  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper investigates ion selectivity in Acid-Sensing Ion Channels (ASICs) using molecular dynamics, density functional theory, and quantum simulations, focusing on sodium, potassium, and lithium in H2O and D2O. Findings reveal that binding energies and conformational changes dictate selectivity, with sub-femtosecond coherence lifetimes indicating classical origins of selectivity. Results inform potential therapeutic strategies for ASIC-related disorders.  
+
+- [Towards Intelligent Multimodal Holography: Enabling Real-time, Selective Chemical Imaging for Dynamic Ion Separation](https://dx.doi.org/10.26434/chemrxiv-2025-jfdhc?rft_dat=source%3Ddrss)  
+Venkateshkumar Prabhakaran, Giovanna Ricchiuti, Sarah I Allec, Maxim Ziatdinov  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper discusses a framework for intelligent multimodal holography that enhances digital off-axis holography (DOAH) with machine learning for real-time, selective chemical imaging. It addresses previous limitations in chemical specificity, utilizing data fusion and adaptive acquisition for improved imaging of ion separation. The framework aims to advance applications in energy systems and water purification.  
+
+- [GRIPHIN: Grids of Pharmacophore Interaction Fields for Affinity Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-6vtks?rft_dat=source%3Ddrss)  
+Daniel Rose, Thomas Seidel, Thierry Langer  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper introduces GRIPHIN, a hybrid framework combining pharmacophoric maps and graph representations for predicting binding affinity in protein-ligand interactions. It leverages interpretable interaction fields and achieves competitive performance with existing models while enhancing interpretability. This approach illustrates the effectiveness of pharmacophoric representations in structure-based drug discovery.  
+
+- [Accurate Machine Learning Predictions of Magnetization Barriers and Relaxation Times in Dnh (n = 4–6) Dy(III) Single-Molecule Magnets](https://dx.doi.org/10.26434/chemrxiv-2025-h913v?rft_dat=source%3Ddrss)  
+Gopalan Rajaraman, Rajanikanta Rana  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper presents a machine learning framework to predict magnetization barriers and relaxation times in Dy(III) single-molecule magnets (SMMs) with Dnh symmetry (n=4–6). It addresses the challenge of correlating geometry with magnetic properties without costly computational methods, thus facilitating practical applications in quantum computing and information storage.  
+
+- [Ionic liquids as anti-bacterial and drug delivery agent: How cation amphiphilic structure controls morphology changes in lipid bilayers and penetration mechanism](https://dx.doi.org/10.26434/chemrxiv-2025-90l5s?rft_dat=source%3Ddrss)  
+Kalil Bernardino, Asdrubal Lozada-Blanco, Ludmila Baldan do Rosário, Leticia Rafaella Dias, Andrea Paravani da Costa  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper investigates how the cation amphiphilic structure of ionic liquids affects their ability to penetrate lipid bilayers for antibacterial and drug delivery applications. Using coarse-grained molecular dynamics simulations, the study analyzed eight ionic liquids based on 1,3-dialkyl-imidazolium cations interacting with DPPC bilayers from various concentrations. Results emphasize the importance of molecular structure in membrane interactions.  
+
+- [Expanding the paradigm of glycopeptide antibiotic recognition through molecular dynamics simulations](https://dx.doi.org/10.26434/chemrxiv-2025-88vtl?rft_dat=source%3Ddrss)  
+Kirklin McWhorter, Benjamin Dratch, Brandon Colella, Katherine Davis  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper explores glycopeptide antibiotics' (GPAs) recognition mechanisms using molecular dynamics simulations and free-energy analysis. It investigates how variations in scaffold, glycosylation, and functional groups affect GPA interactions with peptidoglycan and wall teichoic acid (PSII). Results indicate that steric preorganization, electrostatics, and binding site solvation play crucial roles in GPA specificity beyond typical hydrogen bonding.  
+
+- [Concerted Proton-Electron Transfer via Vibration Correlation Function Approach with Effective Anharmonicity: Beyond Classical Approximation with Duschinsky Effects](https://dx.doi.org/10.26434/chemrxiv-2025-nvflq?rft_dat=source%3Ddrss)  
+Takeshi Yanai, Tsubasa Iino, Shion Sendo  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-08  
+&ensp;The paper introduces the vibration correlation function with effective anharmonicity (VCF-H) method to model concerted proton-coupled electron transfer (CPET) reactions, addressing challenges posed by multiple quantum mechanical factors. It systematically incorporates multidimensional vibronic coupling and Duschinsky transformations, thereby enhancing the computational analysis of CPET kinetics and potential energy surfaces.
+
 ## 08 Oct 2025  
 
 - [Selective Binding of a Synthetic Peptoid Ligand to Cancer Stem Cells in Prostate Cancer: Implications for Drug Resistance and Therapeutic Targeting](https://dx.doi.org/10.26434/chemrxiv-2025-4trt8?rft_dat=source%3Ddrss)  
