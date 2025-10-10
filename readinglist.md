@@ -12,6 +12,81 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 10 Oct 2025  
+
+- [Organocatalyst-Controlled Stereoselective Head-to-Tail Macrocyclizations](https://dx.doi.org/10.26434/chemrxiv-2025-m78z8?rft_dat=source%3Ddrss)  
+Helma, Wennemers; Jonas Wolfgang, Rackl; Linus Benedikt, Boll  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a method for synthesizing chiral macrocycles through organocatalyst-controlled stereoselective head-to-tail macrocyclization. Utilizing a bifunctional peptide catalyst, the approach allows for precise control over stereochemistry, yielding diverse 12–18-membered lactones and lactams from achiral precursors. The method effectively dictates stereochemical outcomes, exemplified by the synthesis of the natural product Robotnikinin.  
+
+- [Dual-Role Iron Species in Photoelectrocatalytic Radical Trifluoromethylation with Trifluoroacetates](https://dx.doi.org/10.26434/chemrxiv-2025-qxvz3?rft_dat=source%3Ddrss)  
+Francisco, Juli4-Hern4ndez; Sara, Fern0ndez-Garc4a; Sara, Cuadros; Irene, Bosque; Jose C, Gonzalez-Gomez  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a novel photoelectrocatalytic method for trifluoromethylation using trifluoroacetates and multifunctional iron species without stoichiometric oxidants. The approach, leveraging iron's dual roles, demonstrates broad substrate applicability, including challenging compounds. Results indicate an efficient, mild, and sustainable strategy for late-stage pharmaceutical functionalization, contributing to advancements in drug discovery.  
+
+- [Total synthesis of the spirocyclic bis-indole alkaloid owerreine via a [4+2] annulation](https://dx.doi.org/10.26434/chemrxiv-2025-2ctht?rft_dat=source%3Ddrss)  
+Guillaume, Vincent; Elisa , Coll; Cyrille, Kouklovsky; Laurent, Evanno  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents the total synthesis of the spirocyclic bis-indole alkaloid owerreine, created from two deoxoapo-dine units. Key methods include an Andrade0s domino reaction and [4+2] annulation using an enamine precursor. The synthesis utilizes a chiral indolyl-N-sulfinylimine and Eschenmoser salt, leading to successful formation of owerreine.  
+
+- [SCF3-Alkenes Unlocked: A Gateway via Cu(I)-Catalyzed Stereocontrolled Hiyama Cross-Coupling](https://dx.doi.org/10.26434/chemrxiv-2025-7s6lf?rft_dat=source%3Ddrss)  
+olivier, riant; Logan, Salamone; Xavier, Vanderbiest  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a Cu(I)-catalyzed Hiyama cross-coupling method for synthesizing (E)-, (Z)-, and (1,1’)-disubstituted SCF-alkenes. The approach offers broad functional group tolerance and handles complex substrates effectively, addressing previous limitations in selectivity. Mechanistic insights indicate a two-electron pathway with a hypervalent silicon intermediate.  
+
+- [Sulfonyl-tuned amino DASAs for targeted photophysical and photoswitching control](https://dx.doi.org/10.26434/chemrxiv-2025-w75zj?rft_dat=source%3Ddrss)  
+Elias, Picazo; Alexander, Karr; Hye Joon, Lee; A. Talim G., Khan; Chloe A., Ramsperger; Cesar A., Reyes; Kelly, Biv  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper explores sulfonyl-substituted amino donor068;–acceptor Stenhouse adducts (DASAs) for enhanced photophysical properties and photoswitching control. Using UV-vis and low-temperature NMR spectroscopy, the study demonstrates selective switching between acyclic isomers. Results indicate improved design predictability and stability under irradiation, paving the way for applications in responsive materials and soft robotics.  
+
+- [Self-Stirring Drives Solid-State Suzuki–Miyaura Reaction with Real-Time Visualization](https://dx.doi.org/10.26434/chemrxiv-2025-rpxmc?rft_dat=source%3Ddrss)  
+Yoichi M. A., Yamada; Bo08ko, Vrbica; Zhenzhong, Zhang; Abhijit, Sen; Aya, Ohno; Daishi, Inoue; Daisuke, Hashizume; Nobutaka, Maeda; Tomoya, Fukui; Takanori, Fukushima  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a self-stirring polymeric palladium-catalyzed Suzuki–Miyaura reaction that enhances solid-state cross-coupling efficiency. Using heat-induced convection, it achieved yields up to 93% with low Pd loadings (500 mol ppm). Real-time visualization highlighted interactions among components, facilitating the formation of reactive boronate intermediates critical for product synthesis.  
+
+- [HCl as a bifunctional catalyst for the efficient construction of bioactive 2,7-dioxabicyclo[321]octane scaffold](https://dx.doi.org/10.26434/chemrxiv-2025-rqk0t?rft_dat=source%3Ddrss)  
+Dengke, Ma; Chengyan, Xie; Jun, Tan; Jiyi , Zhang; Yifei, Zhang; Mingyang, Xu; Haoran, Zhu; Yueyue, Fan; Yuji, Wang  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a hydrochloric acid (HCl)-catalyzed method for synthesizing the 2,7-dioxabicyclo[3.2.1]octane scaffold from γ-hydroxy enones, demonstrating HCl's dual role in catalysis. Mechanistic studies and stability tests were conducted. The resulting compound 3da shows potential anti-proliferative activity against 4T1 cells with an IC50 of 35.15 ± 0.78 µM.  
+
+- [Sodium Dispersion-Mediated Rapid Reductive N–O Bond Cleavage of Weinreb Amides for N-Methylamide Synthesis](https://dx.doi.org/10.26434/chemrxiv-2025-7xnpk?rft_dat=source%3Ddrss)  
+Shunsuke, Ijita; Tetsuya, Satoh; Bubwoong, Kang  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a rapid method for synthesizing N-methylamides via sodium dispersion-mediated N–O bond cleavage of Weinreb amides, achieving results in just 5 minutes at room temperature. The process, using THF as solvent, is noted for its speed, sustainability, and simplicity, allowing for easy removal of byproducts without column purification.  
+
+- [N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Adducts as a Platform for Highly Modular Redox-Active Organic Materials](https://dx.doi.org/10.26434/chemrxiv-2025-x8zvr?rft_dat=source%3Ddrss)  
+Jessica, Lamb; Le Dung, Pham; Rolando, Calder5n-Oliver; Anthony, Schlimgen  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a new framework for redox-active organic materials (ROMs) using N-Heterocyclic carbene-carbodiimide (NHC-CDI) adducts, synthesizing six variants that exhibit two reversible oxidations. The best-performing adduct showed a theoretical capacity of 95 mAh g−1 and maintained stability over ten cycles. The approach enhances solubility and tunability, representing progress in energy storage alternatives.  
+
+- [Selectivity for Exhaustive Cross-Coupling of Dihaloarenes is Affected by the Interplay Between Halide Byproduct, Solvent, and Ligand](https://dx.doi.org/10.26434/chemrxiv-2025-kzb89?rft_dat=source%3Ddrss)  
+Sharon, Neufeldt; Nathaniel, Larson; Matthew, Sandin  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;This paper investigates how selectivity in cross-couplings of dihaloarenes is influenced by byproduct, solvent, and ligand. The study finds that bromide anions in polar oxygen-containing solvents enhance displacement of Pd0, leading to lower diarylation rates for dibromoarenes, contrary to expectations. The research reveals that solvent polarity significantly affects product selectivity, especially in THF.  
+
+- [White-light powered autonomous molecular ratchet drives PdII capsules out of equilibrium](https://dx.doi.org/10.26434/chemrxiv-2025-ck3gw?rft_dat=source%3Ddrss)  
+Larissa K. S., von Krbek; Lidón, Pruñonosa Lara; Benedikt, Bädorf; Maximilian J., Notheis; Gregor, Schnakenburg; Stefan, Grimme  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents PdII coordination capsules utilizing a photoswitch for autonomous operation in out-of-equilibrium states. It achieves this through UV-light-induced transformation of structures, which revert back under visible light. The study reveals an information ratchet mechanism that allows continuous light exposure to maintain non-equilibrium. This work highlights the potential of light-driven processes in nanosystems.  
+
+- [Stereodivergent synthesis of functionalized perhydropyrrolo[1,2-b]isoxazoles based on [3+2[-cycloaddition of DACs and isoxazolines](https://dx.doi.org/10.26434/chemrxiv-2025-9mgc4?rft_dat=source%3Ddrss)  
+Maxim, Novikov; Konstantin, Potapov; Yaroslav, Kozmenko; Pavel, Solyev; Alexander, Volodin; Alexander, Korlyukov; Roman, Novikov; Yury, Tomilov  
+*Organic Chemistry on ChemRxiv*  
+2025-10-09  
+&ensp;The paper presents a stereodivergent synthesis of functionalized perhydropyrrolo[1,2-b]isoxazoles via Lewis acid-catalyzed [3+2]-cycloaddition of donor-acceptor cyclopropanes and isoxazolines. Using Sn(OTf)2 and Sc(OTf)3 yielded exclusive cis- and trans-stereoselectivity, respectively. The study also explores bicyclo[1.1.0]butanes to create a promising bioisosteric replacement for pyrrole and pyrrolidine.  
+
+
 ## 09 Oct 2025  
 
 - [Near-infrared triggered anion transport induces cancer cell death](https://dx.doi.org/10.26434/chemrxiv-2025-qtt7h?rft_dat=source%3Ddrss)  
