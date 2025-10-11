@@ -12,6 +12,39 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 11 Oct 2025  
+
+- [Toward Chemical Accuracy in Biomolecular Simulations through Data-Driven Many-Body Potentials: II Polyalanine in Water](https://dx.doi.org/10.26434/chemrxiv-2025-j6cwv-v2?rft_dat=source%3Ddrss)  
+Francesco Paesani, Ruihan Zhou  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-10  
+&ensp;The paper presents an enhanced many-body potential energy function (MB-nrg) for simulating polyalanine in water, integrating machine-learned terms with physics-based expressions. It utilizes DLPNO-CCSD(T) reference data to assess interaction energies and hydration properties, demonstrating successful adaptation from gas-phase to aqueous environments, thus advancing chemical accuracy in biomolecular simulations.  
+- [Is MRSF-TDDFT Suitable for Cyclobutanone Dynamics? The Role of Higher Energy States in Surface Hopping Simulations](https://dx.doi.org/10.26434/chemrxiv-2025-j2rv7-v2?rft_dat=source%3Ddrss)  
+Rachel Crespo-Otero, Marcus Brady  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-10  
+&ensp;The paper investigates the suitability of mixed-reference spin-flip (MRSF) TDDFT for modeling cyclobutanone dynamics using surface hopping simulations on data from a 200 nm laser pulse. The study identifies key decay pathways, especially through S2/S1 conical intersections, and emphasizes the need for including higher energy states. Results highlight sensitivity to functional selection and geometry variations in conical intersections, suggesting further validation is needed.  
+- [Ab initio insights into support-induced sulfur resistance of Ni-based reforming catalysts](https://dx.doi.org/10.26434/chemrxiv-2025-fgv2m?rft_dat=source%3Ddrss)  
+Amit Chaudhari, Pavel Stishenko, Akash Hiregange, Christopher Hawkins, Misbah Sarwar, Stephen Poulston, Andrew Logsdail  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-10  
+&ensp;The paper explores sulfur resistance in Ni-based catalysts for hydrogen production, utilizing a combination of computational methods (GCMC, DFT, machine learning) and experimental tests. It focuses on optimizing metal oxide support to enhance sulfur tolerance. Findings include thermodynamic insights and experimental validation, aiding in future catalyst design for sustainable processes.  
+- [PULSE-PySpawn: Time-Resolved Transient Absorption Simulation through Ab Initio Multiple Spawning dynamics with Explicit Pulses](https://dx.doi.org/10.26434/chemrxiv-2025-6wcxb?rft_dat=source%3Ddrss)  
+Davide Avagliano, Carlo Albani  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-10  
+&ensp;The paper presents PULSE-PySpawn, a workflow for modeling time-resolved transient absorption spectra using ab initio multiple spawning dynamics and explicit laser pulses. This method effectively monitors nuclear density evolution and reconstructs spectroscopic signals from a single set of trajectories. It was implemented in the open-source code PySpawn and successfully applied to azomethane.  
+- [Screening ASb2O6 (A = Mg, Ca, Sr, Ba, Cd) for High Performance Transparent Conducting Oxides](https://dx.doi.org/10.26434/chemrxiv-2025-39bbf?rft_dat=source%3Ddrss)  
+Romain Claes, Ke Li, Alexander G. Squires, David O. Scanlon  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-10  
+&ensp;The paper explores the ASb2O6 series (A = Mg, Ca, Sr, Ba, Cd) as potential transparent conducting oxides (TCOs) through computational screening. Notable findings include Ga-doped MgSb2O6 with a carrier concentration of ~10^17 cm−3 and Y-doped CdSb2O6 predicted to be a degenerate TCO, highlighting their applicability in enhancing optoelectronic devices.  
+- [Exploring the hydrogen evolution reaction performance on a borophene monolayer](https://dx.doi.org/10.26434/chemrxiv-2025-vtj3k?rft_dat=source%3Ddrss)  
+Axel Groß, Jing Liu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-10  
+&ensp;The study investigates the hydrogen evolution reaction (HER) performance of four borophene phases (alpha, beta12, gamma3, trigonal) using density functional theory (DFT). Results show that alpha, beta12, and gamma3 phases have excellent HER activity, but interaction with an Ag(111) substrate hampers performance. The trigonal phase displays poor HER performance. Overall, substrate interactions significantly affect catalytic efficiency.
+
 ## 10 Oct 2025  
 
 - [Organocatalyst-Controlled Stereoselective Head-to-Tail Macrocyclizations](https://dx.doi.org/10.26434/chemrxiv-2025-m78z8?rft_dat=source%3Ddrss)  
