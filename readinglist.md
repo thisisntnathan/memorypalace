@@ -12,6 +12,50 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 14 Oct 2025  
+
+- [The free energy landscape of Li- and Na-ion transport in nanoconfinement with machine learning interatomic potentials](https://dx.doi.org/10.26434/chemrxiv-2025-rt6s2?rft_dat=source%3Ddrss)  
+Sauradeep, Majumdar; Swagata , Roy; KyuJung, Jun; Miguel, Steiner; Rafael, Gómez-Bombarelli  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-14  
+&ensp;This study analyzes the transport of Li+ and Na+ ions in zeolites via molecular dynamics simulations. It identifies a ~14 kJ/mol free energy barrier for Li+ and ~11 kJ/mol for Na+, emphasizing the effects of ion coordination and chemical modifications on diffusion, thus providing a framework for the exploration of nanoporous materials.  
+
+- [Classical Machine Learning vs Quantum Machine Learning in Computational Chemistry: Hype, Hope, and Horizons](https://dx.doi.org/10.26434/chemrxiv-2025-71814?rft_dat=source%3Ddrss)  
+Samrat, Chakraborty  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-13  
+&ensp;This paper contrasts classical and quantum machine learning in computational chemistry, highlighting classical ML's current utility and limitations. It discusses potential QML advantages but reveals current hardware constraints hinder its practicality. The findings suggest QML has a future role but is presently characterized more by hype than practical benefits.  
+
+- [Phases and Architectures in Metal/Metal Oxide Systems Driven by Strong Metal-Support Interactions](https://dx.doi.org/10.26434/chemrxiv-2025-8x3hx?rft_dat=source%3Ddrss)  
+Jordi, Morales-Vidal; Zan, Lian; Thaylan Pinheiro,  Araújo; Sharon , Mitchell; Javier, Pérez-Ramírez; Núria, López  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-13  
+&ensp;This research uses density functional theory and machine learning to investigate Strong Metal-Support Interactions (SMSI) in metal/metal oxide systems. The study identifies phase diversity from alloy and oxide competition, providing insights for improving the design and architecture of SMSI catalysts.  
+
+- [Computational prediction of Y-doped Cd2Sb2O7 as a competitive Sb-based n-type Transparent Conducting Oxide](https://dx.doi.org/10.26434/chemrxiv-2025-c1r3l?rft_dat=source%3Ddrss)  
+Peter, Russell; Ke, Li; Romain, Claes; Alexander, Squires; David, Scanlon  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-13  
+&ensp;This study identifies Y-doped Cd2Sb2O7 as a new n-type transparent conducting oxide candidate, demonstrating that Y substitution creates resonant donor states which enhance mobility and conductivity while ensuring optical transparency, highlighting its potential for optoelectronic applications.  
+
+- [White-light powered autonomous molecular ratchet drives PdII capsules out of equilibrium](https://dx.doi.org/10.26434/chemrxiv-2025-ck3gw-v2?rft_dat=source%3Ddrss)  
+Larissa K. S., von Krbek; Lidón, Pruñonosa Lara; Benedikt, Bädorf; Maximilian J., Notheis; Gregor, Schnakenburg; Stefan, Grimme  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-13  
+&ensp;The paper describes PdII coordination capsules using an azobispyrazole photoswitch that autonomously operate under white light. The results show how these capsules achieve non-equilibrium behavior through a light-driven mechanism, underscoring their potential for applications in molecular machines.  
+
+- [Immersion Freezing at Topographic Active Sites: Dual-Barrier Prediction of Ice Nucleation Temperatures](https://dx.doi.org/10.26434/chemrxiv-2025-1j5tn?rft_dat=source%3Ddrss)  
+Valeria, Molinero; Ingrid, de Almeida Ribeiro; Atanu, Metya; Esteban, Gadea; Yuqing , Qiu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-13  
+&ensp;This research develops a framework for predicting ice nucleation temperatures influenced by surface topography using Classical Nucleation Theory. It reveals distinct nucleation barriers and presents the open-source tool ice-WEDGE for predicting these effects, offering insights into atmospheric ice-nucleating particles.  
+
+- [Beyond Exactness: Approximation Strategies to the Many-Body Schrödinger Equation for Modern Quantum Chemistry Applications](https://dx.doi.org/10.26434/chemrxiv-2025-jzv5j?rft_dat=source%3Ddrss)  
+Chengze, Yang  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-13  
+&ensp;This review discusses approximation strategies for solving the many-body Schrödinger equation in quantum chemistry. It examines techniques from mean-field methods to quantum Monte Carlo approaches, emphasizing their roles in making reliable predictions of molecular properties at manageable computational costs.
+
 ## 11 Oct 2025  
 
 - [Toward Chemical Accuracy in Biomolecular Simulations through Data-Driven Many-Body Potentials: II Polyalanine in Water](https://dx.doi.org/10.26434/chemrxiv-2025-j6cwv-v2?rft_dat=source%3Ddrss)  
