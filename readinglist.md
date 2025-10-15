@@ -12,6 +12,80 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 15 Oct 2025  
+
+- [Redox-Switchable Halogen Bonding in Haloanthracene Mediators Enables Efficient Electrocatalytic C–N Coupling](https://dx.doi.org/10.26434/chemrxiv-2022-sggqd-v2?rft_dat=source%3Ddrss)  
+Naoki Shida, Mahito Atobe, Atsuki Hirama, Kayo Suda, Shohei Yoshinaga, Su-Gi Chong, Azusa Kikuchi, Yusuke Ishigaki, Moto Kikuchi, Daisuke Yokogawa  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-14  
+&ensp;The paper presents redox mediators based on haloanthracenes that activate halogen bonding upon oxidation, facilitating efficient C–N coupling via electrocatalysis. Evaluations of various derivatives identified iodoanthracene 1h as the most effective, exhibiting significant catalytic performance and high yields. Computational studies reveal enhanced halogen bonding in the radical cation state, enabling efficient proton-coupled electron transfer (PCET) during catalysis.  
+
+- [Porphyrin-acene Dyads for Controlled Singlet Oxygen Generation and Depletion](https://dx.doi.org/10.26434/chemrxiv-2025-zczql-v2?rft_dat=source%3Ddrss)  
+Przemyslaw Gawel, Aleksander Gorski, Natalia Dutkiewicz, Maciej Majdecki, Barbara Golec, Ireneusz Wielgus  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-14  
+&ensp;The study presents novel bichromophoric compounds combining porphyrin and acene units for controlled singlet oxygen (1O2) generation and depletion. Through photophysical characterization and quantum-chemical calculations, the tetracene derivative was identified as the top performer. This research highlights structure-property relationships essential for optimizing 1O2 control, aiding in advanced material development for catalysis and biomedicine applications.  
+
+- [Regio- and Stereocontrolled Synthesis of a Heterocycle Fragment Collection using Palladium Catalyzed C–H Arylation](https://dx.doi.org/10.26434/chemrxiv-2025-gjwmn?rft_dat=source%3Ddrss)  
+James A Bull, Amalia-Sofia Piticari, Daniele Antermite, Harry J. Linkhorn, Natalia A. Larionova, Matthew P. Webster  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-14  
+&ensp;The paper presents a method for synthesizing diverse heterocycle fragments using aminoquinoline-directed palladium-catalyzed C–H arylation. It focuses on five- and six-membered N-heterocycles, creating 44 new fragments with favorable properties for drug discovery. A script for analyzing fragment properties is also provided, enhancing access to diverse functionalization patterns.  
+
+- [SynFrag: Synthetic Accessibility Predictor based on Fragment Assembly Generation in Drug Discovery](https://dx.doi.org/10.26434/chemrxiv-2025-33251?rft_dat=source%3Ddrss)  
+Xiang Zhang, Jia Liu, Bufan Xu, Zihan Zhang, Zifu Huang, Kaixian Chen, Dingyan Wang, Xutong Li  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-14  
+&ensp;The paper presents SynFrag, an AI model for predicting synthetic accessibility (SA) in drug discovery. It utilizes fragment assembly autoregressive generation and is pretrained on millions of unlabeled molecules. SynFrag achieves efficient predictions with high performance across diverse chemical spaces, showing effectiveness on public benchmarks and clinical drugs. Results indicate sub-second prediction speed and improved interpretability for large-scale screening.  
+
+- [Harnessing Alkaline-earth Metal Reactivity: Mechanistic Insights into Alkene and Alkyne Functionalization via Organomagnesium(II) and Organobarium(II) Catalysis](https://dx.doi.org/10.26434/chemrxiv-2025-28lb3?rft_dat=source%3Ddrss)  
+Yumiao Ma  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-14  
+&ensp;The paper explores how organomagnesium(II) and organobarium(II) catalysts facilitate alkene and alkyne functionalization through DFT analysis. It reveals two reactivity regimes: Mg(II) interacts via orbital coupling, while Ba(II) functions mainly as a nucleophile. The study identifies conditions and reactions—such as C–C and C–heteroatom coupling—leading to seven proposed catalytic blueprints, showcasing substantial mechanistic insights and selective reactivity.  
+
+- [BisBF2 pyridoins: A new platform for the design of efficient two-photon absorbers](https://dx.doi.org/10.26434/chemrxiv-2025-5m78q?rft_dat=source%3Ddrss)  
+Borys Osmialowski, Patryk Rybczyński, Manuela Grelich-Mucha, Elizaveta F. Petrusevich, Damian Plażuk, Liliana Dobrzańska, Joanna Olesiak-Bańska  
+*https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1*  
+2025-10-14  
+&ensp;The paper presents the synthesis of new quadrupolar dyes with two BF2 moieties. Photophysical studies reveal that using a conjugated spacer rather than direct donor attachment significantly enhances two-photon absorption cross-sections. Results indicate that this method is more effective for quadrupolar dyes compared to dipolar ones, impacting their utility in bio-imaging.  
+
+- [Do mutations in the Anaplastic Lymphoma Kinase affect Crizotinib's Binding Affinity?](https://dx.doi.org/10.26434/chemrxiv-2025-slmfn?rft_dat=source%3Ddrss)  
+Elvis A. F. Martis, Evans C. Coutinho  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-14  
+&ensp;The paper investigates how mutations in Anaplastic Lymphoma Kinase (ALK) affect crizotinib's binding affinity, utilizing computational methods validated by experimental data. Contrary to expectations, the study finds that mutations such as C1156Y do not significantly alter binding affinity, but affect A-loop dynamics, leading to ATP-independent activation, thereby reducing crizotinib's effectiveness as a therapeutic agent.  
+
+- [Structural Modeling of Bitter Taste Receptors Employing A Multi-Template Homology Approach for Ligand Development: The TAS2R14 Case Study Validated Against CryoEM Structures](https://dx.doi.org/10.26434/chemrxiv-2025-p321h-v2?rft_dat=source%3Ddrss)  
+John Trant, Muhammad Usman Mirza, Purshotam Sharma, Teagan Kukhta  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-14  
+&ensp;The paper presents a multi-template homology model of the bitter taste receptor TAS2R14, resolved using molecular dynamics, MD simulations, and stereochemical analyses. A library of bitter compounds was docked to evaluate ligand interactions. Results validated the model's accuracy against CryoEM structures, emphasizing the challenges in modeling low-homology GPCRs and the limitations of AlphaFold-generated models.  
+
+- [FrAncestor A Multi-Dimensional Toolkit for Fragment Library Design and Optimisation](https://dx.doi.org/10.26434/chemrxiv-2025-rz15c-v2?rft_dat=source%3Ddrss)  
+Peter E.G.F. Ibrahim, Duncan Scott, Ian H. Gilbert, Michael J. Bodkin  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-14  
+&ensp;The paper discusses FrAncestor, a toolkit for designing and optimizing fragment libraries in drug discovery. It utilizes data from various chemical databases, including GDB and ChEMBL, within a Molecular Genealogy Tree framework to analyze molecular dimensions. FrAncestor successfully constructed optimized libraries for the Drug Discovery Unit, enhancing fragment quality and diversity for screening.  
+
+- [Advancing Standard MP2 and RI-MP2 Limits on Moderate Workstations: Efficient Algorithms for Larger Molecular Systems](https://dx.doi.org/10.26434/chemrxiv-2025-lcgf0?rft_dat=source%3Ddrss)  
+Zhigang Ni, Lin Shen  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-14  
+&ensp;The paper discusses optimized algorithms for Møller–Plesset second-order perturbation theory (MP2) and resolution-of-the-identity MP2 (RI-MP2) to enhance their application on modern workstations. It introduces a fully in-core MP2 algorithm and flexible RI-MP2 methods, allowing calculations for systems exceeding 3000 and 10000 basis functions, respectively, thus expanding the feasibility of these techniques for larger molecular systems.  
+
+- [High-Conductivity Electrolytes Screened using Fragment- and Composition-Aware Deep Learning](https://dx.doi.org/10.26434/chemrxiv-2025-0jfq3?rft_dat=source%3Ddrss)  
+Rui Tan, Xiangwen Wang, Muyang Chen, Gengyi Bao, Lai Yan, Jinghe Gao, Xinhua Liu  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-14  
+&ensp;The paper presents a deep learning framework for screening high-conductivity electrolytes, addressing challenges in designing electrolyte formulations. Utilizing benchmark datasets of lithium battery electrolytes, the method integrates molecular attributes and composition variations for accurate conductivity predictions. Results show high accuracy and provide interpretable insights, aiding in data-driven electrolyte design and other material science applications.  
+
+- [The free energy landscape of Li- and Na-ion transport in nanoconfined with machine learning interatomic potentials](https://dx.doi.org/10.26434/chemrxiv-2025-rt6s2?rft_dat=source%3Ddrss)  
+Sauradeep Majumdar, Swagata Roy, KyuJung Jun, Miguel Steiner, Rafael Gómez-Bombarelli  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-14  
+&ensp;The paper investigates Li+ and Na+ ion transport in nanoconfined zeolites using molecular dynamics simulations with machine learning interatomic potentials. It finds that solvent presence lowers the free energy barrier for Li+ diffusion to ~14 kJ/mol, while Na+ diffusion, at ~11 kJ/mol, faces lower barriers. The coordination environment of the ions significantly affects these energy landscapes.
+
 ## 14 Oct 2025  
 
 - [The free energy landscape of Li- and Na-ion transport in nanoconfinement with machine learning interatomic potentials](https://dx.doi.org/10.26434/chemrxiv-2025-rt6s2?rft_dat=source%3Ddrss)  
