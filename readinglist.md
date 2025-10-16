@@ -12,6 +12,56 @@ mathjax_autoNumber: false
 Like a todo-list but for knowledge. Ideally this page is auto-updated by the curating agent every morning as it reads the arXiv feeds...  
 
 
+## 16 Oct 2025  
+
+- [DeepChem-DEL: An Open Source Framework for Reproducible DEL Modeling and Benchmarking](https://dx.doi.org/10.26434/chemrxiv-2025-f11mk?rft_dat=source%3Ddrss)  
+Riya, Singh; Aryan Amit, Barsainyan; Abhiraj Pravin, Mengade; Rida, Irfan; Bharath, Ramsundar  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The paper introduces DeepChem-DEL, an open-source framework for reproducible DNA-encoded library (DEL) modeling and benchmarking. It includes a denoising pipeline and modular workflows, evaluated using the KinDEL dataset. Results show it enhances reproducibility and scalability in DEL modeling, streamlining machine learning workflows for improved hit discovery.  
+
+- [Integrated In Silico Drug Design and QSAR Modelling of BACE1 Inhibitors for Alzheimer’s Disease Therapeutics](https://dx.doi.org/10.26434/chemrxiv-2025-mhfwq?rft_dat=source%3Ddrss)  
+ABHISHEK, S R; Shanmugha Priya, VG  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The study presents an integrated approach to identify BACE1 inhibitors for Alzheimer’s disease using in silico drug design and QSAR modelling. It screened ginsenoside analogues, identifying CHEMBL3594353 as a promising lead. QSAR models were built using a dataset of 8,057 compounds, with Support Vector Regression achieving the best performance (R² = 0.693). The results underscore key molecular determinants for therapeutic development.  
+
+- [Machine Learning Models and a Web Portal for Predicting Cytochrome P450 Activity](https://dx.doi.org/10.26434/chemrxiv-2025-5zkgc?rft_dat=source%3Ddrss)  
+Eugene, Muratov; Enes, Kelestemur; Holli-Joi, Martin; Pranav, Shah; James, Wellnitz; Xin, Xu; Alexey, Zakharov; Alexander, Tropsha  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The paper presents CYP-Pro, a computational tool for predicting Cytochrome P450 (CYP) activity, built using a curated dataset of 26,587 entries. It employs QSAR models, validated with PPV scores between 0.14 and 0.92, to differentiate between CYP inhibitors and substrates. The tool aims to enhance drug development by facilitating the identification of compounds with favorable metabolic profiles.  
+
+- [Chemical proteomics reveal the inventory of pyrroloquinoline quinone binding proteins in bacteria](https://dx.doi.org/10.26434/chemrxiv-2025-j29s0?rft_dat=source%3Ddrss)  
+Tao, Wang; Rahel, Mühlofer; Andreas S., Klein; Cathleen, Zeymer; Stephan A, Sieber  
+*Biological and Medicinal Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The paper utilizes chemical proteomics to identify new PQQ-binding proteins in bacteria, using five synthesized PQQ probes. Evaluation with E. coli and P. putida revealed distinct PQQ-binding proteins, including chaperones, and showed PQQ's capability of forming covalent adducts with lysine residues. This work enhances understanding of PQQ functions beyond enzyme catalysis.  
+
+- [Gated Quantum Resonator, Manuscript 3: Aperture–Lens Grammar, Tilt (B) Variants, and  Catalytic Quantum Microscopy  From tunneling “buzz” to prismatic steering and CQ-TEM design](https://dx.doi.org/10.26434/chemrxiv-2025-ctb1v?rft_dat=source%3Ddrss)  
+James R F, SUTTON  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The paper formalizes an optical grammar for the Gated Quantum Resonator (GQR) using methods like time evolution movies and stills. It demonstrates how modest tilts modulate tunneling dynamics and aligns with previous theoretical predictions. Notably, it proposes the Catalytic Quantum Tunneling Electron Microscope (CQ-TEM) as a practical implementation of this framework.  
+
+- [Evaluation of machine learning models for condition optimization in diverse amide coupling reactions](https://dx.doi.org/10.26434/chemrxiv-2025-s9391?rft_dat=source%3Ddrss)  
+Edward, Njoo; Abhinav Sai, Chalasani; Sourodeep, Deb; Aarav, Anand; Yuhan, Li; Robert, Downing  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The paper evaluates machine learning models for optimizing amide coupling reactions using data from the Open Reaction Database (ORD). Thirteen models, including kernel and ensemble architectures, were trained to predict reaction yields and classify coupling agents. Results showed high accuracy in classification, with molecular environment features enhancing predictivity over bulk properties. Kernel and ensemble models outperformed linear ones significantly.  
+
+- [Unveiling Electroorganic Reactions by Tracking Intermediates via Spectroelectrochemistry in a  Thin Layer Electroanalysis Microchip](https://dx.doi.org/10.26434/chemrxiv-2025-tpn8c?rft_dat=source%3Ddrss)  
+Taek Dong, Chung; Samuel Jaeho, Shin; Ji Yong, Kim; Sujeong, Park  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The paper explores using thin-layer electroanalysis microchip (TEAM) with UV–Vis spectroelectrochemistry (SEC) to monitor intermediates in organic electrosynthesis. It investigates the electrochemical azidation of alkenes, notably tracking the TEMPO–N3 charge transfer complex. This method overcomes bulk signal interference, enhancing kinetic insights and enabling rapid reagent screening with sub-microliter volumes, significantly contributing to organic electrosynthesis design.  
+
+- [Ultrafast Dynamics and Excited-State Trapping in [33]Paracyclophane](https://dx.doi.org/10.26434/chemrxiv-2025-b03q4?rft_dat=source%3Ddrss)  
+Mario, Barbatti; Muhammad Tahir, Hafeez; Rafael, Souza Mattos; Lea Maria, Ibele  
+*Theoretical and Computational Chemistry on ChemRxiv*  
+2025-10-15  
+&ensp;The paper investigates the ultrafast dynamics of [3.3]Paracyclophane using time-dependent density functional theory and nonadiabatic molecular dynamics. Simulations reveal rapid relaxation from the S3 to S1 state, leading to kinetic trapping and transformation in electronic structure. The results highlight a structural contraction and inter-ring breathing motion, providing insights into excimer formation and testing trajectory-based dynamics methods.
+
 ## 15 Oct 2025  
 
 - [Redox-Switchable Halogen Bonding in Haloanthracene Mediators Enables Efficient Electrocatalytic C–N Coupling](https://dx.doi.org/10.26434/chemrxiv-2022-sggqd-v2?rft_dat=source%3Ddrss)  
